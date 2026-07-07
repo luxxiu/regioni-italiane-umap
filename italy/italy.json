@@ -1,0 +1,2082 @@
+{
+  "type": "umap",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [12.7880859375, 41.89409955811395]
+  },
+  "properties": {
+    "name": "Italy 2022",
+    "tags": [],
+    "zoom": 6,
+    "color": "{color}",
+    "center": {
+      "lat": 41.89409955811395,
+      "lng": 12.7880859375
+    },
+    "easing": true,
+    "fields": [],
+    "miniMap": false,
+    "overlay": {
+      "url_template": "https://{s}.basemaps.cartocdn.com/rastertiles/light_nolabels/{z}/{x}/{y}.png"
+    },
+    "fillColor": "{fillColor}",
+    "showLabel": null,
+    "slideshow": {},
+    "tilelayer": {
+      "tms": false,
+      "name": "Positron",
+      "maxZoom": 18,
+      "minZoom": 0,
+      "attribution": "&copy; [[http://www.openstreetmap.org/copyright|OpenStreetMap]] contributors, &copy; [[https://carto.com/attributions|CARTO]]",
+      "url_template": "https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png"
+    },
+    "captionBar": false,
+    "popupShape": "Panel",
+    "description": "",
+    "limitBounds": {
+      "east": "28.762207",
+      "west": "-3.208008",
+      "north": "48.574790",
+      "south": "34.415973"
+    },
+    "moreControl": true,
+    "onLoadPanel": "none",
+    "zoomControl": true,
+    "captionMenus": true,
+    "embedControl": true,
+    "scaleControl": true,
+    "layerSwitcher": true,
+    "popupTemplate": "Default",
+    "searchControl": null,
+    "captionControl": null,
+    "scrollWheelZoom": true,
+    "datalayersControl": null,
+    "fullscreenControl": null,
+    "displayPopupFooter": false,
+    "popupContentTemplate": "{{{titolo_nome}|450}}\n*{nome_ufficiale}*\n\n{{{bandiera|150}}}\n\n{{{titolo_amministrazione|400}}}\n**Stato:** {stato}\n**Capoluogo:** {capoluogo}\n**Coordinate Capoluogo:** {coordinate_capoluogo}\n**Altitudine:** {altitudine_m} m\n**Presidente:** [[{presidente_wikipedia}|{presidente}]]\n{{{presidente_immagine|50}}}\n**Data Istituzione:** {data_istituzione}\n**Sito Ufficiale:** [[{sito_ufficiale}|Sito Web della Regione]]\n\n{{{titolo_territorio|400}}}\n**Superficie:** {superficie_km2} km²\n**Province:** {province}\n**Comuni:** {comuni}\n**Regioni Confinanti:** {regioni_confinanti}\n**Fuso Orario:** {fuso_orario}\n**Mappa Localizzazione:** [[{mappa_localizzazione}|Vedi Mappa]]\n\n{{{titolo_demografia|400}}}\n**Abitanti Storico:** {abitanti}\n**Nome Abitanti:** {nome_abitanti}\n**Densità:** {densita_ab_km2} ab./km²\n\n{{{titolo_popolazione_2025|400}}}\n**Totale 2025:** {popolazione_2025_totale}\n**Uomini 2025:** {popolazione_2025_uomini}\n**Donne 2025:** {popolazione_2025_donne}\n\n{{{titolo_popolazione_2026|400}}}\n**Totale 2026:** {popolazione_2026_totale}\n**Uomini 2026:** {popolazione_2026_uomini}\n**Donne 2026:** {popolazione_2026_donne}\n\n{{{titolo_grafico|400}}}\n{{{grafico_popolazione|300}}}\n\n{{{titolo_economia|400}}}\n**PIL Nominale:** {pil_nominale}\n**PIL Pro capite:** {pil_procapite}\n\n{{{titolo_info|400}}}\n**Codice ISO:** {codice_iso}\n**Codice ISTAT:** {codice_istat}\n**Patrono:** {patrono}\n**Stemma:** [[{stemma}|Vedi Stemma]]\n\n---\n[[{wikipedia}|Approfondisci su Wikipedia]]"
+  },
+  "uri": "http://umap.openstreetmap.de/en/map/regioni-italiane-2026_145466",
+  "layers": [
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "00_REG_Tutte",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/00_REG_Tutte.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "toZoom": 6
+      },
+      "rank": 0
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "01_PROV_Abruzzo",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/01_PROV_Abruzzo.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 6,
+        "toZoom": 9
+      },
+      "rank": 1
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "01_PROV_Basilicata",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/01_PROV_Basilicata.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 6,
+        "toZoom": 9
+      },
+      "rank": 2
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "01_PROV_Calabria",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/01_PROV_Calabria.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 6,
+        "toZoom": 9
+      },
+      "rank": 3
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "01_PROV_Campania",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/01_PROV_Campania.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 6,
+        "toZoom": 9
+      },
+      "rank": 4
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "01_PROV_Emilia_Romagna",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/01_PROV_Emilia_Romagna.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 6,
+        "toZoom": 9
+      },
+      "rank": 5
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "01_PROV_Friuli_Venezia_Giulia",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/01_PROV_Friuli_Venezia_Giulia.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 6,
+        "toZoom": 9
+      },
+      "rank": 6
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "01_PROV_Lazio",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/01_PROV_Lazio.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 6,
+        "toZoom": 9
+      },
+      "rank": 7
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "01_PROV_Liguria",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/01_PROV_Liguria.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 6,
+        "toZoom": 9
+      },
+      "rank": 8
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "01_PROV_Lombardia",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/01_PROV_Lombardia.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 6,
+        "toZoom": 9
+      },
+      "rank": 9
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "01_PROV_Marche",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/01_PROV_Marche.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 6,
+        "toZoom": 9
+      },
+      "rank": 10
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "01_PROV_Molise",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/01_PROV_Molise.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 6,
+        "toZoom": 9
+      },
+      "rank": 11
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "01_PROV_Piemonte",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/01_PROV_Piemonte.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 6,
+        "toZoom": 9
+      },
+      "rank": 12
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "01_PROV_Puglia",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/01_PROV_Puglia.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 6,
+        "toZoom": 9
+      },
+      "rank": 13
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "01_PROV_Sardegna",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/01_PROV_Sardegna.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 6,
+        "toZoom": 9
+      },
+      "rank": 14
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "01_PROV_Sicilia",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/01_PROV_Sicilia.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 6,
+        "toZoom": 9
+      },
+      "rank": 15
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "01_PROV_Toscana",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/01_PROV_Toscana.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 6,
+        "toZoom": 9
+      },
+      "rank": 16
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "01_PROV_Trentino_Alto_Adige",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/01_PROV_Trentino_Alto_Adige.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 6,
+        "toZoom": 9
+      },
+      "rank": 17
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "01_PROV_Umbria",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/01_PROV_Umbria.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 6,
+        "toZoom": 9
+      },
+      "rank": 18
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "01_PROV_Valle_Aosta",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/01_PROV_Valle_Aosta.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 6,
+        "toZoom": 9
+      },
+      "rank": 19
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "01_PROV_Veneto",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/01_PROV_Veneto.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 6,
+        "toZoom": 9
+      },
+      "rank": 20
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "02_COM_Abruzzo",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/02_COM_Abruzzo.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 9
+      },
+      "rank": 21
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "02_COM_Basilicata",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/02_COM_Basilicata.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 9
+      },
+      "rank": 22
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "02_COM_Calabria",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/02_COM_Calabria.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 9
+      },
+      "rank": 23
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "02_COM_Campania",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/02_COM_Campania.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 9
+      },
+      "rank": 24
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "02_COM_Emilia_Romagna",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/02_COM_Emilia_Romagna.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 9
+      },
+      "rank": 25
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "02_COM_Friuli_Venezia_Giulia",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/02_COM_Friuli_Venezia_Giulia.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 9
+      },
+      "rank": 26
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "02_COM_Lazio",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/02_COM_Lazio.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 9
+      },
+      "rank": 27
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "02_COM_Liguria",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/02_COM_Liguria.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 9
+      },
+      "rank": 28
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "02_COM_Lombardia",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/02_COM_Lombardia.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 9
+      },
+      "rank": 29
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "02_COM_Marche",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/02_COM_Marche.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 9
+      },
+      "rank": 30
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "02_COM_Molise",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/02_COM_Molise.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 9
+      },
+      "rank": 31
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "02_COM_Piemonte",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/02_COM_Piemonte.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 9
+      },
+      "rank": 32
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "02_COM_Puglia",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/02_COM_Puglia.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 9
+      },
+      "rank": 33
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "02_COM_Sardegna",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/02_COM_Sardegna.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 9
+      },
+      "rank": 34
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "02_COM_Sicilia",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/02_COM_Sicilia.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 9
+      },
+      "rank": 35
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "02_COM_Toscana",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/02_COM_Toscana.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 9
+      },
+      "rank": 36
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "02_COM_Trentino_Alto_Adige",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/02_COM_Trentino_Alto_Adige.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 9
+      },
+      "rank": 37
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "02_COM_Umbria",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/02_COM_Umbria.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 9
+      },
+      "rank": 38
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "02_COM_Valle_Aosta",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/02_COM_Valle_Aosta.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 9
+      },
+      "rank": 39
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [],
+      "properties": {
+        "name": "02_COM_Veneto",
+        "fields": [
+          {
+            "key": "cod_reg",
+            "type": "String"
+          },
+          {
+            "key": "cod_prov",
+            "type": "String"
+          },
+          {
+            "key": "cod_cm",
+            "type": "String"
+          },
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "color",
+            "type": "String"
+          },
+          {
+            "key": "fillColor",
+            "type": "String"
+          },
+          {
+            "key": "fillOpacity",
+            "type": "String"
+          }
+        ],
+        "browsable": true,
+        "inCaption": true,
+        "remoteData": {
+          "ttl": "300",
+          "url": "https://raw.githubusercontent.com/luxxiu/regioni-italiane-umap/refs/heads/main/italy/indexed/02_COM_Veneto.geojson",
+          "proxy": false,
+          "format": "geojson"
+        },
+        "displayOnLoad": true,
+        "popupTemplate": "# {name}",
+        "fromZoom": 9
+      },
+      "rank": 40
+    }
+  ]
+}
