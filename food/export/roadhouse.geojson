@@ -16,7 +16,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Ivrea",
         "branch": "Ivrea",
         "full_address": "Corso Vercelli 342, 10015 Ivrea TO",
         "addr:city": "Ivrea",
@@ -24,9 +24,7 @@
         "addr:postcode": "10015",
         "contact:phone": "+39 327 286 0859",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Ivrea\n**Indirizzo:** Corso Vercelli 342, 10015 Ivrea TO, Ivrea\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-23:00\n**Telefono:** +39 327 286 0859"
       }
     },
     {
@@ -44,7 +42,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT VIGEVANO",
         "branch": "ROADHOUSE RESTAURANT VIGEVANO",
         "full_address": "Viale Artigianato, 27029 Vigevano PV",
         "addr:city": "Vigevano",
@@ -52,9 +50,7 @@
         "addr:postcode": "27029",
         "contact:phone": "+39 0381 344664",
         "opening_hours": "Mo-Th 12:00-14:30,18:30-22:30; Fr-Sa 12:00-14:30,18:30-23:00; Su 12:00-14:30,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT VIGEVANO\n**Indirizzo:** Viale Artigianato, 27029 Vigevano PV, Vigevano\n**Orari:** Mo-Th 12:00-14:30,18:30-22:30; Fr-Sa 12:00-14:30,18:30-23:00; Su 12:00-14:30,18:30-22:30\n**Telefono:** +39 0381 344664"
       }
     },
     {
@@ -72,7 +68,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Torino Area 12",
         "branch": "Torino Area 12",
         "full_address": "Strada Altessano 12, 10151 Torino TO",
         "addr:city": "Torino",
@@ -80,9 +76,7 @@
         "addr:postcode": "10151",
         "contact:phone": "+39 380 691 9677",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr 12:00-15:00,18:30-23:00; Sa-Su 12:00-15:30,18:30-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Torino Area 12\n**Indirizzo:** Strada Altessano 12, 10151 Torino TO, Torino\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr 12:00-15:00,18:30-23:00; Sa-Su 12:00-15:30,18:30-23:00\n**Telefono:** +39 380 691 9677"
       }
     },
     {
@@ -100,7 +94,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Carpi",
         "branch": "Roadhouse Restaurant Carpi",
         "full_address": "Via delle Magliaie 5, 41012 Carpi MO",
         "addr:city": "Carpi",
@@ -108,9 +102,7 @@
         "addr:postcode": "41012",
         "contact:phone": "+39 059 642701",
         "opening_hours": "Mo-Th 12:00-14:30,18:30-22:30; Fr 12:00-14:30,18:30-23:30; Sa 12:00-14:30,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Carpi\n**Indirizzo:** Via delle Magliaie 5, 41012 Carpi MO, Carpi\n**Orari:** Mo-Th 12:00-14:30,18:30-22:30; Fr 12:00-14:30,18:30-23:30; Sa 12:00-14:30,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 059 642701"
       }
     },
     {
@@ -128,7 +120,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Pompei",
         "branch": "Pompei",
         "full_address": "Via Macello 22, 80045 Pompei NA",
         "addr:city": "Pompei",
@@ -136,9 +128,7 @@
         "addr:postcode": "80045",
         "contact:phone": "+39 320 249 5676",
         "opening_hours": "Mo-Fr 12:00-23:00; Sa-Su 12:00-24:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Pompei\n**Indirizzo:** Via Macello 22, 80045 Pompei NA, Pompei\n**Orari:** Mo-Fr 12:00-23:00; Sa-Su 12:00-24:00\n**Telefono:** +39 320 249 5676"
       }
     },
     {
@@ -156,7 +146,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Siena",
         "branch": "Roadhouse Restaurant Siena",
         "full_address": "Strada di Montalbuccio 2, 53100 Siena SI",
         "addr:city": "Siena",
@@ -164,9 +154,7 @@
         "addr:postcode": "53100",
         "contact:phone": "+39 0577 43143",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Siena\n**Indirizzo:** Strada di Montalbuccio 2, 53100 Siena SI, Siena\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 0577 43143"
       }
     },
     {
@@ -184,7 +172,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT VULCANO",
         "branch": "ROADHOUSE RESTAURANT VULCANO",
         "full_address": "Viale Italia 555, 20099 Sesto San Giovanni MI",
         "addr:city": "Sesto San Giovanni",
@@ -192,9 +180,7 @@
         "addr:postcode": "20099",
         "contact:phone": "+39 02 6604 8199",
         "opening_hours": "Mo-Fr 12:00-15:00,18:30-21:00; Sa-Su 12:00-15:30,18:30-21:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT VULCANO\n**Indirizzo:** Viale Italia 555, 20099 Sesto San Giovanni MI, Sesto San Giovanni\n**Orari:** Mo-Fr 12:00-15:00,18:30-21:00; Sa-Su 12:00-15:30,18:30-21:00\n**Telefono:** +39 02 6604 8199"
       }
     },
     {
@@ -212,7 +198,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Modena Victoria",
         "branch": "Roadhouse Restaurant Modena Victoria",
         "full_address": "Via Sergio Ramelli 101, 41122 Modena MO",
         "addr:city": "Modena",
@@ -220,9 +206,7 @@
         "addr:postcode": "41122",
         "contact:phone": "+39 059 314061",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-23:00; Fr-Su 12:00-15:00,18:30-23:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Modena Victoria\n**Indirizzo:** Via Sergio Ramelli 101, 41122 Modena MO, Modena\n**Orari:** Mo-Th 12:00-15:00,18:30-23:00; Fr-Su 12:00-15:00,18:30-23:30\n**Telefono:** +39 059 314061"
       }
     },
     {
@@ -240,7 +224,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT VOGHERA",
         "branch": "ROADHOUSE RESTAURANT VOGHERA",
         "full_address": "Via Piacenza, 27058 Voghera PV",
         "addr:city": "Voghera",
@@ -248,9 +232,7 @@
         "addr:postcode": "27058",
         "contact:phone": "+39 0383 646129",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr 12:00-15:00,18:30-23:00; Sa 12:00-15:00,19:00-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT VOGHERA\n**Indirizzo:** Via Piacenza, 27058 Voghera PV, Voghera\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr 12:00-15:00,18:30-23:00; Sa 12:00-15:00,19:00-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 0383 646129"
       }
     },
     {
@@ -268,7 +250,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT MONZA",
         "branch": "ROADHOUSE RESTAURANT MONZA",
         "full_address": "Viale Gian Battista Stucchi 20, 20900 Monza MB",
         "addr:city": "Monza",
@@ -276,9 +258,7 @@
         "addr:postcode": "20900",
         "contact:phone": "+39 039 202 0928",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:30; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT MONZA\n**Indirizzo:** Viale Gian Battista Stucchi 20, 20900 Monza MB, Monza\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:30; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 039 202 0928"
       }
     },
     {
@@ -296,7 +276,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Padova",
         "branch": "Roadhouse Restaurant Padova",
         "full_address": "Via Pietro Donà 2, 35100 Padova PD",
         "addr:city": "Padova",
@@ -304,9 +284,7 @@
         "addr:postcode": "35100",
         "contact:phone": "+39 049 780 8353",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Padova\n**Indirizzo:** Via Pietro Donà 2, 35100 Padova PD, Padova\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-22:30\n**Telefono:** +39 049 780 8353"
       }
     },
     {
@@ -324,7 +302,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Torino Lingotto",
         "branch": "Roadhouse Restaurant Torino Lingotto",
         "full_address": "Via Nizza 230, 10126 Torino TO",
         "addr:city": "Torino",
@@ -332,9 +310,7 @@
         "addr:postcode": "10126",
         "contact:phone": "+39 011 663 1188",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:00; Fr 12:00-15:00,18:30-22:30; Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Torino Lingotto\n**Indirizzo:** Via Nizza 230, 10126 Torino TO, Torino\n**Orari:** Mo-Th 12:00-15:00,18:30-22:00; Fr 12:00-15:00,18:30-22:30; Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-23:00\n**Telefono:** +39 011 663 1188"
       }
     },
     {
@@ -352,7 +328,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Torino Vinovo",
         "branch": "Roadhouse Restaurant Torino Vinovo",
         "full_address": "Via Scarrone, 10042 Nichelino TO",
         "addr:city": "Nichelino",
@@ -360,9 +336,7 @@
         "addr:postcode": "10042",
         "contact:phone": "+39 011 624358",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Torino Vinovo\n**Indirizzo:** Via Scarrone, 10042 Nichelino TO, Nichelino\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-23:00\n**Telefono:** +39 011 624358"
       }
     },
     {
@@ -380,7 +354,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Novara",
         "branch": "Roadhouse Restaurant Novara",
         "full_address": "Via Carlo Schleifer 8, 28100 Novara NO",
         "addr:city": "Novara",
@@ -388,9 +362,7 @@
         "addr:postcode": "28100",
         "contact:phone": "+39 0321 443301",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:30; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Novara\n**Indirizzo:** Via Carlo Schleifer 8, 28100 Novara NO, Novara\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:30; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 0321 443301"
       }
     },
     {
@@ -408,7 +380,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Castelletto Ticino",
         "branch": "Roadhouse Restaurant Castelletto Ticino",
         "full_address": "Via Sempione 33, 28053 Castelletto Sopra Ticino NO",
         "addr:city": "Castelletto Sopra Ticino",
@@ -416,9 +388,7 @@
         "addr:postcode": "28053",
         "contact:phone": "+39 0331 924439",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Castelletto Ticino\n**Indirizzo:** Via Sempione 33, 28053 Castelletto Sopra Ticino NO, Castelletto Sopra Ticino\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 0331 924439"
       }
     },
     {
@@ -436,7 +406,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Grosseto",
         "branch": "Roadhouse Restaurant Grosseto",
         "full_address": "Viale Europa 10, 58100 Grosseto GR",
         "addr:city": "Grosseto",
@@ -444,9 +414,7 @@
         "addr:postcode": "58100",
         "contact:phone": "+39 0564 450973",
         "opening_hours": "Mo-Th 12:00-15:00,19:00-22:30; Fr-Sa 12:00-15:00,19:00-23:00; Su 12:00-15:00,19:00-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Grosseto\n**Indirizzo:** Viale Europa 10, 58100 Grosseto GR, Grosseto\n**Orari:** Mo-Th 12:00-15:00,19:00-22:30; Fr-Sa 12:00-15:00,19:00-23:00; Su 12:00-15:00,19:00-22:30\n**Telefono:** +39 0564 450973"
       }
     },
     {
@@ -464,7 +432,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant San Giovanni Lupatoto",
         "branch": "Roadhouse Restaurant San Giovanni Lupatoto",
         "full_address": "Via Dott. F. Garofoli 205, 37057 San Giovanni Lupatoto VR",
         "addr:city": "San Giovanni Lupatoto",
@@ -472,9 +440,7 @@
         "addr:postcode": "37057",
         "contact:phone": "+39 045 877 9157",
         "opening_hours": "Mo-Th 12:00-14:30,19:00-22:00; Fr-Sa 12:00-14:30,19:00-22:30; Su 12:00-15:00,19:00-22:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant San Giovanni Lupatoto\n**Indirizzo:** Via Dott. F. Garofoli 205, 37057 San Giovanni Lupatoto VR, San Giovanni Lupatoto\n**Orari:** Mo-Th 12:00-14:30,19:00-22:00; Fr-Sa 12:00-14:30,19:00-22:30; Su 12:00-15:00,19:00-22:00\n**Telefono:** +39 045 877 9157"
       }
     },
     {
@@ -492,7 +458,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Bellinzago Novarese",
         "branch": "Roadhouse Restaurant Bellinzago Novarese",
         "full_address": "Via della Libertà 231, 28043 Bellinzago Novarese NO",
         "addr:city": "Bellinzago Novarese",
@@ -500,9 +466,7 @@
         "addr:postcode": "28043",
         "contact:phone": "+39 0321 985815",
         "opening_hours": "Mo-Sa 12:00-14:30,18:30-22:00; Su 12:00-15:00,18:30-22:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Bellinzago Novarese\n**Indirizzo:** Via della Libertà 231, 28043 Bellinzago Novarese NO, Bellinzago Novarese\n**Orari:** Mo-Sa 12:00-14:30,18:30-22:00; Su 12:00-15:00,18:30-22:00\n**Telefono:** +39 0321 985815"
       }
     },
     {
@@ -520,7 +484,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Rubiera",
         "branch": "Roadhouse Restaurant Rubiera",
         "full_address": "Via Rocco Chinnici 1/A, 42048 Rubiera RE",
         "addr:city": "Rubiera",
@@ -528,9 +492,7 @@
         "addr:postcode": "42048",
         "contact:phone": "+39 0522 626582",
         "opening_hours": "Mo-Th 12:00-14:30,18:30-22:30; Fr-Sa 12:00-14:30,18:30-23:00; Su 12:00-15:00,18:30-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Rubiera\n**Indirizzo:** Via Rocco Chinnici 1/A, 42048 Rubiera RE, Rubiera\n**Orari:** Mo-Th 12:00-14:30,18:30-22:30; Fr-Sa 12:00-14:30,18:30-23:00; Su 12:00-15:00,18:30-23:00\n**Telefono:** +39 0522 626582"
       }
     },
     {
@@ -548,7 +510,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Parma",
         "branch": "Roadhouse Restaurant Parma",
         "full_address": "Viale delle Esposizioni 3a, 43122 Parma PR",
         "addr:city": "Parma",
@@ -556,9 +518,7 @@
         "addr:postcode": "43122",
         "contact:phone": "+39 0521 273072",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-23:00; Fr-Su 12:00-15:30,18:30-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Parma\n**Indirizzo:** Viale delle Esposizioni 3a, 43122 Parma PR, Parma\n**Orari:** Mo-Th 12:00-15:00,18:30-23:00; Fr-Su 12:00-15:30,18:30-23:00\n**Telefono:** +39 0521 273072"
       }
     },
     {
@@ -576,7 +536,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Chivasso",
         "branch": "Roadhouse Restaurant Chivasso",
         "full_address": "Via Peppino Impastato 230, 10034 Chivasso TO",
         "addr:city": "Chivasso",
@@ -584,9 +544,7 @@
         "addr:postcode": "10034",
         "contact:phone": "+39 011 911 4130",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Chivasso\n**Indirizzo:** Via Peppino Impastato 230, 10034 Chivasso TO, Chivasso\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-23:00\n**Telefono:** +39 011 911 4130"
       }
     },
     {
@@ -604,7 +562,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT CREMONA",
         "branch": "ROADHOUSE RESTAURANT CREMONA",
         "full_address": "Via Santa Cristina 2, 26100 Cremona CR",
         "addr:city": "Cremona",
@@ -612,9 +570,7 @@
         "addr:postcode": "26100",
         "contact:phone": "+39 0372 432426",
         "opening_hours": "Mo 12:00-15:00,18:30-22:00; Tu-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT CREMONA\n**Indirizzo:** Via Santa Cristina 2, 26100 Cremona CR, Cremona\n**Orari:** Mo 12:00-15:00,18:30-22:00; Tu-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-23:00\n**Telefono:** +39 0372 432426"
       }
     },
     {
@@ -632,7 +588,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT ERBA",
         "branch": "ROADHOUSE RESTAURANT ERBA",
         "full_address": "Via Comana Lunga 2, 22036 Erba CO",
         "addr:city": "Erba",
@@ -640,9 +596,7 @@
         "addr:postcode": "22036",
         "contact:phone": "+39 031 610595",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT ERBA\n**Indirizzo:** Via Comana Lunga 2, 22036 Erba CO, Erba\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 031 610595"
       }
     },
     {
@@ -660,7 +614,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Bologna San Lazzaro",
         "branch": "Roadhouse Restaurant Bologna San Lazzaro",
         "full_address": "Via Caselle 103, 40068 San Lazzaro di Savena BO",
         "addr:city": "San Lazzaro di Savena",
@@ -668,9 +622,7 @@
         "addr:postcode": "40068",
         "contact:phone": "+39 051 627 1632",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Bologna San Lazzaro\n**Indirizzo:** Via Caselle 103, 40068 San Lazzaro di Savena BO, San Lazzaro di Savena\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 051 627 1632"
       }
     },
     {
@@ -688,7 +640,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Collegno",
         "branch": "Roadhouse Restaurant Collegno",
         "full_address": "Via Rocciamelone 1, 10093 Collegno TO",
         "addr:city": "Collegno",
@@ -696,9 +648,7 @@
         "addr:postcode": "10093",
         "contact:phone": "+39 011 994 7345",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr 12:00-15:00,18:30-23:00; Sa-Su 12:00-15:30,18:30-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Collegno\n**Indirizzo:** Via Rocciamelone 1, 10093 Collegno TO, Collegno\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr 12:00-15:00,18:30-23:00; Sa-Su 12:00-15:30,18:30-23:00\n**Telefono:** +39 011 994 7345"
       }
     },
     {
@@ -716,7 +666,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Catania C.C. Porte",
         "branch": "Roadhouse Restaurant Catania C.C. Porte",
         "full_address": "Via Gelso Bianco 92, 95121 Catania CT",
         "addr:city": "Catania",
@@ -724,9 +674,7 @@
         "addr:postcode": "95121",
         "contact:phone": "+39 095 572258",
         "opening_hours": "Mo-Fr 12:00-16:00,19:00-22:00; Sa-Su 12:00-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Catania C.C. Porte\n**Indirizzo:** Via Gelso Bianco 92, 95121 Catania CT, Catania\n**Orari:** Mo-Fr 12:00-16:00,19:00-22:00; Sa-Su 12:00-22:30\n**Telefono:** +39 095 572258"
       }
     },
     {
@@ -744,7 +692,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Cascina Merlata",
         "branch": "Roadhouse Restaurant Cascina Merlata",
         "full_address": "Via Triboniano, 20156 Milano MI",
         "addr:city": "Milano",
@@ -752,9 +700,7 @@
         "addr:postcode": "20156",
         "contact:phone": "+39 327 782 2317",
         "opening_hours": "Mo-Th 11:00-15:30,18:30-22:30; Fr 11:00-15:30,18:30-23:00; Sa-Su 11:30-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Cascina Merlata\n**Indirizzo:** Via Triboniano, 20156 Milano MI, Milano\n**Orari:** Mo-Th 11:00-15:30,18:30-22:30; Fr 11:00-15:30,18:30-23:00; Sa-Su 11:30-23:00\n**Telefono:** +39 327 782 2317"
       }
     },
     {
@@ -772,7 +718,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Sarzana",
         "branch": "Roadhouse Restaurant Sarzana",
         "full_address": "Via Aurelia 63, 19038 Sarzana SP",
         "addr:city": "Sarzana",
@@ -780,9 +726,7 @@
         "addr:postcode": "19038",
         "contact:phone": "+39 0187 622896",
         "opening_hours": "Mo-Th 12:00-15:00,19:00-23:00; Fr-Sa 12:00-15:00,19:00-23:30; Su 12:00-15:00,19:00-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Sarzana\n**Indirizzo:** Via Aurelia 63, 19038 Sarzana SP, Sarzana\n**Orari:** Mo-Th 12:00-15:00,19:00-23:00; Fr-Sa 12:00-15:00,19:00-23:30; Su 12:00-15:00,19:00-23:00\n**Telefono:** +39 0187 622896"
       }
     },
     {
@@ -800,7 +744,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Rovigo",
         "branch": "Roadhouse Restaurant Rovigo",
         "full_address": "Viale Porta Po 191a, 45100 Rovigo RO",
         "addr:city": "Rovigo",
@@ -808,9 +752,7 @@
         "addr:postcode": "45100",
         "contact:phone": "+39 0425 475304",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Rovigo\n**Indirizzo:** Viale Porta Po 191a, 45100 Rovigo RO, Rovigo\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 0425 475304"
       }
     },
     {
@@ -828,7 +770,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Ferrara Sud",
         "branch": "Roadhouse Restaurant Ferrara Sud",
         "full_address": "Via Bologna 391, 44124 Ferrara FE",
         "addr:city": "Ferrara",
@@ -836,9 +778,7 @@
         "addr:postcode": "44124",
         "contact:phone": "+39 0532 976200",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Ferrara Sud\n**Indirizzo:** Via Bologna 391, 44124 Ferrara FE, Ferrara\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 0532 976200"
       }
     },
     {
@@ -856,7 +796,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Senigallia",
         "branch": "Roadhouse Restaurant Senigallia",
         "full_address": "Via Arceviese 4, 60019 Senigallia AN",
         "addr:city": "Senigallia",
@@ -864,9 +804,7 @@
         "addr:postcode": "60019",
         "contact:phone": "+39 071 60614",
         "opening_hours": "Mo-Th 12:00-15:00,19:00-22:30; Fr-Sa 12:00-15:00,19:00-23:00; Su 12:00-15:00,19:00-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Senigallia\n**Indirizzo:** Via Arceviese 4, 60019 Senigallia AN, Senigallia\n**Orari:** Mo-Th 12:00-15:00,19:00-22:30; Fr-Sa 12:00-15:00,19:00-23:00; Su 12:00-15:00,19:00-22:30\n**Telefono:** +39 071 60614"
       }
     },
     {
@@ -884,7 +822,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Montecchio Maggiore",
         "branch": "Roadhouse Restaurant Montecchio Maggiore",
         "full_address": "Via Bruschi, 36075 Montecchio Maggiore VI",
         "addr:city": "Montecchio Maggiore",
@@ -892,9 +830,7 @@
         "addr:postcode": "36075",
         "contact:phone": "+39 0444 694655",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Montecchio Maggiore\n**Indirizzo:** Via Bruschi, 36075 Montecchio Maggiore VI, Montecchio Maggiore\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-22:30\n**Telefono:** +39 0444 694655"
       }
     },
     {
@@ -912,7 +848,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Bologna Stalingrado",
         "branch": "Roadhouse Restaurant Bologna Stalingrado",
         "full_address": "Via Stalingrado 40, 40100 Bologna BO",
         "addr:city": "Bologna",
@@ -920,9 +856,7 @@
         "addr:postcode": "40100",
         "contact:phone": "+39 051 631 1705",
         "opening_hours": "Mo-Su 12:00-15:00,18:30-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Bologna Stalingrado\n**Indirizzo:** Via Stalingrado 40, 40100 Bologna BO, Bologna\n**Orari:** Mo-Su 12:00-15:00,18:30-23:00\n**Telefono:** +39 051 631 1705"
       }
     },
     {
@@ -940,7 +874,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Alessandria",
         "branch": "Roadhouse Restaurant Alessandria",
         "full_address": "Via Marengo, 15121 Alessandria AL",
         "addr:city": "Alessandria",
@@ -948,9 +882,7 @@
         "addr:postcode": "15121",
         "contact:phone": "+39 0131 43750",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Alessandria\n**Indirizzo:** Via Marengo, 15121 Alessandria AL, Alessandria\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-23:00\n**Telefono:** +39 0131 43750"
       }
     },
     {
@@ -976,9 +908,7 @@
         "addr:postcode": "20871",
         "contact:phone": "+39 039 667688",
         "opening_hours": "Mo-Su 12:00-14:30,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant\n**Indirizzo:** Via Torri Bianche 16, 20871 Torri Bianche MB, Torri Bianche\n**Orari:** Mo-Su 12:00-14:30,18:30-22:30\n**Telefono:** +39 039 667688"
       }
     },
     {
@@ -996,7 +926,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Settimo Torinese",
         "branch": "Roadhouse Restaurant Settimo Torinese",
         "full_address": "Via Pietro Mascagni 11, 10036 Settimo Torinese TO",
         "addr:city": "Settimo Torinese",
@@ -1004,9 +934,7 @@
         "addr:postcode": "10036",
         "contact:phone": "+39 011 897 3040",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr 12:00-15:00,18:30-23:00; Sa 12:00-15:30,18:30-23:00; Su 11:30-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Settimo Torinese\n**Indirizzo:** Via Pietro Mascagni 11, 10036 Settimo Torinese TO, Settimo Torinese\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr 12:00-15:00,18:30-23:00; Sa 12:00-15:30,18:30-23:00; Su 11:30-23:00\n**Telefono:** +39 011 897 3040"
       }
     },
     {
@@ -1024,7 +952,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Torino Moncalieri",
         "branch": "Roadhouse Restaurant Torino Moncalieri",
         "full_address": "Via Fortunato Postiglione 1, 10024 Moncalieri TO",
         "addr:city": "Moncalieri",
@@ -1032,9 +960,7 @@
         "addr:postcode": "10024",
         "contact:phone": "+39 011 647 1909",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-23:00; Fr-Sa 12:00-15:00,18:30-23:30; Su 12:00-15:30,18:30-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Torino Moncalieri\n**Indirizzo:** Via Fortunato Postiglione 1, 10024 Moncalieri TO, Moncalieri\n**Orari:** Mo-Th 12:00-15:00,18:30-23:00; Fr-Sa 12:00-15:00,18:30-23:30; Su 12:00-15:30,18:30-23:00\n**Telefono:** +39 011 647 1909"
       }
     },
     {
@@ -1052,7 +978,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Civitanova Marche",
         "branch": "Roadhouse Restaurant Civitanova Marche",
         "full_address": "Via San Costantino 98, 62012 Civitanova Marche MC",
         "addr:city": "Civitanova Marche",
@@ -1060,9 +986,7 @@
         "addr:postcode": "62012",
         "contact:phone": "+39 0733 811510",
         "opening_hours": "Mo-Th 12:00-15:00,19:00-22:00; Fr-Su 12:00-15:00,19:00-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Civitanova Marche\n**Indirizzo:** Via San Costantino 98, 62012 Civitanova Marche MC, Civitanova Marche\n**Orari:** Mo-Th 12:00-15:00,19:00-22:00; Fr-Su 12:00-15:00,19:00-23:00\n**Telefono:** +39 0733 811510"
       }
     },
     {
@@ -1080,7 +1004,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Trento",
         "branch": "Roadhouse Restaurant Trento",
         "full_address": "Via del Brennero 145, 38122 Trento TN",
         "addr:city": "Trento",
@@ -1088,9 +1012,7 @@
         "addr:postcode": "38122",
         "contact:phone": "+39 0461 825493",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Trento\n**Indirizzo:** Via del Brennero 145, 38122 Trento TN, Trento\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 0461 825493"
       }
     },
     {
@@ -1108,7 +1030,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Meatery Vicolungo",
         "branch": "Roadhouse Meatery Vicolungo",
         "full_address": "Piazza Santa Caterina 1, 28060 Vicolungo NO",
         "addr:city": "Vicolungo",
@@ -1116,9 +1038,7 @@
         "addr:postcode": "28060",
         "contact:phone": "+39 0321 411528",
         "opening_hours": "Mo-Th 11:30-15:00,18:30-21:00; Fr 11:30-15:00,18:30-22:00; Sa-Su 11:30-21:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Meatery Vicolungo\n**Indirizzo:** Piazza Santa Caterina 1, 28060 Vicolungo NO, Vicolungo\n**Orari:** Mo-Th 11:30-15:00,18:30-21:00; Fr 11:30-15:00,18:30-22:00; Sa-Su 11:30-21:00\n**Telefono:** +39 0321 411528"
       }
     },
     {
@@ -1136,7 +1056,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Treviso Sud",
         "branch": "Roadhouse Restaurant Treviso Sud",
         "full_address": "Via Giovanni Sartorelli 4, 31057 Silea TV",
         "addr:city": "Silea",
@@ -1144,9 +1064,7 @@
         "addr:postcode": "31057",
         "contact:phone": "+39 0422 363181",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Treviso Sud\n**Indirizzo:** Via Giovanni Sartorelli 4, 31057 Silea TV, Silea\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-22:30\n**Telefono:** +39 0422 363181"
       }
     },
     {
@@ -1164,7 +1082,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Aosta",
         "branch": "Roadhouse Restaurant Aosta",
         "full_address": "Località Grand Chemin 156, 11020 Saint-Christophe AO",
         "addr:city": "Saint-Christophe",
@@ -1172,9 +1090,7 @@
         "addr:postcode": "11020",
         "contact:phone": "+39 0165 548654",
         "opening_hours": "Mo-Th 12:00-15:00,19:00-22:00; Fr-Sa 12:00-15:00,19:00-23:00; Su 12:00-15:00,19:00-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Aosta\n**Indirizzo:** Località Grand Chemin 156, 11020 Saint-Christophe AO, Saint-Christophe\n**Orari:** Mo-Th 12:00-15:00,19:00-22:00; Fr-Sa 12:00-15:00,19:00-23:00; Su 12:00-15:00,19:00-22:30\n**Telefono:** +39 0165 548654"
       }
     },
     {
@@ -1192,7 +1108,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Treviso",
         "branch": "Roadhouse Restaurant Treviso",
         "full_address": "Viale della Repubblica 1, 31100 Treviso TV",
         "addr:city": "Treviso",
@@ -1200,9 +1116,7 @@
         "addr:postcode": "31100",
         "contact:phone": "+39 0422 23687",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Treviso\n**Indirizzo:** Viale della Repubblica 1, 31100 Treviso TV, Treviso\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-22:30\n**Telefono:** +39 0422 23687"
       }
     },
     {
@@ -1220,7 +1134,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Tortona",
         "branch": "Roadhouse Restaurant Tortona",
         "full_address": "Strada Provinciale per Viguzzolo 2, 15058 Tortona AL",
         "addr:city": "Tortona",
@@ -1228,9 +1142,7 @@
         "addr:postcode": "15058",
         "contact:phone": "+39 0131 812576",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:00; Fr 12:00-15:00,18:30-22:30; Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Tortona\n**Indirizzo:** Strada Provinciale per Viguzzolo 2, 15058 Tortona AL, Tortona\n**Orari:** Mo-Th 12:00-15:00,18:30-22:00; Fr 12:00-15:00,18:30-22:30; Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:00\n**Telefono:** +39 0131 812576"
       }
     },
     {
@@ -1248,7 +1160,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Verona",
         "branch": "Roadhouse Restaurant Verona",
         "full_address": "Viale del Lavoro 23, 37135 Verona VR",
         "addr:city": "Verona",
@@ -1256,9 +1168,7 @@
         "addr:postcode": "37135",
         "contact:phone": "+39 045 823 0546",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Verona\n**Indirizzo:** Viale del Lavoro 23, 37135 Verona VR, Verona\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 045 823 0546"
       }
     },
     {
@@ -1276,7 +1186,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Belluno",
         "branch": "Roadhouse Restaurant Belluno",
         "full_address": "Via Masi Simonetti, 32100 Belluno BL",
         "addr:city": "Belluno",
@@ -1284,9 +1194,7 @@
         "addr:postcode": "32100",
         "contact:phone": "+39 0437 931765",
         "opening_hours": "Mo-Su 12:00-15:00,18:30-22:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Belluno\n**Indirizzo:** Via Masi Simonetti, 32100 Belluno BL, Belluno\n**Orari:** Mo-Su 12:00-15:00,18:30-22:00\n**Telefono:** +39 0437 931765"
       }
     },
     {
@@ -1304,7 +1212,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Villesse",
         "branch": "Roadhouse Restaurant Villesse",
         "full_address": "Località Maranuz, 34070 Villesse GO",
         "addr:city": "Villesse",
@@ -1312,9 +1220,7 @@
         "addr:postcode": "34070",
         "contact:phone": "+39 0481 91360",
         "opening_hours": "Mo-Th 12:00-15:30,18:30-22:00; Fr 12:00-15:30,18:30-23:00; Sa-Su 12:00-22:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Villesse\n**Indirizzo:** Località Maranuz, 34070 Villesse GO, Villesse\n**Orari:** Mo-Th 12:00-15:30,18:30-22:00; Fr 12:00-15:30,18:30-23:00; Sa-Su 12:00-22:00\n**Telefono:** +39 0481 91360"
       }
     },
     {
@@ -1332,7 +1238,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Vicenza",
         "branch": "Roadhouse Restaurant Vicenza",
         "full_address": "Str.Padana Verso Verona, 36100 Vicenza VI",
         "addr:city": "Vicenza",
@@ -1340,9 +1246,7 @@
         "addr:postcode": "36100",
         "contact:phone": "+39 0444 291092",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:00; Fr-Sa 12:00-15:00,18:30-22:30; Su 12:00-15:00,18:30-22:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Vicenza\n**Indirizzo:** Str.Padana Verso Verona, 36100 Vicenza VI, Vicenza\n**Orari:** Mo-Th 12:00-15:00,18:30-22:00; Fr-Sa 12:00-15:00,18:30-22:30; Su 12:00-15:00,18:30-22:00\n**Telefono:** +39 0444 291092"
       }
     },
     {
@@ -1360,7 +1264,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Torri di Quartesolo",
         "branch": "Roadhouse Restaurant Torri di Quartesolo",
         "full_address": "Via Brescia 11, 36040 Torri di Quartesolo VI",
         "addr:city": "Torri di Quartesolo",
@@ -1368,9 +1272,7 @@
         "addr:postcode": "36040",
         "contact:phone": "+39 0444 267158",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Su 12:00-15:00,18:30-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Torri di Quartesolo\n**Indirizzo:** Via Brescia 11, 36040 Torri di Quartesolo VI, Torri di Quartesolo\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Su 12:00-15:00,18:30-23:00\n**Telefono:** +39 0444 267158"
       }
     },
     {
@@ -1388,7 +1290,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT ASTI",
         "branch": "ROADHOUSE RESTAURANT ASTI",
         "full_address": "Corso Alessandria 348, 14100 Asti AT",
         "addr:city": "Asti",
@@ -1396,9 +1298,7 @@
         "addr:postcode": "14100",
         "contact:phone": "+39 0141 477933",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT ASTI\n**Indirizzo:** Corso Alessandria 348, 14100 Asti AT, Asti\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-22:30\n**Telefono:** +39 0141 477933"
       }
     },
     {
@@ -1416,7 +1316,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Noventa di Piave",
         "branch": "Roadhouse Restaurant Noventa di Piave",
         "full_address": "Via Calnova 136, 30020 Noventa di Piave VE",
         "addr:city": "Noventa di Piave",
@@ -1424,9 +1324,7 @@
         "addr:postcode": "30020",
         "contact:phone": "+39 0421 307147",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Noventa di Piave\n**Indirizzo:** Via Calnova 136, 30020 Noventa di Piave VE, Noventa di Piave\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 0421 307147"
       }
     },
     {
@@ -1444,7 +1342,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Milazzo",
         "branch": "Roadhouse Restaurant Milazzo",
         "full_address": "via Firenze CC Parco Corolla, 98057 Milazzo ME",
         "addr:city": "Milazzo",
@@ -1452,9 +1350,7 @@
         "addr:postcode": "98057",
         "contact:phone": "+39 090 930473",
         "opening_hours": "Mo-Fr 12:30-15:30,19:00-22:30; Sa-Su 12:30-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Milazzo\n**Indirizzo:** via Firenze CC Parco Corolla, 98057 Milazzo ME, Milazzo\n**Orari:** Mo-Fr 12:30-15:30,19:00-22:30; Sa-Su 12:30-23:00\n**Telefono:** +39 090 930473"
       }
     },
     {
@@ -1472,7 +1368,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Smokery by Roadhouse Rozzano",
         "branch": "Smokery by Roadhouse Rozzano",
         "full_address": "Via Eugenio Curiel 25, 20089 Rozzano MI",
         "addr:city": "Rozzano",
@@ -1480,9 +1376,7 @@
         "addr:postcode": "20089",
         "contact:phone": "+39 02 8920 1474",
         "opening_hours": "Mo-Fr 09:00-22:00; Sa-Su 08:30-22:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Smokery by Roadhouse Rozzano\n**Indirizzo:** Via Eugenio Curiel 25, 20089 Rozzano MI, Rozzano\n**Orari:** Mo-Fr 09:00-22:00; Sa-Su 08:30-22:00\n**Telefono:** +39 02 8920 1474"
       }
     },
     {
@@ -1500,7 +1394,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Ferrara",
         "branch": "Roadhouse Restaurant Ferrara",
         "full_address": "Via Eridano 2d, 44100 Ferrara FE",
         "addr:city": "Ferrara",
@@ -1508,9 +1402,7 @@
         "addr:postcode": "44100",
         "contact:phone": "+39 0532 53762",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:00; Fr-Sa 12:00-15:00,18:30-22:30; Su 12:00-15:00,18:30-22:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Ferrara\n**Indirizzo:** Via Eridano 2d, 44100 Ferrara FE, Ferrara\n**Orari:** Mo-Th 12:00-15:00,18:30-22:00; Fr-Sa 12:00-15:00,18:30-22:30; Su 12:00-15:00,18:30-22:00\n**Telefono:** +39 0532 53762"
       }
     },
     {
@@ -1528,7 +1420,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Lido di Camaiore",
         "branch": "Roadhouse Restaurant Lido di Camaiore",
         "full_address": "Via Don Minzoni, 55041 Camaiore LU",
         "addr:city": "Camaiore",
@@ -1536,9 +1428,7 @@
         "addr:postcode": "55041",
         "contact:phone": "+39 0584 610568",
         "opening_hours": "Mo-Su 12:00-15:00,19:00-23:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Lido di Camaiore\n**Indirizzo:** Via Don Minzoni, 55041 Camaiore LU, Camaiore\n**Orari:** Mo-Su 12:00-15:00,19:00-23:30\n**Telefono:** +39 0584 610568"
       }
     },
     {
@@ -1556,7 +1446,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Serravalle Scrivia",
         "branch": "Roadhouse Restaurant Serravalle Scrivia",
         "full_address": "Via Novi 39, 15069 Serravalle Scrivia AL",
         "addr:city": "Serravalle Scrivia",
@@ -1564,9 +1454,7 @@
         "addr:postcode": "15069",
         "contact:phone": "+39 0143 340222",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:00; Fr 12:00-15:00,18:30-22:30; Sa 11:30-16:00,18:30-22:30; Su 11:30-22:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Serravalle Scrivia\n**Indirizzo:** Via Novi 39, 15069 Serravalle Scrivia AL, Serravalle Scrivia\n**Orari:** Mo-Th 12:00-15:00,18:30-22:00; Fr 12:00-15:00,18:30-22:30; Sa 11:30-16:00,18:30-22:30; Su 11:30-22:00\n**Telefono:** +39 0143 340222"
       }
     },
     {
@@ -1584,7 +1472,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Firenze",
         "branch": "Roadhouse Restaurant Firenze",
         "full_address": "Via Fratelli Cervi 24-26, 50013 Campi Bisenzio FI",
         "addr:city": "Campi Bisenzio",
@@ -1592,9 +1480,7 @@
         "addr:postcode": "50013",
         "contact:phone": "+39 055 896 9549",
         "opening_hours": "Mo-Fr 12:00-15:00,18:30-22:30; Sa 12:00-15:00,18:30-23:30; Su 12:00-15:30,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Firenze\n**Indirizzo:** Via Fratelli Cervi 24-26, 50013 Campi Bisenzio FI, Campi Bisenzio\n**Orari:** Mo-Fr 12:00-15:00,18:30-22:30; Sa 12:00-15:00,18:30-23:30; Su 12:00-15:30,18:30-22:30\n**Telefono:** +39 055 896 9549"
       }
     },
     {
@@ -1612,7 +1498,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Imola",
         "branch": "Roadhouse Restaurant Imola",
         "full_address": "Via Ugo la Malfa 16, 40026 Imola BO",
         "addr:city": "Imola",
@@ -1620,9 +1506,7 @@
         "addr:postcode": "40026",
         "contact:phone": "+39 335 841 9791",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Imola\n**Indirizzo:** Via Ugo la Malfa 16, 40026 Imola BO, Imola\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-22:30\n**Telefono:** +39 335 841 9791"
       }
     },
     {
@@ -1640,7 +1524,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Affi",
         "branch": "Roadhouse Restaurant Affi",
         "full_address": "Via San Pieretto 23, 37010 Affi VR",
         "addr:city": "Affi",
@@ -1648,9 +1532,7 @@
         "addr:postcode": "37010",
         "contact:phone": "+39 045 626 0282",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Affi\n**Indirizzo:** Via San Pieretto 23, 37010 Affi VR, Affi\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 045 626 0282"
       }
     },
     {
@@ -1668,7 +1550,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Gravellona Toce",
         "branch": "Roadhouse Restaurant Gravellona Toce",
         "full_address": "Corso Guglielmo Marconi 32e, 28883 Gravellona Toce VB",
         "addr:city": "Gravellona Toce",
@@ -1676,9 +1558,7 @@
         "addr:postcode": "28883",
         "contact:phone": "+39 0323 840283",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Gravellona Toce\n**Indirizzo:** Corso Guglielmo Marconi 32e, 28883 Gravellona Toce VB, Gravellona Toce\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 0323 840283"
       }
     },
     {
@@ -1696,7 +1576,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant La Spezia",
         "branch": "Roadhouse Restaurant La Spezia",
         "full_address": "Via Fontevivo 17, 19125 La Spezia SP",
         "addr:city": "La Spezia",
@@ -1704,9 +1584,7 @@
         "addr:postcode": "19125",
         "contact:phone": "+39 0187 520852",
         "opening_hours": "Mo-Th 12:00-15:00,19:00-22:00; Fr-Sa 12:00-15:00,19:00-22:30; Su 12:00-15:00,19:00-22:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant La Spezia\n**Indirizzo:** Via Fontevivo 17, 19125 La Spezia SP, La Spezia\n**Orari:** Mo-Th 12:00-15:00,19:00-22:00; Fr-Sa 12:00-15:00,19:00-22:30; Su 12:00-15:00,19:00-22:00\n**Telefono:** +39 0187 520852"
       }
     },
     {
@@ -1724,7 +1602,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Genova",
         "branch": "Roadhouse Restaurant Genova",
         "full_address": "Via Magazzini del Cotone 19, 16128 Genova GE",
         "addr:city": "Genova",
@@ -1732,9 +1610,7 @@
         "addr:postcode": "16128",
         "contact:phone": "+39 010 247 2990",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-23:00; Fr 12:00-15:00,18:30-23:30; Sa 11:30-15:30,17:30-24:00; Su 11:30-23:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Genova\n**Indirizzo:** Via Magazzini del Cotone 19, 16128 Genova GE, Genova\n**Orari:** Mo-Th 12:00-15:00,18:30-23:00; Fr 12:00-15:00,18:30-23:30; Sa 11:30-15:30,17:30-24:00; Su 11:30-23:30\n**Telefono:** +39 010 247 2990"
       }
     },
     {
@@ -1752,7 +1628,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Macerata",
         "branch": "Roadhouse Restaurant Macerata",
         "full_address": "Via Enrico Mattei 177, 62014 Corridonia MC",
         "addr:city": "Corridonia",
@@ -1760,9 +1636,7 @@
         "addr:postcode": "62014",
         "contact:phone": "+39 0733 292292",
         "opening_hours": "Mo-Th 12:00-15:00,19:00-22:30; Fr-Sa 12:00-15:00,19:00-23:00; Su 12:00-15:00,19:00-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Macerata\n**Indirizzo:** Via Enrico Mattei 177, 62014 Corridonia MC, Corridonia\n**Orari:** Mo-Th 12:00-15:00,19:00-22:30; Fr-Sa 12:00-15:00,19:00-23:00; Su 12:00-15:00,19:00-22:30\n**Telefono:** +39 0733 292292"
       }
     },
     {
@@ -1780,7 +1654,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Mirabilandia",
         "branch": "Roadhouse Restaurant Mirabilandia",
         "full_address": "Via Standiana 54, 48125 Ravenna RA",
         "addr:city": "Ravenna",
@@ -1788,9 +1662,7 @@
         "addr:postcode": "48125",
         "contact:phone": "+39 0544 560777",
         "opening_hours": "Mo-Th 12:00-15:00,19:00-22:00; Fr-Sa 12:00-15:00,19:00-22:30; Su 12:00-15:00,19:00-22:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Mirabilandia\n**Indirizzo:** Via Standiana 54, 48125 Ravenna RA, Ravenna\n**Orari:** Mo-Th 12:00-15:00,19:00-22:00; Fr-Sa 12:00-15:00,19:00-22:30; Su 12:00-15:00,19:00-22:00\n**Telefono:** +39 0544 560777"
       }
     },
     {
@@ -1808,7 +1680,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT ANTEGNATE",
         "branch": "ROADHOUSE RESTAURANT ANTEGNATE",
         "full_address": "Via del Commercio 3, 24051 Antegnate BG",
         "addr:city": "Antegnate",
@@ -1816,9 +1688,7 @@
         "addr:postcode": "24051",
         "contact:phone": "+39 0363 905758",
         "opening_hours": "Mo-Fr 12:00-14:30,19:00-21:30; Sa 12:00-21:30; Su 12:00-15:00,19:00-21:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT ANTEGNATE\n**Indirizzo:** Via del Commercio 3, 24051 Antegnate BG, Antegnate\n**Orari:** Mo-Fr 12:00-14:30,19:00-21:30; Sa 12:00-21:30; Su 12:00-15:00,19:00-21:30\n**Telefono:** +39 0363 905758"
       }
     },
     {
@@ -1836,7 +1706,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Mestre",
         "branch": "Roadhouse Restaurant Mestre",
         "full_address": "Via Alfredo Ceccherini 20, 30174 Venezia VE",
         "addr:city": "Venezia",
@@ -1844,9 +1714,7 @@
         "addr:postcode": "30174",
         "contact:phone": "+39 041 957132",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Mestre\n**Indirizzo:** Via Alfredo Ceccherini 20, 30174 Venezia VE, Venezia\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-22:30\n**Telefono:** +39 041 957132"
       }
     },
     {
@@ -1864,7 +1732,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Udine",
         "branch": "Roadhouse Restaurant Udine",
         "full_address": "Via Nazionale 3, 33010 Tavagnacco UD",
         "addr:city": "Tavagnacco",
@@ -1872,9 +1740,7 @@
         "addr:postcode": "33010",
         "contact:phone": "+39 0432 42225",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Udine\n**Indirizzo:** Via Nazionale 3, 33010 Tavagnacco UD, Tavagnacco\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-22:30\n**Telefono:** +39 0432 42225"
       }
     },
     {
@@ -1892,7 +1758,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Pistoia",
         "branch": "Roadhouse Restaurant Pistoia",
         "full_address": "Via Francesco Guicciardini 4, 51100 Pistoia PT",
         "addr:city": "Pistoia",
@@ -1900,9 +1766,7 @@
         "addr:postcode": "51100",
         "contact:phone": "+39 0573 380652",
         "opening_hours": "Mo-Th 12:00-15:00,19:00-22:30; Fr-Sa 12:00-15:00,19:00-23:00; Su 12:00-15:00,19:00-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Pistoia\n**Indirizzo:** Via Francesco Guicciardini 4, 51100 Pistoia PT, Pistoia\n**Orari:** Mo-Th 12:00-15:00,19:00-22:30; Fr-Sa 12:00-15:00,19:00-23:00; Su 12:00-15:00,19:00-22:30\n**Telefono:** +39 0573 380652"
       }
     },
     {
@@ -1920,7 +1784,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT ARESE",
         "branch": "ROADHOUSE RESTAURANT ARESE",
         "full_address": "Via Giuseppe Eugenio Luraghi 11, 20020 Arese MI",
         "addr:city": "Arese",
@@ -1928,9 +1792,7 @@
         "addr:postcode": "20020",
         "contact:phone": "+39 02 938 5629",
         "opening_hours": "Mo-Su 12:00-22:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT ARESE\n**Indirizzo:** Via Giuseppe Eugenio Luraghi 11, 20020 Arese MI, Arese\n**Orari:** Mo-Su 12:00-22:00\n**Telefono:** +39 02 938 5629"
       }
     },
     {
@@ -1948,7 +1810,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT ASSAGO",
         "branch": "ROADHOUSE RESTAURANT ASSAGO",
         "full_address": "Viale Milanofiori, 20090 Assago MI",
         "addr:city": "Assago",
@@ -1956,9 +1818,7 @@
         "addr:postcode": "20090",
         "contact:phone": "+39 02 5750 4696",
         "opening_hours": "Mo 13:00-15:00,19:00-22:00; Tu-Fr 11:30-15:00,19:00-22:00; Sa 11:30-22:30; Su 11:30-21:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT ASSAGO\n**Indirizzo:** Viale Milanofiori, 20090 Assago MI, Assago\n**Orari:** Mo 13:00-15:00,19:00-22:00; Tu-Fr 11:30-15:00,19:00-22:00; Sa 11:30-22:30; Su 11:30-21:30\n**Telefono:** +39 02 5750 4696"
       }
     },
     {
@@ -1976,7 +1836,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Ancona",
         "branch": "Roadhouse Restaurant Ancona",
         "full_address": "Via 1º Maggio, 60131 Ancona AN",
         "addr:city": "Ancona",
@@ -1984,9 +1844,7 @@
         "addr:postcode": "60131",
         "contact:phone": "+39 071 291 6020",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Ancona\n**Indirizzo:** Via 1º Maggio, 60131 Ancona AN, Ancona\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 071 291 6020"
       }
     },
     {
@@ -2004,7 +1862,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT BARANZATE",
         "branch": "ROADHOUSE RESTAURANT BARANZATE",
         "full_address": "Via Milano 265, 20021 Baranzate MI",
         "addr:city": "Baranzate",
@@ -2012,9 +1870,7 @@
         "addr:postcode": "20021",
         "contact:phone": "+39 02 356 0058",
         "opening_hours": "Mo-Th 11:45-15:00,18:30-22:30; Fr-Sa 11:45-15:00,18:30-23:00; Su 11:45-15:30,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT BARANZATE\n**Indirizzo:** Via Milano 265, 20021 Baranzate MI, Baranzate\n**Orari:** Mo-Th 11:45-15:00,18:30-22:30; Fr-Sa 11:45-15:00,18:30-23:00; Su 11:45-15:30,18:30-22:30\n**Telefono:** +39 02 356 0058"
       }
     },
     {
@@ -2032,7 +1888,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Beinasco",
         "branch": "Roadhouse Restaurant Beinasco",
         "full_address": "Viale del Risorgimento, 10092 Beinasco TO",
         "addr:city": "Beinasco",
@@ -2040,9 +1896,7 @@
         "addr:postcode": "10092",
         "contact:phone": "+39 011 349 9312",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Beinasco\n**Indirizzo:** Viale del Risorgimento, 10092 Beinasco TO, Beinasco\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-23:00\n**Telefono:** +39 011 349 9312"
       }
     },
     {
@@ -2060,7 +1914,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Bolzano",
         "branch": "Roadhouse Restaurant Bolzano",
         "full_address": "Via Albert Einstein, 39100 Bolzano BZ",
         "addr:city": "Bolzano",
@@ -2068,9 +1922,7 @@
         "addr:postcode": "39100",
         "contact:phone": "+39 0471 912450",
         "opening_hours": "Mo-Th 12:00-15:00,18:00-22:30; Fr-Sa 12:00-15:00,18:00-23:00; Su 12:00-15:30,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Bolzano\n**Indirizzo:** Via Albert Einstein, 39100 Bolzano BZ, Bolzano\n**Orari:** Mo-Th 12:00-15:00,18:00-22:30; Fr-Sa 12:00-15:00,18:00-23:00; Su 12:00-15:30,18:30-22:30\n**Telefono:** +39 0471 912450"
       }
     },
     {
@@ -2088,7 +1940,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT BRESCIA",
         "branch": "ROADHOUSE RESTAURANT BRESCIA",
         "full_address": "Via Borgosatollo 1, 25124 Brescia BS",
         "addr:city": "Brescia",
@@ -2096,9 +1948,7 @@
         "addr:postcode": "25124",
         "contact:phone": "+39 030 354 5171",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Su 12:00-15:00,18:30-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT BRESCIA\n**Indirizzo:** Via Borgosatollo 1, 25124 Brescia BS, Brescia\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Su 12:00-15:00,18:30-23:00\n**Telefono:** +39 030 354 5171"
       }
     },
     {
@@ -2116,7 +1966,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT BERGAMO",
         "branch": "ROADHOUSE RESTAURANT BERGAMO",
         "full_address": "Via Roggia Guidana 1, 24126 Bergamo BG",
         "addr:city": "Bergamo",
@@ -2124,9 +1974,7 @@
         "addr:postcode": "24126",
         "contact:phone": "+39 035 424 3754",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT BERGAMO\n**Indirizzo:** Via Roggia Guidana 1, 24126 Bergamo BG, Bergamo\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 035 424 3754"
       }
     },
     {
@@ -2144,7 +1992,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Arezzo",
         "branch": "Roadhouse Restaurant Arezzo",
         "full_address": "Via Giuseppe Giusti, 52100 Arezzo AR",
         "addr:city": "Arezzo",
@@ -2152,9 +2000,7 @@
         "addr:postcode": "52100",
         "contact:phone": "+39 320 382 1561",
         "opening_hours": "Mo-Th 12:00-15:00,19:00-22:30; Fr-Sa 12:00-15:00,19:00-23:00; Su 12:00-15:30,19:00-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Arezzo\n**Indirizzo:** Via Giuseppe Giusti, 52100 Arezzo AR, Arezzo\n**Orari:** Mo-Th 12:00-15:00,19:00-22:30; Fr-Sa 12:00-15:00,19:00-23:00; Su 12:00-15:30,19:00-22:30\n**Telefono:** +39 320 382 1561"
       }
     },
     {
@@ -2172,7 +2018,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT BELLINZAGO",
         "branch": "ROADHOUSE RESTAURANT BELLINZAGO",
         "full_address": "Via I Maggio 2, 20060 Bellinzago Lombardo MI",
         "addr:city": "Bellinzago Lombardo",
@@ -2180,9 +2026,7 @@
         "addr:postcode": "20060",
         "contact:phone": "+39 02 9578 0115",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT BELLINZAGO\n**Indirizzo:** Via I Maggio 2, 20060 Bellinzago Lombardo MI, Bellinzago Lombardo\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 02 9578 0115"
       }
     },
     {
@@ -2200,7 +2044,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Bari",
         "branch": "Roadhouse Restaurant Bari",
         "full_address": "Strada Santa Caterina, 70124 Bari BA",
         "addr:city": "Bari",
@@ -2208,9 +2052,7 @@
         "addr:postcode": "70124",
         "contact:phone": "+39 347 383 8388",
         "opening_hours": "Mo-Th 12:30-15:30,19:00-23:00; Fr-Sa 12:30-15:30,19:00-23:30; Su 12:30-15:30,19:00-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Bari\n**Indirizzo:** Strada Santa Caterina, 70124 Bari BA, Bari\n**Orari:** Mo-Th 12:30-15:30,19:00-23:00; Fr-Sa 12:30-15:30,19:00-23:30; Su 12:30-15:30,19:00-23:00\n**Telefono:** +39 347 383 8388"
       }
     },
     {
@@ -2228,7 +2070,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Borgomanero",
         "branch": "Roadhouse Restaurant Borgomanero",
         "full_address": "Via Piola 30, 28013 Cascina Piola NO",
         "addr:city": "Cascina Piola",
@@ -2236,9 +2078,7 @@
         "addr:postcode": "28013",
         "contact:phone": "+39 0322 845391",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Borgomanero\n**Indirizzo:** Via Piola 30, 28013 Cascina Piola NO, Cascina Piola\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 0322 845391"
       }
     },
     {
@@ -2256,7 +2096,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Casalecchio",
         "branch": "Roadhouse Restaurant Casalecchio",
         "full_address": "Via Antonio de Curtis, 40033 Casalecchio di Reno BO",
         "addr:city": "Casalecchio di Reno",
@@ -2264,9 +2104,7 @@
         "addr:postcode": "40033",
         "contact:phone": "+39 348 236 4740",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Casalecchio\n**Indirizzo:** Via Antonio de Curtis, 40033 Casalecchio di Reno BO, Casalecchio di Reno\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-22:30\n**Telefono:** +39 348 236 4740"
       }
     },
     {
@@ -2284,7 +2122,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT BUSNAGO",
         "branch": "ROADHOUSE RESTAURANT BUSNAGO",
         "full_address": "Via Enrico Berlinguer 48, 20872 Cornate d'Adda MB",
         "addr:city": "Cornate d'Adda",
@@ -2292,9 +2130,7 @@
         "addr:postcode": "20872",
         "contact:phone": "+39 039 609 5079",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:00; Fr-Sa 12:00-15:00,18:30-22:30; Su 12:00-15:00,18:30-22:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT BUSNAGO\n**Indirizzo:** Via Enrico Berlinguer 48, 20872 Cornate d'Adda MB, Cornate d'Adda\n**Orari:** Mo-Th 12:00-15:00,18:30-22:00; Fr-Sa 12:00-15:00,18:30-22:30; Su 12:00-15:00,18:30-22:00\n**Telefono:** +39 039 609 5079"
       }
     },
     {
@@ -2312,7 +2148,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT CAPRIATE",
         "branch": "ROADHOUSE RESTAURANT CAPRIATE",
         "full_address": "Via Papa Pio X 5, 24042 Capriate San Gervasio BG",
         "addr:city": "Capriate San Gervasio",
@@ -2320,9 +2156,7 @@
         "addr:postcode": "24042",
         "contact:phone": "+39 02 9096 2701",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:00; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT CAPRIATE\n**Indirizzo:** Via Papa Pio X 5, 24042 Capriate San Gervasio BG, Capriate San Gervasio\n**Orari:** Mo-Th 12:00-15:00,18:30-22:00; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 02 9096 2701"
       }
     },
     {
@@ -2340,7 +2174,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT BRONI",
         "branch": "ROADHOUSE RESTAURANT BRONI",
         "full_address": "Via Luigi Einaudi 2, 27043 Broni PV",
         "addr:city": "Broni",
@@ -2348,9 +2182,7 @@
         "addr:postcode": "27043",
         "contact:phone": "+39 0385 51090",
         "opening_hours": "Mo-Th 12:00-14:30,19:00-22:00; Fr-Sa 12:00-14:30,19:00-22:30; Su 12:00-14:30,19:00-22:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT BRONI\n**Indirizzo:** Via Luigi Einaudi 2, 27043 Broni PV, Broni\n**Orari:** Mo-Th 12:00-14:30,19:00-22:00; Fr-Sa 12:00-14:30,19:00-22:30; Su 12:00-14:30,19:00-22:00\n**Telefono:** +39 0385 51090"
       }
     },
     {
@@ -2368,7 +2200,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Bussolengo",
         "branch": "Roadhouse Restaurant Bussolengo",
         "full_address": "SR11, 37012 Bussolengo VR",
         "addr:city": "Bussolengo",
@@ -2376,9 +2208,7 @@
         "addr:postcode": "37012",
         "contact:phone": "+39 045 676 6723",
         "opening_hours": "Mo-Th 12:00-14:30,18:30-22:30; Fr-Sa 12:00-14:30,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Bussolengo\n**Indirizzo:** SR11, 37012 Bussolengo VR, Bussolengo\n**Orari:** Mo-Th 12:00-14:30,18:30-22:30; Fr-Sa 12:00-14:30,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 045 676 6723"
       }
     },
     {
@@ -2396,7 +2226,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT CERNUSCO LOMB.",
         "branch": "ROADHOUSE RESTAURANT CERNUSCO LOMB.",
         "full_address": "Via Spluga 54, 23870 Cernusco Lombardone LC",
         "addr:city": "Cernusco Lombardone",
@@ -2404,9 +2234,7 @@
         "addr:postcode": "23870",
         "contact:phone": "+39 039 990 2021",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT CERNUSCO LOMB.\n**Indirizzo:** Via Spluga 54, 23870 Cernusco Lombardone LC, Cernusco Lombardone\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 039 990 2021"
       }
     },
     {
@@ -2424,7 +2252,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT CINISELLO BALSAMO",
         "branch": "ROADHOUSE RESTAURANT CINISELLO BALSAMO",
         "full_address": "Via Padre Antonio Ronchi 2, 20092 Cinisello Balsamo MI",
         "addr:city": "Cinisello Balsamo",
@@ -2432,9 +2260,7 @@
         "addr:postcode": "20092",
         "contact:phone": "+39 02 618 2411",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:30; Su 12:00-15:00,18:30-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT CINISELLO BALSAMO\n**Indirizzo:** Via Padre Antonio Ronchi 2, 20092 Cinisello Balsamo MI, Cinisello Balsamo\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:30; Su 12:00-15:00,18:30-23:00\n**Telefono:** +39 02 618 2411"
       }
     },
     {
@@ -2452,7 +2278,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Conegliano",
         "branch": "Roadhouse Restaurant Conegliano",
         "full_address": "Via Villa Liccer 1, 31020 San Martino TV",
         "addr:city": "San Martino",
@@ -2460,9 +2286,7 @@
         "addr:postcode": "31020",
         "contact:phone": "+39 0438 403880",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:00; Fr-Sa 12:00-15:00,18:30-22:30; Su 12:00-15:00,18:30-22:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Conegliano\n**Indirizzo:** Via Villa Liccer 1, 31020 San Martino TV, San Martino\n**Orari:** Mo-Th 12:00-15:00,18:30-22:00; Fr-Sa 12:00-15:00,18:30-22:30; Su 12:00-15:00,18:30-22:00\n**Telefono:** +39 0438 403880"
       }
     },
     {
@@ -2480,7 +2304,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Catania Centro Sicilia",
         "branch": "Roadhouse Catania Centro Sicilia",
         "full_address": "SP54, 95045 Misterbianco CT",
         "addr:city": "Misterbianco",
@@ -2488,9 +2312,7 @@
         "addr:postcode": "95045",
         "contact:phone": "+39 095 749 3358",
         "opening_hours": "Mo-Fr 12:00-16:00,18:30-22:00; Sa-Su 12:00-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Catania Centro Sicilia\n**Indirizzo:** SP54, 95045 Misterbianco CT, Misterbianco\n**Orari:** Mo-Fr 12:00-16:00,18:30-22:00; Sa-Su 12:00-23:00\n**Telefono:** +39 095 749 3358"
       }
     },
     {
@@ -2508,7 +2330,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Fidenza",
         "branch": "Roadhouse Restaurant Fidenza",
         "full_address": "Via San Michele Campagna, 43036 Fidenza PR",
         "addr:city": "Fidenza",
@@ -2516,9 +2338,7 @@
         "addr:postcode": "43036",
         "contact:phone": "+39 0524 520263",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr 12:00-15:00,18:30-23:00; Sa 12:00-15:30,18:30-23:00; Su 12:00-15:30,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Fidenza\n**Indirizzo:** Via San Michele Campagna, 43036 Fidenza PR, Fidenza\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr 12:00-15:00,18:30-23:00; Sa 12:00-15:30,18:30-23:00; Su 12:00-15:30,18:30-22:30\n**Telefono:** +39 0524 520263"
       }
     },
     {
@@ -2536,7 +2356,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT COMO LIPOMO",
         "branch": "ROADHOUSE RESTAURANT COMO LIPOMO",
         "full_address": "Via Oltrecolle, 22100 Como CO",
         "addr:city": "Como",
@@ -2544,9 +2364,7 @@
         "addr:postcode": "22100",
         "contact:phone": "+39 031 283610",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT COMO LIPOMO\n**Indirizzo:** Via Oltrecolle, 22100 Como CO, Como\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 031 283610"
       }
     },
     {
@@ -2564,7 +2382,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Fiorano Modenese",
         "branch": "Roadhouse Restaurant Fiorano Modenese",
         "full_address": "Via Giardini, 41042 Fiorano Modenese MO",
         "addr:city": "Fiorano Modenese",
@@ -2572,9 +2390,7 @@
         "addr:postcode": "41042",
         "contact:phone": "+39 0536 843894",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Fiorano Modenese\n**Indirizzo:** Via Giardini, 41042 Fiorano Modenese MO, Fiorano Modenese\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 0536 843894"
       }
     },
     {
@@ -2592,7 +2408,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT CORBETTA",
         "branch": "ROADHOUSE RESTAURANT CORBETTA",
         "full_address": "Via Simone da Corbetta 51, 20011 Corbetta MI",
         "addr:city": "Corbetta",
@@ -2600,9 +2416,7 @@
         "addr:postcode": "20011",
         "contact:phone": "+39 02 9748 0132",
         "opening_hours": "Mo-Su 12:00-15:00,18:30-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT CORBETTA\n**Indirizzo:** Via Simone da Corbetta 51, 20011 Corbetta MI, Corbetta\n**Orari:** Mo-Su 12:00-15:00,18:30-23:00\n**Telefono:** +39 02 9748 0132"
       }
     },
     {
@@ -2620,7 +2434,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Livorno",
         "branch": "Roadhouse Restaurant Livorno",
         "full_address": "Via Giovanni Gelati 10, 57124 Livorno LI",
         "addr:city": "Livorno",
@@ -2628,9 +2442,7 @@
         "addr:postcode": "57124",
         "contact:phone": "+39 348 231 9558",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Livorno\n**Indirizzo:** Via Giovanni Gelati 10, 57124 Livorno LI, Livorno\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-22:30\n**Telefono:** +39 348 231 9558"
       }
     },
     {
@@ -2648,7 +2460,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT CITY LIFE - MEATERY",
         "branch": "ROADHOUSE RESTAURANT CITY LIFE - MEATERY",
         "full_address": "Piazza Tre Torri, 20122 Milano MI",
         "addr:city": "Milano",
@@ -2656,9 +2468,7 @@
         "addr:postcode": "20122",
         "contact:phone": "+39 02 4351 1325",
         "opening_hours": "Mo-Th 09:00-15:00,18:30-22:30; Fr 09:00-15:00,18:30-23:00; Sa 09:00-15:30,18:30-23:00; Su 09:00-15:30,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT CITY LIFE - MEATERY\n**Indirizzo:** Piazza Tre Torri, 20122 Milano MI, Milano\n**Orari:** Mo-Th 09:00-15:00,18:30-22:30; Fr 09:00-15:00,18:30-23:00; Sa 09:00-15:30,18:30-23:00; Su 09:00-15:30,18:30-22:30\n**Telefono:** +39 02 4351 1325"
       }
     },
     {
@@ -2676,7 +2486,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT CORNAREDO",
         "branch": "ROADHOUSE RESTAURANT CORNAREDO",
         "full_address": "Via Milano 19, 20010 Cornaredo MI",
         "addr:city": "Cornaredo",
@@ -2684,9 +2494,7 @@
         "addr:postcode": "20010",
         "contact:phone": "+39 02 936 2058",
         "opening_hours": "Mo-Su 12:00-15:00,18:30-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT CORNAREDO\n**Indirizzo:** Via Milano 19, 20010 Cornaredo MI, Cornaredo\n**Orari:** Mo-Su 12:00-15:00,18:30-23:00\n**Telefono:** +39 02 936 2058"
       }
     },
     {
@@ -2704,7 +2512,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT CORSICO",
         "branch": "ROADHOUSE RESTAURANT CORSICO",
         "full_address": "Viale Italia 53, 20094 Corsico MI",
         "addr:city": "Corsico",
@@ -2712,9 +2520,7 @@
         "addr:postcode": "20094",
         "contact:phone": "+39 02 440 1158",
         "opening_hours": "Mo-Su 12:00-15:00,19:00-23:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT CORSICO\n**Indirizzo:** Viale Italia 53, 20094 Corsico MI, Corsico\n**Orari:** Mo-Su 12:00-15:00,19:00-23:30\n**Telefono:** +39 02 440 1158"
       }
     },
     {
@@ -2732,7 +2538,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT CURNO",
         "branch": "ROADHOUSE RESTAURANT CURNO",
         "full_address": "Via Antonio Meucci 1, 24035 Curno BG",
         "addr:city": "Curno",
@@ -2740,9 +2546,7 @@
         "addr:postcode": "24035",
         "contact:phone": "+39 035 611376",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT CURNO\n**Indirizzo:** Via Antonio Meucci 1, 24035 Curno BG, Curno\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 035 611376"
       }
     },
     {
@@ -2760,7 +2564,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT CURTATONE",
         "branch": "ROADHOUSE RESTAURANT CURTATONE",
         "full_address": "Via Giovanni Campia, 46010 Curtatone MN",
         "addr:city": "Curtatone",
@@ -2768,9 +2572,7 @@
         "addr:postcode": "46010",
         "contact:phone": "+39 0376 348183",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT CURTATONE\n**Indirizzo:** Via Giovanni Campia, 46010 Curtatone MN, Curtatone\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 0376 348183"
       }
     },
     {
@@ -2788,7 +2590,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Dalmine",
         "branch": "Roadhouse Restaurant Dalmine",
         "full_address": "Via Vailetta, 24044 Dalmine BG",
         "addr:city": "Dalmine",
@@ -2796,9 +2598,7 @@
         "addr:postcode": "24044",
         "contact:phone": "+39 035 372909",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Dalmine\n**Indirizzo:** Via Vailetta, 24044 Dalmine BG, Dalmine\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 035 372909"
       }
     },
     {
@@ -2816,7 +2616,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Milano Porta garibaldi",
         "branch": "Roadhouse Restaurant Milano Porta garibaldi",
         "full_address": "Piazza Sigmund Freud 1, 20124 Milano MI",
         "addr:city": "Milano",
@@ -2824,9 +2624,7 @@
         "addr:postcode": "20124",
         "contact:phone": "+39 320 755 2724",
         "opening_hours": "Mo-Su 11:30-22:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Milano Porta garibaldi\n**Indirizzo:** Piazza Sigmund Freud 1, 20124 Milano MI, Milano\n**Orari:** Mo-Su 11:30-22:00\n**Telefono:** +39 320 755 2724"
       }
     },
     {
@@ -2844,7 +2642,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT GALLARATE",
         "branch": "ROADHOUSE RESTAURANT GALLARATE",
         "full_address": "Via Padre Angelo Ambrosoli 16, 21013 Gallarate VA",
         "addr:city": "Gallarate",
@@ -2852,9 +2650,7 @@
         "addr:postcode": "21013",
         "contact:phone": "+39 0331 793793",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:30; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT GALLARATE\n**Indirizzo:** Via Padre Angelo Ambrosoli 16, 21013 Gallarate VA, Gallarate\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:30; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 0331 793793"
       }
     },
     {
@@ -2872,7 +2668,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Modena",
         "branch": "Roadhouse Restaurant Modena",
         "full_address": "Strada Vignolese 1653/A, 41126 Modena MO",
         "addr:city": "Modena",
@@ -2880,9 +2676,7 @@
         "addr:postcode": "41126",
         "contact:phone": "+39 059 469600",
         "opening_hours": "Mo-Th 12:00-15:00,19:00-22:30; Fr-Sa 12:00-15:00,19:00-23:00; Su 12:00-15:00,19:00-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Modena\n**Indirizzo:** Strada Vignolese 1653/A, 41126 Modena MO, Modena\n**Orari:** Mo-Th 12:00-15:00,19:00-22:30; Fr-Sa 12:00-15:00,19:00-23:00; Su 12:00-15:00,19:00-22:30\n**Telefono:** +39 059 469600"
       }
     },
     {
@@ -2900,7 +2694,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Milano Porta garibaldi",
         "branch": "Roadhouse Restaurant Milano Porta garibaldi",
         "full_address": "Piazza Sigmund Freud 1, 20124 Milano MI",
         "addr:city": "Milano",
@@ -2908,9 +2702,7 @@
         "addr:postcode": "20124",
         "contact:phone": "+39 320 755 2724",
         "opening_hours": "Mo-Su 11:30-22:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Milano Porta garibaldi\n**Indirizzo:** Piazza Sigmund Freud 1, 20124 Milano MI, Milano\n**Orari:** Mo-Su 11:30-22:00\n**Telefono:** +39 320 755 2724"
       }
     },
     {
@@ -2928,7 +2720,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT DESENZANO",
         "branch": "ROADHOUSE RESTAURANT DESENZANO",
         "full_address": "Via Guglielmo Marconi 85, 25015 Desenzano del Garda BS",
         "addr:city": "Desenzano del Garda",
@@ -2936,9 +2728,7 @@
         "addr:postcode": "25015",
         "contact:phone": "+39 030 912 0596",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-23:00; Fr-Sa 12:00-15:00,18:30-23:30; Su 12:00-15:30,18:30-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT DESENZANO\n**Indirizzo:** Via Guglielmo Marconi 85, 25015 Desenzano del Garda BS, Desenzano del Garda\n**Orari:** Mo-Th 12:00-15:00,18:30-23:00; Fr-Sa 12:00-15:00,18:30-23:30; Su 12:00-15:30,18:30-23:00\n**Telefono:** +39 030 912 0596"
       }
     },
     {
@@ -2956,7 +2746,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT GIUSSANO",
         "branch": "ROADHOUSE RESTAURANT GIUSSANO",
         "full_address": "Viale Como 45, 20833 Giussano MB",
         "addr:city": "Giussano",
@@ -2964,9 +2754,7 @@
         "addr:postcode": "20833",
         "contact:phone": "+39 0362 311499",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT GIUSSANO\n**Indirizzo:** Viale Como 45, 20833 Giussano MB, Giussano\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 0362 311499"
       }
     },
     {
@@ -2984,7 +2772,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Lentate sul Seveso",
         "branch": "Roadhouse Restaurant Lentate sul Seveso",
         "full_address": "Via Nazionale dei Giovi 272, 20823 Lentate sul Seveso MB",
         "addr:city": "Lentate sul Seveso",
@@ -2992,9 +2780,7 @@
         "addr:postcode": "20823",
         "contact:phone": "+39 347 387 7915",
         "opening_hours": "Mo-Su 11:00-15:00,18:00-22:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Lentate sul Seveso\n**Indirizzo:** Via Nazionale dei Giovi 272, 20823 Lentate sul Seveso MB, Lentate sul Seveso\n**Orari:** Mo-Su 11:00-15:00,18:00-22:00\n**Telefono:** +39 347 387 7915"
       }
     },
     {
@@ -3012,7 +2798,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT GARBAGNATE",
         "branch": "ROADHOUSE RESTAURANT GARBAGNATE",
         "full_address": "SP233, 20024 Garbagnate Milanese MI",
         "addr:city": "Garbagnate Milanese",
@@ -3020,9 +2806,7 @@
         "addr:postcode": "20024",
         "contact:phone": "+39 02 9902 2111",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT GARBAGNATE\n**Indirizzo:** SP233, 20024 Garbagnate Milanese MI, Garbagnate Milanese\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 02 9902 2111"
       }
     },
     {
@@ -3040,7 +2824,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Padova Ovest",
         "branch": "Roadhouse Restaurant Padova Ovest",
         "full_address": "Via Chiesanuova 56, 35136 Padova PD",
         "addr:city": "Padova",
@@ -3048,9 +2832,7 @@
         "addr:postcode": "35136",
         "contact:phone": "+39 049 872 4569",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Padova Ovest\n**Indirizzo:** Via Chiesanuova 56, 35136 Padova PD, Padova\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-22:30\n**Telefono:** +39 049 872 4569"
       }
     },
     {
@@ -3068,7 +2850,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Parma Ovest",
         "branch": "Roadhouse Restaurant Parma Ovest",
         "full_address": "Via Alexander Fleming 2, 43126 Parma PR",
         "addr:city": "Parma",
@@ -3076,9 +2858,7 @@
         "addr:postcode": "43126",
         "contact:phone": "+39 0521 290795",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-23:00; Fr-Sa 12:00-15:00,18:30-23:30; Su 12:00-15:00,18:30-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Parma Ovest\n**Indirizzo:** Via Alexander Fleming 2, 43126 Parma PR, Parma\n**Orari:** Mo-Th 12:00-15:00,18:30-23:00; Fr-Sa 12:00-15:00,18:30-23:30; Su 12:00-15:00,18:30-23:00\n**Telefono:** +39 0521 290795"
       }
     },
     {
@@ -3096,7 +2876,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT LEGNANO",
         "branch": "ROADHOUSE RESTAURANT LEGNANO",
         "full_address": "Via Saronnese 16, 20025 Legnano MI",
         "addr:city": "Legnano",
@@ -3104,9 +2884,7 @@
         "addr:postcode": "20025",
         "contact:phone": "+39 0331 541389",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:30; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT LEGNANO\n**Indirizzo:** Via Saronnese 16, 20025 Legnano MI, Legnano\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:30; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 0331 541389"
       }
     },
     {
@@ -3124,7 +2902,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT LAINATE CASELLO",
         "branch": "ROADHOUSE RESTAURANT LAINATE CASELLO",
         "full_address": "Via Rho 5, 20020 Lainate MI",
         "addr:city": "Lainate",
@@ -3132,9 +2910,7 @@
         "addr:postcode": "20020",
         "contact:phone": "+39 02 937 4006",
         "opening_hours": "Mo-Th 12:00-15:00,19:00-22:30; Fr-Sa 12:00-15:00,19:00-23:00; Su 12:00-15:30,19:00-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT LAINATE CASELLO\n**Indirizzo:** Via Rho 5, 20020 Lainate MI, Lainate\n**Orari:** Mo-Th 12:00-15:00,19:00-22:30; Fr-Sa 12:00-15:00,19:00-23:00; Su 12:00-15:30,19:00-22:30\n**Telefono:** +39 02 937 4006"
       }
     },
     {
@@ -3152,7 +2928,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Lentate sul Seveso",
         "branch": "Lentate sul Seveso",
         "full_address": "Via Nazionale dei Giovi 272, 20823 Lentate sul Seveso MB",
         "addr:city": "Lentate sul Seveso",
@@ -3160,9 +2936,7 @@
         "addr:postcode": "20823",
         "contact:phone": "+39 0362 542124",
         "opening_hours": "Mo-Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Lentate sul Seveso\n**Indirizzo:** Via Nazionale dei Giovi 272, 20823 Lentate sul Seveso MB, Lentate sul Seveso\n**Orari:** Mo-Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 0362 542124"
       }
     },
     {
@@ -3180,7 +2954,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT LAINATE",
         "branch": "ROADHOUSE RESTAURANT LAINATE",
         "full_address": "Via Sempione, 20020 Lainate MI",
         "addr:city": "Lainate",
@@ -3188,9 +2962,7 @@
         "addr:postcode": "20020",
         "contact:phone": "+39 02 9355 0705",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:30; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT LAINATE\n**Indirizzo:** Via Sempione, 20020 Lainate MI, Lainate\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:30; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 02 9355 0705"
       }
     },
     {
@@ -3208,7 +2980,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Pescara",
         "branch": "Roadhouse Restaurant Pescara",
         "full_address": "Corso Umberto I 447, 65015 Montesilvano PE",
         "addr:city": "Montesilvano",
@@ -3216,9 +2988,7 @@
         "addr:postcode": "65015",
         "contact:phone": "+39 389 631 4438",
         "opening_hours": "Mo-Th 12:30-15:30,19:00-23:00; Fr-Sa 12:30-15:30,19:00-23:30; Su 12:30-16:00,19:00-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Pescara\n**Indirizzo:** Corso Umberto I 447, 65015 Montesilvano PE, Montesilvano\n**Orari:** Mo-Th 12:30-15:30,19:00-23:00; Fr-Sa 12:30-15:30,19:00-23:30; Su 12:30-16:00,19:00-23:00\n**Telefono:** +39 389 631 4438"
       }
     },
     {
@@ -3236,7 +3006,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Pescara",
         "branch": "Roadhouse Restaurant Pescara",
         "full_address": "Corso Umberto I 447, 65015 Montesilvano PE",
         "addr:city": "Montesilvano",
@@ -3244,9 +3014,7 @@
         "addr:postcode": "65015",
         "contact:phone": "+39 389 631 4438",
         "opening_hours": "Mo-Th 12:30-15:30,19:00-23:00; Fr-Sa 12:30-15:30,19:00-23:30; Su 12:30-16:00,19:00-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Pescara\n**Indirizzo:** Corso Umberto I 447, 65015 Montesilvano PE, Montesilvano\n**Orari:** Mo-Th 12:30-15:30,19:00-23:00; Fr-Sa 12:30-15:30,19:00-23:30; Su 12:30-16:00,19:00-23:00\n**Telefono:** +39 389 631 4438"
       }
     },
     {
@@ -3264,7 +3032,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Peschiera del Garda",
         "branch": "Roadhouse Restaurant Peschiera del Garda",
         "full_address": "Località Mandella 12, 37019 Peschiera del Garda VR",
         "addr:city": "Peschiera del Garda",
@@ -3272,9 +3040,7 @@
         "addr:postcode": "37019",
         "contact:phone": "+39 045 640 2300",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr 12:00-15:00,18:30-23:00; Sa 12:00-15:00,18:30-23:30; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Peschiera del Garda\n**Indirizzo:** Località Mandella 12, 37019 Peschiera del Garda VR, Peschiera del Garda\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr 12:00-15:00,18:30-23:00; Sa 12:00-15:00,18:30-23:30; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 045 640 2300"
       }
     },
     {
@@ -3292,7 +3058,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT LISSONE",
         "branch": "ROADHOUSE RESTAURANT LISSONE",
         "full_address": "Via Francesco Cilea 2, 20851 Lissone MB",
         "addr:city": "Lissone",
@@ -3300,9 +3066,7 @@
         "addr:postcode": "20851",
         "contact:phone": "+39 039 278 1800",
         "opening_hours": "Mo-Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT LISSONE\n**Indirizzo:** Via Francesco Cilea 2, 20851 Lissone MB, Lissone\n**Orari:** Mo-Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 039 278 1800"
       }
     },
     {
@@ -3320,7 +3084,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Piacenza",
         "branch": "Roadhouse Restaurant Piacenza",
         "full_address": "Via Emilia Pavese 65, 29100 Piacenza PC",
         "addr:city": "Piacenza",
@@ -3328,9 +3092,7 @@
         "addr:postcode": "29100",
         "contact:phone": "+39 0523 497089",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Piacenza\n**Indirizzo:** Via Emilia Pavese 65, 29100 Piacenza PC, Piacenza\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 0523 497089"
       }
     },
     {
@@ -3348,7 +3110,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Pisa",
         "branch": "Roadhouse Restaurant Pisa",
         "full_address": "Via Aurelia Sud 2, 56121 Pisa PI",
         "addr:city": "Pisa",
@@ -3356,9 +3118,7 @@
         "addr:postcode": "56121",
         "contact:phone": "+39 349 973 0142",
         "opening_hours": "Mo-Th 12:00-15:00,19:00-23:00; Fr-Sa 12:00-15:00,19:00-23:30; Su 12:00-15:30,19:00-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Pisa\n**Indirizzo:** Via Aurelia Sud 2, 56121 Pisa PI, Pisa\n**Orari:** Mo-Th 12:00-15:00,19:00-23:00; Fr-Sa 12:00-15:00,19:00-23:30; Su 12:00-15:30,19:00-23:00\n**Telefono:** +39 349 973 0142"
       }
     },
     {
@@ -3376,7 +3136,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Prato",
         "branch": "Roadhouse Restaurant Prato",
         "full_address": "Via E. Berlinguer 195, 59100 Prato PO",
         "addr:city": "Prato",
@@ -3384,9 +3144,7 @@
         "addr:postcode": "59100",
         "contact:phone": "+39 0574 571712",
         "opening_hours": "Mo-Th 12:00-15:00,19:00-22:30; Fr 12:00-15:00,19:00-23:00; Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Prato\n**Indirizzo:** Via E. Berlinguer 195, 59100 Prato PO, Prato\n**Orari:** Mo-Th 12:00-15:00,19:00-22:30; Fr 12:00-15:00,19:00-23:00; Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 0574 571712"
       }
     },
     {
@@ -3404,7 +3162,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Lodi",
         "branch": "Roadhouse Restaurant Lodi",
         "full_address": "Via delle Nazioni Unite 1, 26854 Casale Sant'Antonio-Europa LO",
         "addr:city": "Casale Sant'Antonio-Europa",
@@ -3412,9 +3170,7 @@
         "addr:postcode": "26854",
         "contact:phone": "+39 0371 483134",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Lodi\n**Indirizzo:** Via delle Nazioni Unite 1, 26854 Casale Sant'Antonio-Europa LO, Casale Sant'Antonio-Europa\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 0371 483134"
       }
     },
     {
@@ -3432,7 +3188,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT MANTOVA",
         "branch": "ROADHOUSE RESTAURANT MANTOVA",
         "full_address": "Via Aldo Levoni 11, 46100 Mantova MN",
         "addr:city": "Mantova",
@@ -3440,9 +3196,7 @@
         "addr:postcode": "46100",
         "contact:phone": "+39 0376 248185",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT MANTOVA\n**Indirizzo:** Via Aldo Levoni 11, 46100 Mantova MN, Mantova\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 0376 248185"
       }
     },
     {
@@ -3460,7 +3214,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT MILANO CENTRALE",
         "branch": "ROADHOUSE RESTAURANT MILANO CENTRALE",
         "full_address": "Piazza Duca d'Aosta, 20124 Milano MI",
         "addr:city": "Milano",
@@ -3468,9 +3222,7 @@
         "addr:postcode": "20124",
         "contact:phone": "+39 02 6698 9377",
         "opening_hours": "Mo 10:00-22:00; Tu 11:00-22:00; We-Su 10:00-22:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT MILANO CENTRALE\n**Indirizzo:** Piazza Duca d'Aosta, 20124 Milano MI, Milano\n**Orari:** Mo 10:00-22:00; Tu 11:00-22:00; We-Su 10:00-22:00\n**Telefono:** +39 02 6698 9377"
       }
     },
     {
@@ -3488,7 +3240,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Rivoli",
         "branch": "Roadhouse Restaurant Rivoli",
         "full_address": "Corso L. Einaudi 80, 10098 Rivoli TO",
         "addr:city": "Rivoli",
@@ -3496,9 +3248,7 @@
         "addr:postcode": "10098",
         "contact:phone": "+39 389 511 4048",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr 12:00-15:00,18:30-23:00; Sa 12:00-15:30,18:30-23:00; Su 12:00-15:30,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Rivoli\n**Indirizzo:** Corso L. Einaudi 80, 10098 Rivoli TO, Rivoli\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr 12:00-15:00,18:30-23:00; Sa 12:00-15:30,18:30-23:00; Su 12:00-15:30,18:30-22:30\n**Telefono:** +39 389 511 4048"
       }
     },
     {
@@ -3516,7 +3266,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT MILANO SCALO",
         "branch": "ROADHOUSE RESTAURANT MILANO SCALO",
         "full_address": "Via Milano 5, 20085 Locate di Triulzi MI",
         "addr:city": "Locate di Triulzi",
@@ -3524,9 +3274,7 @@
         "addr:postcode": "20085",
         "contact:phone": "+39 02 9078 0020",
         "opening_hours": "Mo-Fr 11:30-15:00,18:30-23:00; Sa-Su 11:30-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT MILANO SCALO\n**Indirizzo:** Via Milano 5, 20085 Locate di Triulzi MI, Locate di Triulzi\n**Orari:** Mo-Fr 11:30-15:00,18:30-23:00; Sa-Su 11:30-23:00\n**Telefono:** +39 02 9078 0020"
       }
     },
     {
@@ -3544,7 +3292,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT MELEGNANO",
         "branch": "ROADHOUSE RESTAURANT MELEGNANO",
         "full_address": "Via Giuseppe Dossetti 2/D, 20080 Carpiano MI",
         "addr:city": "Carpiano",
@@ -3552,9 +3300,7 @@
         "addr:postcode": "20080",
         "contact:phone": "+39 02 981 5043",
         "opening_hours": "Mo-Sa 12:00-14:30,18:30-22:30; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT MELEGNANO\n**Indirizzo:** Via Giuseppe Dossetti 2/D, 20080 Carpiano MI, Carpiano\n**Orari:** Mo-Sa 12:00-14:30,18:30-22:30; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 02 981 5043"
       }
     },
     {
@@ -3572,7 +3318,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Reggio Emilia I Petali",
         "branch": "Roadhouse Reggio Emilia I Petali",
         "full_address": "Piazzale Atleti Azzuri D'Italia 5, 42122 Reggio Emilia RE",
         "addr:city": "Reggio Emilia",
@@ -3580,9 +3326,7 @@
         "addr:postcode": "42122",
         "contact:phone": "+39 0522 272470",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:00; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-22:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Reggio Emilia I Petali\n**Indirizzo:** Piazzale Atleti Azzuri D'Italia 5, 42122 Reggio Emilia RE, Reggio Emilia\n**Orari:** Mo-Th 12:00-15:00,18:30-22:00; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-22:00\n**Telefono:** +39 0522 272470"
       }
     },
     {
@@ -3600,7 +3344,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT MILANO BICOCCA",
         "branch": "ROADHOUSE RESTAURANT MILANO BICOCCA",
         "full_address": "Viale Sarca, 20122 Milano MI",
         "addr:city": "Milano",
@@ -3608,9 +3352,7 @@
         "addr:postcode": "20122",
         "contact:phone": "+39 335 264 388",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT MILANO BICOCCA\n**Indirizzo:** Viale Sarca, 20122 Milano MI, Milano\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 335 264 388"
       }
     },
     {
@@ -3628,7 +3370,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT OLGIATE COMASCO",
         "branch": "ROADHOUSE RESTAURANT OLGIATE COMASCO",
         "full_address": "Via Roma 116, 22077 Olgiate Comasco CO",
         "addr:city": "Olgiate Comasco",
@@ -3636,9 +3378,7 @@
         "addr:postcode": "22077",
         "contact:phone": "+39 031 942076",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT OLGIATE COMASCO\n**Indirizzo:** Via Roma 116, 22077 Olgiate Comasco CO, Olgiate Comasco\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 031 942076"
       }
     },
     {
@@ -3656,7 +3396,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Sesto Fiorentino",
         "branch": "Roadhouse Restaurant Sesto Fiorentino",
         "full_address": "Via del Cantone 49, 50019 Osmannoro FI",
         "addr:city": "Osmannoro",
@@ -3664,9 +3404,7 @@
         "addr:postcode": "50019",
         "contact:phone": "+39 055 374443",
         "opening_hours": "Mo-Tu 12:00-15:00,18:30-22:30; We 12:00-15:30,18:30-22:30; Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Sesto Fiorentino\n**Indirizzo:** Via del Cantone 49, 50019 Osmannoro FI, Osmannoro\n**Orari:** Mo-Tu 12:00-15:00,18:30-22:30; We 12:00-15:30,18:30-22:30; Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-22:30\n**Telefono:** +39 055 374443"
       }
     },
     {
@@ -3684,7 +3422,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT ORIO AL SERIO",
         "branch": "ROADHOUSE RESTAURANT ORIO AL SERIO",
         "full_address": "Via Toscana 12, 24052 Azzano San Paolo BG",
         "addr:city": "Azzano San Paolo",
@@ -3692,9 +3430,7 @@
         "addr:postcode": "24052",
         "contact:phone": "+39 035 316595",
         "opening_hours": "Mo-Su 11:30-15:00,18:30-22:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT ORIO AL SERIO\n**Indirizzo:** Via Toscana 12, 24052 Azzano San Paolo BG, Azzano San Paolo\n**Orari:** Mo-Su 11:30-15:00,18:30-22:00\n**Telefono:** +39 035 316595"
       }
     },
     {
@@ -3712,7 +3448,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT MONTANO LUCINO",
         "branch": "ROADHOUSE RESTAURANT MONTANO LUCINO",
         "full_address": "Via Adda, 22070 Montano CO",
         "addr:city": "Montano",
@@ -3720,9 +3456,7 @@
         "addr:postcode": "22070",
         "contact:phone": "+39 031 470700",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT MONTANO LUCINO\n**Indirizzo:** Via Adda, 22070 Montano CO, Montano\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 031 470700"
       }
     },
     {
@@ -3740,7 +3474,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Rovereto",
         "branch": "Roadhouse Restaurant Rovereto",
         "full_address": "Via dell'Abetone 53, 38068 Rovereto TN",
         "addr:city": "Rovereto",
@@ -3748,9 +3482,7 @@
         "addr:postcode": "38068",
         "contact:phone": "+39 0464 439184",
         "opening_hours": "Mo-Th 12:00-14:30,18:30-22:30; Fr-Sa 12:00-14:30,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Rovereto\n**Indirizzo:** Via dell'Abetone 53, 38068 Rovereto TN, Rovereto\n**Orari:** Mo-Th 12:00-14:30,18:30-22:30; Fr-Sa 12:00-14:30,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 0464 439184"
       }
     },
     {
@@ -3768,7 +3500,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Agrate Brianza",
         "branch": "Roadhouse Agrate Brianza",
         "full_address": "Via Giacomo Matteotti, 20864 Agrate Brianza MB",
         "addr:city": "Agrate Brianza",
@@ -3776,9 +3508,7 @@
         "addr:postcode": "20864",
         "contact:phone": "+39 320 755 3278",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Agrate Brianza\n**Indirizzo:** Via Giacomo Matteotti, 20864 Agrate Brianza MB, Agrate Brianza\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 320 755 3278"
       }
     },
     {
@@ -3796,7 +3526,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT PIOLTELLO",
         "branch": "ROADHOUSE RESTAURANT PIOLTELLO",
         "full_address": "Via Madre Teresa di Calcutta, 20096 Pioltello MI",
         "addr:city": "Pioltello",
@@ -3804,9 +3534,7 @@
         "addr:postcode": "20096",
         "contact:phone": "+39 02 9210 4287",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT PIOLTELLO\n**Indirizzo:** Via Madre Teresa di Calcutta, 20096 Pioltello MI, Pioltello\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 02 9210 4287"
       }
     },
     {
@@ -3824,7 +3552,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Pavia",
         "branch": "Roadhouse Restaurant Pavia",
         "full_address": "Via Filippo Turati 38/5, 27028 San Martino Siccomario PV",
         "addr:city": "San Martino Siccomario",
@@ -3832,9 +3560,7 @@
         "addr:postcode": "27028",
         "contact:phone": "+39 0382 521037",
         "opening_hours": "Mo-Th 12:00-14:30,18:30-22:00; Fr-Sa 12:00-14:30,18:30-22:30; Su 12:00-15:00,18:30-22:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Pavia\n**Indirizzo:** Via Filippo Turati 38/5, 27028 San Martino Siccomario PV, San Martino Siccomario\n**Orari:** Mo-Th 12:00-14:30,18:30-22:00; Fr-Sa 12:00-14:30,18:30-22:30; Su 12:00-15:00,18:30-22:00\n**Telefono:** +39 0382 521037"
       }
     },
     {
@@ -3852,7 +3578,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT ROVATO",
         "branch": "ROADHOUSE RESTAURANT ROVATO",
         "full_address": "Via Iseo 1/e, 25030 Erbusco BS",
         "addr:city": "Erbusco",
@@ -3860,9 +3586,7 @@
         "addr:postcode": "25030",
         "contact:phone": "+39 030 770 1263",
         "opening_hours": "Mo-Th 12:00-14:30,18:30-22:30; Fr-Sa 12:00-14:30,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT ROVATO\n**Indirizzo:** Via Iseo 1/e, 25030 Erbusco BS, Erbusco\n**Orari:** Mo-Th 12:00-14:30,18:30-22:30; Fr-Sa 12:00-14:30,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 030 770 1263"
       }
     },
     {
@@ -3880,7 +3604,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Trieste",
         "branch": "Roadhouse Restaurant Trieste",
         "full_address": "Via Flavia 104b, 34148 Trieste TS",
         "addr:city": "Trieste",
@@ -3888,9 +3612,7 @@
         "addr:postcode": "34148",
         "contact:phone": "+39 040 282 4266",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Trieste\n**Indirizzo:** Via Flavia 104b, 34148 Trieste TS, Trieste\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-22:30\n**Telefono:** +39 040 282 4266"
       }
     },
     {
@@ -3908,7 +3630,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT ROZZANO",
         "branch": "ROADHOUSE RESTAURANT ROZZANO",
         "full_address": "Via Valleambrosia 100, 20089 Rozzano MI",
         "addr:city": "Rozzano",
@@ -3916,9 +3638,7 @@
         "addr:postcode": "20089",
         "contact:phone": "+39 02 5750 6996",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT ROZZANO\n**Indirizzo:** Via Valleambrosia 100, 20089 Rozzano MI, Rozzano\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 02 5750 6996"
       }
     },
     {
@@ -3936,7 +3656,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT S. GIULIANO MILANESE",
         "branch": "ROADHOUSE RESTAURANT S. GIULIANO MILANESE",
         "full_address": "Via della Pace 26c, 20098 San Giuliano Milanese MI",
         "addr:city": "San Giuliano Milanese",
@@ -3944,9 +3664,7 @@
         "addr:postcode": "20098",
         "contact:phone": "+39 02 984 4211",
         "opening_hours": "Mo-Su 12:00-15:00,18:30-21:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT S. GIULIANO MILANESE\n**Indirizzo:** Via della Pace 26c, 20098 San Giuliano Milanese MI, San Giuliano Milanese\n**Orari:** Mo-Su 12:00-15:00,18:30-21:30\n**Telefono:** +39 02 984 4211"
       }
     },
     {
@@ -3964,7 +3682,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Vicenza Palladio",
         "branch": "Roadhouse Restaurant Vicenza Palladio",
         "full_address": "Strada Padana verso Padova, 36100 Vicenza VI",
         "addr:city": "Vicenza",
@@ -3972,9 +3690,7 @@
         "addr:postcode": "36100",
         "contact:phone": "+39 0444 911764",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-21:30; Fr-Sa 12:00-15:00,18:30-22:00; Su 12:00-15:00,18:30-21:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Vicenza Palladio\n**Indirizzo:** Strada Padana verso Padova, 36100 Vicenza VI, Vicenza\n**Orari:** Mo-Th 12:00-15:00,18:30-21:30; Fr-Sa 12:00-15:00,18:30-22:00; Su 12:00-15:00,18:30-21:30\n**Telefono:** +39 0444 911764"
       }
     },
     {
@@ -3992,7 +3708,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Vimodrone",
         "branch": "Roadhouse Restaurant Vimodrone",
         "full_address": "Via XXV Aprile, 20090 Vimodrone MI",
         "addr:city": "Vimodrone",
@@ -4000,9 +3716,7 @@
         "addr:postcode": "20090",
         "contact:phone": "+39 02 250 5308",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Vimodrone\n**Indirizzo:** Via XXV Aprile, 20090 Vimodrone MI, Vimodrone\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 02 250 5308"
       }
     },
     {
@@ -4020,7 +3734,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT SARCA",
         "branch": "ROADHOUSE RESTAURANT SARCA",
         "full_address": "Via Milanese, 20099 Sesto San Giovanni MI",
         "addr:city": "Sesto San Giovanni",
@@ -4028,9 +3742,7 @@
         "addr:postcode": "20099",
         "contact:phone": "+39 02 248 1669",
         "opening_hours": "Mo-Th 12:00-14:30,18:30-22:00; Fr-Sa 12:00-14:30,18:30-22:30; Su 12:00-14:30,18:30-22:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT SARCA\n**Indirizzo:** Via Milanese, 20099 Sesto San Giovanni MI, Sesto San Giovanni\n**Orari:** Mo-Th 12:00-14:30,18:30-22:00; Fr-Sa 12:00-14:30,18:30-22:30; Su 12:00-14:30,18:30-22:00\n**Telefono:** +39 02 248 1669"
       }
     },
     {
@@ -4048,7 +3760,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT SEGRATE",
         "branch": "ROADHOUSE RESTAURANT SEGRATE",
         "full_address": "Via Rivoltana 64, 20090 Novegro-Tregarezzo MI",
         "addr:city": "Novegro-Tregarezzo",
@@ -4056,9 +3768,7 @@
         "addr:postcode": "20090",
         "contact:phone": "+39 02 7020 0212",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT SEGRATE\n**Indirizzo:** Via Rivoltana 64, 20090 Novegro-Tregarezzo MI, Novegro-Tregarezzo\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:30,18:30-23:00\n**Telefono:** +39 02 7020 0212"
       }
     },
     {
@@ -4076,7 +3786,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT SARONNO",
         "branch": "ROADHOUSE RESTAURANT SARONNO",
         "full_address": "Viale Lombardia, 21047 Saronno VA",
         "addr:city": "Saronno",
@@ -4084,9 +3794,7 @@
         "addr:postcode": "21047",
         "contact:phone": "+39 02 960 3118",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT SARONNO\n**Indirizzo:** Viale Lombardia, 21047 Saronno VA, Saronno\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 02 960 3118"
       }
     },
     {
@@ -4104,7 +3812,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Pescara",
         "branch": "Roadhouse Restaurant Pescara",
         "full_address": "Corso Umberto I 447, 65015 Montesilvano PE",
         "addr:city": "Montesilvano",
@@ -4112,9 +3820,7 @@
         "addr:postcode": "65015",
         "contact:phone": "+39 389 631 4438",
         "opening_hours": "Mo-Th 12:30-15:30,19:00-23:00; Fr-Sa 12:30-15:30,19:00-23:30; Su 12:30-16:00,19:00-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Pescara\n**Indirizzo:** Corso Umberto I 447, 65015 Montesilvano PE, Montesilvano\n**Orari:** Mo-Th 12:30-15:30,19:00-23:00; Fr-Sa 12:30-15:30,19:00-23:30; Su 12:30-16:00,19:00-23:00\n**Telefono:** +39 389 631 4438"
       }
     },
     {
@@ -4132,7 +3838,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT SONDRIO",
         "branch": "ROADHOUSE RESTAURANT SONDRIO",
         "full_address": "Via Ezio Vanoni 74, 23012 Castione Andevenno SO",
         "addr:city": "Castione Andevenno",
@@ -4140,9 +3846,7 @@
         "addr:postcode": "23012",
         "contact:phone": "+39 0342 358085",
         "opening_hours": "Mo-Th 12:00-14:30,18:30-22:00; Fr-Sa 12:00-14:30,18:30-23:00; Su 12:00-15:00,18:30-22:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT SONDRIO\n**Indirizzo:** Via Ezio Vanoni 74, 23012 Castione Andevenno SO, Castione Andevenno\n**Orari:** Mo-Th 12:00-14:30,18:30-22:00; Fr-Sa 12:00-14:30,18:30-23:00; Su 12:00-15:00,18:30-22:00\n**Telefono:** +39 0342 358085"
       }
     },
     {
@@ -4160,7 +3864,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Tradate",
         "branch": "Roadhouse Restaurant Tradate",
         "full_address": "Via Monte San Michele 52, 21049 Tradate VA",
         "addr:city": "Tradate",
@@ -4168,9 +3872,7 @@
         "addr:postcode": "21049",
         "contact:phone": "+39 0331 841680",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:30; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Tradate\n**Indirizzo:** Via Monte San Michele 52, 21049 Tradate VA, Tradate\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:30; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 0331 841680"
       }
     },
     {
@@ -4188,7 +3890,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Forlì",
         "branch": "Roadhouse Restaurant Forlì",
         "full_address": "Via Liliana Vasumini, 47122 Forlì FC",
         "addr:city": "Forlì",
@@ -4196,9 +3898,7 @@
         "addr:postcode": "47122",
         "contact:phone": "+39 328 031 1750",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Forlì\n**Indirizzo:** Via Liliana Vasumini, 47122 Forlì FC, Forlì\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 328 031 1750"
       }
     },
     {
@@ -4216,7 +3916,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT TREZZANO",
         "branch": "ROADHOUSE RESTAURANT TREZZANO",
         "full_address": "Viale Cristoforo Colombo 13, 20090 Trezzano sul Naviglio MI",
         "addr:city": "Trezzano sul Naviglio",
@@ -4224,9 +3924,7 @@
         "addr:postcode": "20090",
         "contact:phone": "+39 02 4840 3782",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT TREZZANO\n**Indirizzo:** Viale Cristoforo Colombo 13, 20090 Trezzano sul Naviglio MI, Trezzano sul Naviglio\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 02 4840 3782"
       }
     },
     {
@@ -4244,7 +3942,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT TREVIGLIO",
         "branch": "ROADHOUSE RESTAURANT TREVIGLIO",
         "full_address": "Via Bergamo 42, 24047 Treviglio BG",
         "addr:city": "Treviglio",
@@ -4252,9 +3950,7 @@
         "addr:postcode": "24047",
         "contact:phone": "+39 0363 49545",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:00; Fr-Sa 12:00-15:00,18:30-22:30; Su 12:00-15:00,18:30-22:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT TREVIGLIO\n**Indirizzo:** Via Bergamo 42, 24047 Treviglio BG, Treviglio\n**Orari:** Mo-Th 12:00-15:00,18:30-22:00; Fr-Sa 12:00-15:00,18:30-22:30; Su 12:00-15:00,18:30-22:00\n**Telefono:** +39 0363 49545"
       }
     },
     {
@@ -4272,7 +3968,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "ROADHOUSE RESTAURANT VARESE",
         "branch": "ROADHOUSE RESTAURANT VARESE",
         "full_address": "Via Giuseppe Verdi 26, 21020 Buguggiate VA",
         "addr:city": "Buguggiate",
@@ -4280,9 +3976,7 @@
         "addr:postcode": "21020",
         "contact:phone": "+39 0332 490033",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:30; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** ROADHOUSE RESTAURANT VARESE\n**Indirizzo:** Via Giuseppe Verdi 26, 21020 Buguggiate VA, Buguggiate\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:30; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 0332 490033"
       }
     },
     {
@@ -4300,7 +3994,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Milano Porta garibaldi",
         "branch": "Roadhouse Restaurant Milano Porta garibaldi",
         "full_address": "Piazza Sigmund Freud 1, 20124 Milano MI",
         "addr:city": "Milano",
@@ -4308,9 +4002,7 @@
         "addr:postcode": "20124",
         "contact:phone": "+39 389 522 0683",
         "opening_hours": "Mo-Sa 11:00-15:00,18:00-21:00; Su 12:00-22:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Milano Porta garibaldi\n**Indirizzo:** Piazza Sigmund Freud 1, 20124 Milano MI, Milano\n**Orari:** Mo-Sa 11:00-15:00,18:00-21:00; Su 12:00-22:00\n**Telefono:** +39 389 522 0683"
       }
     },
     {
@@ -4328,7 +4020,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Sassari",
         "branch": "Roadhouse Restaurant Sassari",
         "full_address": "Viale Porto Torres, 07100 Sassari SS",
         "addr:city": "Sassari",
@@ -4336,9 +4028,7 @@
         "addr:postcode": "07100",
         "contact:phone": "+39 328 544 0546",
         "opening_hours": "Mo-Th 12:00-15:30,19:00-23:00; Fr-Sa 12:00-15:30,19:00-23:30; Su 12:00-15:30,19:00-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Sassari\n**Indirizzo:** Viale Porto Torres, 07100 Sassari SS, Sassari\n**Orari:** Mo-Th 12:00-15:30,19:00-23:00; Fr-Sa 12:00-15:30,19:00-23:30; Su 12:00-15:30,19:00-23:00\n**Telefono:** +39 328 544 0546"
       }
     },
     {
@@ -4356,7 +4046,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Roma Ardeatina",
         "branch": "Roadhouse Restaurant Roma Ardeatina",
         "full_address": "Via Ardeatina 950, 00154 Roma RM",
         "addr:city": "Roma",
@@ -4364,9 +4054,7 @@
         "addr:postcode": "00154",
         "contact:phone": "+39 06 7135 0644",
         "opening_hours": "Mo-Th 12:30-15:00,19:00-22:30; Fr 12:30-15:00,19:00-22:00; Sa 12:30-15:00,19:00-23:00; Su 12:30-15:30,19:00-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Roma Ardeatina\n**Indirizzo:** Via Ardeatina 950, 00154 Roma RM, Roma\n**Orari:** Mo-Th 12:30-15:00,19:00-22:30; Fr 12:30-15:00,19:00-22:00; Sa 12:30-15:00,19:00-23:00; Su 12:30-15:30,19:00-22:30\n**Telefono:** +39 06 7135 0644"
       }
     },
     {
@@ -4384,7 +4072,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Pomezia",
         "branch": "Roadhouse Restaurant Pomezia",
         "full_address": "Largo Goffredo Mameli 20, 00071 Pomezia RM",
         "addr:city": "Pomezia",
@@ -4392,9 +4080,7 @@
         "addr:postcode": "00071",
         "contact:phone": "+39 06 9160 1646",
         "opening_hours": "Mo-Th 12:30-15:00,19:00-22:30; Fr-Sa 12:30-15:00,19:00-23:00; Su 12:30-15:30,19:00-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Pomezia\n**Indirizzo:** Largo Goffredo Mameli 20, 00071 Pomezia RM, Pomezia\n**Orari:** Mo-Th 12:30-15:00,19:00-22:30; Fr-Sa 12:30-15:00,19:00-23:00; Su 12:30-15:30,19:00-22:30\n**Telefono:** +39 06 9160 1646"
       }
     },
     {
@@ -4412,7 +4098,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Gran Roma",
         "branch": "Roadhouse Restaurant Gran Roma",
         "full_address": "Viale Marisa Bellisario, 00155 Roma RM",
         "addr:city": "Roma",
@@ -4420,9 +4106,7 @@
         "addr:postcode": "00155",
         "contact:phone": "+39 06 2275 4411",
         "opening_hours": "Mo-Fr 12:00-15:30,18:30-22:00; Sa-Su 12:00-22:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Gran Roma\n**Indirizzo:** Viale Marisa Bellisario, 00155 Roma RM, Roma\n**Orari:** Mo-Fr 12:00-15:30,18:30-22:00; Sa-Su 12:00-22:00\n**Telefono:** +39 06 2275 4411"
       }
     },
     {
@@ -4440,7 +4124,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Roma Salario Center",
         "branch": "Roadhouse Restaurant Roma Salario Center",
         "full_address": "Via Salaria 665, 00138 Roma RM",
         "addr:city": "Roma",
@@ -4448,9 +4132,7 @@
         "addr:postcode": "00138",
         "contact:phone": "+39 06 810 6605",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-21:30; Fr 12:00-15:00,18:30-22:00; Sa 12:00-15:30,18:30-22:00; Su 12:00-15:30,18:30-21:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Roma Salario Center\n**Indirizzo:** Via Salaria 665, 00138 Roma RM, Roma\n**Orari:** Mo-Th 12:00-15:00,18:30-21:30; Fr 12:00-15:00,18:30-22:00; Sa 12:00-15:30,18:30-22:00; Su 12:00-15:30,18:30-21:30\n**Telefono:** +39 06 810 6605"
       }
     },
     {
@@ -4468,7 +4150,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Roma Da Vinci",
         "branch": "Roadhouse Restaurant Roma Da Vinci",
         "full_address": "Piazza Antonio Meucci 5, 00053 Fiumicino RM",
         "addr:city": "Fiumicino",
@@ -4476,9 +4158,7 @@
         "addr:postcode": "00053",
         "contact:phone": "+39 06 6500 2217",
         "opening_hours": "Mo-Th 12:00-15:30,18:30-22:00; Fr 12:00-15:30,18:30-22:30; Sa 12:00-22:30; Su 12:00-22:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Roma Da Vinci\n**Indirizzo:** Piazza Antonio Meucci 5, 00053 Fiumicino RM, Fiumicino\n**Orari:** Mo-Th 12:00-15:30,18:30-22:00; Fr 12:00-15:30,18:30-22:30; Sa 12:00-22:30; Su 12:00-22:00\n**Telefono:** +39 06 6500 2217"
       }
     },
     {
@@ -4496,7 +4176,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Roma Termini",
         "branch": "Roadhouse Restaurant Roma Termini",
         "full_address": "Via Marsala 27, 00185 Roma RM",
         "addr:city": "Roma",
@@ -4504,9 +4184,7 @@
         "addr:postcode": "00185",
         "contact:phone": "+39 06 4890 7344",
         "opening_hours": "Mo-Su 11:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Roma Termini\n**Indirizzo:** Via Marsala 27, 00185 Roma RM, Roma\n**Orari:** Mo-Su 11:30-22:30\n**Telefono:** +39 06 4890 7344"
       }
     },
     {
@@ -4524,7 +4202,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Roma Boccea",
         "branch": "Roadhouse Restaurant Roma Boccea",
         "full_address": "Via del Quartaccio 1/9, 00166 Roma RM",
         "addr:city": "Roma",
@@ -4532,9 +4210,7 @@
         "addr:postcode": "00166",
         "contact:phone": "+39 06 624 0825",
         "opening_hours": "Mo-Th 12:30-15:00,19:00-22:30; Fr-Sa 12:30-15:00,19:00-23:00; Su 12:30-15:00,19:00-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Roma Boccea\n**Indirizzo:** Via del Quartaccio 1/9, 00166 Roma RM, Roma\n**Orari:** Mo-Th 12:30-15:00,19:00-22:30; Fr-Sa 12:30-15:00,19:00-23:00; Su 12:30-15:00,19:00-22:30\n**Telefono:** +39 06 624 0825"
       }
     },
     {
@@ -4552,7 +4228,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Roma Tiburtina",
         "branch": "Roadhouse Restaurant Roma Tiburtina",
         "full_address": "Via Tiburtina 1227, 00131 Roma RM",
         "addr:city": "Roma",
@@ -4560,9 +4236,7 @@
         "addr:postcode": "00131",
         "contact:phone": "+39 06 4140 4481",
         "opening_hours": "Mo-Th 12:30-15:00,19:00-22:30; Fr-Sa 12:30-15:00,19:00-23:00; Su 12:00-15:30,19:00-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Roma Tiburtina\n**Indirizzo:** Via Tiburtina 1227, 00131 Roma RM, Roma\n**Orari:** Mo-Th 12:30-15:00,19:00-22:30; Fr-Sa 12:30-15:00,19:00-23:00; Su 12:00-15:30,19:00-22:30\n**Telefono:** +39 06 4140 4481"
       }
     },
     {
@@ -4580,7 +4254,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Roma Trastevere",
         "branch": "Roadhouse Restaurant Roma Trastevere",
         "full_address": "Piazza Ippolito Nievo 33, 00153 Roma RM",
         "addr:city": "Roma",
@@ -4588,9 +4262,7 @@
         "addr:postcode": "00153",
         "contact:phone": "+39 06 580 9414",
         "opening_hours": "Mo-Th 12:30-15:00,18:30-23:00; Fr-Sa 12:30-15:00,18:30-23:30; Su 12:30-15:30,18:30-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Roma Trastevere\n**Indirizzo:** Piazza Ippolito Nievo 33, 00153 Roma RM, Roma\n**Orari:** Mo-Th 12:30-15:00,18:30-23:00; Fr-Sa 12:30-15:00,18:30-23:30; Su 12:30-15:30,18:30-23:00\n**Telefono:** +39 06 580 9414"
       }
     },
     {
@@ -4608,7 +4280,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Castel Romano",
         "branch": "Roadhouse Restaurant Castel Romano",
         "full_address": "Via del Ponte di Piscina Cupa, 00128 Castel Romano RM",
         "addr:city": "Castel Romano",
@@ -4616,9 +4288,7 @@
         "addr:postcode": "00128",
         "contact:phone": "+39 06 5057 6768",
         "opening_hours": "Mo-Th 12:00-15:30,18:30-22:00; Fr 12:00-15:30,18:30-22:30; Sa 12:00-22:30; Su 12:00-22:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Castel Romano\n**Indirizzo:** Via del Ponte di Piscina Cupa, 00128 Castel Romano RM, Castel Romano\n**Orari:** Mo-Th 12:00-15:30,18:30-22:00; Fr 12:00-15:30,18:30-22:30; Sa 12:00-22:30; Su 12:00-22:00\n**Telefono:** +39 06 5057 6768"
       }
     },
     {
@@ -4636,7 +4306,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Roma Eur",
         "branch": "Roadhouse Restaurant Roma Eur",
         "full_address": "Via dei Georgofili, 00147 Roma RM",
         "addr:city": "Roma",
@@ -4644,9 +4314,7 @@
         "addr:postcode": "00147",
         "contact:phone": "+39 06 541 4293",
         "opening_hours": "Mo-Th 12:30-15:00,19:00-22:30; Fr-Sa 12:30-15:00,19:00-23:00; Su 12:30-15:00,19:00-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Roma Eur\n**Indirizzo:** Via dei Georgofili, 00147 Roma RM, Roma\n**Orari:** Mo-Th 12:30-15:00,19:00-22:30; Fr-Sa 12:30-15:00,19:00-23:00; Su 12:30-15:00,19:00-22:30\n**Telefono:** +39 06 541 4293"
       }
     },
     {
@@ -4664,7 +4332,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Roma Romanina",
         "branch": "Roadhouse Restaurant Roma Romanina",
         "full_address": "Via Enrico Ferri 8, 00173 Roma RM",
         "addr:city": "Roma",
@@ -4672,9 +4340,7 @@
         "addr:postcode": "00173",
         "contact:phone": "+39 06 7267 1867",
         "opening_hours": "Mo-Th 12:00-15:30,18:30-21:30; Fr 12:00-15:30,18:30-22:00; Sa 12:00-22:00; Su 12:00-21:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Roma Romanina\n**Indirizzo:** Via Enrico Ferri 8, 00173 Roma RM, Roma\n**Orari:** Mo-Th 12:00-15:30,18:30-21:30; Fr 12:00-15:30,18:30-22:00; Sa 12:00-22:00; Su 12:00-21:30\n**Telefono:** +39 06 7267 1867"
       }
     },
     {
@@ -4692,7 +4358,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Perugia",
         "branch": "Roadhouse Restaurant Perugia",
         "full_address": "Viale Giovanni Perari, 06125 Perugia PG",
         "addr:city": "Perugia",
@@ -4700,9 +4366,7 @@
         "addr:postcode": "06125",
         "contact:phone": "+39 075 505 8623",
         "opening_hours": "Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Perugia\n**Indirizzo:** Viale Giovanni Perari, 06125 Perugia PG, Perugia\n**Orari:** Mo-Th 12:00-15:00,18:30-22:30; Fr-Sa 12:00-15:00,18:30-23:00; Su 12:00-15:00,18:30-22:30\n**Telefono:** +39 075 505 8623"
       }
     },
     {
@@ -4720,7 +4384,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Roma Battistini",
         "branch": "Roadhouse Restaurant Roma Battistini",
         "full_address": "Via Mattia Battistini 7, 00168 Roma RM",
         "addr:city": "Roma",
@@ -4728,9 +4392,7 @@
         "addr:postcode": "00168",
         "contact:phone": "+39 06 627 6336",
         "opening_hours": "Mo-Th 12:30-15:00,19:00-22:30; Fr-Sa 12:30-15:00,19:00-23:00; Su 12:30-15:00,19:00-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Roma Battistini\n**Indirizzo:** Via Mattia Battistini 7, 00168 Roma RM, Roma\n**Orari:** Mo-Th 12:30-15:00,19:00-22:30; Fr-Sa 12:30-15:00,19:00-23:00; Su 12:30-15:00,19:00-22:30\n**Telefono:** +39 06 627 6336"
       }
     },
     {
@@ -4748,7 +4410,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Roma Torre Spaccata",
         "branch": "Roadhouse Restaurant Roma Torre Spaccata",
         "full_address": "Via di Torre Spaccata 110, 00173 Roma RM",
         "addr:city": "Roma",
@@ -4756,9 +4418,7 @@
         "addr:postcode": "00173",
         "contact:phone": "+39 06 263526",
         "opening_hours": "Mo-Th 12:30-15:00,19:00-22:30; Fr-Sa 12:30-15:00,19:00-23:00; Su 12:30-15:00,19:00-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Roma Torre Spaccata\n**Indirizzo:** Via di Torre Spaccata 110, 00173 Roma RM, Roma\n**Orari:** Mo-Th 12:30-15:00,19:00-22:30; Fr-Sa 12:30-15:00,19:00-23:00; Su 12:30-15:00,19:00-22:30\n**Telefono:** +39 06 263526"
       }
     },
     {
@@ -4776,7 +4436,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Roma Salaria",
         "branch": "Roadhouse Restaurant Roma Salaria",
         "full_address": "Via Salaria 1350, 00138 Roma RM",
         "addr:city": "Roma",
@@ -4784,9 +4444,7 @@
         "addr:postcode": "00138",
         "contact:phone": "+39 06 888 8255",
         "opening_hours": "Mo-Th 12:30-15:00,19:00-22:30; Fr-Sa 12:30-15:00,19:00-23:00; Su 12:30-15:30,19:00-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Roma Salaria\n**Indirizzo:** Via Salaria 1350, 00138 Roma RM, Roma\n**Orari:** Mo-Th 12:30-15:00,19:00-22:30; Fr-Sa 12:30-15:00,19:00-23:00; Su 12:30-15:30,19:00-22:30\n**Telefono:** +39 06 888 8255"
       }
     },
     {
@@ -4804,7 +4462,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Viterbo",
         "branch": "Roadhouse Restaurant Viterbo",
         "full_address": "Via Cassia Nord, 01100 Viterbo VT",
         "addr:city": "Viterbo",
@@ -4812,9 +4470,7 @@
         "addr:postcode": "01100",
         "contact:phone": "+39 389 116 6333",
         "opening_hours": "Mo-Th 12:00-15:00,19:00-22:30; Fr-Sa 12:00-15:00,19:00-23:00; Su 12:00-15:30,19:00-22:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Viterbo\n**Indirizzo:** Via Cassia Nord, 01100 Viterbo VT, Viterbo\n**Orari:** Mo-Th 12:00-15:00,19:00-22:30; Fr-Sa 12:00-15:00,19:00-23:00; Su 12:00-15:30,19:00-22:30\n**Telefono:** +39 389 116 6333"
       }
     },
     {
@@ -4832,7 +4488,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Terni",
         "branch": "Roadhouse Restaurant Terni",
         "full_address": "Strada di San Martino 122, 05100 Terni TR",
         "addr:city": "Terni",
@@ -4840,9 +4496,7 @@
         "addr:postcode": "05100",
         "contact:phone": "+39 389 114 5170",
         "opening_hours": "Mo-We 12:00-15:00,19:00-23:00; Th 12:00-15:00,19:25-23:00; Fr-Sa 12:00-15:00,19:00-23:30; Su 12:00-15:00,19:00-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Terni\n**Indirizzo:** Strada di San Martino 122, 05100 Terni TR, Terni\n**Orari:** Mo-We 12:00-15:00,19:00-23:00; Th 12:00-15:00,19:25-23:00; Fr-Sa 12:00-15:00,19:00-23:30; Su 12:00-15:00,19:00-23:00\n**Telefono:** +39 389 114 5170"
       }
     },
     {
@@ -4860,7 +4514,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Cagliari Viale Marconi",
         "branch": "Roadhouse Restaurant Cagliari Viale Marconi",
         "full_address": "Viale Marconi 41, 09131 Cagliari CA",
         "addr:city": "Cagliari",
@@ -4868,9 +4522,7 @@
         "addr:postcode": "09131",
         "contact:phone": "+39 388 854 3278",
         "opening_hours": "Mo-Th 12:00-15:30,18:30-23:00; Fr 12:00-15:30,18:30-23:30; Sa 12:00-15:30,18:30-23:00; Su 12:00-16:00,18:30-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Cagliari Viale Marconi\n**Indirizzo:** Viale Marconi 41, 09131 Cagliari CA, Cagliari\n**Orari:** Mo-Th 12:00-15:30,18:30-23:00; Fr 12:00-15:30,18:30-23:30; Sa 12:00-15:30,18:30-23:00; Su 12:00-16:00,18:30-23:00\n**Telefono:** +39 388 854 3278"
       }
     },
     {
@@ -4888,7 +4540,7 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Foggia",
         "branch": "Foggia",
         "full_address": "Viale degli Aviatori 126, 71122 Foggia FG",
         "addr:city": "Foggia",
@@ -4896,9 +4548,7 @@
         "addr:postcode": "71122",
         "contact:phone": "+39 393 656 3279",
         "opening_hours": "Mo-Su 12:00-15:00,19:00-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Foggia\n**Indirizzo:** Viale degli Aviatori 126, 71122 Foggia FG, Foggia\n**Orari:** Mo-Su 12:00-15:00,19:00-23:00\n**Telefono:** +39 393 656 3279"
       }
     },
     {
@@ -4916,17 +4566,15 @@
         "amenity": "fast_food",
         "brand": "Roadhouse",
         "cuisine": "steak_house",
-        "name": "Roadhouse Restaurant",
+        "name": "Roadhouse Restaurant Cagliari Fass",
         "branch": "Roadhouse Restaurant Cagliari Fass",
         "full_address": "Viale Elmas 216, 09067 Zona Industriale Casic Città metropolitana di Cagliari",
         "addr:city": "Zona Industriale Casic",
         "addr:street": "Viale Elmas 216",
         "addr:postcode": "09067",
-        "contact:phone": "N/A",
+        "contact:phone": null,
         "opening_hours": "Mo-Su 12:00-23:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Roadhouse\n**Sede:** Roadhouse Restaurant Cagliari Fass\n**Indirizzo:** Viale Elmas 216, 09067 Zona Industriale Casic Città metropolitana di Cagliari, Zona Industriale Casic\n**Orari:** Mo-Su 12:00-23:00"
       }
     }
   ]

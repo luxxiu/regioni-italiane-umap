@@ -13,7 +13,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Antegnate",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via del Commercio, 3",
@@ -21,11 +21,7 @@
         "addr:postcode": "24051",
         "contact:phone": "+393899032325",
         "opening_hours": "Mo-Su 11:30-21:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via del Commercio, 3, Antegnate\n**Orari:** Mo-Su 11:30-21:00\n**Telefono:** +393899032325"
       }
     },
     {
@@ -40,7 +36,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Aosta",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Località Grand Chemin, 156",
@@ -48,11 +44,7 @@
         "addr:postcode": "11020",
         "contact:phone": "+390165548654",
         "opening_hours": "Mo-We 12:00-15:00|18:00-22:00; Th-Fr 12:00-15:00|18:00-23:00; Sa-Su 12:00-15:00|18:00-22:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Località Grand Chemin, 156, Saint-christophe\n**Orari:** Mo-We 12:00-15:00|18:00-22:00; Th-Fr 12:00-15:00|18:00-23:00; Sa-Su 12:00-15:00|18:00-22:00\n**Telefono:** +390165548654"
       }
     },
     {
@@ -67,7 +59,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Aprilia",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via Riserva Nuova, 4",
@@ -75,11 +67,7 @@
         "addr:postcode": "04011",
         "contact:phone": "+393203244718",
         "opening_hours": "Mo-Su 11:30-21:30",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via Riserva Nuova, 4, Aprilia\n**Orari:** Mo-Su 11:30-21:30\n**Telefono:** +393203244718"
       }
     },
     {
@@ -94,7 +82,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Arese",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via Giuseppe Eugenio Luraghi, 11",
@@ -102,11 +90,7 @@
         "addr:postcode": "20020",
         "contact:phone": "+393457788215",
         "opening_hours": "Mo-Su 12:00-22:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via Giuseppe Eugenio Luraghi, 11, Arese\n**Orari:** Mo-Su 12:00-22:00\n**Telefono:** +393457788215"
       }
     },
     {
@@ -121,7 +105,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Assago",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Viale della Fonte Lunga",
@@ -129,11 +113,7 @@
         "addr:postcode": "20057",
         "contact:phone": "+3933279723121",
         "opening_hours": "Mo-We 11:30-22:30; Th-Fr 11:30-24:00; Sa 11:00-22:30; Su 11:30-22:30",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Viale della Fonte Lunga, Assago\n**Orari:** Mo-We 11:30-22:30; Th-Fr 11:30-24:00; Sa 11:00-22:30; Su 11:30-22:30\n**Telefono:** +3933279723121"
       }
     },
     {
@@ -148,7 +128,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Bari C.C Bari Blu",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Contrada Giannavello",
@@ -156,11 +136,7 @@
         "addr:postcode": "70019",
         "contact:phone": "+393278073816",
         "opening_hours": "Mo-Su 11:00-22:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Contrada Giannavello, Triggiano\n**Orari:** Mo-Su 11:00-22:00\n**Telefono:** +393278073816"
       }
     },
     {
@@ -175,7 +151,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Bellinzago Novarese",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "c/o C.C. Airone, Via della Libertà, 23",
@@ -183,11 +159,7 @@
         "addr:postcode": "28043",
         "contact:phone": "+390321985815",
         "opening_hours": "Mo-Su 12:00-22:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** c/o C.C. Airone, Via della Libertà, 23, Bellinzago novarese\n**Orari:** Mo-Su 12:00-22:00\n**Telefono:** +390321985815"
       }
     },
     {
@@ -202,7 +174,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Belluno",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via Tiziano Vecellio",
@@ -210,11 +182,7 @@
         "addr:postcode": "32100",
         "contact:phone": "+390437931765",
         "opening_hours": "Mo-We 11:30-22:00; Th-Fr 11:30-22:30; Sa-Su 11:30-22:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via Tiziano Vecellio, Belluno\n**Orari:** Mo-We 11:30-22:00; Th-Fr 11:30-22:30; Sa-Su 11:30-22:00\n**Telefono:** +390437931765"
       }
     },
     {
@@ -229,7 +197,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "BOLOGNA CASALECCHIO",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via Antonio de Curtis",
@@ -237,11 +205,7 @@
         "addr:postcode": "40033",
         "contact:phone": "+393804938772",
         "opening_hours": "Mo-Su 11:30-22:30",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via Antonio de Curtis, Casalecchio\n**Orari:** Mo-Su 11:30-22:30\n**Telefono:** +393804938772"
       }
     },
     {
@@ -256,7 +220,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Bologna Stalingrado",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Stalingrado, Via Stalingrado, 40",
@@ -264,11 +228,7 @@
         "addr:postcode": "40100",
         "contact:phone": "+390513527000",
         "opening_hours": "Mo-Su 12:00-15:00|18:30-22:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Stalingrado, Via Stalingrado, 40, Bologna\n**Orari:** Mo-Su 12:00-15:00|18:30-22:00\n**Telefono:** +390513527000"
       }
     },
     {
@@ -283,7 +243,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Brindisi",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "SS7, 712",
@@ -291,11 +251,7 @@
         "addr:postcode": "72100",
         "contact:phone": "+393278073865",
         "opening_hours": "Mo-Su 12:00-21:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** SS7, 712, Brindisi\n**Orari:** Mo-Su 12:00-21:00\n**Telefono:** +393278073865"
       }
     },
     {
@@ -310,7 +266,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Busnago",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via Enrico Berlinguer, 48 Centro Commerciale Globo",
@@ -318,11 +274,7 @@
         "addr:postcode": "20872",
         "contact:phone": "+390396095079",
         "opening_hours": "Mo-We 11:30-22:00; Th-Fr 11:30-22:30; Sa-Su 11:30-22:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via Enrico Berlinguer, 48 Centro Commerciale Globo, Cornate D'adda\n**Orari:** Mo-We 11:30-22:00; Th-Fr 11:30-22:30; Sa-Su 11:30-22:00\n**Telefono:** +390396095079"
       }
     },
     {
@@ -337,7 +289,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Cagliari",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via S. Simone, 60",
@@ -345,11 +297,7 @@
         "addr:postcode": "09122",
         "contact:phone": "+393276640173",
         "opening_hours": "Mo-Su 11:30-21:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via S. Simone, 60, Cagliari\n**Orari:** Mo-Su 11:30-21:00\n**Telefono:** +393276640173"
       }
     },
     {
@@ -364,7 +312,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Carpi",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via delle Magliaie, 5/7",
@@ -372,11 +320,7 @@
         "addr:postcode": "41012",
         "contact:phone": "+393802455511",
         "opening_hours": "Mo-Su 12:00-15:00|18:00-22:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via delle Magliaie, 5/7, Carpi\n**Orari:** Mo-Su 12:00-15:00|18:00-22:00\n**Telefono:** +393802455511"
       }
     },
     {
@@ -391,7 +335,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Catania",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Centro Sicilia, SP54",
@@ -399,11 +343,7 @@
         "addr:postcode": "95045",
         "contact:phone": "+390957493411",
         "opening_hours": "Mo-Th 12:00-21:30; Fr-Sa 12:00-22:00; Su 12:00-21:30",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Centro Sicilia, SP54, Misterbianco\n**Orari:** Mo-Th 12:00-21:30; Fr-Sa 12:00-22:00; Su 12:00-21:30\n**Telefono:** +390957493411"
       }
     },
     {
@@ -418,7 +358,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Catania Etnapolis",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Località Valcorrente, 23",
@@ -426,11 +366,7 @@
         "addr:postcode": "95032",
         "contact:phone": "+393278073854",
         "opening_hours": "Mo-Th 12:00-23:00; Fr-Sa 12:00-24:00; Su 12:00-23:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Località Valcorrente, 23, Belpasso\n**Orari:** Mo-Th 12:00-23:00; Fr-Sa 12:00-24:00; Su 12:00-23:00\n**Telefono:** +393278073854"
       }
     },
     {
@@ -445,7 +381,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Chivasso",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via Peppino Impastato",
@@ -453,11 +389,7 @@
         "addr:postcode": "10034",
         "contact:phone": "+393274605756",
         "opening_hours": "Mo-We 12:00-22:30; Th-Sa 12:00-23:00; Su 12:00-22:30",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via Peppino Impastato, Chivasso\n**Orari:** Mo-We 12:00-22:30; Th-Sa 12:00-23:00; Su 12:00-22:30\n**Telefono:** +393274605756"
       }
     },
     {
@@ -472,7 +404,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Città Sant'Angelo",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via Moscarola, 94",
@@ -480,11 +412,7 @@
         "addr:postcode": "65013",
         "contact:phone": "+393204070654",
         "opening_hours": "Mo-Th 11:30-22:00; Fr-Sa 11:30-23:00; Su 11:30-22:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via Moscarola, 94, Citta' Sant'Angelo\n**Orari:** Mo-Th 11:30-22:00; Fr-Sa 11:30-23:00; Su 11:30-22:00\n**Telefono:** +393204070654"
       }
     },
     {
@@ -499,7 +427,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Civitanova Marche",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via S. Costantino, 98",
@@ -507,11 +435,7 @@
         "addr:postcode": "62012",
         "contact:phone": "+390733775687",
         "opening_hours": "Mo-Su 12:00-22:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via S. Costantino, 98, Civitanova Marche\n**Orari:** Mo-Su 12:00-22:00\n**Telefono:** +390733775687"
       }
     },
     {
@@ -526,7 +450,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Corbetta",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via Simone da Corbetta, 51",
@@ -534,11 +458,7 @@
         "addr:postcode": "20011",
         "contact:phone": "+390297480132",
         "opening_hours": "Mo-Su 11:30-23:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via Simone da Corbetta, 51, Corbetta\n**Orari:** Mo-Su 11:30-23:00\n**Telefono:** +390297480132"
       }
     },
     {
@@ -553,7 +473,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Cuneo",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via Margarita, 8",
@@ -561,11 +481,7 @@
         "addr:postcode": "12100",
         "contact:phone": "+393204468630",
         "opening_hours": "Mo-Su 11:30-21:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via Margarita, 8, Cuneo\n**Orari:** Mo-Su 11:30-21:00\n**Telefono:** +393204468630"
       }
     },
     {
@@ -580,7 +496,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Desenzano",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via Marconi ang, Via E. Andreis",
@@ -588,11 +504,7 @@
         "addr:postcode": "25015",
         "contact:phone": "+390309914643",
         "opening_hours": "Mo-Su 12:00-22:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via Marconi ang, Via E. Andreis, Desenzano del Garda\n**Orari:** Mo-Su 12:00-22:00\n**Telefono:** +390309914643"
       }
     },
     {
@@ -607,7 +519,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Empoli",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via Raffaello Sanzio, 199",
@@ -615,11 +527,7 @@
         "addr:postcode": "50053",
         "contact:phone": "+393201320022",
         "opening_hours": "Mo-Su 11:00-20:30",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via Raffaello Sanzio, 199, Empoli\n**Orari:** Mo-Su 11:00-20:30\n**Telefono:** +393201320022"
       }
     },
     {
@@ -634,7 +542,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Erbusco",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Centro Commerciale Le Porte Franche, Via Rovato, 44",
@@ -642,11 +550,7 @@
         "addr:postcode": "25030",
         "contact:phone": "+393207553177",
         "opening_hours": "Mo-Su 11:30-21:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Centro Commerciale Le Porte Franche, Via Rovato, 44, Erbusco\n**Orari:** Mo-Su 11:30-21:00\n**Telefono:** +393207553177"
       }
     },
     {
@@ -661,7 +565,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Fidenza",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via Federico Fellini",
@@ -669,11 +573,7 @@
         "addr:postcode": "43036",
         "contact:phone": "+390524520263",
         "opening_hours": "Mo-We 11:30-22:00; Th-Fr 11:30-22:30; Sa-Su 11:30-22:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via Federico Fellini, Fidenza\n**Orari:** Mo-We 11:30-22:00; Th-Fr 11:30-22:30; Sa-Su 11:30-22:00\n**Telefono:** +390524520263"
       }
     },
     {
@@ -688,7 +588,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Forlì",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via Argentina Altobelli",
@@ -696,11 +596,7 @@
         "addr:postcode": "47122",
         "contact:phone": "+393280311750",
         "opening_hours": "Mo-Su 11:30-22:30",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via Argentina Altobelli, Forlì\n**Orari:** Mo-Su 11:30-22:30\n**Telefono:** +393280311750"
       }
     },
     {
@@ -715,7 +611,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Garbagnate",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via Peloritana, SP233",
@@ -723,11 +619,7 @@
         "addr:postcode": "20024",
         "contact:phone": "+390299022111",
         "opening_hours": "Mo-We 11:30-15:00|18:30-22:30; Th-Fr 11:30-15:00|18:30-23:00; Sa 11:30-15:30|18:30-23:30; Su 11:30-15:00|18:30-22:30",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via Peloritana, SP233, Garbagnate Milanese\n**Orari:** Mo-We 11:30-15:00|18:30-22:30; Th-Fr 11:30-15:00|18:30-23:00; Sa 11:30-15:30|18:30-23:30; Su 11:30-15:00|18:30-22:30\n**Telefono:** +390299022111"
       }
     },
     {
@@ -742,7 +634,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Genova",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Corso Sardegna, 165",
@@ -750,11 +642,7 @@
         "addr:postcode": "16142",
         "contact:phone": "+393202727337",
         "opening_hours": "Mo-Su 11:30-22:30",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Corso Sardegna, 165, Genova\n**Orari:** Mo-Su 11:30-22:30\n**Telefono:** +393202727337"
       }
     },
     {
@@ -769,7 +657,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Gravellona Toce",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Corso Guglielmo Marconi, 42-44",
@@ -777,11 +665,7 @@
         "addr:postcode": "28883",
         "contact:phone": "+393299618150",
         "opening_hours": "Mo-We 11:30-21:00; Th-Fr 11:30-22:00; Sa-Su 11:30-21:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Corso Guglielmo Marconi, 42-44, Gravellona Toce\n**Orari:** Mo-We 11:30-21:00; Th-Fr 11:30-22:00; Sa-Su 11:30-21:00\n**Telefono:** +393299618150"
       }
     },
     {
@@ -796,7 +680,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Grosseto",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Viale Europa, 10",
@@ -804,11 +688,7 @@
         "addr:postcode": "58100",
         "contact:phone": "+393280431887",
         "opening_hours": "Mo-We 11:30-22:30; Th-Fr 11:30-23:00; Sa-Su 11:30-22:30",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Viale Europa, 10, Grosseto\n**Orari:** Mo-We 11:30-22:30; Th-Fr 11:30-23:00; Sa-Su 11:30-22:30\n**Telefono:** +393280431887"
       }
     },
     {
@@ -823,7 +703,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Imola",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Viale Giovanni Amendola, 129",
@@ -831,11 +711,7 @@
         "addr:postcode": "40026",
         "contact:phone": "+393277103732",
         "opening_hours": "Mo-Fr 11:30-21:00; Sa 11:30-20:00; Su 11:30-21:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Viale Giovanni Amendola, 129, Imola\n**Orari:** Mo-Fr 11:30-21:00; Sa 11:30-20:00; Su 11:30-21:00\n**Telefono:** +393277103732"
       }
     },
     {
@@ -850,7 +726,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Ivrea",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Corso Vercelli",
@@ -858,11 +734,7 @@
         "addr:postcode": "10015",
         "contact:phone": "+393889765139",
         "opening_hours": "Mo-Tu 12:00-15:00|18:30-22:30; We 12:15---:--|18:30-22:30; Th-Su 12:00-15:00|18:30-22:30",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Corso Vercelli, Ivrea\n**Orari:** Mo-Tu 12:00-15:00|18:30-22:30; We 12:15---:--|18:30-22:30; Th-Su 12:00-15:00|18:30-22:30\n**Telefono:** +393889765139"
       }
     },
     {
@@ -877,7 +749,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "La Spezia",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "GALLERIA CENTRO COMMERCIALE, Via Fontevivo, 17",
@@ -885,11 +757,7 @@
         "addr:postcode": "19125",
         "contact:phone": "+390187520852",
         "opening_hours": "Mo-We 11:30-22:00; Th-Fr 11:30-22:30; Sa-Su 11:30-22:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** GALLERIA CENTRO COMMERCIALE, Via Fontevivo, 17, La Spezia\n**Orari:** Mo-We 11:30-22:00; Th-Fr 11:30-22:30; Sa-Su 11:30-22:00\n**Telefono:** +390187520852"
       }
     },
     {
@@ -904,7 +772,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Livorno",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via Gaetano D'Alesio, 2",
@@ -912,11 +780,7 @@
         "addr:postcode": "57126",
         "contact:phone": "+393889732450",
         "opening_hours": "Mo-Su 11:30-22:30",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via Gaetano D'Alesio, 2, Livorno\n**Orari:** Mo-Su 11:30-22:30\n**Telefono:** +393889732450"
       }
     },
     {
@@ -931,7 +795,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Macerata",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via Enrico Mattei, 177",
@@ -939,11 +803,7 @@
         "addr:postcode": "62014",
         "contact:phone": "+390733775687",
         "opening_hours": "Mo-Su 12:00-22:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via Enrico Mattei, 177, Corridonia\n**Orari:** Mo-Su 12:00-22:00\n**Telefono:** +390733775687"
       }
     },
     {
@@ -958,7 +818,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Mantova",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via Aldo Levoni, 11",
@@ -966,11 +826,7 @@
         "addr:postcode": "46100",
         "contact:phone": "+393891395407",
         "opening_hours": "Mo-We 11:30-22:30; Th-Fr 11:30-23:00; Sa-Su 11:30-22:30",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via Aldo Levoni, 11, Mantova\n**Orari:** Mo-We 11:30-22:30; Th-Fr 11:30-23:00; Sa-Su 11:30-22:30\n**Telefono:** +393891395407"
       }
     },
     {
@@ -985,7 +841,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Merlata Bloom",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via Gottlieb Wilhelm Daimler",
@@ -993,11 +849,7 @@
         "addr:postcode": "20156",
         "contact:phone": "+393279841265",
         "opening_hours": "Mo-Su 11:00-23:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via Gottlieb Wilhelm Daimler, Milano\n**Orari:** Mo-Su 11:00-23:00\n**Telefono:** +393279841265"
       }
     },
     {
@@ -1012,7 +864,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Milano Bicocca",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "V.le Sarca ang. Via Chiese, c/o Bicocca Village",
@@ -1020,11 +872,7 @@
         "addr:postcode": "20126",
         "contact:phone": "+39026436823",
         "opening_hours": "Mo-Su 12:00-22:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** V.le Sarca ang. Via Chiese, c/o Bicocca Village, Milano\n**Orari:** Mo-Su 12:00-22:00\n**Telefono:** +39026436823"
       }
     },
     {
@@ -1039,7 +887,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Milano CityLife",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Piazza Tre Torri, 143",
@@ -1047,11 +895,7 @@
         "addr:postcode": "20145",
         "contact:phone": "+3902437626",
         "opening_hours": "Mo-Su 11:30-23:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Piazza Tre Torri, 143, Milano\n**Orari:** Mo-Su 11:30-23:00\n**Telefono:** +3902437626"
       }
     },
     {
@@ -1066,7 +910,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Milano P.ta Garibaldi",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Viale Luigi Sturzo, 2",
@@ -1074,11 +918,7 @@
         "addr:postcode": "20124",
         "contact:phone": "+393281776979",
         "opening_hours": "Mo-Su 10:00-22:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Viale Luigi Sturzo, 2, Milano\n**Orari:** Mo-Su 10:00-22:00\n**Telefono:** +393281776979"
       }
     },
     {
@@ -1093,7 +933,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Milano Scalo",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via Milano, 5",
@@ -1101,11 +941,7 @@
         "addr:postcode": "20085",
         "contact:phone": "+393473859817",
         "opening_hours": "Mo-Su 11:30-23:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via Milano, 5, Locate di Triulzi\n**Orari:** Mo-Su 11:30-23:00\n**Telefono:** +393473859817"
       }
     },
     {
@@ -1120,7 +956,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Milano Vulcano",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Viale Italia, C.C Vulcano, 555",
@@ -1128,11 +964,7 @@
         "addr:postcode": "20099",
         "contact:phone": "+390266048199",
         "opening_hours": "Mo-Su 11:30-21:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Viale Italia, C.C Vulcano, 555, Sesto San Giovanni\n**Orari:** Mo-Su 11:30-21:00\n**Telefono:** +390266048199"
       }
     },
     {
@@ -1147,7 +979,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Olbia",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "CC Olbia Mare, Via Cesare Pavese, 2",
@@ -1155,11 +987,7 @@
         "addr:postcode": "07026",
         "contact:phone": "+393276469459",
         "opening_hours": "Mo-Su 11:30-21:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** CC Olbia Mare, Via Cesare Pavese, 2, Olbia\n**Orari:** Mo-Su 11:30-21:00\n**Telefono:** +393276469459"
       }
     },
     {
@@ -1174,7 +1002,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Orio Center",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via Portico, 71",
@@ -1182,11 +1010,7 @@
         "addr:postcode": "24050",
         "contact:phone": "+390354596413",
         "opening_hours": "Mo-Su 08:30-22:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via Portico, 71, Orio al Serio\n**Orari:** Mo-Su 08:30-22:00\n**Telefono:** +390354596413"
       }
     },
     {
@@ -1201,7 +1025,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Padova",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via Pietro Donà, 2",
@@ -1209,11 +1033,7 @@
         "addr:postcode": "35100",
         "contact:phone": "+393279046695",
         "opening_hours": "Mo-We 11:30-23:00; Th-Fr 11:30-23:30; Sa-Su 11:30-23:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via Pietro Donà, 2, Padova\n**Orari:** Mo-We 11:30-23:00; Th-Fr 11:30-23:30; Sa-Su 11:30-23:00\n**Telefono:** +393279046695"
       }
     },
     {
@@ -1228,7 +1048,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Parma CC - La Galleria Billy Tacos",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via Emilia Est, 7B",
@@ -1236,11 +1056,7 @@
         "addr:postcode": "43121",
         "contact:phone": "+393204471239",
         "opening_hours": "Mo-We 11:30-23:00; Th-Fr 11:30-23:30; Sa-Su 11:30-23:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via Emilia Est, 7B, Parma\n**Orari:** Mo-We 11:30-23:00; Th-Fr 11:30-23:30; Sa-Su 11:30-23:00\n**Telefono:** +393204471239"
       }
     },
     {
@@ -1255,7 +1071,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Piacenza",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via Emilia Pavese, 65",
@@ -1263,11 +1079,7 @@
         "addr:postcode": "29121",
         "contact:phone": "+393247425213",
         "opening_hours": "Mo-We 11:30-22:00; Th-Fr 11:30-22:30; Sa-Su 11:30-22:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via Emilia Pavese, 65, Piacenza\n**Orari:** Mo-We 11:30-22:00; Th-Fr 11:30-22:30; Sa-Su 11:30-22:00\n**Telefono:** +393247425213"
       }
     },
     {
@@ -1282,7 +1094,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Pompei",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via Macello, 22",
@@ -1290,11 +1102,7 @@
         "addr:postcode": "80045",
         "contact:phone": "+393202495676",
         "opening_hours": "Mo-Th 12:00-23:00; Fr-Sa 12:00-24:00; Su 12:00-23:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via Macello, 22, Pompei\n**Orari:** Mo-Th 12:00-23:00; Fr-Sa 12:00-24:00; Su 12:00-23:00\n**Telefono:** +393202495676"
       }
     },
     {
@@ -1309,7 +1117,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Prato",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via E. Berlinguer, 195",
@@ -1317,11 +1125,7 @@
         "addr:postcode": "59100",
         "contact:phone": "+390574571712",
         "opening_hours": "Mo-Su 11:30-22:30",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via E. Berlinguer, 195, Prato\n**Orari:** Mo-Su 11:30-22:30\n**Telefono:** +390574571712"
       }
     },
     {
@@ -1336,7 +1140,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Reggio Emilia - CC I Petali",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Piazzale Atleti Azzuri D'Italia, 5",
@@ -1344,11 +1148,7 @@
         "addr:postcode": "42122",
         "contact:phone": "+393884253495",
         "opening_hours": "Mo-We 12:00-23:00; Th-Fr 12:00-24:00; Sa-Su 12:00-23:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Piazzale Atleti Azzuri D'Italia, 5, Reggio Emilia\n**Orari:** Mo-We 12:00-23:00; Th-Fr 12:00-24:00; Sa-Su 12:00-23:00\n**Telefono:** +393884253495"
       }
     },
     {
@@ -1363,7 +1163,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Rivoli",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Corso L. Einaudi, 80",
@@ -1371,11 +1171,7 @@
         "addr:postcode": "10098",
         "contact:phone": "+393294467536",
         "opening_hours": "Mo-We 12:00-22:30; Th-Fr 12:00-23:00; Sa-Su 12:00-22:30",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Corso L. Einaudi, 80, Rivoli\n**Orari:** Mo-We 12:00-22:30; Th-Fr 12:00-23:00; Sa-Su 12:00-22:30\n**Telefono:** +393294467536"
       }
     },
     {
@@ -1390,7 +1186,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Roma c.c. Gran Roma",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "GranRoma, Via Aristide Merloni, 141",
@@ -1398,11 +1194,7 @@
         "addr:postcode": "00155",
         "contact:phone": "+39062251734",
         "opening_hours": "Mo-Su 12:00-21:30",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** GranRoma, Via Aristide Merloni, 141, Roma\n**Orari:** Mo-Su 12:00-21:30\n**Telefono:** +39062251734"
       }
     },
     {
@@ -1417,7 +1209,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Roma c.c. Maximo",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via Laurentina, 865",
@@ -1425,11 +1217,7 @@
         "addr:postcode": "00143",
         "contact:phone": "+393895109236",
         "opening_hours": "Mo-Su 11:30-23:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via Laurentina, 865, Roma\n**Orari:** Mo-Su 11:30-23:00\n**Telefono:** +393895109236"
       }
     },
     {
@@ -1444,7 +1232,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Roma Trastevere",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Piazza Ippolito Nievo, 33",
@@ -1452,11 +1240,7 @@
         "addr:postcode": "00153",
         "contact:phone": "+39065809414",
         "opening_hours": "Mo-We 11:30-22:00; Th-Fr 11:30-22:30; Sa-Su 11:30-22:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Piazza Ippolito Nievo, 33, Roma\n**Orari:** Mo-We 11:30-22:00; Th-Fr 11:30-22:30; Sa-Su 11:30-22:00\n**Telefono:** +39065809414"
       }
     },
     {
@@ -1471,7 +1255,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "S. Giovanni Lupatoto",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via Dott. F. Garofoli, 205",
@@ -1479,11 +1263,7 @@
         "addr:postcode": "37057",
         "contact:phone": "+390458779157",
         "opening_hours": "Fr 12:00-14:15|--:-----:--; Sa --:-----:--|12:00-14:15",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via Dott. F. Garofoli, 205, San Giovanni Lupatoto\n**Orari:** Fr 12:00-14:15|--:-----:--; Sa --:-----:--|12:00-14:15\n**Telefono:** +390458779157"
       }
     },
     {
@@ -1498,7 +1278,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Sassari",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Viale Porto Torres",
@@ -1506,11 +1286,7 @@
         "addr:postcode": "07100",
         "contact:phone": "+393203213117",
         "opening_hours": "Mo-Th 11:30-22:30; Fr-Sa 11:30-23:30; Su 11:30-22:30",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Viale Porto Torres, Sassari\n**Orari:** Mo-Th 11:30-22:30; Fr-Sa 11:30-23:30; Su 11:30-22:30\n**Telefono:** +393203213117"
       }
     },
     {
@@ -1525,7 +1301,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Segrate Idroscalo",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via Rivoltana, 64",
@@ -1533,11 +1309,7 @@
         "addr:postcode": "20090",
         "contact:phone": "+393351200122",
         "opening_hours": "Mo-We 12:00-22:30; Th-Fr 12:00-23:00; Sa-Su 12:00-22:30",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via Rivoltana, 64, Segrate\n**Orari:** Mo-We 12:00-22:30; Th-Fr 12:00-23:00; Sa-Su 12:00-22:30\n**Telefono:** +393351200122"
       }
     },
     {
@@ -1552,7 +1324,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Sesto Fiorentino",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via del Cantone, 49",
@@ -1560,11 +1332,7 @@
         "addr:postcode": "50019",
         "contact:phone": "+393427414173",
         "opening_hours": "Mo-We 11:30-22:30; Th-Fr 11:30-23:00; Sa-Su 11:30-22:30",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via del Cantone, 49, Sesto Fiorentino\n**Orari:** Mo-We 11:30-22:30; Th-Fr 11:30-23:00; Sa-Su 11:30-22:30\n**Telefono:** +393427414173"
       }
     },
     {
@@ -1579,7 +1347,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Terni",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Str. di S. Martino, 122",
@@ -1587,11 +1355,7 @@
         "addr:postcode": "05100",
         "contact:phone": "+393891145170",
         "opening_hours": "Mo-Su 11:30-22:30",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Str. di S. Martino, 122, Terni\n**Orari:** Mo-Su 11:30-22:30\n**Telefono:** +393891145170"
       }
     },
     {
@@ -1606,7 +1370,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Torino Moncalieri",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via Fortunato Postiglione, 1",
@@ -1614,11 +1378,7 @@
         "addr:postcode": "10024",
         "contact:phone": "+390116813757",
         "opening_hours": "Mo-Su 12:00-23:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via Fortunato Postiglione, 1, Moncalieri\n**Orari:** Mo-Su 12:00-23:00\n**Telefono:** +390116813757"
       }
     },
     {
@@ -1633,7 +1393,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Torino Vinovo",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Str. Debouchè",
@@ -1641,11 +1401,7 @@
         "addr:postcode": "10042",
         "contact:phone": "+393284016313",
         "opening_hours": "Mo-We 12:00-22:30; Th-Sa 12:00-23:00; Su 12:00-22:30",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Str. Debouchè, Nichelino\n**Orari:** Mo-We 12:00-22:30; Th-Sa 12:00-23:00; Su 12:00-22:30\n**Telefono:** +393284016313"
       }
     },
     {
@@ -1660,7 +1416,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Treviso",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Viale della Repubblica, 1",
@@ -1668,11 +1424,7 @@
         "addr:postcode": "31100",
         "contact:phone": "+39042223687",
         "opening_hours": "Mo-We 12:00-15:00|18:00-22:30; Th 12:00-15:00|18:00-23:00; Fr 12:00-23:00; Sa 12:00-22:30; Su 12:00-15:00|18:00-22:30",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Viale della Repubblica, 1, Treviso\n**Orari:** Mo-We 12:00-15:00|18:00-22:30; Th 12:00-15:00|18:00-23:00; Fr 12:00-23:00; Sa 12:00-22:30; Su 12:00-15:00|18:00-22:30\n**Telefono:** +39042223687"
       }
     },
     {
@@ -1687,7 +1439,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Treviso Sud",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via Giovanni Sartorelli, 4",
@@ -1695,11 +1447,7 @@
         "addr:postcode": "31057",
         "contact:phone": "+390422363181",
         "opening_hours": "Mo-Su 11:30-23:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via Giovanni Sartorelli, 4, Silea\n**Orari:** Mo-Su 11:30-23:00\n**Telefono:** +390422363181"
       }
     },
     {
@@ -1714,7 +1462,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Trieste",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via Flavia, 104c",
@@ -1722,11 +1470,7 @@
         "addr:postcode": "34147",
         "contact:phone": "+390402824266",
         "opening_hours": "Mo-We 11:30-22:00; Th-Fr 11:30-22:30; Sa-Su 11:30-22:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via Flavia, 104c, Trieste\n**Orari:** Mo-We 11:30-22:00; Th-Fr 11:30-22:30; Sa-Su 11:30-22:00\n**Telefono:** +390402824266"
       }
     },
     {
@@ -1741,7 +1485,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Verona Grande Mela",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Via Trentino, 1",
@@ -1749,11 +1493,7 @@
         "addr:postcode": "37060",
         "contact:phone": "+393249263327",
         "opening_hours": "Mo-Su 11:30-21:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Via Trentino, 1, Sona\n**Orari:** Mo-Su 11:30-21:00\n**Telefono:** +393249263327"
       }
     },
     {
@@ -1768,7 +1508,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Vicenza",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Str. Padana Verso Verona, 11",
@@ -1776,11 +1516,7 @@
         "addr:postcode": "36100",
         "contact:phone": "+393351914681",
         "opening_hours": "Mo-We 11:30-22:00; Th-Sa 11:30-24:00; Su 11:30-22:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Str. Padana Verso Verona, 11, Vicenza\n**Orari:** Mo-We 11:30-22:00; Th-Sa 11:30-24:00; Su 11:30-22:00\n**Telefono:** +393351914681"
       }
     },
     {
@@ -1795,7 +1531,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Vicenza c.c. Palladio",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Str. Padana verso Padova, 60 Centro Commerciale Palladio",
@@ -1803,11 +1539,7 @@
         "addr:postcode": "36100",
         "contact:phone": "+39444239506",
         "opening_hours": "Mo-Th 11:30-21:30; Fr-Sa 11:30-22:00; Su 11:30-21:30",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Str. Padana verso Padova, 60 Centro Commerciale Palladio, Vicenza\n**Orari:** Mo-Th 11:30-21:30; Fr-Sa 11:30-22:00; Su 11:30-21:30\n**Telefono:** +39444239506"
       }
     },
     {
@@ -1822,7 +1554,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Vicolungo",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Piazza Santa Caterina 1, c/o, The Style Outlets",
@@ -1830,11 +1562,7 @@
         "addr:postcode": "28060",
         "contact:phone": "+390321875960",
         "opening_hours": "Mo-We 11:30-20:00; Th-Sa 11:30-21:00; Su 11:30-20:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Piazza Santa Caterina 1, c/o, The Style Outlets, Vicolungo\n**Orari:** Mo-We 11:30-20:00; Th-Sa 11:30-21:00; Su 11:30-20:00\n**Telefono:** +390321875960"
       }
     },
     {
@@ -1849,7 +1577,7 @@
       "properties": {
         "amenity": "fast_food",
         "cuisine": "mexican;taco",
-        "name": "Vimercate",
+        "name": "Billy Tacos",
         "brand": "Billy Tacos",
         "brand:wikidata": "Q121289139",
         "addr:street": "Centro Commerciale, Via Torri Bianche, 1",
@@ -1857,11 +1585,7 @@
         "addr:postcode": "20871",
         "contact:phone": "+39039668623",
         "opening_hours": "Mo-Th 12:00-15:00|18:00-23:00; Fr-Sa 12:00-15:00|18:00-22:30; Su 12:00-15:00|18:00-23:00",
-        "branch": "N/A",
-        "full_address": "N/A",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Billy Tacos\n**Indirizzo:** Centro Commerciale, Via Torri Bianche, 1, Torri Bianche\n**Orari:** Mo-Th 12:00-15:00|18:00-23:00; Fr-Sa 12:00-15:00|18:00-22:30; Su 12:00-15:00|18:00-23:00\n**Telefono:** +39039668623"
       }
     }
   ]

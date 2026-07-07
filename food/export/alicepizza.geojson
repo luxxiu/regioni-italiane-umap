@@ -16,16 +16,14 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Mesagne",
         "branch": "Mesagne",
         "full_address": "SS7, KM 10,0 c/o Centro Commerciale AppiAntica, 72023 Mesagne BR",
         "addr:city": "Italia",
         "contact:phone": "0687805655",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-mesagne/",
         "opening_hours": "Mo-Su 11:00-21:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Mesagne\n**Indirizzo:** SS7, KM 10,0 c/o Centro Commerciale AppiAntica, 72023 Mesagne BR, Italia\n**Orari:** Mo-Su 11:00-21:30\n**Telefono:** 0687805655"
       }
     },
     {
@@ -43,16 +41,14 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Elmas",
         "branch": "Elmas",
         "full_address": "FASS Shopping Centre, Viale Elmas, 09067 Cagliari CA",
         "addr:city": "Cagliari",
         "contact:phone": "0240703328",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-elmas/",
         "opening_hours": "Mo-Su 10:00-24:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Elmas\n**Indirizzo:** FASS Shopping Centre, Viale Elmas, 09067 Cagliari CA, Cagliari\n**Orari:** Mo-Su 10:00-24:00\n**Telefono:** 0240703328"
       }
     },
     {
@@ -70,16 +66,14 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "I Fenicotteri",
         "branch": "I Fenicotteri",
         "full_address": "Via S. Simone, 60, 09122 Cagliari CA",
         "addr:city": "Cagliari",
         "contact:phone": "0687805655",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-i-fenicotteri/",
         "opening_hours": "Mo-Su 9:00-21:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** I Fenicotteri\n**Indirizzo:** Via S. Simone, 60, 09122 Cagliari CA, Cagliari\n**Orari:** Mo-Su 9:00-21:00\n**Telefono:** 0687805655"
       }
     },
     {
@@ -97,16 +91,14 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Genova Waterfront",
         "branch": "Genova Waterfront",
         "full_address": "P.le John Fitzgerald Kennedy, 1, 16129 Genova GE",
         "addr:city": "Genova",
         "contact:phone": "+39 02 4070 3328",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-genova-waterfront/",
         "opening_hours": "Mo-Th 8:30-23:00,8:30-24:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Genova Waterfront\n**Indirizzo:** P.le John Fitzgerald Kennedy, 1, 16129 Genova GE, Genova\n**Orari:** Mo-Th 8:30-23:00,8:30-24:00\n**Telefono:** +39 02 4070 3328"
       }
     },
     {
@@ -124,16 +116,14 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Brescia Sant'Anna",
         "branch": "Brescia Sant'Anna",
         "full_address": "V. Valcamonica, 25126 Brescia BS",
         "addr:city": "Brescia",
         "contact:phone": "0240703328",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-brescia-santanna/",
         "opening_hours": "Mo-Su 11:00-20:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Brescia Sant'Anna\n**Indirizzo:** V. Valcamonica, 25126 Brescia BS, Brescia\n**Orari:** Mo-Su 11:00-20:00\n**Telefono:** 0240703328"
       }
     },
     {
@@ -151,16 +141,14 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Bolzano",
         "branch": "Bolzano",
         "full_address": "Via Galileo Galilei 20 c/o CC Twenty, 39100 Bolzano (BZ)",
         "addr:city": "Bolzano",
         "contact:phone": "0471253447",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-bolzano/",
         "opening_hours": "Mo-Su 11:00-21:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Bolzano\n**Indirizzo:** Via Galileo Galilei 20 c/o CC Twenty, 39100 Bolzano (BZ), Bolzano\n**Orari:** Mo-Su 11:00-21:30\n**Telefono:** 0471253447"
       }
     },
     {
@@ -178,16 +166,14 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Castelguelfo",
         "branch": "Castelguelfo",
         "full_address": "Via del Commercio, 4/2, 40023 Poggio Piccolo BO",
         "addr:city": "Bologna",
         "contact:phone": "0240703328",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-castelguelfo/",
         "opening_hours": "Mo-Fr 10:00-20:00; Su 10:00-21:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Castelguelfo\n**Indirizzo:** Via del Commercio, 4/2, 40023 Poggio Piccolo BO, Bologna\n**Orari:** Mo-Fr 10:00-20:00; Su 10:00-21:00\n**Telefono:** 0240703328"
       }
     },
     {
@@ -205,16 +191,14 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Centrolame",
         "branch": "Centrolame",
         "full_address": "Via Marco Polo, 3, 40131 Bologna BO c/o Centro Commerciale Centrolame",
         "addr:city": "Bologna",
         "contact:phone": "0240703328",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-centrolame/",
         "opening_hours": "Mo-Sa 11:00-21:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Centrolame\n**Indirizzo:** Via Marco Polo, 3, 40131 Bologna BO c/o Centro Commerciale Centrolame, Bologna\n**Orari:** Mo-Sa 11:00-21:00\n**Telefono:** 0240703328"
       }
     },
     {
@@ -232,16 +216,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Cagliari Garibaldi",
         "branch": "Cagliari Garibaldi",
         "full_address": "Via Giuseppe Garibaldi, 144-146, 09125 Cagliari CA",
         "addr:city": "Cagliari",
         "contact:phone": "07015257643",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-cagliari-garibaldi/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Cagliari Garibaldi\n**Indirizzo:** Via Giuseppe Garibaldi, 144-146, 09125 Cagliari CA, Cagliari\n**Telefono:** 07015257643"
       }
     },
     {
@@ -259,16 +240,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Serpenti",
         "branch": "Serpenti",
         "full_address": "Via dei Serpenti 20",
         "addr:city": "Roma",
         "contact:phone": "06 8780 5655",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-serpenti/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Serpenti\n**Indirizzo:** Via dei Serpenti 20, Roma\n**Telefono:** 06 8780 5655"
       }
     },
     {
@@ -286,16 +264,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Flaminio",
         "branch": "Flaminio",
         "full_address": "Via Giulio Romano, 17, 00196 Roma RM",
         "addr:city": "Roma",
         "contact:phone": "0662286790",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-flaminio/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Flaminio\n**Indirizzo:** Via Giulio Romano, 17, 00196 Roma RM, Roma\n**Telefono:** 0662286790"
       }
     },
     {
@@ -313,16 +288,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "CC Le Sorgenti",
         "branch": "CC Le Sorgenti",
         "full_address": "Via armando vona , 20 C/O C.c. Le Sorgenti ",
         "addr:city": "Frosinone",
         "contact:phone": "07751772009",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-cc-le-sorgenti/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** CC Le Sorgenti\n**Indirizzo:** Via armando vona , 20 C/O C.c. Le Sorgenti , Frosinone\n**Telefono:** 07751772009"
       }
     },
     {
@@ -340,16 +312,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Varese",
         "branch": "Varese",
         "full_address": "Via Morosini, 17, Varese",
         "addr:city": "Varese",
         "contact:phone": "0332480132",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-varese/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Varese\n**Indirizzo:** Via Morosini, 17, Varese, Varese\n**Telefono:** 0332480132"
       }
     },
     {
@@ -367,16 +336,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "7 chiese",
         "branch": "7 chiese",
         "full_address": "Largo delle Sette Chiese 13/13A, Roma",
         "addr:city": "Roma",
         "contact:phone": "065141247",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-7-chiese/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** 7 chiese\n**Indirizzo:** Largo delle Sette Chiese 13/13A, Roma, Roma\n**Telefono:** 065141247"
       }
     },
     {
@@ -394,16 +360,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Largo Ravenna",
         "branch": "Largo Ravenna",
         "full_address": "Largo Ravenna 1, Roma (RM)",
         "addr:city": "Roma",
         "contact:phone": "0696009476",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-largo-ravenna/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Largo Ravenna\n**Indirizzo:** Largo Ravenna 1, Roma (RM), Roma\n**Telefono:** 0696009476"
       }
     },
     {
@@ -421,16 +384,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Aura",
         "branch": "Aura",
         "full_address": "Viale di Valle Aurelia 30, Roma (RM)",
         "addr:city": "Roma",
         "contact:phone": "3483478079",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-aura/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Aura\n**Indirizzo:** Viale di Valle Aurelia 30, Roma (RM), Roma\n**Telefono:** 3483478079"
       }
     },
     {
@@ -448,16 +408,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Melegnano",
         "branch": "Melegnano",
         "full_address": "SS 9 via Emilia 2, Melegnano",
         "addr:city": "Melegnano",
         "contact:phone": "0230552408",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-melegnano/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Melegnano\n**Indirizzo:** SS 9 via Emilia 2, Melegnano, Melegnano\n**Telefono:** 0230552408"
       }
     },
     {
@@ -475,16 +432,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "La Pioppa Est",
         "branch": "La Pioppa Est",
         "full_address": "A14 Bologna-Taranto, Km 2.3 - Zola Predosa (BO), 40069",
         "addr:city": "Bologna",
         "contact:phone": "051756505",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-la-pioppa-est/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** La Pioppa Est\n**Indirizzo:** A14 Bologna-Taranto, Km 2.3 - Zola Predosa (BO), 40069, Bologna\n**Telefono:** 051756505"
       }
     },
     {
@@ -502,16 +456,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Fabro Est",
         "branch": "Fabro Est",
         "full_address": "A1 Napoli-Milano, Km 428 - Fabro, 05015, Terni",
         "addr:city": "Italia",
         "contact:phone": "0763832092",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-fabbro-est/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Fabro Est\n**Indirizzo:** A1 Napoli-Milano, Km 428 - Fabro, 05015, Terni, Italia\n**Telefono:** 0763832092"
       }
     },
     {
@@ -529,16 +480,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Cesare Pavese",
         "branch": "Cesare Pavese",
         "full_address": "Viale Cesare Pavese 28 - Roma",
         "addr:city": "Roma",
         "contact:phone": "06 69264237",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-cesare-pavese/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Cesare Pavese\n**Indirizzo:** Viale Cesare Pavese 28 - Roma, Roma\n**Telefono:** 06 69264237"
       }
     },
     {
@@ -556,16 +504,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Malpensa",
         "branch": "Malpensa",
         "full_address": "Aeroporto Milano Malpensa - Terminal 1 arrivi internazionali",
         "addr:city": "Ferno",
-        "contact:phone": "N/A",
+        "contact:phone": "",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-malpensa/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Malpensa\n**Indirizzo:** Aeroporto Milano Malpensa - Terminal 1 arrivi internazionali, Ferno"
       }
     },
     {
@@ -583,16 +528,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Casal del Marmo",
         "branch": "Casal del Marmo",
         "full_address": "Via di Casal del Marmo 123-125, Roma",
         "addr:city": "Roma",
         "contact:phone": "06-99705628",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-casal-del-marmo/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Casal del Marmo\n**Indirizzo:** Via di Casal del Marmo 123-125, Roma, Roma\n**Telefono:** 06-99705628"
       }
     },
     {
@@ -610,16 +552,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "largo Brindisi",
         "branch": "largo Brindisi",
         "full_address": "Largo Brindisi 2, Roma",
         "addr:city": "Roma",
         "contact:phone": "06 8708 5688",
         "contact:website": "https://www.alicepizza.it/store/alice-largo-brindisi/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** largo Brindisi\n**Indirizzo:** Largo Brindisi 2, Roma, Roma\n**Telefono:** 06 8708 5688"
       }
     },
     {
@@ -637,16 +576,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Cinisello",
         "branch": "Cinisello",
         "full_address": "Viale Brianza 2, Cinisello Balsamo",
         "addr:city": "Cinisello Balsamo",
         "contact:phone": "02 72199377",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-cinisello/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Cinisello\n**Indirizzo:** Viale Brianza 2, Cinisello Balsamo, Cinisello Balsamo\n**Telefono:** 02 72199377"
       }
     },
     {
@@ -664,16 +600,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "CC CremonaPo",
         "branch": "CC CremonaPo",
         "full_address": "Centro Commerciale CremonaPo, via Castelleone 108, Cremona (CR)",
         "addr:city": "Cremona",
         "contact:phone": "02 40703328",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-cc-cremonapo/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** CC CremonaPo\n**Indirizzo:** Centro Commerciale CremonaPo, via Castelleone 108, Cremona (CR), Cremona\n**Telefono:** 02 40703328"
       }
     },
     {
@@ -691,16 +624,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Sforza",
         "branch": "Sforza",
         "full_address": "Via Francesco Sforza 49, Milano",
         "addr:city": "Italia",
         "contact:phone": "0240703328",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-sforza/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Sforza\n**Indirizzo:** Via Francesco Sforza 49, Milano, Italia\n**Telefono:** 0240703328"
       }
     },
     {
@@ -718,16 +648,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "C. Merlata",
         "branch": "C. Merlata",
         "full_address": "Via Gottlieb Wilhelm Daimler, Milano",
         "addr:city": "Italia",
         "contact:phone": "0240703328",
         "contact:website": "https://www.alicepizza.it/store/17813/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** C. Merlata\n**Indirizzo:** Via Gottlieb Wilhelm Daimler, Milano, Italia\n**Telefono:** 0240703328"
       }
     },
     {
@@ -745,16 +672,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Rovigo",
         "branch": "Rovigo",
         "full_address": "CC La Fattoria | SS16 Adriatica, 45100 Borsea (RO)",
         "addr:city": "Italia",
         "contact:phone": "0240703328",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-rovigo/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Rovigo\n**Indirizzo:** CC La Fattoria | SS16 Adriatica, 45100 Borsea (RO), Italia\n**Telefono:** 0240703328"
       }
     },
     {
@@ -772,16 +696,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Wagner",
         "branch": "Wagner",
         "full_address": "Via Buonarroti 9, Milano",
         "addr:city": "Italia",
         "contact:phone": "0240703328",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-wagner/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Wagner\n**Indirizzo:** Via Buonarroti 9, Milano, Italia\n**Telefono:** 0240703328"
       }
     },
     {
@@ -799,16 +720,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "cso Magenta",
         "branch": "cso Magenta",
         "full_address": "Corso Magenta 34, Milano",
         "addr:city": "Italia",
         "contact:phone": "0240703328",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-cso-magenta/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** cso Magenta\n**Indirizzo:** Corso Magenta 34, Milano, Italia\n**Telefono:** 0240703328"
       }
     },
     {
@@ -826,16 +744,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Livorno",
         "branch": "Livorno",
         "full_address": "CC Porta a Mare | Via Furio Diaz 3, Livorno",
         "addr:city": "Italia",
-        "contact:phone": "N/A",
+        "contact:phone": "",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-livorno/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Livorno\n**Indirizzo:** CC Porta a Mare | Via Furio Diaz 3, Livorno, Italia"
       }
     },
     {
@@ -853,16 +768,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Desenzano",
         "branch": "Desenzano",
         "full_address": "Centro Commerciale Le Vele | Via Guglielmo Marconi 1, Desenzano del Garda (BS)",
         "addr:city": "Desenzano del Garda",
-        "contact:phone": "N/A",
+        "contact:phone": "",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-desenzano/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Desenzano\n**Indirizzo:** Centro Commerciale Le Vele | Via Guglielmo Marconi 1, Desenzano del Garda (BS), Desenzano del Garda"
       }
     },
     {
@@ -880,16 +792,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Leone IV",
         "branch": "Leone IV",
         "full_address": "Via Leone IV 95-97, Roma",
         "addr:city": "Italia",
         "contact:phone": "0687860616",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-leone-iv/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Leone IV\n**Indirizzo:** Via Leone IV 95-97, Roma, Italia\n**Telefono:** 0687860616"
       }
     },
     {
@@ -907,16 +816,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Bicocca",
         "branch": "Bicocca",
         "full_address": "Viale Sarca, angolo via Chiese, Milano",
         "addr:city": "Italia",
         "contact:phone": "0240703328",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-bicocca/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Bicocca\n**Indirizzo:** Viale Sarca, angolo via Chiese, Milano, Italia\n**Telefono:** 0240703328"
       }
     },
     {
@@ -934,16 +840,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Savona",
         "branch": "Savona",
         "full_address": "Corso Ricci 203/r, Savona",
         "addr:city": "Italia",
-        "contact:phone": "N/A",
+        "contact:phone": "",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-savona/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Savona\n**Indirizzo:** Corso Ricci 203/r, Savona, Italia"
       }
     },
     {
@@ -961,16 +864,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Termini",
         "branch": "Termini",
         "full_address": "Stazione Termini Roma",
         "addr:city": "Italia",
         "contact:phone": "0240703328",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-termini/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Termini\n**Indirizzo:** Stazione Termini Roma, Italia\n**Telefono:** 0240703328"
       }
     },
     {
@@ -988,16 +888,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Moscova",
         "branch": "Moscova",
         "full_address": "Largo La Foppa 2, Milano",
         "addr:city": "Italia",
         "contact:phone": "0240703328",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-moscova/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Moscova\n**Indirizzo:** Largo La Foppa 2, Milano, Italia\n**Telefono:** 0240703328"
       }
     },
     {
@@ -1015,16 +912,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Città dei Templi",
         "branch": "Città dei Templi",
         "full_address": "Via Fosse Ardeatine, Agrigento",
         "addr:city": "Agrigento",
         "contact:phone": "09221884232",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-citta-dei-templi/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Città dei Templi\n**Indirizzo:** Via Fosse Ardeatine, Agrigento, Agrigento\n**Telefono:** 09221884232"
       }
     },
     {
@@ -1042,16 +936,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Beinasco",
         "branch": "Beinasco",
         "full_address": "CC Le Fornaci - Strada Torino 34/36, Beinasco",
         "addr:city": "Italia",
         "contact:phone": "02.40703328",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-beinasco/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Beinasco\n**Indirizzo:** CC Le Fornaci - Strada Torino 34/36, Beinasco, Italia\n**Telefono:** 02.40703328"
       }
     },
     {
@@ -1069,16 +960,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Dragona",
         "branch": "Dragona",
         "full_address": "Via di Dragone 390, Roma",
         "addr:city": "Italia",
-        "contact:phone": "N/A",
+        "contact:phone": "",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-dragona/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Dragona\n**Indirizzo:** Via di Dragone 390, Roma, Italia"
       }
     },
     {
@@ -1096,16 +984,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Grottaferrata",
         "branch": "Grottaferrata",
         "full_address": "Via A. Santovetti 16, Grottaferrata",
         "addr:city": "Grottaferrata",
         "contact:phone": "06.87726668",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-grottaferrata/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Grottaferrata\n**Indirizzo:** Via A. Santovetti 16, Grottaferrata, Grottaferrata\n**Telefono:** 06.87726668"
       }
     },
     {
@@ -1123,16 +1008,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "XXII Marzo",
         "branch": "XXII Marzo",
         "full_address": "Corso XXII Marzo 25, Milano",
         "addr:city": "Italia",
         "contact:phone": "02.40703328",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-xxii-marzo/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** XXII Marzo\n**Indirizzo:** Corso XXII Marzo 25, Milano, Italia\n**Telefono:** 02.40703328"
       }
     },
     {
@@ -1150,16 +1032,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Meda",
         "branch": "Meda",
         "full_address": "Via Meda 22, Milano",
         "addr:city": "Italia",
         "contact:phone": "02.40703328",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-meda/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Meda\n**Indirizzo:** Via Meda 22, Milano, Italia\n**Telefono:** 02.40703328"
       }
     },
     {
@@ -1177,16 +1056,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Fidene",
         "branch": "Fidene",
         "full_address": "Piazza Vocazionisti 9, Roma",
         "addr:city": "Italia",
         "contact:phone": "06.8608044",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-fidene/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Fidene\n**Indirizzo:** Piazza Vocazionisti 9, Roma, Italia\n**Telefono:** 06.8608044"
       }
     },
     {
@@ -1204,16 +1080,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Orio Center",
         "branch": "Alice Orio Center",
         "full_address": " Via Portico, 71 Orio al Serio | Orio Center 1° Piano ",
         "addr:city": "Bergamo",
-        "contact:phone": "N/A",
+        "contact:phone": "",
         "contact:website": "https://www.alicepizza.it/store/alice-orio-center/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Orio Center\n**Indirizzo:**  Via Portico, 71 Orio al Serio | Orio Center 1° Piano , Bergamo"
       }
     },
     {
@@ -1231,16 +1104,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Sabotino",
         "branch": "Sabotino",
         "full_address": "Viale Sabotino 38 Milano",
         "addr:city": "Italia",
         "contact:phone": "02.40703328",
         "contact:website": "https://www.alicepizza.it/store/alice-sabotino/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Sabotino\n**Indirizzo:** Viale Sabotino 38 Milano, Italia\n**Telefono:** 02.40703328"
       }
     },
     {
@@ -1258,16 +1128,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Orefici",
         "branch": "Alice Orefici",
         "full_address": "Via Orefici 1 Milano",
         "addr:city": "Italia",
         "contact:phone": "02.40703328",
         "contact:website": "https://www.alicepizza.it/store/alice-orefici/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Orefici\n**Indirizzo:** Via Orefici 1 Milano, Italia\n**Telefono:** 02.40703328"
       }
     },
     {
@@ -1285,16 +1152,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Sempione",
         "branch": "Alice Sempione",
         "full_address": "Via Gargano 10/12 Roma",
         "addr:city": "Italia",
         "contact:phone": "06 9604 8179",
         "contact:website": "https://www.alicepizza.it/store/alice-sempione/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Sempione\n**Indirizzo:** Via Gargano 10/12 Roma, Italia\n**Telefono:** 06 9604 8179"
       }
     },
     {
@@ -1312,16 +1176,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Indipendenza",
         "branch": "Alice Indipendenza",
         "full_address": "Corso Indipendenza 7, Milano",
         "addr:city": "Milano",
         "contact:phone": "02.40703328",
         "contact:website": "https://www.alicepizza.it/store/alice-indipendenza/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Indipendenza\n**Indirizzo:** Corso Indipendenza 7, Milano, Milano\n**Telefono:** 02.40703328"
       }
     },
     {
@@ -1339,16 +1200,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Trastevere",
         "branch": "Alice Trastevere",
         "full_address": "Via di S. Francesco a Ripa 1, Roma",
         "addr:city": "Roma",
         "contact:phone": "06 6935 5773",
         "contact:website": "https://www.alicepizza.it/store/alice-trastevere/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Trastevere\n**Indirizzo:** Via di S. Francesco a Ripa 1, Roma, Roma\n**Telefono:** 06 6935 5773"
       }
     },
     {
@@ -1366,16 +1224,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Giambellino",
         "branch": "Giambellino",
         "full_address": "Via Tolstoj 16, ang. Via Giambellino, 20144 Milano",
         "addr:city": "Milano",
         "contact:phone": "02.40703328",
         "contact:website": "https://www.alicepizza.it/store/alice-giambellino/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Giambellino\n**Indirizzo:** Via Tolstoj 16, ang. Via Giambellino, 20144 Milano, Milano\n**Telefono:** 02.40703328"
       }
     },
     {
@@ -1393,16 +1248,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Miani",
         "branch": "Alice Miani",
         "full_address": "Piazza Miani 4, 20143 Milano",
         "addr:city": "Milano",
         "contact:phone": "02.40703328",
         "contact:website": "https://www.alicepizza.it/store/alice-miani/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Miani\n**Indirizzo:** Piazza Miani 4, 20143 Milano, Milano\n**Telefono:** 02.40703328"
       }
     },
     {
@@ -1420,16 +1272,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Viale Umbria",
         "branch": "Alice Viale Umbria",
         "full_address": "Viale Umbria 15, 20135 Milano",
         "addr:city": "Milano",
         "contact:phone": "02.40703328",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-umbria/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Viale Umbria\n**Indirizzo:** Viale Umbria 15, 20135 Milano, Milano\n**Telefono:** 02.40703328"
       }
     },
     {
@@ -1447,16 +1296,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Casal de' Pazzi",
         "branch": "Alice Casal de' Pazzi",
         "full_address": "Via di Casal dei Pazzi, 107, 00156, Roma",
         "addr:city": "Roma",
         "contact:phone": "06 9437 5701",
         "contact:website": "https://www.alicepizza.it/store/alice-casal-de-pazzi/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Casal de' Pazzi\n**Indirizzo:** Via di Casal dei Pazzi, 107, 00156, Roma, Roma\n**Telefono:** 06 9437 5701"
       }
     },
     {
@@ -1474,16 +1320,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Aranova",
         "branch": "Alice Aranova",
         "full_address": "Via Arturo Pompeati Luchini 2374/2376, 00050, Fiumicino",
-        "addr:city": "N/A",
+        "addr:city": "",
         "contact:phone": "06.87777104",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-aranova/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Aranova\n**Indirizzo:** Via Arturo Pompeati Luchini 2374/2376, 00050, Fiumicino\n**Telefono:** 06.87777104"
       }
     },
     {
@@ -1501,16 +1344,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Via Torino",
         "branch": "Via Torino",
         "full_address": "Via Torino 62, Milano",
         "addr:city": "Milano",
         "contact:phone": "02.40703328",
         "contact:website": "https://www.alicepizza.it/store/alice-via-torino/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Via Torino\n**Indirizzo:** Via Torino 62, Milano, Milano\n**Telefono:** 02.40703328"
       }
     },
     {
@@ -1528,16 +1368,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Via Solari 1",
         "branch": "Via Solari 1",
         "full_address": "Via Solari 1, Milano",
         "addr:city": "Milano",
         "contact:phone": "02.40703328",
         "contact:website": "https://www.alicepizza.it/store/alice-via-solari-1/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Via Solari 1\n**Indirizzo:** Via Solari 1, Milano, Milano\n**Telefono:** 02.40703328"
       }
     },
     {
@@ -1555,16 +1392,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Monte Nero",
         "branch": "Alice Monte Nero",
         "full_address": "Via Spartaco 2, Milano",
         "addr:city": "Milano",
         "contact:phone": "02.40703328",
         "contact:website": "https://www.alicepizza.it/store/alice-monte-nero/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Monte Nero\n**Indirizzo:** Via Spartaco 2, Milano, Milano\n**Telefono:** 02.40703328"
       }
     },
     {
@@ -1582,16 +1416,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Udine",
         "branch": "Alice Udine",
         "full_address": "Via Feltre 1, Milano",
         "addr:city": "Milano",
         "contact:phone": "02 40703328",
         "contact:website": "https://www.alicepizza.it/store/alice-udine/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Udine\n**Indirizzo:** Via Feltre 1, Milano, Milano\n**Telefono:** 02 40703328"
       }
     },
     {
@@ -1609,16 +1440,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Grugliasco",
         "branch": "Alice Grugliasco",
         "full_address": "Shopville Le Gru | Via Crea 10 Grugliasco, Torino",
         "addr:city": "Torino",
         "contact:phone": "02.40703328",
         "contact:website": "https://www.alicepizza.it/store/alice-grugliasco/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Grugliasco\n**Indirizzo:** Shopville Le Gru | Via Crea 10 Grugliasco, Torino, Torino\n**Telefono:** 02.40703328"
       }
     },
     {
@@ -1636,16 +1464,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice PortaSiena",
         "branch": "Alice PortaSiena",
         "full_address": "Galleria PortaSiena, Piazzale Rosselli 25, Siena",
         "addr:city": "Siena",
-        "contact:phone": "N/A",
+        "contact:phone": "",
         "contact:website": "https://www.alicepizza.it/store/alice-portasiena/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice PortaSiena\n**Indirizzo:** Galleria PortaSiena, Piazzale Rosselli 25, Siena, Siena"
       }
     },
     {
@@ -1663,16 +1488,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice San Vittore",
         "branch": "Alice San Vittore",
         "full_address": "Via San Vittore 1, Milano",
         "addr:city": "Milano",
         "contact:phone": "02.40703328",
         "contact:website": "https://www.alicepizza.it/store/alice-san-vittore/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice San Vittore\n**Indirizzo:** Via San Vittore 1, Milano, Milano\n**Telefono:** 02.40703328"
       }
     },
     {
@@ -1690,16 +1512,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Venini",
         "branch": "Venini",
         "full_address": "Via Giulio e Corrado Venini 57, Milano ",
         "addr:city": "Milano",
         "contact:phone": "0240703328",
         "contact:website": "https://www.alicepizza.it/store/alice-venini/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Venini\n**Indirizzo:** Via Giulio e Corrado Venini 57, Milano , Milano\n**Telefono:** 0240703328"
       }
     },
     {
@@ -1717,16 +1536,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Elnos",
         "branch": "Alice Elnos",
         "full_address": "Elnos Shopping, Via Luigi Einaudi, 5, 25030 Roncadelle BS",
         "addr:city": "Roncadelle",
-        "contact:phone": "N/A",
+        "contact:phone": "",
         "contact:website": "https://www.alicepizza.it/store/alice-elnos/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Elnos\n**Indirizzo:** Elnos Shopping, Via Luigi Einaudi, 5, 25030 Roncadelle BS, Roncadelle"
       }
     },
     {
@@ -1744,16 +1560,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Santo Spirito",
         "branch": "Alice Santo Spirito",
         "full_address": "Piazza Santo Spirito 4/8, 37122 Verona, Veneto",
         "addr:city": "Verona",
-        "contact:phone": "N/A",
+        "contact:phone": "",
         "contact:website": "https://www.alicepizza.it/store/alice-santo-spirito/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Santo Spirito\n**Indirizzo:** Piazza Santo Spirito 4/8, 37122 Verona, Veneto, Verona"
       }
     },
     {
@@ -1771,16 +1584,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Brindisi",
         "branch": "Alice Brindisi",
         "full_address": "Centro Commerciale Le Colonne, SS7, 712, 72100 Brindisi BR",
         "addr:city": "Brindisi",
         "contact:phone": "0831 1771004",
         "contact:website": "https://www.alicepizza.it/store/alice-brindisi/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Brindisi\n**Indirizzo:** Centro Commerciale Le Colonne, SS7, 712, 72100 Brindisi BR, Brindisi\n**Telefono:** 0831 1771004"
       }
     },
     {
@@ -1798,16 +1608,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Prealpi",
         "branch": "Prealpi",
         "full_address": "Via Masolino da Panicale 12, Milano ",
         "addr:city": "Milano",
         "contact:phone": "02.40703328",
         "contact:website": "https://www.alicepizza.it/store/alice-prealpi/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Prealpi\n**Indirizzo:** Via Masolino da Panicale 12, Milano , Milano\n**Telefono:** 02.40703328"
       }
     },
     {
@@ -1825,16 +1632,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Merulana",
         "branch": "Alice Merulana",
         "full_address": "Via Merulana 232, 00185 Roma ",
         "addr:city": "Roma",
-        "contact:phone": "N/A",
+        "contact:phone": "",
         "contact:website": "https://www.alicepizza.it/store/alice-merulana/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Merulana\n**Indirizzo:** Via Merulana 232, 00185 Roma , Roma"
       }
     },
     {
@@ -1852,16 +1656,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Affori",
         "branch": "Alice Affori",
         "full_address": "Via Pellegrino Rossi 80, Milano ",
         "addr:city": "Milano",
         "contact:phone": "02.40703328",
         "contact:website": "https://www.alicepizza.it/store/alice-affori/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Affori\n**Indirizzo:** Via Pellegrino Rossi 80, Milano , Milano\n**Telefono:** 02.40703328"
       }
     },
     {
@@ -1879,16 +1680,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Tor de' Schiavi",
         "branch": "Alice Tor de' Schiavi",
         "full_address": "Via Tor de' Schiavi 403-407 00171 Roma ",
         "addr:city": "Roma",
         "contact:phone": "3407816912",
         "contact:website": "https://www.alicepizza.it/store/alice-tor-de-schiavi/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Tor de' Schiavi\n**Indirizzo:** Via Tor de' Schiavi 403-407 00171 Roma , Roma\n**Telefono:** 3407816912"
       }
     },
     {
@@ -1906,16 +1704,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Solbiate Olona",
         "branch": "Alice Solbiate Olona",
         "full_address": "Centro Commerciale Le Betulle, Via per Busto Arsizio, 11, 21058 Solbiate Olona VA",
         "addr:city": "Solbiate Olona",
         "contact:phone": "03311684709",
         "contact:website": "https://www.alicepizza.it/store/alice-solbiate/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Solbiate Olona\n**Indirizzo:** Centro Commerciale Le Betulle, Via per Busto Arsizio, 11, 21058 Solbiate Olona VA, Solbiate Olona\n**Telefono:** 03311684709"
       }
     },
     {
@@ -1933,16 +1728,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Olbia",
         "branch": "Alice Olbia",
         "full_address": "Centro commerciale Olbia Mare, Strada Statale 125 Orientale Sarda, 07026 Olbia SS",
         "addr:city": "Olbia",
         "contact:phone": "0789 1672081",
         "contact:website": "https://www.alicepizza.it/store/alice-olbia/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Olbia\n**Indirizzo:** Centro commerciale Olbia Mare, Strada Statale 125 Orientale Sarda, 07026 Olbia SS, Olbia\n**Telefono:** 0789 1672081"
       }
     },
     {
@@ -1960,16 +1752,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Le Porte Franche",
         "branch": "Alice Le Porte Franche",
         "full_address": "Centro Commerciale Le Porte Franche, Via Rovato 44,   25030 Erbusco (BS)",
         "addr:city": "Erbusco",
         "contact:phone": "+39 030 13878513",
         "contact:website": "https://www.alicepizza.it/store/alice-le-porte-franche/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Le Porte Franche\n**Indirizzo:** Centro Commerciale Le Porte Franche, Via Rovato 44,   25030 Erbusco (BS), Erbusco\n**Telefono:** +39 030 13878513"
       }
     },
     {
@@ -1987,16 +1776,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Marcon",
         "branch": "Alice Marcon",
         "full_address": "Centro Commerciale Valecenter, Via Enrico Mattei, 1 / C, 30020 Marcon VE",
         "addr:city": "Marcon",
-        "contact:phone": "N/A",
+        "contact:phone": "",
         "contact:website": "https://www.alicepizza.it/store/alice-marcon/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Marcon\n**Indirizzo:** Centro Commerciale Valecenter, Via Enrico Mattei, 1 / C, 30020 Marcon VE, Marcon"
       }
     },
     {
@@ -2014,16 +1800,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Gioia",
         "branch": "Gioia",
         "full_address": "Via Melchiorre Gioia 139, 20125 Milano, Lombardia",
         "addr:city": "Milano",
         "contact:phone": "+390240703328",
         "contact:website": "https://www.alicepizza.it/store/alice-gioia/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Gioia\n**Indirizzo:** Via Melchiorre Gioia 139, 20125 Milano, Lombardia, Milano\n**Telefono:** +390240703328"
       }
     },
     {
@@ -2041,16 +1824,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Somma Lombardo",
         "branch": "Alice Somma Lombardo",
         "full_address": "Via Soragana, 1, 21019 Somma Lombardo VA, Centro Commerciale Il Gigante ",
         "addr:city": "Somma Lombardo",
-        "contact:phone": "N/A",
+        "contact:phone": "",
         "contact:website": "https://www.alicepizza.it/store/alice-somma-lombardo/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Somma Lombardo\n**Indirizzo:** Via Soragana, 1, 21019 Somma Lombardo VA, Centro Commerciale Il Gigante , Somma Lombardo"
       }
     },
     {
@@ -2068,16 +1848,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Adriatico2",
         "branch": "Alice Adriatico2",
         "full_address": "Centro Commerciale Adriatico2, Via Prati Guori, 29, 30026 Portogruaro VE",
         "addr:city": "Portogruaro",
         "contact:phone": "04221770054",
         "contact:website": "https://www.alicepizza.it/store/alice-adriatico2/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Adriatico2\n**Indirizzo:** Centro Commerciale Adriatico2, Via Prati Guori, 29, 30026 Portogruaro VE, Portogruaro\n**Telefono:** 04221770054"
       }
     },
     {
@@ -2095,16 +1872,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice La Corte Lombarda",
         "branch": "Alice La Corte Lombarda",
         "full_address": "Centro Commerciale La Corte Lombarda, Via Padana Superiore, 154, 20060 Bellinzago Lombardo MI",
         "addr:city": "Bellinzago Lombardo",
-        "contact:phone": "N/A",
+        "contact:phone": "",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-la-corte-lombarda/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice La Corte Lombarda\n**Indirizzo:** Centro Commerciale La Corte Lombarda, Via Padana Superiore, 154, 20060 Bellinzago Lombardo MI, Bellinzago Lombardo"
       }
     },
     {
@@ -2122,16 +1896,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Dergano",
         "branch": "Dergano",
         "full_address": "Via Giuseppe Tartini 3, Milano ",
         "addr:city": "Milano",
         "contact:phone": "0240032101",
         "contact:website": "https://www.alicepizza.it/store/alice-pizza-dergano/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Dergano\n**Indirizzo:** Via Giuseppe Tartini 3, Milano , Milano\n**Telefono:** 0240032101"
       }
     },
     {
@@ -2149,16 +1920,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice CC Brianza",
         "branch": "Alice CC Brianza",
         "full_address": "Centro Commerciale Brianza Strada dei Giovi, Paderno Dugnano ",
         "addr:city": "Paderno Dugnano",
         "contact:phone": "0250307627",
         "contact:website": "https://www.alicepizza.it/store/alice-cc-brianza/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice CC Brianza\n**Indirizzo:** Centro Commerciale Brianza Strada dei Giovi, Paderno Dugnano , Paderno Dugnano\n**Telefono:** 0250307627"
       }
     },
     {
@@ -2176,16 +1944,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Limbiate",
         "branch": "Alice Limbiate",
         "full_address": "CC Limbiate Via Giuseppe Garibaldi Ex SS 527, 20812 Limbiate MB Limbiate",
         "addr:city": "Limbiate",
         "contact:phone": "0289865994",
         "contact:website": "https://www.alicepizza.it/store/alice-limbiate/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Limbiate\n**Indirizzo:** CC Limbiate Via Giuseppe Garibaldi Ex SS 527, 20812 Limbiate MB Limbiate, Limbiate\n**Telefono:** 0289865994"
       }
     },
     {
@@ -2203,16 +1968,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "via Vigevano",
         "branch": "via Vigevano",
         "full_address": "Via Vigevano 43, Milano ",
         "addr:city": "Milano",
         "contact:phone": "+390242101151",
         "contact:website": "https://www.alicepizza.it/store/alice-porta-genova/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** via Vigevano\n**Indirizzo:** Via Vigevano 43, Milano , Milano\n**Telefono:** +390242101151"
       }
     },
     {
@@ -2230,16 +1992,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Aurelia",
         "branch": "Alice Aurelia",
         "full_address": "Via Aurelia 8/456 00163, Roma ",
         "addr:city": "Roma",
         "contact:phone": "0687805751",
         "contact:website": "https://www.alicepizza.it/store/alice-aurelia/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Aurelia\n**Indirizzo:** Via Aurelia 8/456 00163, Roma , Roma\n**Telefono:** 0687805751"
       }
     },
     {
@@ -2257,16 +2016,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Fleming",
         "branch": "Alice Fleming",
         "full_address": "Via Flaminia 679, Roma ",
         "addr:city": "Roma",
         "contact:phone": "06 9785 7681",
         "contact:website": "https://www.alicepizza.it/store/alice-fleming/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Fleming\n**Indirizzo:** Via Flaminia 679, Roma , Roma\n**Telefono:** 06 9785 7681"
       }
     },
     {
@@ -2284,16 +2040,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Città Studi",
         "branch": "Città Studi",
         "full_address": "Via Antonio Bazzini 1, Milano ",
         "addr:city": "Milano",
         "contact:phone": "02 4210 1154",
         "contact:website": "https://www.alicepizza.it/store/alice-citta-studi/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Città Studi\n**Indirizzo:** Via Antonio Bazzini 1, Milano , Milano\n**Telefono:** 02 4210 1154"
       }
     },
     {
@@ -2311,16 +2064,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Maximo",
         "branch": "Alice Maximo",
         "full_address": "Via Laurentina 865 ",
         "addr:city": "Roma",
         "contact:phone": "06 8780 5678",
         "contact:website": "https://www.alicepizza.it/store/alice-maximo/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Maximo\n**Indirizzo:** Via Laurentina 865 , Roma\n**Telefono:** 06 8780 5678"
       }
     },
     {
@@ -2338,16 +2088,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Villanova di Guidonia",
         "branch": "Alice Villanova di Guidonia",
         "full_address": "Via Maremmana Inferiore, 264, 00012 Guidonia Montecelio ",
         "addr:city": "Guidonia",
         "contact:phone": " 0774 707954",
         "contact:website": "https://www.alicepizza.it/store/alice-villanova-di-guidonia/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Villanova di Guidonia\n**Indirizzo:** Via Maremmana Inferiore, 264, 00012 Guidonia Montecelio , Guidonia\n**Telefono:**  0774 707954"
       }
     },
     {
@@ -2365,16 +2112,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Via Solari 23",
         "branch": "Alice Via Solari 23",
         "full_address": "Via Andrea Solari 23, Milano ",
         "addr:city": "Milano",
         "contact:phone": "0240702303",
         "contact:website": "https://www.alicepizza.it/store/alice-solari/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Via Solari 23\n**Indirizzo:** Via Andrea Solari 23, Milano , Milano\n**Telefono:** 0240702303"
       }
     },
     {
@@ -2392,16 +2136,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Buenos Aires",
         "branch": "Alice Buenos Aires",
         "full_address": "Corso Buenos Aires 77, Milano ",
         "addr:city": "Milano",
         "contact:phone": "0289919701",
         "contact:website": "https://www.alicepizza.it/store/alice-buenos-aires/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Buenos Aires\n**Indirizzo:** Corso Buenos Aires 77, Milano , Milano\n**Telefono:** 0289919701"
       }
     },
     {
@@ -2419,16 +2160,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Porte di Torino",
         "branch": "Alice Porte di Torino",
         "full_address": "Corso Romania, 460, 10156 Torino TO",
         "addr:city": "Torino",
         "contact:phone": "01119821721",
         "contact:website": "https://www.alicepizza.it/store/alice-porte-di-torino/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Porte di Torino\n**Indirizzo:** Corso Romania, 460, 10156 Torino TO, Torino\n**Telefono:** 01119821721"
       }
     },
     {
@@ -2446,16 +2184,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Acilia",
         "branch": "Alice Acilia",
         "full_address": "Via di Acilia 71, Roma ",
         "addr:city": "Roma",
         "contact:phone": "+39 0695226 690",
         "contact:website": "https://www.alicepizza.it/store/alice-acilia/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Acilia\n**Indirizzo:** Via di Acilia 71, Roma , Roma\n**Telefono:** +39 0695226 690"
       }
     },
     {
@@ -2473,16 +2208,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Adamello",
         "branch": "Alice Adamello",
         "full_address": "Centro Commerciale Adamello, Via Cassiano Serventi, n. 2, 25047 Darfo Boario Terme BS",
         "addr:city": "Darfo Boario Terme",
         "contact:phone": "03641941594",
         "contact:website": "https://www.alicepizza.it/store/alice-adamello/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Adamello\n**Indirizzo:** Centro Commerciale Adamello, Via Cassiano Serventi, n. 2, 25047 Darfo Boario Terme BS, Darfo Boario Terme\n**Telefono:** 03641941594"
       }
     },
     {
@@ -2500,16 +2232,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Assago",
         "branch": "Alice Assago",
         "full_address": "Centro Commerciale Milanofiori Viale Milano Fiori, 20090 Assago MI",
         "addr:city": "Assago",
         "contact:phone": "02 5004 3632",
         "contact:website": "https://www.alicepizza.it/store/alice-assago/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Assago\n**Indirizzo:** Centro Commerciale Milanofiori Viale Milano Fiori, 20090 Assago MI, Assago\n**Telefono:** 02 5004 3632"
       }
     },
     {
@@ -2527,16 +2256,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Aeronautica",
         "branch": "Alice Aeronautica",
         "full_address": "Viale dell'Aeronautica, 84, Roma ",
         "addr:city": "Roma",
         "contact:phone": "+390687757547",
         "contact:website": "https://www.alicepizza.it/store/alice-aeronautica/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Aeronautica\n**Indirizzo:** Viale dell'Aeronautica, 84, Roma , Roma\n**Telefono:** +390687757547"
       }
     },
     {
@@ -2554,16 +2280,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Affi",
         "branch": "Alice Affi",
         "full_address": "Centro Commerciale Grand'Affi, Località Canove, 1, 37010 Affi ",
         "addr:city": "Affi",
         "contact:phone": "0454682068",
         "contact:website": "https://www.alicepizza.it/store/alice-affi/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Affi\n**Indirizzo:** Centro Commerciale Grand'Affi, Località Canove, 1, 37010 Affi , Affi\n**Telefono:** 0454682068"
       }
     },
     {
@@ -2581,16 +2304,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Mestre",
         "branch": "Alice Mestre",
         "full_address": "Via Don Tosatto 22",
         "addr:city": "Mestre",
         "contact:phone": "041-8760064",
         "contact:website": "https://www.alicepizza.it/store/alice-mestre/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Mestre\n**Indirizzo:** Via Don Tosatto 22, Mestre\n**Telefono:** 041-8760064"
       }
     },
     {
@@ -2608,16 +2328,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Via delle Grazie",
         "branch": "Alice Via delle Grazie",
         "full_address": "Via delle Grazie 7/9 Roma",
         "addr:city": "Roma",
         "contact:phone": "+39066875746",
         "contact:website": "https://www.alicepizza.it/store/alice-via-delle-grazie/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Via delle Grazie\n**Indirizzo:** Via delle Grazie 7/9 Roma, Roma\n**Telefono:** +39066875746"
       }
     },
     {
@@ -2635,16 +2352,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Barberini",
         "branch": "Alice Barberini",
         "full_address": "Via di San Basilio 56 Roma",
         "addr:city": "Roma",
         "contact:phone": "06/99702598",
         "contact:website": "https://www.alicepizza.it/store/alice-via-di-san-basilio/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Barberini\n**Indirizzo:** Via di San Basilio 56 Roma, Roma\n**Telefono:** 06/99702598"
       }
     },
     {
@@ -2662,16 +2376,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Via di Vigna Stelluti",
         "branch": "Alice Via di Vigna Stelluti",
         "full_address": "Via di Vigna Stelluti 186 Roma",
         "addr:city": "Roma",
         "contact:phone": "+390683791203",
         "contact:website": "https://www.alicepizza.it/store/alice-via-di-vigna-stelluti/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Via di Vigna Stelluti\n**Indirizzo:** Via di Vigna Stelluti 186 Roma, Roma\n**Telefono:** +390683791203"
       }
     },
     {
@@ -2689,16 +2400,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Via Lazio",
         "branch": "Alice Via Lazio",
         "full_address": "Via Lazio 15 Roma",
         "addr:city": "Roma",
         "contact:phone": "06/42013297",
         "contact:website": "https://www.alicepizza.it/store/alice-via-lazio/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Via Lazio\n**Indirizzo:** Via Lazio 15 Roma, Roma\n**Telefono:** 06/42013297"
       }
     },
     {
@@ -2716,16 +2424,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Via Marche",
         "branch": "Alice Via Marche",
         "full_address": " Via Marche 21 Roma ",
         "addr:city": "Roma",
         "contact:phone": "06/4743344",
         "contact:website": "https://www.alicepizza.it/store/alice-via-marche/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Via Marche\n**Indirizzo:**  Via Marche 21 Roma , Roma\n**Telefono:** 06/4743344"
       }
     },
     {
@@ -2743,16 +2448,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Via Marmorata",
         "branch": "Alice Via Marmorata",
         "full_address": "Via Marmorata 111 Roma",
         "addr:city": "Roma",
         "contact:phone": "06/5744787",
         "contact:website": "https://www.alicepizza.it/store/alice-via-marmorata/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Via Marmorata\n**Indirizzo:** Via Marmorata 111 Roma, Roma\n**Telefono:** 06/5744787"
       }
     },
     {
@@ -2770,16 +2472,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Via Monte Zebio",
         "branch": "Alice Via Monte Zebio",
         "full_address": "Via Monte Zebio 21 Roma",
         "addr:city": "Roma",
         "contact:phone": "06/37515021",
         "contact:website": "https://www.alicepizza.it/store/alice-via-monte-zebio/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Via Monte Zebio\n**Indirizzo:** Via Monte Zebio 21 Roma, Roma\n**Telefono:** 06/37515021"
       }
     },
     {
@@ -2797,16 +2496,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Via Silvestri",
         "branch": "Alice Via Silvestri",
         "full_address": "Via Silvestri 228 Roma",
         "addr:city": "Roma",
         "contact:phone": "+390693379479",
         "contact:website": "https://www.alicepizza.it/store/alice-via-silvestri/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Via Silvestri\n**Indirizzo:** Via Silvestri 228 Roma, Roma\n**Telefono:** +390693379479"
       }
     },
     {
@@ -2824,16 +2520,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Via Romagna",
         "branch": "Alice Via Romagna",
         "full_address": "Via Romagna 28 Roma",
         "addr:city": "Roma",
         "contact:phone": "06/483742",
         "contact:website": "https://www.alicepizza.it/store/alice-via-romagna/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Via Romagna\n**Indirizzo:** Via Romagna 28 Roma, Roma\n**Telefono:** 06/483742"
       }
     },
     {
@@ -2851,16 +2544,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Monterotondo",
         "branch": "Alice Monterotondo",
         "full_address": "Via XX Settembre 2 Monterotondo",
         "addr:city": "Monterotondo",
         "contact:phone": "06/90623253",
         "contact:website": "https://www.alicepizza.it/store/alice-monterotondo/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Monterotondo\n**Indirizzo:** Via XX Settembre 2 Monterotondo, Monterotondo\n**Telefono:** 06/90623253"
       }
     },
     {
@@ -2878,16 +2568,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Ostia",
         "branch": "Alice Ostia",
         "full_address": "Viale Vasco de Gama 54 Ostia",
         "addr:city": "Ostia",
         "contact:phone": "06/5693659",
         "contact:website": "https://www.alicepizza.it/store/alice-ostia/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Ostia\n**Indirizzo:** Viale Vasco de Gama 54 Ostia, Ostia\n**Telefono:** 06/5693659"
       }
     },
     {
@@ -2905,16 +2592,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Ostiense",
         "branch": "Alice Ostiense",
         "full_address": "Via Ostiense 48 Roma",
         "addr:city": "Roma",
         "contact:phone": "+39065745472",
         "contact:website": "https://www.alicepizza.it/store/alice-ostiense/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Ostiense\n**Indirizzo:** Via Ostiense 48 Roma, Roma\n**Telefono:** +39065745472"
       }
     },
     {
@@ -2932,16 +2616,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Parco Leonardo",
         "branch": "Alice Parco Leonardo",
         "full_address": "Centro Commerciale Viale Donato Bramante 31 Fiumicino",
-        "addr:city": "N/A",
+        "addr:city": "",
         "contact:phone": "+390665001005",
         "contact:website": "https://www.alicepizza.it/store/alice-parco-leonardo/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Parco Leonardo\n**Indirizzo:** Centro Commerciale Viale Donato Bramante 31 Fiumicino\n**Telefono:** +390665001005"
       }
     },
     {
@@ -2959,16 +2640,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Parioli",
         "branch": "Alice Parioli",
         "full_address": "Via di Villa San Filippo 20 Roma",
         "addr:city": "Roma",
         "contact:phone": "06/80690314",
         "contact:website": "https://www.alicepizza.it/store/alice-parioli/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Parioli\n**Indirizzo:** Via di Villa San Filippo 20 Roma, Roma\n**Telefono:** 06/80690314"
       }
     },
     {
@@ -2986,16 +2664,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Marconi",
         "branch": "Alice Marconi",
         "full_address": "Via Grimaldi 3 Roma",
         "addr:city": "Roma",
         "contact:phone": "06/83706255",
         "contact:website": "https://www.alicepizza.it/store/alice-marconi/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Marconi\n**Indirizzo:** Via Grimaldi 3 Roma, Roma\n**Telefono:** 06/83706255"
       }
     },
     {
@@ -3013,16 +2688,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Cuneo",
         "branch": "Alice Cuneo",
         "full_address": "Centro Commerciale Auchan Via Margarita 8 Cuneo",
         "addr:city": "Cuneo",
         "contact:phone": "+390171346573",
         "contact:website": "https://www.alicepizza.it/store/alice-cuneo/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Cuneo\n**Indirizzo:** Centro Commerciale Auchan Via Margarita 8 Cuneo, Cuneo\n**Telefono:** +390171346573"
       }
     },
     {
@@ -3040,16 +2712,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Largo Argentina",
         "branch": "Alice Largo Argentina",
         "full_address": "Corso Vittorio Emanuele II 35 Roma",
         "addr:city": "Roma",
         "contact:phone": "+39066792923",
         "contact:website": "https://www.alicepizza.it/store/alice-largo-argentina/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Largo Argentina\n**Indirizzo:** Corso Vittorio Emanuele II 35 Roma, Roma\n**Telefono:** +39066792923"
       }
     },
     {
@@ -3067,16 +2736,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Largo Magna Grecia",
         "branch": "Alice Largo Magna Grecia",
         "full_address": "Largo Magna Grecia 24/25 Roma",
         "addr:city": "Roma",
         "contact:phone": "+390677076221",
         "contact:website": "https://www.alicepizza.it/store/alice-largo-magna-grecia/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Largo Magna Grecia\n**Indirizzo:** Largo Magna Grecia 24/25 Roma, Roma\n**Telefono:** +390677076221"
       }
     },
     {
@@ -3094,16 +2760,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Latina",
         "branch": "Alice Latina",
         "full_address": "Centro Commerciale Latinafiori Viale Pierluigi Nervi Latina",
         "addr:city": "Latina",
         "contact:phone": "0773/479021",
         "contact:website": "https://www.alicepizza.it/store/alice-latina/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Latina\n**Indirizzo:** Centro Commerciale Latinafiori Viale Pierluigi Nervi Latina, Latina\n**Telefono:** 0773/479021"
       }
     },
     {
@@ -3121,16 +2784,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Val Padana",
         "branch": "Alice Val Padana",
         "full_address": "Viale Val Padana 130/132 Roma",
         "addr:city": "Roma",
         "contact:phone": "06/45598700",
         "contact:website": "https://www.alicepizza.it/store/alice-val-padana/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Val Padana\n**Indirizzo:** Viale Val Padana 130/132 Roma, Roma\n**Telefono:** 06/45598700"
       }
     },
     {
@@ -3148,16 +2808,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Magliana",
         "branch": "Alice Magliana",
         "full_address": "Via di Villa Bonelli 6 Roma",
         "addr:city": "Roma",
         "contact:phone": "06/45547136",
         "contact:website": "https://www.alicepizza.it/store/alice-verona-le-corti-venete-2/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Magliana\n**Indirizzo:** Via di Villa Bonelli 6 Roma, Roma\n**Telefono:** 06/45547136"
       }
     },
     {
@@ -3175,16 +2832,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Via Cave di Pietralata",
         "branch": "Alice Via Cave di Pietralata",
         "full_address": "Via Cave di Pietralata 47 Roma",
         "addr:city": "Roma",
         "contact:phone": "06/89520804",
         "contact:website": "https://www.alicepizza.it/store/alice-via-cave-di-pietralata/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Via Cave di Pietralata\n**Indirizzo:** Via Cave di Pietralata 47 Roma, Roma\n**Telefono:** 06/89520804"
       }
     },
     {
@@ -3202,16 +2856,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Piazza Euclide",
         "branch": "Alice Piazza Euclide",
         "full_address": "Via Civinini 91  Roma",
         "addr:city": "Roma",
         "contact:phone": "06/8077319",
         "contact:website": "https://www.alicepizza.it/store/alice-via-chiabrera-2/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Piazza Euclide\n**Indirizzo:** Via Civinini 91  Roma, Roma\n**Telefono:** 06/8077319"
       }
     },
     {
@@ -3229,16 +2880,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Via Chiabrera",
         "branch": "Alice Via Chiabrera",
         "full_address": "Via Chiabrera 17/19 Roma",
         "addr:city": "Roma",
         "contact:phone": "06/546830",
         "contact:website": "https://www.alicepizza.it/store/alice-via-chiabrera/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Via Chiabrera\n**Indirizzo:** Via Chiabrera 17/19 Roma, Roma\n**Telefono:** 06/546830"
       }
     },
     {
@@ -3256,16 +2904,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Via dei Castani",
         "branch": "Alice Via dei Castani",
         "full_address": "Via dei Castani 66a Roma",
         "addr:city": "Roma",
         "contact:phone": "+390664811924",
         "contact:website": "https://www.alicepizza.it/store/alice-via-dei-castani/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Via dei Castani\n**Indirizzo:** Via dei Castani 66a Roma, Roma\n**Telefono:** +390664811924"
       }
     },
     {
@@ -3283,16 +2928,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Tuscolana",
         "branch": "Alice Tuscolana",
         "full_address": "Via Tuscolana 853f Roma",
         "addr:city": "Roma",
         "contact:phone": "06/765403",
         "contact:website": "https://www.alicepizza.it/store/alice-tuscolana/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Tuscolana\n**Indirizzo:** Via Tuscolana 853f Roma, Roma\n**Telefono:** 06/765403"
       }
     },
     {
@@ -3310,16 +2952,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Trullo",
         "branch": "Alice Trullo",
         "full_address": "Via Portuense 716c",
         "addr:city": "Roma",
         "contact:phone": "+390665796284",
         "contact:website": "https://www.alicepizza.it/store/alice-trullo/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Trullo\n**Indirizzo:** Via Portuense 716c, Roma\n**Telefono:** +390665796284"
       }
     },
     {
@@ -3337,16 +2976,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Torrino",
         "branch": "Alice Torrino",
         "full_address": "Via della Seta 5 Roma",
         "addr:city": "Roma",
         "contact:phone": "06/88541819",
         "contact:website": "https://www.alicepizza.it/store/alice-torrino/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Torrino\n**Indirizzo:** Via della Seta 5 Roma, Roma\n**Telefono:** 06/88541819"
       }
     },
     {
@@ -3364,16 +3000,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice San Camillo",
         "branch": "Alice San Camillo",
         "full_address": "Ospedale San Camillo-Forlanini Circonvallazione Gianicolense 87 Roma",
         "addr:city": "Roma",
         "contact:phone": "+393911881176",
         "contact:website": "https://www.alicepizza.it/store/alice-san-camillo/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice San Camillo\n**Indirizzo:** Ospedale San Camillo-Forlanini Circonvallazione Gianicolense 87 Roma, Roma\n**Telefono:** +393911881176"
       }
     },
     {
@@ -3391,16 +3024,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Sassari",
         "branch": "Alice Sassari",
         "full_address": "Centro Commerciale Porte di Sassari, Viale Porto Torres, 07100 Sassari SS",
         "addr:city": "Sassari",
         "contact:phone": "079/268207",
         "contact:website": "https://www.alicepizza.it/store/alice-sassari/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Sassari\n**Indirizzo:** Centro Commerciale Porte di Sassari, Viale Porto Torres, 07100 Sassari SS, Sassari\n**Telefono:** 079/268207"
       }
     },
     {
@@ -3418,16 +3048,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Talenti Via Franco Sacchetti",
         "branch": "Alice Talenti Via Franco Sacchetti",
         "full_address": "Via Franco Sacchetti 41 Roma",
         "addr:city": "Roma",
         "contact:phone": "+390688934176",
         "contact:website": "https://www.alicepizza.it/store/alice-talenti-via-franco-sacchetti/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Talenti Via Franco Sacchetti\n**Indirizzo:** Via Franco Sacchetti 41 Roma, Roma\n**Telefono:** +390688934176"
       }
     },
     {
@@ -3445,16 +3072,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Tiburtino Shopping Center",
         "branch": "Alice Tiburtino Shopping Center",
         "full_address": "Centro Commerciale Tiburtino Shopping Center Via dei Pioppi 6 Guidonia Montecelio",
         "addr:city": "Guidonia",
         "contact:phone": "+390774554040",
         "contact:website": "https://www.alicepizza.it/store/alice-tiburtino-shopping-center/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Tiburtino Shopping Center\n**Indirizzo:** Centro Commerciale Tiburtino Shopping Center Via dei Pioppi 6 Guidonia Montecelio, Guidonia\n**Telefono:** +390774554040"
       }
     },
     {
@@ -3472,16 +3096,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Tivoli",
         "branch": "Alice Tivoli",
         "full_address": "Largo Garibaldi 2 Tivoli",
         "addr:city": "Tivoli",
         "contact:phone": "0774/331593",
         "contact:website": "https://www.alicepizza.it/store/alice-tivoli/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Tivoli\n**Indirizzo:** Largo Garibaldi 2 Tivoli, Tivoli\n**Telefono:** 0774/331593"
       }
     },
     {
@@ -3499,16 +3120,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Corso Trieste",
         "branch": "Alice Corso Trieste",
         "full_address": "Corso Trieste 195/197 Roma",
         "addr:city": "Roma",
         "contact:phone": "+390645596385",
         "contact:website": "https://www.alicepizza.it/store/alice-corso-trieste/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Corso Trieste\n**Indirizzo:** Corso Trieste 195/197 Roma, Roma\n**Telefono:** +390645596385"
       }
     },
     {
@@ -3526,16 +3144,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Happio",
         "branch": "Alice Happio",
         "full_address": "Centro Commerciale Happio Via Appia Nuova 448 Roma",
         "addr:city": "Roma",
         "contact:phone": "06/78345548",
         "contact:website": "https://www.alicepizza.it/store/alice-happio/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Happio\n**Indirizzo:** Centro Commerciale Happio Via Appia Nuova 448 Roma, Roma\n**Telefono:** 06/78345548"
       }
     },
     {
@@ -3553,16 +3168,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Rescaldina",
         "branch": "Alice Rescaldina",
         "full_address": "Centro Commerciale Rescaldina Via Palmiro Togliatti 2",
         "addr:city": "Rescaldina",
         "contact:phone": "02.40703328",
         "contact:website": "https://www.alicepizza.it/store/alice-rescaldina/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Rescaldina\n**Indirizzo:** Centro Commerciale Rescaldina Via Palmiro Togliatti 2, Rescaldina\n**Telefono:** 02.40703328"
       }
     },
     {
@@ -3580,16 +3192,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Albano Laziale",
         "branch": "Alice Albano Laziale",
         "full_address": "Corso Giacomo Matteotti 183 Albano",
         "addr:city": "Albano Laziale",
         "contact:phone": "+390689537827",
         "contact:website": "https://www.alicepizza.it/store/alice-albano-laziale/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Albano Laziale\n**Indirizzo:** Corso Giacomo Matteotti 183 Albano, Albano Laziale\n**Telefono:** +390689537827"
       }
     },
     {
@@ -3607,16 +3216,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Ammiragli",
         "branch": "Alice Ammiragli",
         "full_address": "Via degli Ammiragli 18 Roma",
         "addr:city": "Roma",
         "contact:phone": "06/39749283",
         "contact:website": "https://www.alicepizza.it/store/alice-ammiragli/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Ammiragli\n**Indirizzo:** Via degli Ammiragli 18 Roma, Roma\n**Telefono:** 06/39749283"
       }
     },
     {
@@ -3634,16 +3240,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "CC Aprilia",
         "branch": "CC Aprilia",
         "full_address": "C.C. Aprilia 2 SS 148 Pontina Km 44 Aprilia",
         "addr:city": "Aprilia",
         "contact:phone": "06/9253893",
         "contact:website": "https://www.alicepizza.it/store/alice-aprilia/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** CC Aprilia\n**Indirizzo:** C.C. Aprilia 2 SS 148 Pontina Km 44 Aprilia, Aprilia\n**Telefono:** 06/9253893"
       }
     },
     {
@@ -3661,16 +3264,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Avezzano",
         "branch": "Alice Avezzano",
         "full_address": "Via Camillo Corradini 195 Avezzano",
         "addr:city": "Avezzano",
         "contact:phone": "0863/455252",
         "contact:website": "https://www.alicepizza.it/store/alice-avezzano/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Avezzano\n**Indirizzo:** Via Camillo Corradini 195 Avezzano, Avezzano\n**Telefono:** 0863/455252"
       }
     },
     {
@@ -3688,16 +3288,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Balduina",
         "branch": "Alice Balduina",
         "full_address": "Piazza della Balduina 10",
         "addr:city": "Roma",
         "contact:phone": "+390653093210",
         "contact:website": "https://www.alicepizza.it/store/alice-balduina/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Balduina\n**Indirizzo:** Piazza della Balduina 10, Roma\n**Telefono:** +390653093210"
       }
     },
     {
@@ -3715,16 +3312,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Boccea",
         "branch": "Alice Boccea",
         "full_address": "Via di Boccea 116 Roma",
         "addr:city": "Roma",
         "contact:phone": "06/64463800",
         "contact:website": "https://www.alicepizza.it/store/alice-boccea/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Boccea\n**Indirizzo:** Via di Boccea 116 Roma, Roma\n**Telefono:** 06/64463800"
       }
     },
     {
@@ -3742,16 +3336,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Colli Portuensi",
         "branch": "Alice Colli Portuensi",
         "full_address": "Viale dei Colli Portuensi 582 Roma",
         "addr:city": "Roma",
         "contact:phone": "+39066537061",
         "contact:website": "https://www.alicepizza.it/store/alice-colli-portuensi/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Colli Portuensi\n**Indirizzo:** Viale dei Colli Portuensi 582 Roma, Roma\n**Telefono:** +39066537061"
       }
     },
     {
@@ -3769,16 +3360,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Circonvallazione Ostiense",
         "branch": "Alice Circonvallazione Ostiense",
         "full_address": "Circonvallazione Ostiense 353 Roma",
         "addr:city": "Roma",
         "contact:phone": "+39065758496",
         "contact:website": "https://www.alicepizza.it/store/alice-circonvallazione-ostiense/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Circonvallazione Ostiense\n**Indirizzo:** Circonvallazione Ostiense 353 Roma, Roma\n**Telefono:** +39065758496"
       }
     },
     {
@@ -3796,16 +3384,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Cinecittà",
         "branch": "Alice Cinecittà",
         "full_address": "Via Tito Labieno n.2/4 Roma",
         "addr:city": "Roma",
         "contact:phone": "06/71545244",
         "contact:website": "https://www.alicepizza.it/store/alice-cinecitta/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Cinecittà\n**Indirizzo:** Via Tito Labieno n.2/4 Roma, Roma\n**Telefono:** 06/71545244"
       }
     },
     {
@@ -3823,16 +3408,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Chieti",
         "branch": "Alice Chieti",
         "full_address": "Centro Commerciale Megalò Località Santa Filomena Chieti",
         "addr:city": "Chieti",
         "contact:phone": "+390871565065",
         "contact:website": "https://www.alicepizza.it/store/alice-chieti/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Chieti\n**Indirizzo:** Centro Commerciale Megalò Località Santa Filomena Chieti, Chieti\n**Telefono:** +390871565065"
       }
     },
     {
@@ -3850,16 +3432,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice CC Pescara Nord",
         "branch": "Alice CC Pescara Nord",
         "full_address": "Via Leonardo Petruzzi 140 Pescara",
         "addr:city": "Pescara",
         "contact:phone": "02.40703328",
         "contact:website": "https://www.alicepizza.it/store/alice-centro-commerciale-pescara-nord/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice CC Pescara Nord\n**Indirizzo:** Via Leonardo Petruzzi 140 Pescara, Pescara\n**Telefono:** 02.40703328"
       }
     },
     {
@@ -3877,16 +3456,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Baullari",
         "branch": "Alice Baullari",
         "full_address": "Via dei Baullari 140 Roma",
         "addr:city": "Roma",
         "contact:phone": "+3906 6830 1577",
         "contact:website": "https://www.alicepizza.it/store/alice-baullari/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Baullari\n**Indirizzo:** Via dei Baullari 140 Roma, Roma\n**Telefono:** +3906 6830 1577"
       }
     },
     {
@@ -3904,16 +3480,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Porta di Roma",
         "branch": "Alice Porta di Roma",
         "full_address": "Centro Commerciale Porta di Roma Via Alberto Lionello 201 Roma",
         "addr:city": "Roma",
         "contact:phone": "+390687070650",
         "contact:website": "https://www.alicepizza.it/store/alice-porta-di-roma/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Porta di Roma\n**Indirizzo:** Centro Commerciale Porta di Roma Via Alberto Lionello 201 Roma, Roma\n**Telefono:** +390687070650"
       }
     },
     {
@@ -3931,16 +3504,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Euroma 2",
         "branch": "Alice Euroma 2",
         "full_address": "Centro Commerciale Euroma 2 Via Cristoforo Colombo 710 Roma",
         "addr:city": "Roma",
         "contact:phone": "+390645472974",
         "contact:website": "https://www.alicepizza.it/store/alice-euroma-2/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Euroma 2\n**Indirizzo:** Centro Commerciale Euroma 2 Via Cristoforo Colombo 710 Roma, Roma\n**Telefono:** +390645472974"
       }
     },
     {
@@ -3958,16 +3528,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Roma Est",
         "branch": "Alice Roma Est",
         "full_address": "C.C. Roma Est Via Collatina 858 Km 12800 Roma",
         "addr:city": "Roma",
         "contact:phone": "+390622510397",
         "contact:website": "https://www.alicepizza.it/store/alice-roma-est/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Roma Est\n**Indirizzo:** C.C. Roma Est Via Collatina 858 Km 12800 Roma, Roma\n**Telefono:** +390622510397"
       }
     },
     {
@@ -3985,16 +3552,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Via Satrico",
         "branch": "Alice Via Satrico",
         "full_address": "Via Satrico 1d Roma",
         "addr:city": "Roma",
         "contact:phone": "+390670495257",
         "contact:website": "https://www.alicepizza.it/store/alice-via-satrico/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Via Satrico\n**Indirizzo:** Via Satrico 1d Roma, Roma\n**Telefono:** +390670495257"
       }
     },
     {
@@ -4012,16 +3576,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Quattro Venti",
         "branch": "Alice Quattro Venti",
         "full_address": "Via dei Quattro Venti 92/94 Roma",
         "addr:city": "Roma",
         "contact:phone": "+39065813671",
         "contact:website": "https://www.alicepizza.it/store/alice-quattro-venti/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Quattro Venti\n**Indirizzo:** Via dei Quattro Venti 92/94 Roma, Roma\n**Telefono:** +39065813671"
       }
     },
     {
@@ -4039,16 +3600,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Grosseto",
         "branch": "Alice Grosseto",
         "full_address": "Centro Maremà Via Ecuador 30 Grosseto",
         "addr:city": "Grosseto",
         "contact:phone": "+390564456883",
         "contact:website": "https://www.alicepizza.it/store/alice-grosseto/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Grosseto\n**Indirizzo:** Centro Maremà Via Ecuador 30 Grosseto, Grosseto\n**Telefono:** +390564456883"
       }
     },
     {
@@ -4066,16 +3624,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Cinecittadue",
         "branch": "Alice Cinecittadue",
         "full_address": "Centro Commerciale Cinecittadue",
         "addr:city": "Roma",
         "contact:phone": "06.88970945",
         "contact:website": "https://www.alicepizza.it/store/alice-cinecittadue/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Cinecittadue\n**Indirizzo:** Centro Commerciale Cinecittadue, Roma\n**Telefono:** 06.88970945"
       }
     },
     {
@@ -4093,16 +3648,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Tor Sapienza",
         "branch": "Alice Tor Sapienza",
         "full_address": "Via di Tor Sapienza 89 E",
         "addr:city": "Roma",
         "contact:phone": "+39062284423",
         "contact:website": "https://www.alicepizza.it/store/alice-tor-sapienza/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Tor Sapienza\n**Indirizzo:** Via di Tor Sapienza 89 E, Roma\n**Telefono:** +39062284423"
       }
     },
     {
@@ -4120,16 +3672,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Pomezia",
         "branch": "Alice Pomezia",
         "full_address": "Via Orazio 21",
         "addr:city": "Pomezia",
         "contact:phone": "+390669336383",
         "contact:website": "https://www.alicepizza.it/store/alice-pomezia/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Pomezia\n**Indirizzo:** Via Orazio 21, Pomezia\n**Telefono:** +390669336383"
       }
     },
     {
@@ -4147,16 +3696,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Valmontone",
         "branch": "Alice Valmontone",
         "full_address": "Valmontone Outlet Via della Pace, Località Pascolaro 00038 Valmontone",
         "addr:city": "Valmontone",
         "contact:phone": "+39069591126",
         "contact:website": "https://www.alicepizza.it/store/alice-valmontone/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Valmontone\n**Indirizzo:** Valmontone Outlet Via della Pace, Località Pascolaro 00038 Valmontone, Valmontone\n**Telefono:** +39069591126"
       }
     },
     {
@@ -4174,16 +3720,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Villa Adriana",
         "branch": "Alice Villa Adriana",
         "full_address": "Via Nazionale Tiburtina 161",
         "addr:city": "Villa Adriana",
         "contact:phone": "+390774381604",
         "contact:website": "https://www.alicepizza.it/store/alice-villa-adriana/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Villa Adriana\n**Indirizzo:** Via Nazionale Tiburtina 161, Villa Adriana\n**Telefono:** +390774381604"
       }
     },
     {
@@ -4201,16 +3744,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Tintoretto",
         "branch": "Alice Tintoretto",
         "full_address": "Via del Serafico 177 Roma",
         "addr:city": "Roma",
         "contact:phone": "+393273373125",
         "contact:website": "https://www.alicepizza.it/store/alice-tintoretto/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Tintoretto\n**Indirizzo:** Via del Serafico 177 Roma, Roma\n**Telefono:** +393273373125"
       }
     },
     {
@@ -4228,16 +3768,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Genova CC Fiumara",
         "branch": "Genova CC Fiumara",
         "full_address": "Fiumara Centro Commerciale - Via Fiumara 15 Genova ",
         "addr:city": "Genova",
         "contact:phone": "010/2368611",
         "contact:website": "https://www.alicepizza.it/store/alice-genova/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Genova CC Fiumara\n**Indirizzo:** Fiumara Centro Commerciale - Via Fiumara 15 Genova , Genova\n**Telefono:** 010/2368611"
       }
     },
     {
@@ -4255,16 +3792,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Peschiera Borromeo",
         "branch": "Alice Peschiera Borromeo",
         "full_address": "Galleria Borromea Shopping Center Via della Liberazione 8 ",
         "addr:city": "Peschiera Borromeo",
         "contact:phone": "+390251650295",
         "contact:website": "https://www.alicepizza.it/store/alice-peschiera-borromeo/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Peschiera Borromeo\n**Indirizzo:** Galleria Borromea Shopping Center Via della Liberazione 8 , Peschiera Borromeo\n**Telefono:** +390251650295"
       }
     },
     {
@@ -4282,16 +3816,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Sottopasso Ostiense",
         "branch": "Alice Sottopasso Ostiense",
         "full_address": "Piazzale dei Partigiani, 00154 Roma",
         "addr:city": "Roma",
         "contact:phone": "0689939442",
         "contact:website": "https://www.alicepizza.it/store/alice-sottopasso-ostiense/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Sottopasso Ostiense\n**Indirizzo:** Piazzale dei Partigiani, 00154 Roma, Roma\n**Telefono:** 0689939442"
       }
     },
     {
@@ -4309,16 +3840,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice San Lorenzo",
         "branch": "Alice San Lorenzo",
         "full_address": "Via Tiburtina 170/172",
         "addr:city": "Roma",
         "contact:phone": "+390631075075",
         "contact:website": "https://www.alicepizza.it/store/alice-san-lorenzo/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice San Lorenzo\n**Indirizzo:** Via Tiburtina 170/172, Roma\n**Telefono:** +390631075075"
       }
     },
     {
@@ -4336,16 +3864,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Ravenna",
         "branch": "Alice Ravenna",
         "full_address": "Via IV Novembre 35",
         "addr:city": "Ravenna",
         "contact:phone": "+390544212727",
         "contact:website": "https://www.alicepizza.it/store/alice-ravenna/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Ravenna\n**Indirizzo:** Via IV Novembre 35, Ravenna\n**Telefono:** +390544212727"
       }
     },
     {
@@ -4363,16 +3888,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice San Basilio",
         "branch": "Alice San Basilio",
         "full_address": "Via Casal Tidei 71/77",
         "addr:city": "Roma",
         "contact:phone": "+390641227974",
         "contact:website": "https://www.alicepizza.it/store/alice-san-basilio/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice San Basilio\n**Indirizzo:** Via Casal Tidei 71/77, Roma\n**Telefono:** +390641227974"
       }
     },
     {
@@ -4390,16 +3912,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Pietro Maffi",
         "branch": "Alice Pietro Maffi",
         "full_address": "Via Pietro Maffi 8",
         "addr:city": "Roma",
         "contact:phone": "Via Pietro Maffi 8",
         "contact:website": "https://www.alicepizza.it/store/alice-pietro-maffi/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Pietro Maffi\n**Indirizzo:** Via Pietro Maffi 8, Roma\n**Telefono:** Via Pietro Maffi 8"
       }
     },
     {
@@ -4417,16 +3936,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Infernetto",
         "branch": "Alice Infernetto",
         "full_address": "Via Ermanno Wolf Ferrari 241",
         "addr:city": "Roma",
         "contact:phone": "+390650912957",
         "contact:website": "https://www.alicepizza.it/store/alice-infernetto/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Infernetto\n**Indirizzo:** Via Ermanno Wolf Ferrari 241, Roma\n**Telefono:** +390650912957"
       }
     },
     {
@@ -4444,16 +3960,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Perugia",
         "branch": "Alice Perugia",
         "full_address": "Via Sant'Ercolano n.32 Perugia",
         "addr:city": "Perugia",
         "contact:phone": "+390754659939",
         "contact:website": "https://www.alicepizza.it/store/alice-perugia/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Perugia\n**Indirizzo:** Via Sant'Ercolano n.32 Perugia, Perugia\n**Telefono:** +390754659939"
       }
     },
     {
@@ -4471,16 +3984,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Monte Gennaro",
         "branch": "Alice Monte Gennaro",
         "full_address": "Piazza Monte Gennaro 16 A",
         "addr:city": "Roma",
         "contact:phone": "+390689230112",
         "contact:website": "https://www.alicepizza.it/store/alice-monte-gennaro/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Monte Gennaro\n**Indirizzo:** Piazza Monte Gennaro 16 A, Roma\n**Telefono:** +390689230112"
       }
     },
     {
@@ -4498,16 +4008,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Fonte Nuova",
         "branch": "Alice Fonte Nuova",
         "full_address": "Via Nomentana 622 Fonte Nuova (Roma)",
         "addr:city": "Fonte Nuova",
         "contact:phone": "+39069059654",
         "contact:website": "https://www.alicepizza.it/store/alice-fonte-nuova/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Fonte Nuova\n**Indirizzo:** Via Nomentana 622 Fonte Nuova (Roma), Fonte Nuova\n**Telefono:** +39069059654"
       }
     },
     {
@@ -4525,16 +4032,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Forlì C.C. Punta di Ferro",
         "branch": "Alice Forlì C.C. Punta di Ferro",
         "full_address": "C.C. Punta di Ferro Piazzale della Cooperazione 2 47122 Forlì",
         "addr:city": "Forlì",
         "contact:phone": "+3905431801729",
         "contact:website": "https://www.alicepizza.it/store/alice-forli-c-c-punta-di-ferro/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Forlì C.C. Punta di Ferro\n**Indirizzo:** C.C. Punta di Ferro Piazzale della Cooperazione 2 47122 Forlì, Forlì\n**Telefono:** +3905431801729"
       }
     },
     {
@@ -4552,16 +4056,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice C.C. Esp Ravenna",
         "branch": "Alice C.C. Esp Ravenna",
         "full_address": "Centro Commerciale Esp Via Marco Bussato 74, 48124 Ravenna",
         "addr:city": "Ravenna",
-        "contact:phone": "N/A",
+        "contact:phone": "",
         "contact:website": "https://www.alicepizza.it/store/alice-c-c-esp-ravenna/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice C.C. Esp Ravenna\n**Indirizzo:** Centro Commerciale Esp Via Marco Bussato 74, 48124 Ravenna, Ravenna"
       }
     },
     {
@@ -4579,16 +4080,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Sona C.C. La GrandeMela Shoppingland",
         "branch": "Alice Sona C.C. La GrandeMela Shoppingland",
         "full_address": "Via Trentino 1 Sona (VR)",
         "addr:city": "Sona",
         "contact:phone": "045/6090497",
         "contact:website": "https://www.alicepizza.it/store/alice-sona-c-c-la-grandemela-shoppingland/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Sona C.C. La GrandeMela Shoppingland\n**Indirizzo:** Via Trentino 1 Sona (VR), Sona\n**Telefono:** 045/6090497"
       }
     },
     {
@@ -4606,16 +4104,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Piazza Vimercati",
         "branch": "Alice Piazza Vimercati",
         "full_address": "Piazza Ottaviano Vimercati 3/4/5",
         "addr:city": "Roma",
         "contact:phone": "+39 068124681",
         "contact:website": "https://www.alicepizza.it/store/alice-piazza-vimercati/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Piazza Vimercati\n**Indirizzo:** Piazza Ottaviano Vimercati 3/4/5, Roma\n**Telefono:** +39 068124681"
       }
     },
     {
@@ -4633,16 +4128,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Corso Giolitti (Cuneo)",
         "branch": "Alice Corso Giolitti (Cuneo)",
         "full_address": "Corso Giolitti 4d",
         "addr:city": "Cuneo",
         "contact:phone": "+39 01711875586",
         "contact:website": "https://www.alicepizza.it/store/alice-corso-giolitti-cuneo/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Corso Giolitti (Cuneo)\n**Indirizzo:** Corso Giolitti 4d, Cuneo\n**Telefono:** +39 01711875586"
       }
     },
     {
@@ -4660,16 +4152,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Finocchio",
         "branch": "Alice Finocchio",
         "full_address": "Via Casilina 1859 B",
         "addr:city": "Roma",
         "contact:phone": "+39 0620760503",
         "contact:website": "https://www.alicepizza.it/store/alice-finocchio/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Finocchio\n**Indirizzo:** Via Casilina 1859 B, Roma\n**Telefono:** +39 0620760503"
       }
     },
     {
@@ -4687,16 +4176,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Tor Bella Monaca",
         "branch": "Alice Tor Bella Monaca",
         "full_address": "Viale Paolo Ferdinando Quaglia 26",
         "addr:city": "Roma",
         "contact:phone": "+390669212563",
         "contact:website": "https://www.alicepizza.it/store/alice-tor-bella-monaca/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Tor Bella Monaca\n**Indirizzo:** Viale Paolo Ferdinando Quaglia 26, Roma\n**Telefono:** +390669212563"
       }
     },
     {
@@ -4714,16 +4200,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Ciamarra",
         "branch": "Alice Ciamarra",
         "full_address": "Viale Antonio Ciamarra 107 Roma",
         "addr:city": "Roma",
         "contact:phone": "+39067211148",
         "contact:website": "https://www.alicepizza.it/store/alice-ciamarra/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Ciamarra\n**Indirizzo:** Viale Antonio Ciamarra 107 Roma, Roma\n**Telefono:** +39067211148"
       }
     },
     {
@@ -4741,16 +4224,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Pavia C.C. Carrefour",
         "branch": "Alice Pavia C.C. Carrefour",
         "full_address": "Strada Vigentina ang. Via Cassani",
         "addr:city": "Pavia",
         "contact:phone": "0382/495919",
         "contact:website": "https://www.alicepizza.it/store/alice-pavia-c-c-carrefour/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Pavia C.C. Carrefour\n**Indirizzo:** Strada Vigentina ang. Via Cassani, Pavia\n**Telefono:** 0382/495919"
       }
     },
     {
@@ -4768,16 +4248,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Ciampino",
         "branch": "Alice Ciampino",
         "full_address": "Viale John Fitzgerald Kennedy 41 Ciampino",
         "addr:city": "Ciampino",
         "contact:phone": "+39 067917722",
         "contact:website": "https://www.alicepizza.it/store/alice-ciampino/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Ciampino\n**Indirizzo:** Viale John Fitzgerald Kennedy 41 Ciampino, Ciampino\n**Telefono:** +39 067917722"
       }
     },
     {
@@ -4795,16 +4272,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Viale Cortina d’Ampezzo",
         "branch": "Alice Viale Cortina d’Ampezzo",
         "full_address": "Viale Cortina d'Ampezzo 321/323 Roma",
         "addr:city": "Roma",
         "contact:phone": "+390635502761",
         "contact:website": "https://www.alicepizza.it/store/alice-viale-cortina-dampezzo/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Viale Cortina d’Ampezzo\n**Indirizzo:** Viale Cortina d'Ampezzo 321/323 Roma, Roma\n**Telefono:** +390635502761"
       }
     },
     {
@@ -4822,16 +4296,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Palombarese",
         "branch": "Alice Palombarese",
         "full_address": "Via Palombarese 207 Guidonia ",
         "addr:city": "Guidonia",
         "contact:phone": "+390774536403",
         "contact:website": "https://www.alicepizza.it/store/alice-palombarese/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Palombarese\n**Indirizzo:** Via Palombarese 207 Guidonia , Guidonia\n**Telefono:** +390774536403"
       }
     },
     {
@@ -4849,16 +4320,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Colli Aniene",
         "branch": "Alice Colli Aniene",
         "full_address": "Via Edoardo D'Onofrio 94 Roma",
         "addr:city": "Roma",
         "contact:phone": "06 45422409",
         "contact:website": "https://www.alicepizza.it/store/alice-colli-aniene/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Colli Aniene\n**Indirizzo:** Via Edoardo D'Onofrio 94 Roma, Roma\n**Telefono:** 06 45422409"
       }
     },
     {
@@ -4876,16 +4344,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Bergamo",
         "branch": "Alice Bergamo",
         "full_address": "Viale Papa Giovanni XXIII 44, Bergamo",
         "addr:city": "Bergamo",
-        "contact:phone": "N/A",
+        "contact:phone": "",
         "contact:website": "https://www.alicepizza.it/store/alice-c-c-oriocenter/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Bergamo\n**Indirizzo:** Viale Papa Giovanni XXIII 44, Bergamo, Bergamo"
       }
     },
     {
@@ -4903,16 +4368,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Via Marsala",
         "branch": "Alice Via Marsala",
         "full_address": "Via Marsala 66 Roma",
         "addr:city": "Roma",
         "contact:phone": "+39 06 8957 3867",
         "contact:website": "https://www.alicepizza.it/store/alice-via-marsala/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Via Marsala\n**Indirizzo:** Via Marsala 66 Roma, Roma\n**Telefono:** +39 06 8957 3867"
       }
     },
     {
@@ -4930,16 +4392,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Casalotti",
         "branch": "Alice Casalotti",
         "full_address": "Piazza Ormea 32",
         "addr:city": "Roma",
         "contact:phone": "+39 06 164161000",
         "contact:website": "https://www.alicepizza.it/store/alice-casalotti/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Casalotti\n**Indirizzo:** Piazza Ormea 32, Roma\n**Telefono:** +39 06 164161000"
       }
     },
     {
@@ -4957,16 +4416,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Spinaceto",
         "branch": "Alice Spinaceto",
         "full_address": "Viale dei Caduti per laResistenza 101 Roma",
         "addr:city": "Roma",
         "contact:phone": "+39 0645546847",
         "contact:website": "https://www.alicepizza.it/store/alice-spinaceto/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Spinaceto\n**Indirizzo:** Viale dei Caduti per laResistenza 101 Roma, Roma\n**Telefono:** +39 0645546847"
       }
     },
     {
@@ -4984,16 +4440,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Stazione Tiburtina",
         "branch": "Alice Stazione Tiburtina",
         "full_address": "all'interno della Stazione Tiburtina, area Piazza Ipogea",
         "addr:city": "Roma",
         "contact:phone": "+390635297403",
         "contact:website": "https://www.alicepizza.it/store/alice-stazione-tiburtina/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Stazione Tiburtina\n**Indirizzo:** all'interno della Stazione Tiburtina, area Piazza Ipogea, Roma\n**Telefono:** +390635297403"
       }
     },
     {
@@ -5011,16 +4464,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice C.C. Anagnina",
         "branch": "Alice C.C. Anagnina",
         "full_address": "C.C. Anagnina Via Torre di Mezzavia, 35, 00173 Roma RM",
         "addr:city": "Roma",
         "contact:phone": "+39 0689236884",
         "contact:website": "https://www.alicepizza.it/store/alice-c-c-anagnina/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice C.C. Anagnina\n**Indirizzo:** C.C. Anagnina Via Torre di Mezzavia, 35, 00173 Roma RM, Roma\n**Telefono:** +39 0689236884"
       }
     },
     {
@@ -5038,16 +4488,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Lucca",
         "branch": "Alice Lucca",
         "full_address": "Via S. Paolino 22 Lucca",
         "addr:city": "Lucca",
         "contact:phone": "+390583572712",
         "contact:website": "https://www.alicepizza.it/store/alice-lucca/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Lucca\n**Indirizzo:** Via S. Paolino 22 Lucca, Lucca\n**Telefono:** +390583572712"
       }
     },
     {
@@ -5065,16 +4512,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Spallanzani",
         "branch": "Spallanzani",
         "full_address": "Via L. Spallanzani 18 Milano",
         "addr:city": "Milano",
         "contact:phone": "+390245076249",
         "contact:website": "https://www.alicepizza.it/store/alice-spallanzani/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Spallanzani\n**Indirizzo:** Via L. Spallanzani 18 Milano, Milano\n**Telefono:** +390245076249"
       }
     },
     {
@@ -5092,16 +4536,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice La Storta",
         "branch": "Alice La Storta",
         "full_address": "Via Cassia 1665 Roma",
         "addr:city": "Roma",
         "contact:phone": "+39 0642916688",
         "contact:website": "https://www.alicepizza.it/store/alice-la-storta/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice La Storta\n**Indirizzo:** Via Cassia 1665 Roma, Roma\n**Telefono:** +39 0642916688"
       }
     },
     {
@@ -5119,16 +4560,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Aprilia Via De Gasperi",
         "branch": "Alice Aprilia Via De Gasperi",
         "full_address": "Via Alcide De Gasperi 79 Aprilia",
         "addr:city": "Aprilia",
         "contact:phone": "+39 0649774410",
         "contact:website": "https://www.alicepizza.it/store/alice-aprilia-via-de-gasperi/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Aprilia Via De Gasperi\n**Indirizzo:** Via Alcide De Gasperi 79 Aprilia, Aprilia\n**Telefono:** +39 0649774410"
       }
     },
     {
@@ -5146,16 +4584,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Viale Beethoven",
         "branch": "Alice Viale Beethoven",
         "full_address": "Viale Beethoven, 72/74",
         "addr:city": "Roma",
         "contact:phone": "+39 06 6942 8780",
         "contact:website": "https://www.alicepizza.it/store/alice-viale-beethoven/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Viale Beethoven\n**Indirizzo:** Viale Beethoven, 72/74, Roma\n**Telefono:** +39 06 6942 8780"
       }
     },
     {
@@ -5173,16 +4608,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Guidonia",
         "branch": "Alice Guidonia",
         "full_address": "Viale Roma 187, Guidonia",
         "addr:city": "Guidonia",
         "contact:phone": "0774706389",
         "contact:website": "https://www.alicepizza.it/store/alice-guidonia/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Guidonia\n**Indirizzo:** Viale Roma 187, Guidonia, Guidonia\n**Telefono:** 0774706389"
       }
     },
     {
@@ -5200,16 +4632,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Grottarossa",
         "branch": "Alice Grottarossa",
         "full_address": "Via di Grottarossa 20/22 Roma",
         "addr:city": "Roma",
         "contact:phone": "+39  06 3099 9650",
         "contact:website": "https://www.alicepizza.it/store/alice-grottarossa/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Grottarossa\n**Indirizzo:** Via di Grottarossa 20/22 Roma, Roma\n**Telefono:** +39  06 3099 9650"
       }
     },
     {
@@ -5227,16 +4656,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Vimodrone",
         "branch": "Alice Vimodrone",
         "full_address": "C.C. Auchan Via Padana Superiore, km 292, Vimodrone (MI)",
         "addr:city": "Vimodrone",
         "contact:phone": "02.40703328",
         "contact:website": "https://www.alicepizza.it/store/alice-vimodrone/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Vimodrone\n**Indirizzo:** C.C. Auchan Via Padana Superiore, km 292, Vimodrone (MI), Vimodrone\n**Telefono:** 02.40703328"
       }
     },
     {
@@ -5254,43 +4680,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Casal Bertone",
         "branch": "Alice Casal Bertone",
         "full_address": "Via di Casal Bertone 163 ",
         "addr:city": "Roma",
         "contact:phone": "0653099961",
         "contact:website": "https://www.alicepizza.it/store/alice-casal-bertone/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.4903382,
-          35.9216239
-        ]
-      },
-      "properties": {
-        "id": "st-julians",
-        "source": "alicepizza.it",
-        "amenity": "fast_food",
-        "brand": "Alice Pizza",
-        "cuisine": "pizza",
-        "name": "Alice Pizza",
-        "branch": "Alice Malta",
-        "full_address": "137 St. George’s Road, St Julians",
-        "addr:city": "St Julians",
-        "contact:phone": "+356 2138 2009",
-        "contact:website": "https://www.alicepizza.it/store/alice-malta/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Casal Bertone\n**Indirizzo:** Via di Casal Bertone 163 , Roma\n**Telefono:** 0653099961"
       }
     },
     {
@@ -5308,16 +4704,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice La Spezia",
         "branch": "Alice La Spezia",
         "full_address": "Centro Commerciale Le Terrazze Via Fontevivo 17",
         "addr:city": "La Spezia",
         "contact:phone": "+390187306376",
         "contact:website": "https://www.alicepizza.it/store/alice-la-spezia/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice La Spezia\n**Indirizzo:** Centro Commerciale Le Terrazze Via Fontevivo 17, La Spezia\n**Telefono:** +390187306376"
       }
     },
     {
@@ -5335,16 +4728,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Fabio Massimo",
         "branch": "Alice Fabio Massimo",
         "full_address": "Via Fabio Massimo 46 ",
         "addr:city": "Roma",
         "contact:phone": "063221530",
         "contact:website": "https://www.alicepizza.it/store/alice-fabio-massimo/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Fabio Massimo\n**Indirizzo:** Via Fabio Massimo 46 , Roma\n**Telefono:** 063221530"
       }
     },
     {
@@ -5362,16 +4752,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Cagliari",
         "branch": "Alice Cagliari",
         "full_address": "Centro Commerciale Le Vele, Via delle Serre, Quartucciu (Cagliari) ",
         "addr:city": "Cagliari",
         "contact:phone": "070884167",
         "contact:website": "https://www.alicepizza.it/store/alice-cagliari/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Cagliari\n**Indirizzo:** Centro Commerciale Le Vele, Via delle Serre, Quartucciu (Cagliari) , Cagliari\n**Telefono:** 070884167"
       }
     },
     {
@@ -5389,16 +4776,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Ladispoli",
         "branch": "Alice Ladispoli",
         "full_address": "Viale Italia, 8",
         "addr:city": "Ladispoli",
         "contact:phone": "0631053285",
         "contact:website": "https://www.alicepizza.it/store/alice-ladispoli/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Ladispoli\n**Indirizzo:** Viale Italia, 8, Ladispoli\n**Telefono:** 0631053285"
       }
     },
     {
@@ -5416,16 +4800,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Via Tiburtina 574",
         "branch": "Alice Via Tiburtina 574",
         "full_address": "Via Tiburtina 574/576 ",
         "addr:city": "Roma",
         "contact:phone": "0666483442",
         "contact:website": "https://www.alicepizza.it/store/alice-via-tiburtina-574/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Via Tiburtina 574\n**Indirizzo:** Via Tiburtina 574/576 , Roma\n**Telefono:** 0666483442"
       }
     },
     {
@@ -5443,16 +4824,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Gianicolense",
         "branch": "Alice Gianicolense",
         "full_address": "Circonvallazione Gianicolense 278",
         "addr:city": "Roma",
         "contact:phone": "0686201074",
         "contact:website": "https://www.alicepizza.it/store/alice-gianicolense/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Gianicolense\n**Indirizzo:** Circonvallazione Gianicolense 278, Roma\n**Telefono:** 0686201074"
       }
     },
     {
@@ -5470,16 +4848,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Tuscia",
         "branch": "Alice Tuscia",
         "full_address": "Centro Commerciale Tuscia, Tangenziale Ovest , Viterbo",
         "addr:city": "Viterbo",
         "contact:phone": "0761092164",
         "contact:website": "https://www.alicepizza.it/store/alice-tuscia/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Tuscia\n**Indirizzo:** Centro Commerciale Tuscia, Tangenziale Ovest , Viterbo, Viterbo\n**Telefono:** 0761092164"
       }
     },
     {
@@ -5497,16 +4872,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Nettunense",
         "branch": "Alice Nettunense",
         "full_address": "Via Nettunense km 1+373, 00047 Marino RM",
         "addr:city": "Roma",
         "contact:phone": "3760014318",
         "contact:website": "https://www.alicepizza.it/store/alice-nettunense/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Nettunense\n**Indirizzo:** Via Nettunense km 1+373, 00047 Marino RM, Roma\n**Telefono:** 3760014318"
       }
     },
     {
@@ -5524,16 +4896,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Salario Center",
         "branch": "Alice Salario Center",
         "full_address": "Via Salaria 665, Salario Center, Roma ",
         "addr:city": "Roma",
         "contact:phone": "3407149795",
         "contact:website": "https://www.alicepizza.it/store/alice-salario-center/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Salario Center\n**Indirizzo:** Via Salaria 665, Salario Center, Roma , Roma\n**Telefono:** 3407149795"
       }
     },
     {
@@ -5551,16 +4920,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Maximall",
         "branch": "Alice Maximall",
         "full_address": "Via Antonio Pacinotti, 84098 Località Scontrafata, Pontecagnano Faiano SA",
         "addr:city": "Pontecagnano",
         "contact:phone": "089.9254482",
         "contact:website": "https://www.alicepizza.it/store/alice-maximall/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Maximall\n**Indirizzo:** Via Antonio Pacinotti, 84098 Località Scontrafata, Pontecagnano Faiano SA, Pontecagnano\n**Telefono:** 089.9254482"
       }
     },
     {
@@ -5578,16 +4944,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Giustiniano Imperatore",
         "branch": "Alice Giustiniano Imperatore",
         "full_address": "Viale Giustiniano Imperatore 32, Roma",
         "addr:city": "Roma",
         "contact:phone": "06.45596951",
         "contact:website": "https://www.alicepizza.it/store/alice-giustiniano-imperatore/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Giustiniano Imperatore\n**Indirizzo:** Viale Giustiniano Imperatore 32, Roma, Roma\n**Telefono:** 06.45596951"
       }
     },
     {
@@ -5605,16 +4968,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Acquario",
         "branch": "Alice Acquario",
         "full_address": "Vignate, Centro Commerciale Acquario, Via Nuova Cassanese, 10, 20060 (MI)",
         "addr:city": "Vignate",
         "contact:phone": "02 3928 6342",
         "contact:website": "https://www.alicepizza.it/store/alice-acquario/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Acquario\n**Indirizzo:** Vignate, Centro Commerciale Acquario, Via Nuova Cassanese, 10, 20060 (MI), Vignate\n**Telefono:** 02 3928 6342"
       }
     },
     {
@@ -5632,16 +4992,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Dima Shopping Bufalotta",
         "branch": "Alice Dima Shopping Bufalotta",
         "full_address": "Centro Commerciale Dima Shopping Bufalotta, Via Dario Niccodemi, 99, Roma",
         "addr:city": "Roma",
         "contact:phone": "0687130217",
         "contact:website": "https://www.alicepizza.it/store/alice-dima-shopping-bufalotta/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Dima Shopping Bufalotta\n**Indirizzo:** Centro Commerciale Dima Shopping Bufalotta, Via Dario Niccodemi, 99, Roma, Roma\n**Telefono:** 0687130217"
       }
     },
     {
@@ -5659,16 +5016,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Torrevecchia",
         "branch": "Alice Torrevecchia",
         "full_address": "Via di Torrevecchia 13, 00168 Roma ",
         "addr:city": "Roma",
         "contact:phone": "0630601957",
         "contact:website": "https://www.alicepizza.it/store/torrevecchia/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Torrevecchia\n**Indirizzo:** Via di Torrevecchia 13, 00168 Roma , Roma\n**Telefono:** 0630601957"
       }
     },
     {
@@ -5686,16 +5040,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Villasanta",
         "branch": "Alice Villasanta",
         "full_address": "Centro Commerciale Villasanta Il Gigante, Via Tiziano Vecellio, 2 Villasanta, Monza Brianza ",
         "addr:city": "Monza",
         "contact:phone": "039 578 3836",
         "contact:website": "https://www.alicepizza.it/store/alice-villasanta/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Villasanta\n**Indirizzo:** Centro Commerciale Villasanta Il Gigante, Via Tiziano Vecellio, 2 Villasanta, Monza Brianza , Monza\n**Telefono:** 039 578 3836"
       }
     },
     {
@@ -5713,16 +5064,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Torino Università",
         "branch": "Alice Torino Università",
         "full_address": "Torino Università, Piazzale Aldo Moro",
         "addr:city": "Torino",
         "contact:phone": "0116683660",
         "contact:website": "https://www.alicepizza.it/store/alice-torino-universita/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Torino Università\n**Indirizzo:** Torino Università, Piazzale Aldo Moro, Torino\n**Telefono:** 0116683660"
       }
     },
     {
@@ -5740,16 +5088,13 @@
         "amenity": "fast_food",
         "brand": "Alice Pizza",
         "cuisine": "pizza",
-        "name": "Alice Pizza",
+        "name": "Alice Metropoli",
         "branch": "Alice Metropoli",
         "full_address": "Via Carlo Amoretti 1, Novate Milanese Centro Commerciale Metropoli ",
         "addr:city": "Novate Milanese",
         "contact:phone": "0226600450",
         "contact:website": "https://www.alicepizza.it/store/alice-metropoli/",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "opening_hours": "N/A",
-        "services_str": "N/A"
+        "description": "### Alice Pizza\n**Sede:** Alice Metropoli\n**Indirizzo:** Via Carlo Amoretti 1, Novate Milanese Centro Commerciale Metropoli , Novate Milanese\n**Telefono:** 0226600450"
       }
     }
   ]

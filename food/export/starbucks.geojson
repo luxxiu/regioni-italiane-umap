@@ -16,7 +16,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Milano Garibaldi",
         "branch": "Milano Garibaldi",
         "full_address": "Corso Garibaldi 118, 20121 Milano",
         "addr:city": "Milano",
@@ -25,9 +25,7 @@
         "contact:phone": "+39 0265560122",
         "contact:website": "https://www.starbucks.it/it/stores/italia/lombardia/milano/milano-corso-garibaldi-118",
         "opening_hours": "Mo-Fr 07:30-20:00; Sa-Su 08:00-20:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Milano Garibaldi\n**Indirizzo:** Corso Garibaldi 118, 20121 Milano, Milano\n**Orari:** Mo-Fr 07:30-20:00; Sa-Su 08:00-20:00\n**Telefono:** +39 0265560122"
       }
     },
     {
@@ -45,7 +43,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Milano Malpensa T1",
         "branch": "Milano Malpensa T1",
         "full_address": "Aeroporto Milano Malpensa T1, 21010 Ferno",
         "addr:city": "Ferno",
@@ -54,9 +52,7 @@
         "contact:phone": "+39 0258580683",
         "contact:website": "https://www.starbucks.it/it/stores/italia/lombardia/varese/ferno",
         "opening_hours": "Mo-Su 04:30-21:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Milano Malpensa T1\n**Indirizzo:** Aeroporto Milano Malpensa T1, 21010 Ferno, Ferno\n**Orari:** Mo-Su 04:30-21:00\n**Telefono:** +39 0258580683"
       }
     },
     {
@@ -74,7 +70,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Milano Durini",
         "branch": "Milano Durini",
         "full_address": "Via Durini 28, 20122 Milano",
         "addr:city": "Milano",
@@ -83,9 +79,7 @@
         "contact:phone": "+39 0276004506",
         "contact:website": "https://www.starbucks.it/it/stores/italia/lombardia/milano/milano-via-durini-28",
         "opening_hours": "Mo-Fr 07:30-19:30; Sa-Su 08:00-20:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Milano Durini\n**Indirizzo:** Via Durini 28, 20122 Milano, Milano\n**Orari:** Mo-Fr 07:30-19:30; Sa-Su 08:00-20:00\n**Telefono:** +39 0276004506"
       }
     },
     {
@@ -103,7 +97,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Milano Vercelli",
         "branch": "Milano Vercelli",
         "full_address": "Corso Vercelli 2, 20145 Milano",
         "addr:city": "Milano",
@@ -112,9 +106,7 @@
         "contact:phone": "+39 0248024629",
         "contact:website": "https://www.starbucks.it/it/stores/italia/lombardia/milano/milano-corso-vercelli-2",
         "opening_hours": "Mo-Fr 07:30-19:30; Sa-Su 08:00-20:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Milano Vercelli\n**Indirizzo:** Corso Vercelli 2, 20145 Milano, Milano\n**Orari:** Mo-Fr 07:30-19:30; Sa-Su 08:00-20:00\n**Telefono:** +39 0248024629"
       }
     },
     {
@@ -132,7 +124,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Milano Centrale",
         "branch": "Milano Centrale",
         "full_address": "Piazza Savoia 1, 20124 Milano",
         "addr:city": "Milano",
@@ -141,9 +133,7 @@
         "contact:phone": "+39 0266712764",
         "contact:website": "https://www.starbucks.it/it/stores/italia/lombardia/milano/milano-piazza-savoia-1",
         "opening_hours": "Mo-Su 06:00-20:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Milano Centrale\n**Indirizzo:** Piazza Savoia 1, 20124 Milano, Milano\n**Orari:** Mo-Su 06:00-20:00\n**Telefono:** +39 0266712764"
       }
     },
     {
@@ -161,7 +151,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Torino Buozzi",
         "branch": "Torino Buozzi",
         "full_address": "Via Bruno Buozzi 5, 10121 Torino",
         "addr:city": "Torino",
@@ -170,9 +160,7 @@
         "contact:phone": "+39 0114407612",
         "contact:website": "https://www.starbucks.it/it/stores/italia/piemonte/torino/torino-via-bruno-buozzi",
         "opening_hours": "Mo-Fr 07:30-20:00; Sa-Su 08:00-20:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Torino Buozzi\n**Indirizzo:** Via Bruno Buozzi 5, 10121 Torino, Torino\n**Orari:** Mo-Fr 07:30-20:00; Sa-Su 08:00-20:00\n**Telefono:** +39 0114407612"
       }
     },
     {
@@ -190,7 +178,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Serravalle Designer Outlet",
         "branch": "Serravalle Designer Outlet",
         "full_address": "Via della Moda 1, 15069 Serravalle Scrivia",
         "addr:city": "Serravalle Scrivia",
@@ -199,9 +187,7 @@
         "contact:phone": "+39 0143340581",
         "contact:website": "https://www.starbucks.it/it/stores/italia/piemonte/alessandria/serravalle-scrivia",
         "opening_hours": "Mo-Su 09:00-20:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Serravalle Designer Outlet\n**Indirizzo:** Via della Moda 1, 15069 Serravalle Scrivia, Serravalle Scrivia\n**Orari:** Mo-Su 09:00-20:00\n**Telefono:** +39 0143340581"
       }
     },
     {
@@ -219,7 +205,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Milano Restelli",
         "branch": "Milano Restelli",
         "full_address": "Via Restelli 5, 20124 Milano",
         "addr:city": "Milano",
@@ -228,9 +214,7 @@
         "contact:phone": "+39 026685034",
         "contact:website": "https://www.starbucks.it/it/stores/italia/lombardia/milano/milano-via-restelli-5",
         "opening_hours": "Mo-Fr 07:30-19:00; Sa-Su 08:00-19:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Milano Restelli\n**Indirizzo:** Via Restelli 5, 20124 Milano, Milano\n**Orari:** Mo-Fr 07:30-19:00; Sa-Su 08:00-19:00\n**Telefono:** +39 026685034"
       }
     },
     {
@@ -248,7 +232,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Firenze CC I Gigli",
         "branch": "Firenze CC I Gigli",
         "full_address": "Via San Quirico 165, 50013 Campi Bisenzio",
         "addr:city": "Campi Bisenzio",
@@ -257,9 +241,7 @@
         "contact:phone": "+39 055898076",
         "contact:website": "https://www.starbucks.it/it/stores/italia/toscana/firenze/campi-bisenzio",
         "opening_hours": "Mo-Su 09:00-21:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Firenze CC I Gigli\n**Indirizzo:** Via San Quirico 165, 50013 Campi Bisenzio, Campi Bisenzio\n**Orari:** Mo-Su 09:00-21:00\n**Telefono:** +39 055898076"
       }
     },
     {
@@ -277,7 +259,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Erbusco DriveThru",
         "branch": "Erbusco DriveThru",
         "full_address": "Via Rovato 43, 25030 Erbusco",
         "addr:city": "Erbusco",
@@ -286,9 +268,7 @@
         "contact:phone": "+39 030723355",
         "contact:website": "https://www.starbucks.it/it/stores/italia/lombardia/brescia/erbusco",
         "opening_hours": "Mo-Fr 06:30-19:00; Sa-Su 07:30-19:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Erbusco DriveThru\n**Indirizzo:** Via Rovato 43, 25030 Erbusco, Erbusco\n**Orari:** Mo-Fr 06:30-19:00; Sa-Su 07:30-19:30\n**Telefono:** +39 030723355"
       }
     },
     {
@@ -306,7 +286,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Torino Porta Nuova",
         "branch": "Torino Porta Nuova",
         "full_address": "Corso Vittorio Emanuele II 58, 10123 Torino",
         "addr:city": "Torino",
@@ -315,9 +295,7 @@
         "contact:phone": "+39 0115612420",
         "contact:website": "https://www.starbucks.it/it/stores/italia/piemonte/torino/torino-corso-vittorio-emanuele",
         "opening_hours": "Mo-Su 06:30-20:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Torino Porta Nuova\n**Indirizzo:** Corso Vittorio Emanuele II 58, 10123 Torino, Torino\n**Orari:** Mo-Su 06:30-20:00\n**Telefono:** +39 0115612420"
       }
     },
     {
@@ -335,7 +313,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Bergamo CC OrioCenter",
         "branch": "Bergamo CC OrioCenter",
         "full_address": "Via Portico 71, 24050 Orio al Serio",
         "addr:city": "Orio al Serio",
@@ -344,9 +322,7 @@
         "contact:phone": "+39 035311239",
         "contact:website": "https://www.starbucks.it/it/stores/italia/lombardia/bergamo/orio-al-serio",
         "opening_hours": "Mo-Su 08:30-22:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Bergamo CC OrioCenter\n**Indirizzo:** Via Portico 71, 24050 Orio al Serio, Orio al Serio\n**Orari:** Mo-Su 08:30-22:00\n**Telefono:** +39 035311239"
       }
     },
     {
@@ -364,7 +340,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Arese CC Il Centro",
         "branch": "Arese CC Il Centro",
         "full_address": "Via Giuseppe Eugenio Luraghi 1, 20044 Arese",
         "addr:city": "Arese",
@@ -373,9 +349,7 @@
         "contact:phone": "+39 0293878282",
         "contact:website": "https://www.starbucks.it/it/stores/italia/lombardia/milano/arese",
         "opening_hours": "Mo-Su 08:00-20:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Arese CC Il Centro\n**Indirizzo:** Via Giuseppe Eugenio Luraghi 1, 20044 Arese, Arese\n**Orari:** Mo-Su 08:00-20:00\n**Telefono:** +39 0293878282"
       }
     },
     {
@@ -393,7 +367,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Roma Castel Romano Designer Outlet",
         "branch": "Roma Castel Romano Designer Outlet",
         "full_address": "Via del Ponte di Piscina Cupa 64, 00128 Roma",
         "addr:city": "Roma",
@@ -402,9 +376,7 @@
         "contact:phone": "+39 0650576764",
         "contact:website": "https://www.starbucks.it/it/stores/italia/lazio/roma/roma-via-del-ponte",
         "opening_hours": "Mo-Su 09:00-20:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Roma Castel Romano Designer Outlet\n**Indirizzo:** Via del Ponte di Piscina Cupa 64, 00128 Roma, Roma\n**Orari:** Mo-Su 09:00-20:00\n**Telefono:** +39 0650576764"
       }
     },
     {
@@ -422,7 +394,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Franciacorta Village",
         "branch": "Franciacorta Village",
         "full_address": "Piazza Cascina Moie 1/2, 25050 Rodengo Saiano",
         "addr:city": "Rodengo Saiano",
@@ -431,9 +403,7 @@
         "contact:phone": "+39 030610594",
         "contact:website": "https://www.starbucks.it/it/stores/italia/lombardia/brescia/rodengo-saiano",
         "opening_hours": "Mo-Su 09:00-20:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Franciacorta Village\n**Indirizzo:** Piazza Cascina Moie 1/2, 25050 Rodengo Saiano, Rodengo Saiano\n**Orari:** Mo-Su 09:00-20:00\n**Telefono:** +39 030610594"
       }
     },
     {
@@ -451,7 +421,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Torino Outlet Village",
         "branch": "Torino Outlet Village",
         "full_address": "Via Torino 160, 10036 Settimo Torinese",
         "addr:city": "Settimo Torinese",
@@ -460,9 +430,7 @@
         "contact:phone": "+39 0118955201",
         "contact:website": "https://www.starbucks.it/it/stores/italia/piemonte/torino/settimo-torinese",
         "opening_hours": "Mo-Su 09:30-20:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Torino Outlet Village\n**Indirizzo:** Via Torino 160, 10036 Settimo Torinese, Settimo Torinese\n**Orari:** Mo-Su 09:30-20:00\n**Telefono:** +39 0118955201"
       }
     },
     {
@@ -480,7 +448,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Scalo Milano Outlet&More",
         "branch": "Scalo Milano Outlet&More",
         "full_address": "Via Milano 5, 20085 Locate di Triulzi",
         "addr:city": "Locate di Triulzi",
@@ -489,9 +457,7 @@
         "contact:phone": "+39 029077641",
         "contact:website": "https://www.starbucks.it/it/stores/italia/lombardia/milano/locate-di-triulzi",
         "opening_hours": "Mo-Th 08:00-20:00; Fr-Su 08:00-21:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Scalo Milano Outlet&More\n**Indirizzo:** Via Milano 5, 20085 Locate di Triulzi, Locate di Triulzi\n**Orari:** Mo-Th 08:00-20:00; Fr-Su 08:00-21:00\n**Telefono:** +39 029077641"
       }
     },
     {
@@ -509,7 +475,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Milano via Torino",
         "branch": "Milano via Torino",
         "full_address": "Via Torino 21, 20123 Milano",
         "addr:city": "Milano",
@@ -518,9 +484,7 @@
         "contact:phone": "+39 0272105550",
         "contact:website": "https://www.starbucks.it/it/stores/italia/lombardia/milano/milano-via-torino-21",
         "opening_hours": "Mo-Fr 07:30-19:30; Sa-Su 08:00-20:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Milano via Torino\n**Indirizzo:** Via Torino 21, 20123 Milano, Milano\n**Orari:** Mo-Fr 07:30-19:30; Sa-Su 08:00-20:00\n**Telefono:** +39 0272105550"
       }
     },
     {
@@ -538,7 +502,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Verona",
         "branch": "Verona",
         "full_address": "Galleria Pellicciai 2, 37121 Verona",
         "addr:city": "Verona",
@@ -547,9 +511,7 @@
         "contact:phone": "+39 0458039012",
         "contact:website": "https://www.starbucks.it/it/stores/italia/veneto/verona/verona-galleria-pellicciai-2",
         "opening_hours": "Mo-Fr 07:30-19:30; Sa-Su 08:00-20:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Verona\n**Indirizzo:** Galleria Pellicciai 2, 37121 Verona, Verona\n**Orari:** Mo-Fr 07:30-19:30; Sa-Su 08:00-20:00\n**Telefono:** +39 0458039012"
       }
     },
     {
@@ -567,7 +529,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Firenze Santa Maria Novella",
         "branch": "Firenze Santa Maria Novella",
         "full_address": "Piazza della Stazione, 50123 Firenze",
         "addr:city": "Firenze",
@@ -576,9 +538,7 @@
         "contact:phone": "+ 39 0557092880",
         "contact:website": "https://www.starbucks.it/it/stores/italia/toscana/firenze/firenze-piazza-della-stazione",
         "opening_hours": "Mo-Su 07:00-20:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Firenze Santa Maria Novella\n**Indirizzo:** Piazza della Stazione, 50123 Firenze, Firenze\n**Orari:** Mo-Su 07:00-20:00\n**Telefono:** + 39 0557092880"
       }
     },
     {
@@ -596,7 +556,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "ELNÒS Shopping",
         "branch": "ELNÒS Shopping",
         "full_address": "Via Einaudi Mattei 37/39, 25030 Roncadelle",
         "addr:city": "Roncadelle",
@@ -605,9 +565,7 @@
         "contact:phone": "+39 0307870495",
         "contact:website": "https://www.starbucks.it/it/stores/italia/lombardia/brescia/roncadelle",
         "opening_hours": "Mo-Su 08:30-21:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** ELNÒS Shopping\n**Indirizzo:** Via Einaudi Mattei 37/39, 25030 Roncadelle, Roncadelle\n**Orari:** Mo-Su 08:30-21:00\n**Telefono:** +39 0307870495"
       }
     },
     {
@@ -625,7 +583,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Roma Montecitorio",
         "branch": "Roma Montecitorio",
         "full_address": "Via Della Guglia 56/59, 00186 Roma",
         "addr:city": "Roma",
@@ -634,9 +592,7 @@
         "contact:phone": "+39 066791205",
         "contact:website": "https://www.starbucks.it/it/stores/italia/lazio/roma/roma-via-della-guglia",
         "opening_hours": "Mo-Su 07:30-21:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Roma Montecitorio\n**Indirizzo:** Via Della Guglia 56/59, 00186 Roma, Roma\n**Orari:** Mo-Su 07:30-21:00\n**Telefono:** +39 066791205"
       }
     },
     {
@@ -654,7 +610,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Bergamo",
         "branch": "Bergamo",
         "full_address": "Via XX Settembre, 24122 Bergamo",
         "addr:city": "Bergamo",
@@ -663,9 +619,7 @@
         "contact:phone": "+39 035322995",
         "contact:website": "https://www.starbucks.it/it/stores/italia/lombardia/bergamo/bergamo",
         "opening_hours": "Mo-Sa 07:30-19:30; Su 08:00-19:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Bergamo\n**Indirizzo:** Via XX Settembre, 24122 Bergamo, Bergamo\n**Orari:** Mo-Sa 07:30-19:30; Su 08:00-19:30\n**Telefono:** +39 035322995"
       }
     },
     {
@@ -683,7 +637,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Marcianise La Reggia Designer Outlet",
         "branch": "Marcianise La Reggia Designer Outlet",
         "full_address": "S.P. 336 Sannitica, 81025 Marcianise",
         "addr:city": "Marcianise",
@@ -692,9 +646,7 @@
         "contact:phone": "+39 0823608002",
         "contact:website": "https://www.starbucks.it/it/stores/italia/campania/caserta/marcianise",
         "opening_hours": "Mo-Su 10:00-21:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Marcianise La Reggia Designer Outlet\n**Indirizzo:** S.P. 336 Sannitica, 81025 Marcianise, Marcianise\n**Orari:** Mo-Su 10:00-21:00\n**Telefono:** +39 0823608002"
       }
     },
     {
@@ -712,7 +664,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Roma Cola di Rienzo",
         "branch": "Roma Cola di Rienzo",
         "full_address": "Via Cola di Rienzo 21/A-23/A, 00192 Roma",
         "addr:city": "Roma",
@@ -721,9 +673,7 @@
         "contact:phone": "+39 0636001353",
         "contact:website": "https://www.starbucks.it/it/stores/italia/lazio/roma/roma-via-cola-di",
         "opening_hours": "Mo-Su 07:00-20:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Roma Cola di Rienzo\n**Indirizzo:** Via Cola di Rienzo 21/A-23/A, 00192 Roma, Roma\n**Orari:** Mo-Su 07:00-20:00\n**Telefono:** +39 0636001353"
       }
     },
     {
@@ -741,7 +691,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Roma Termini Terrazza",
         "branch": "Roma Termini Terrazza",
         "full_address": "Via G. Giolitti 40, 00185 Roma",
         "addr:city": "Roma",
@@ -750,9 +700,7 @@
         "contact:phone": "+39 064873345",
         "contact:website": "https://www.starbucks.it/it/stores/italia/lazio/roma/roma-via-g.-giolitti",
         "opening_hours": "Mo-Su 06:00-21:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Roma Termini Terrazza\n**Indirizzo:** Via G. Giolitti 40, 00185 Roma, Roma\n**Orari:** Mo-Su 06:00-21:00\n**Telefono:** +39 064873345"
       }
     },
     {
@@ -770,7 +718,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Roma Termini KIOSK",
         "branch": "Roma Termini KIOSK",
         "full_address": "Via Giovanni Giolitti, 40, 00185 Roma",
         "addr:city": "Roma",
@@ -779,9 +727,7 @@
         "contact:phone": "+39 064871875",
         "contact:website": "https://www.starbucks.it/it/stores/italia/lazio/roma/roma-via-giovanni-giolitti",
         "opening_hours": "Mo-Su 06:00-21:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Roma Termini KIOSK\n**Indirizzo:** Via Giovanni Giolitti, 40, 00185 Roma, Roma\n**Orari:** Mo-Su 06:00-21:00\n**Telefono:** +39 064871875"
       }
     },
     {
@@ -799,7 +745,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Firenze Cerretani",
         "branch": "Firenze Cerretani",
         "full_address": "Via de' Cerretani 46/R, 50123 Firenze",
         "addr:city": "Firenze",
@@ -808,9 +754,7 @@
         "contact:phone": "+ 39 0556144204",
         "contact:website": "https://www.starbucks.it/it/stores/italia/toscana/firenze/firenze-via-de--cerretani",
         "opening_hours": "Mo-Su 07:00-21:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Firenze Cerretani\n**Indirizzo:** Via de' Cerretani 46/R, 50123 Firenze, Firenze\n**Orari:** Mo-Su 07:00-21:00\n**Telefono:** + 39 0556144204"
       }
     },
     {
@@ -828,7 +772,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Genova",
         "branch": "Genova",
         "full_address": "Via Alla Porta Degli Archi, 6R, 16128 Genova",
         "addr:city": "Genova",
@@ -837,9 +781,7 @@
         "contact:phone": "+39 0105702563",
         "contact:website": "https://www.starbucks.it/it/stores/italia/liguria/genova/genova",
         "opening_hours": "Mo-Fr 07:30-19:30; Sa-Su 08:00-20:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Genova\n**Indirizzo:** Via Alla Porta Degli Archi, 6R, 16128 Genova, Genova\n**Orari:** Mo-Fr 07:30-19:30; Sa-Su 08:00-20:00\n**Telefono:** +39 0105702563"
       }
     },
     {
@@ -857,7 +799,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Napoli Galleria",
         "branch": "Napoli Galleria",
         "full_address": "Galleria Umberto I 40-43, 80132 Napoli",
         "addr:city": "Napoli",
@@ -866,9 +808,7 @@
         "contact:phone": "+39 0817810085",
         "contact:website": "https://www.starbucks.it/it/stores/italia/campania/napoli/napoli-galleria-umberto-i",
         "opening_hours": "Mo-Fr 07:00-20:00; Sa-Su 07:00-21:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Napoli Galleria\n**Indirizzo:** Galleria Umberto I 40-43, 80132 Napoli, Napoli\n**Orari:** Mo-Fr 07:00-20:00; Sa-Su 07:00-21:00\n**Telefono:** +39 0817810085"
       }
     },
     {
@@ -886,7 +826,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Bari",
         "branch": "Bari",
         "full_address": "Via Argiro 112-112A, 70121 Bari",
         "addr:city": "Bari",
@@ -895,9 +835,7 @@
         "contact:phone": "+39 0804729225",
         "contact:website": "https://www.starbucks.it/it/stores/italia/puglia/bari/bari",
         "opening_hours": "Mo-Su 07:00-20:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Bari\n**Indirizzo:** Via Argiro 112-112A, 70121 Bari, Bari\n**Orari:** Mo-Su 07:00-20:30\n**Telefono:** +39 0804729225"
       }
     },
     {
@@ -915,7 +853,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Livorno Porta a Mare",
         "branch": "Livorno Porta a Mare",
         "full_address": "Via Gaetano D'Alesio 2, 57123 Porta a Mare",
         "addr:city": "Porta a Mare",
@@ -924,9 +862,7 @@
         "contact:phone": "+39 05861881464",
         "contact:website": "https://www.starbucks.it/it/stores/italia/toscana/livorno/porta-a-mare",
         "opening_hours": "Mo-Su 09:00-21:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Livorno Porta a Mare\n**Indirizzo:** Via Gaetano D'Alesio 2, 57123 Porta a Mare, Porta a Mare\n**Orari:** Mo-Su 09:00-21:00\n**Telefono:** +39 05861881464"
       }
     },
     {
@@ -944,7 +880,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Milano Merlata Bloom",
         "branch": "Milano Merlata Bloom",
         "full_address": "Via Triboniano, 20151 Milano",
         "addr:city": "Milano",
@@ -953,9 +889,7 @@
         "contact:phone": "+39 0297071141",
         "contact:website": "https://www.starbucks.it/it/stores/italia/lombardia/milano/milano-via-triboniano",
         "opening_hours": "Mo-Su 09:00-22:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Milano Merlata Bloom\n**Indirizzo:** Via Triboniano, 20151 Milano, Milano\n**Orari:** Mo-Su 09:00-22:00\n**Telefono:** +39 0297071141"
       }
     },
     {
@@ -973,7 +907,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Bologna",
         "branch": "Bologna",
         "full_address": "Via D'Azeglio 34, 40124 Bologna",
         "addr:city": "Bologna",
@@ -982,9 +916,7 @@
         "contact:phone": "+39 051237067",
         "contact:website": "https://www.starbucks.it/it/stores/italia/emilia-romagna/bologna/bologna",
         "opening_hours": "Mo-Fr 07:30-20:00; Sa-Su 08:00-20:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Bologna\n**Indirizzo:** Via D'Azeglio 34, 40124 Bologna, Bologna\n**Orari:** Mo-Fr 07:30-20:00; Sa-Su 08:00-20:00\n**Telefono:** +39 051237067"
       }
     },
     {
@@ -1002,7 +934,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Porta di Roma",
         "branch": "Porta di Roma",
         "full_address": "Via Alberto Lionello 201, 00139 Roma",
         "addr:city": "Roma",
@@ -1011,9 +943,7 @@
         "contact:phone": "+39 0687070579",
         "contact:website": "https://www.starbucks.it/it/stores/italia/lazio/roma/roma-via-alberto-lionello",
         "opening_hours": "Mo-Fr 09:00-22:00; Sa 08:30-22:00; Su 08:30-21:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Porta di Roma\n**Indirizzo:** Via Alberto Lionello 201, 00139 Roma, Roma\n**Orari:** Mo-Fr 09:00-22:00; Sa 08:30-22:00; Su 08:30-21:00\n**Telefono:** +39 0687070579"
       }
     },
     {
@@ -1031,7 +961,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Milano Malpensa T2",
         "branch": "Milano Malpensa T2",
         "full_address": "Aeroporto Milano Malpensa T2, 21019 Somma Lombarda",
         "addr:city": "Somma Lombarda",
@@ -1040,9 +970,7 @@
         "contact:phone": "+39 0258583939",
         "contact:website": "https://www.starbucks.it/it/stores/italia/lombardia/varese/somma-lombarda",
         "opening_hours": "Mo-Su 04:30-21:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Milano Malpensa T2\n**Indirizzo:** Aeroporto Milano Malpensa T2, 21019 Somma Lombarda, Somma Lombarda\n**Orari:** Mo-Su 04:30-21:00\n**Telefono:** +39 0258583939"
       }
     },
     {
@@ -1060,7 +988,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Milano CC Fiordaliso",
         "branch": "Milano CC Fiordaliso",
         "full_address": "Via Curiel 25, 20089 Rozzano",
         "addr:city": "Rozzano",
@@ -1069,9 +997,7 @@
         "contact:phone": "+39 028255499",
         "contact:website": "https://www.starbucks.it/it/stores/italia/lombardia/milano/rozzano",
         "opening_hours": "Mo-Su 09:00-22:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Milano CC Fiordaliso\n**Indirizzo:** Via Curiel 25, 20089 Rozzano, Rozzano\n**Orari:** Mo-Su 09:00-22:00\n**Telefono:** +39 028255499"
       }
     },
     {
@@ -1089,7 +1015,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Bologna Shopville Gran Reno",
         "branch": "Bologna Shopville Gran Reno",
         "full_address": "Via Marilyn Monroe 2, 40033 Casalecchio di Reno",
         "addr:city": "Casalecchio di Reno",
@@ -1098,9 +1024,7 @@
         "contact:phone": "+39 0516178030",
         "contact:website": "https://www.starbucks.it/it/stores/italia/emilia-romagna/bologna/casalecchio-di-reno",
         "opening_hours": "Mo-Su 09:00-21:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Bologna Shopville Gran Reno\n**Indirizzo:** Via Marilyn Monroe 2, 40033 Casalecchio di Reno, Casalecchio di Reno\n**Orari:** Mo-Su 09:00-21:00\n**Telefono:** +39 0516178030"
       }
     },
     {
@@ -1118,7 +1042,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Verona CC Adigeo",
         "branch": "Verona CC Adigeo",
         "full_address": "Viale Delle Nazioni, 1, 37135 Verona",
         "addr:city": "Verona",
@@ -1127,9 +1051,7 @@
         "contact:phone": "+39 045505854",
         "contact:website": "https://www.starbucks.it/it/stores/italia/veneto/verona/verona-viale-delle-nazioni",
         "opening_hours": "Mo-Su 09:00-21:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Verona CC Adigeo\n**Indirizzo:** Viale Delle Nazioni, 1, 37135 Verona, Verona\n**Orari:** Mo-Su 09:00-21:00\n**Telefono:** +39 045505854"
       }
     },
     {
@@ -1147,7 +1069,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Padova",
         "branch": "Padova",
         "full_address": "Piazza delle Erbe, 1, 35122 Padova",
         "addr:city": "Padova",
@@ -1156,9 +1078,7 @@
         "contact:phone": "+39 049663004",
         "contact:website": "https://www.starbucks.it/it/stores/italia/veneto/padova/padova",
         "opening_hours": "Mo-Fr 07:30-19:30; Sa-Su 08:00-20:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Padova\n**Indirizzo:** Piazza delle Erbe, 1, 35122 Padova, Padova\n**Orari:** Mo-Fr 07:30-19:30; Sa-Su 08:00-20:00\n**Telefono:** +39 049663004"
       }
     },
     {
@@ -1176,7 +1096,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Napoli Centrale",
         "branch": "Napoli Centrale",
         "full_address": "Piazza Garibaldi, 1, 80142 Napoli",
         "addr:city": "Napoli",
@@ -1185,9 +1105,7 @@
         "contact:phone": "+39 081201641",
         "contact:website": "https://www.starbucks.it/it/stores/italia/campania/napoli/napoli-piazza-garibaldi-1",
         "opening_hours": "Mo-Su 06:00-21:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Napoli Centrale\n**Indirizzo:** Piazza Garibaldi, 1, 80142 Napoli, Napoli\n**Orari:** Mo-Su 06:00-21:00\n**Telefono:** +39 081201641"
       }
     },
     {
@@ -1205,7 +1123,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Firenze Via del Corso",
         "branch": "Firenze Via del Corso",
         "full_address": "Via del Corso, 24, 50122 Firenze",
         "addr:city": "Firenze",
@@ -1214,9 +1132,7 @@
         "contact:phone": "+39 0552023111",
         "contact:website": "https://www.starbucks.it/it/stores/italia/toscana/firenze/firenze-via-del-corso",
         "opening_hours": "Mo-Su 07:30-21:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Firenze Via del Corso\n**Indirizzo:** Via del Corso, 24, 50122 Firenze, Firenze\n**Orari:** Mo-Su 07:30-21:00\n**Telefono:** +39 0552023111"
       }
     },
     {
@@ -1234,7 +1150,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Venezia Rialto",
         "branch": "Venezia Rialto",
         "full_address": "Marzarieta Due Aprile, 30124 Venezia",
         "addr:city": "Venezia",
@@ -1243,9 +1159,7 @@
         "contact:phone": "+39 0412410937",
         "contact:website": "https://www.starbucks.it/it/stores/italia/veneto/venezia/venezia",
         "opening_hours": "Mo-Fr 07:30-20:00; Sa-Su 08:00-20:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Venezia Rialto\n**Indirizzo:** Marzarieta Due Aprile, 30124 Venezia, Venezia\n**Orari:** Mo-Fr 07:30-20:00; Sa-Su 08:00-20:00\n**Telefono:** +39 0412410937"
       }
     },
     {
@@ -1263,7 +1177,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Roma Flagship San Silvestro",
         "branch": "Roma Flagship San Silvestro",
         "full_address": "Piazza San Silvestro, 6, 00187 Roma",
         "addr:city": "Roma",
@@ -1272,9 +1186,7 @@
         "contact:phone": "+39 06 69922508",
         "contact:website": "https://www.starbucks.it/it/stores/italia/lazio/roma/roma-piazza-san-silvestro",
         "opening_hours": "Mo-Su 07:00-21:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Roma Flagship San Silvestro\n**Indirizzo:** Piazza San Silvestro, 6, 00187 Roma, Roma\n**Orari:** Mo-Su 07:00-21:00\n**Telefono:** +39 06 69922508"
       }
     },
     {
@@ -1292,7 +1204,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Rimini CC Le Befane",
         "branch": "Rimini CC Le Befane",
         "full_address": "Via Caduti di Nassirya, 20, 47924 Rimini",
         "addr:city": "Rimini",
@@ -1301,9 +1213,7 @@
         "contact:phone": "+39 0541313006",
         "contact:website": "https://www.starbucks.it/it/stores/italia/emilia-romagna/rimini/rimini",
         "opening_hours": "Mo-Su 08:30-21:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Rimini CC Le Befane\n**Indirizzo:** Via Caduti di Nassirya, 20, 47924 Rimini, Rimini\n**Orari:** Mo-Su 08:30-21:00\n**Telefono:** +39 0541313006"
       }
     },
     {
@@ -1321,18 +1231,16 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Pompeii MaxiMall",
         "branch": "Pompeii MaxiMall",
         "full_address": "Via Plinio, 56, 80058 &#160; Torre Annunziata",
         "addr:city": "Torre Annunziata",
         "addr:street": " Via Plinio, 56",
         "addr:postcode": "80058 &#160;",
-        "contact:phone": "N/A",
+        "contact:phone": "",
         "contact:website": "https://www.starbucks.it/it/stores/italia/torre-annunziata",
         "opening_hours": "Mo-Fr 10:00-21:00; Sa-Su 10:00-21:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Pompeii MaxiMall\n**Indirizzo:** Via Plinio, 56, 80058 &#160; Torre Annunziata, Torre Annunziata\n**Orari:** Mo-Fr 10:00-21:00; Sa-Su 10:00-21:30"
       }
     },
     {
@@ -1350,7 +1258,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Lonato CC il Leone",
         "branch": "Lonato CC il Leone",
         "full_address": "Via Mantova, 36, 25017 Lonato",
         "addr:city": "Lonato",
@@ -1359,9 +1267,7 @@
         "contact:phone": "030 4190460",
         "contact:website": "https://www.starbucks.it/",
         "opening_hours": "Mo-Su 09:00-22:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Lonato CC il Leone\n**Indirizzo:** Via Mantova, 36, 25017 Lonato, Lonato\n**Orari:** Mo-Su 09:00-22:00\n**Telefono:** 030 4190460"
       }
     },
     {
@@ -1379,7 +1285,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "Noventa di Piave Designer Outlet",
         "branch": "Noventa di Piave Designer Outlet",
         "full_address": "Via Marco Polo, 1, 30020 Noventa di Piave",
         "addr:city": "Noventa di Piave",
@@ -1388,9 +1294,7 @@
         "contact:phone": "04211896455",
         "contact:website": "https://www.starbucks.it/",
         "opening_hours": "Mo-Su 09:00-20:00",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** Noventa di Piave Designer Outlet\n**Indirizzo:** Via Marco Polo, 1, 30020 Noventa di Piave, Noventa di Piave\n**Orari:** Mo-Su 09:00-20:00\n**Telefono:** 04211896455"
       }
     },
     {
@@ -1408,7 +1312,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "– Bolzano WaltherPark",
         "branch": "– Bolzano WaltherPark",
         "full_address": "Piazza Alto Adige, 1, 39100 Bolzano",
         "addr:city": "Bolzano",
@@ -1417,9 +1321,7 @@
         "contact:phone": "0471 347459",
         "contact:website": "https://www.starbucks.it/",
         "opening_hours": "Mo-Su 09:30-19:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** – Bolzano WaltherPark\n**Indirizzo:** Piazza Alto Adige, 1, 39100 Bolzano, Bolzano\n**Orari:** Mo-Su 09:30-19:30\n**Telefono:** 0471 347459"
       }
     },
     {
@@ -1437,18 +1339,16 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "cuisine": "coffee_shop",
-        "name": "Starbucks",
+        "name": "– Milano Metro Duomo",
         "branch": "– Milano Metro Duomo",
         "full_address": "Piazza del Duomo, 20123 Milano",
         "addr:city": "Milano",
         "addr:street": "Piazza del Duomo",
         "addr:postcode": "20123",
-        "contact:phone": "N/A",
+        "contact:phone": "",
         "contact:website": "https://www.starbucks.it/",
         "opening_hours": "Mo-Fr 07:00-19:30; Sa-Su 08:00-19:30",
-        "provincia": "N/A",
-        "regione": "N/A",
-        "services_str": "N/A"
+        "description": "### Starbucks\n**Sede:** – Milano Metro Duomo\n**Indirizzo:** Piazza del Duomo, 20123 Milano, Milano\n**Orari:** Mo-Fr 07:00-19:30; Sa-Su 08:00-19:30"
       }
     }
   ]
