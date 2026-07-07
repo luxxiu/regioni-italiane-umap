@@ -1,0 +1,1868 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7834159,
+          45.4813836
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Antegnate",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via del Commercio, 3",
+        "addr:city": "Antegnate",
+        "addr:postcode": "24051",
+        "contact:phone": "+393899032325",
+        "opening_hours": "Mo-Su 11:30-21:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3529794,
+          45.7395568
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Aosta",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Località Grand Chemin, 156",
+        "addr:city": "Saint-christophe",
+        "addr:postcode": "11020",
+        "contact:phone": "+390165548654",
+        "opening_hours": "Mo-We 12:00-15:00|18:00-22:00; Th-Fr 12:00-15:00|18:00-23:00; Sa-Su 12:00-15:00|18:00-22:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6278507,
+          41.5933403
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Aprilia",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via Riserva Nuova, 4",
+        "addr:city": "Aprilia",
+        "addr:postcode": "04011",
+        "contact:phone": "+393203244718",
+        "opening_hours": "Mo-Su 11:30-21:30",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0527283,
+          45.5631646
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Arese",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via Giuseppe Eugenio Luraghi, 11",
+        "addr:city": "Arese",
+        "addr:postcode": "20020",
+        "contact:phone": "+393457788215",
+        "opening_hours": "Mo-Su 12:00-22:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1527206,
+          45.4052578
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Assago",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Viale della Fonte Lunga",
+        "addr:city": "Assago",
+        "addr:postcode": "20057",
+        "contact:phone": "+3933279723121",
+        "opening_hours": "Mo-We 11:30-22:30; Th-Fr 11:30-24:00; Sa 11:00-22:30; Su 11:30-22:30",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9470248,
+          41.0831069
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Bari C.C Bari Blu",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Contrada Giannavello",
+        "addr:city": "Triggiano",
+        "addr:postcode": "70019",
+        "contact:phone": "+393278073816",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6399024,
+          45.5761456
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Bellinzago Novarese",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "c/o C.C. Airone, Via della Libertà, 23",
+        "addr:city": "Bellinzago novarese",
+        "addr:postcode": "28043",
+        "contact:phone": "+390321985815",
+        "opening_hours": "Mo-Su 12:00-22:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2359438,
+          46.1581443
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Belluno",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via Tiziano Vecellio",
+        "addr:city": "Belluno",
+        "addr:postcode": "32100",
+        "contact:phone": "+390437931765",
+        "opening_hours": "Mo-We 11:30-22:00; Th-Fr 11:30-22:30; Sa-Su 11:30-22:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2491441,
+          44.4868018
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "BOLOGNA CASALECCHIO",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via Antonio de Curtis",
+        "addr:city": "Casalecchio",
+        "addr:postcode": "40033",
+        "contact:phone": "+393804938772",
+        "opening_hours": "Mo-Su 11:30-22:30",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3577788,
+          44.513105
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Bologna Stalingrado",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Stalingrado, Via Stalingrado, 40",
+        "addr:city": "Bologna",
+        "addr:postcode": "40100",
+        "contact:phone": "+390513527000",
+        "opening_hours": "Mo-Su 12:00-15:00|18:30-22:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9032479,
+          40.6189179
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Brindisi",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "SS7, 712",
+        "addr:city": "Brindisi",
+        "addr:postcode": "72100",
+        "contact:phone": "+393278073865",
+        "opening_hours": "Mo-Su 12:00-21:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4739045,
+          45.6228678
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Busnago",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via Enrico Berlinguer, 48 Centro Commerciale Globo",
+        "addr:city": "Cornate D'adda",
+        "addr:postcode": "20872",
+        "contact:phone": "+390396095079",
+        "opening_hours": "Mo-We 11:30-22:00; Th-Fr 11:30-22:30; Sa-Su 11:30-22:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0918428,
+          39.2321043
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Cagliari",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via S. Simone, 60",
+        "addr:city": "Cagliari",
+        "addr:postcode": "09122",
+        "contact:phone": "+393276640173",
+        "opening_hours": "Mo-Su 11:30-21:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8612045,
+          44.7756991
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Carpi",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via delle Magliaie, 5/7",
+        "addr:city": "Carpi",
+        "addr:postcode": "41012",
+        "contact:phone": "+393802455511",
+        "opening_hours": "Mo-Su 12:00-15:00|18:00-22:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0115356,
+          37.4767296
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Catania",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Centro Sicilia, SP54",
+        "addr:city": "Misterbianco",
+        "addr:postcode": "95045",
+        "contact:phone": "+390957493411",
+        "opening_hours": "Mo-Th 12:00-21:30; Fr-Sa 12:00-22:00; Su 12:00-21:30",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9534232,
+          37.5435366
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Catania Etnapolis",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Località Valcorrente, 23",
+        "addr:city": "Belpasso",
+        "addr:postcode": "95032",
+        "contact:phone": "+393278073854",
+        "opening_hours": "Mo-Th 12:00-23:00; Fr-Sa 12:00-24:00; Su 12:00-23:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8927957,
+          45.2011951
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Chivasso",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via Peppino Impastato",
+        "addr:city": "Chivasso",
+        "addr:postcode": "10034",
+        "contact:phone": "+393274605756",
+        "opening_hours": "Mo-We 12:00-22:30; Th-Sa 12:00-23:00; Su 12:00-22:30",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1164819,
+          42.5162975
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Città Sant'Angelo",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via Moscarola, 94",
+        "addr:city": "Citta' Sant'Angelo",
+        "addr:postcode": "65013",
+        "contact:phone": "+393204070654",
+        "opening_hours": "Mo-Th 11:30-22:00; Fr-Sa 11:30-23:00; Su 11:30-22:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.701044,
+          43.2933632
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Civitanova Marche",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via S. Costantino, 98",
+        "addr:city": "Civitanova Marche",
+        "addr:postcode": "62012",
+        "contact:phone": "+390733775687",
+        "opening_hours": "Mo-Su 12:00-22:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9170989,
+          45.473515
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Corbetta",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via Simone da Corbetta, 51",
+        "addr:city": "Corbetta",
+        "addr:postcode": "20011",
+        "contact:phone": "+390297480132",
+        "opening_hours": "Mo-Su 11:30-23:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5822143,
+          44.3922126
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Cuneo",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via Margarita, 8",
+        "addr:city": "Cuneo",
+        "addr:postcode": "12100",
+        "contact:phone": "+393204468630",
+        "opening_hours": "Mo-Su 11:30-21:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5283226,
+          45.4688092
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Desenzano",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via Marconi ang, Via E. Andreis",
+        "addr:city": "Desenzano del Garda",
+        "addr:postcode": "25015",
+        "contact:phone": "+390309914643",
+        "opening_hours": "Mo-Su 12:00-22:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.923167,
+          43.7136898
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Empoli",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via Raffaello Sanzio, 199",
+        "addr:city": "Empoli",
+        "addr:postcode": "50053",
+        "contact:phone": "+393201320022",
+        "opening_hours": "Mo-Su 11:00-20:30",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9995172,
+          45.5799886
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Erbusco",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Centro Commerciale Le Porte Franche, Via Rovato, 44",
+        "addr:city": "Erbusco",
+        "addr:postcode": "25030",
+        "contact:phone": "+393207553177",
+        "opening_hours": "Mo-Su 11:30-21:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0882035,
+          44.8853836
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Fidenza",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via Federico Fellini",
+        "addr:city": "Fidenza",
+        "addr:postcode": "43036",
+        "contact:phone": "+390524520263",
+        "opening_hours": "Mo-We 11:30-22:00; Th-Fr 11:30-22:30; Sa-Su 11:30-22:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0888503,
+          44.2482801
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Forlì",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via Argentina Altobelli",
+        "addr:city": "Forlì",
+        "addr:postcode": "47122",
+        "contact:phone": "+393280311750",
+        "opening_hours": "Mo-Su 11:30-22:30",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0656964,
+          45.5765725
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Garbagnate",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via Peloritana, SP233",
+        "addr:city": "Garbagnate Milanese",
+        "addr:postcode": "20024",
+        "contact:phone": "+390299022111",
+        "opening_hours": "Mo-We 11:30-15:00|18:30-22:30; Th-Fr 11:30-15:00|18:30-23:00; Sa 11:30-15:30|18:30-23:30; Su 11:30-15:00|18:30-22:30",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9552505,
+          44.4083663
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Genova",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Corso Sardegna, 165",
+        "addr:city": "Genova",
+        "addr:postcode": "16142",
+        "contact:phone": "+393202727337",
+        "opening_hours": "Mo-Su 11:30-22:30",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4387041,
+          45.9317564
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Gravellona Toce",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Corso Guglielmo Marconi, 42-44",
+        "addr:city": "Gravellona Toce",
+        "addr:postcode": "28883",
+        "contact:phone": "+393299618150",
+        "opening_hours": "Mo-We 11:30-21:00; Th-Fr 11:30-22:00; Sa-Su 11:30-21:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1051922,
+          42.7773924
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Grosseto",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Viale Europa, 10",
+        "addr:city": "Grosseto",
+        "addr:postcode": "58100",
+        "contact:phone": "+393280431887",
+        "opening_hours": "Mo-We 11:30-22:30; Th-Fr 11:30-23:00; Sa-Su 11:30-22:30",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.698646,
+          44.3612343
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Imola",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Viale Giovanni Amendola, 129",
+        "addr:city": "Imola",
+        "addr:postcode": "40026",
+        "contact:phone": "+393277103732",
+        "opening_hours": "Mo-Fr 11:30-21:00; Sa 11:30-20:00; Su 11:30-21:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9097004,
+          45.4702545
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Ivrea",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Corso Vercelli",
+        "addr:city": "Ivrea",
+        "addr:postcode": "10015",
+        "contact:phone": "+393889765139",
+        "opening_hours": "Mo-Tu 12:00-15:00|18:30-22:30; We 12:15---:--|18:30-22:30; Th-Su 12:00-15:00|18:30-22:30",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.832373,
+          44.1184539
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "La Spezia",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "GALLERIA CENTRO COMMERCIALE, Via Fontevivo, 17",
+        "addr:city": "La Spezia",
+        "addr:postcode": "19125",
+        "contact:phone": "+390187520852",
+        "opening_hours": "Mo-We 11:30-22:00; Th-Fr 11:30-22:30; Sa-Su 11:30-22:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3040257,
+          43.5448129
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Livorno",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via Gaetano D'Alesio, 2",
+        "addr:city": "Livorno",
+        "addr:postcode": "57126",
+        "contact:phone": "+393889732450",
+        "opening_hours": "Mo-Su 11:30-22:30",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4835464,
+          43.2702842
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Macerata",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via Enrico Mattei, 177",
+        "addr:city": "Corridonia",
+        "addr:postcode": "62014",
+        "contact:phone": "+390733775687",
+        "opening_hours": "Mo-Su 12:00-22:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8253647,
+          45.1653441
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Mantova",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via Aldo Levoni, 11",
+        "addr:city": "Mantova",
+        "addr:postcode": "46100",
+        "contact:phone": "+393891395407",
+        "opening_hours": "Mo-We 11:30-22:30; Th-Fr 11:30-23:00; Sa-Su 11:30-22:30",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1057039,
+          45.513956
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Merlata Bloom",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via Gottlieb Wilhelm Daimler",
+        "addr:city": "Milano",
+        "addr:postcode": "20156",
+        "contact:phone": "+393279841265",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2155864,
+          45.5217357
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Milano Bicocca",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "V.le Sarca ang. Via Chiese, c/o Bicocca Village",
+        "addr:city": "Milano",
+        "addr:postcode": "20126",
+        "contact:phone": "+39026436823",
+        "opening_hours": "Mo-Su 12:00-22:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1559988,
+          45.4782477
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Milano CityLife",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Piazza Tre Torri, 143",
+        "addr:city": "Milano",
+        "addr:postcode": "20145",
+        "contact:phone": "+3902437626",
+        "opening_hours": "Mo-Su 11:30-23:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1869883,
+          45.4841711
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Milano P.ta Garibaldi",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Viale Luigi Sturzo, 2",
+        "addr:city": "Milano",
+        "addr:postcode": "20124",
+        "contact:phone": "+393281776979",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2176646,
+          45.3612747
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Milano Scalo",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via Milano, 5",
+        "addr:city": "Locate di Triulzi",
+        "addr:postcode": "20085",
+        "contact:phone": "+393473859817",
+        "opening_hours": "Mo-Su 11:30-23:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2564781,
+          45.5502911
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Milano Vulcano",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Viale Italia, C.C Vulcano, 555",
+        "addr:city": "Sesto San Giovanni",
+        "addr:postcode": "20099",
+        "contact:phone": "+390266048199",
+        "opening_hours": "Mo-Su 11:30-21:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5222779,
+          40.9097837
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Olbia",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "CC Olbia Mare, Via Cesare Pavese, 2",
+        "addr:city": "Olbia",
+        "addr:postcode": "07026",
+        "contact:phone": "+393276469459",
+        "opening_hours": "Mo-Su 11:30-21:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6961561,
+          45.6618622
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Orio Center",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via Portico, 71",
+        "addr:city": "Orio al Serio",
+        "addr:postcode": "24050",
+        "contact:phone": "+390354596413",
+        "opening_hours": "Mo-Su 08:30-22:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9075436,
+          45.409981
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Padova",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via Pietro Donà, 2",
+        "addr:city": "Padova",
+        "addr:postcode": "35100",
+        "contact:phone": "+393279046695",
+        "opening_hours": "Mo-We 11:30-23:00; Th-Fr 11:30-23:30; Sa-Su 11:30-23:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.341745,
+          44.799247
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Parma CC - La Galleria Billy Tacos",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via Emilia Est, 7B",
+        "addr:city": "Parma",
+        "addr:postcode": "43121",
+        "contact:phone": "+393204471239",
+        "opening_hours": "Mo-We 11:30-23:00; Th-Fr 11:30-23:30; Sa-Su 11:30-23:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6600905,
+          45.0549564
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Piacenza",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via Emilia Pavese, 65",
+        "addr:city": "Piacenza",
+        "addr:postcode": "29121",
+        "contact:phone": "+393247425213",
+        "opening_hours": "Mo-We 11:30-22:00; Th-Fr 11:30-22:30; Sa-Su 11:30-22:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5034896,
+          40.7413473
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Pompei",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via Macello, 22",
+        "addr:city": "Pompei",
+        "addr:postcode": "80045",
+        "contact:phone": "+393202495676",
+        "opening_hours": "Mo-Th 12:00-23:00; Fr-Sa 12:00-24:00; Su 12:00-23:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1056448,
+          43.8596596
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Prato",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via E. Berlinguer, 195",
+        "addr:city": "Prato",
+        "addr:postcode": "59100",
+        "contact:phone": "+390574571712",
+        "opening_hours": "Mo-Su 11:30-22:30",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6513812,
+          44.714925
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Reggio Emilia - CC I Petali",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Piazzale Atleti Azzuri D'Italia, 5",
+        "addr:city": "Reggio Emilia",
+        "addr:postcode": "42122",
+        "contact:phone": "+393884253495",
+        "opening_hours": "Mo-We 12:00-23:00; Th-Fr 12:00-24:00; Sa-Su 12:00-23:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5340151,
+          45.0673259
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Rivoli",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Corso L. Einaudi, 80",
+        "addr:city": "Rivoli",
+        "addr:postcode": "10098",
+        "contact:phone": "+393294467536",
+        "opening_hours": "Mo-We 12:00-22:30; Th-Fr 12:00-23:00; Sa-Su 12:00-22:30",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6076284,
+          41.88411
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Roma c.c. Gran Roma",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "GranRoma, Via Aristide Merloni, 141",
+        "addr:city": "Roma",
+        "addr:postcode": "00155",
+        "contact:phone": "+39062251734",
+        "opening_hours": "Mo-Su 12:00-21:30",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4858027,
+          41.8072997
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Roma c.c. Maximo",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via Laurentina, 865",
+        "addr:city": "Roma",
+        "addr:postcode": "00143",
+        "contact:phone": "+393895109236",
+        "opening_hours": "Mo-Su 11:30-23:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.466594,
+          41.8794941
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Roma Trastevere",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Piazza Ippolito Nievo, 33",
+        "addr:city": "Roma",
+        "addr:postcode": "00153",
+        "contact:phone": "+39065809414",
+        "opening_hours": "Mo-We 11:30-22:00; Th-Fr 11:30-22:30; Sa-Su 11:30-22:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0303821,
+          45.3935189
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "S. Giovanni Lupatoto",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via Dott. F. Garofoli, 205",
+        "addr:city": "San Giovanni Lupatoto",
+        "addr:postcode": "37057",
+        "contact:phone": "+390458779157",
+        "opening_hours": "Fr 12:00-14:15|--:-----:--; Sa --:-----:--|12:00-14:15",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5358663,
+          40.7375928
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Sassari",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Viale Porto Torres",
+        "addr:city": "Sassari",
+        "addr:postcode": "07100",
+        "contact:phone": "+393203213117",
+        "opening_hours": "Mo-Th 11:30-22:30; Fr-Sa 11:30-23:30; Su 11:30-22:30",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2848745,
+          45.4740768
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Segrate Idroscalo",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via Rivoltana, 64",
+        "addr:city": "Segrate",
+        "addr:postcode": "20090",
+        "contact:phone": "+393351200122",
+        "opening_hours": "Mo-We 12:00-22:30; Th-Fr 12:00-23:00; Sa-Su 12:00-22:30",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1782754,
+          43.8060574
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Sesto Fiorentino",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via del Cantone, 49",
+        "addr:city": "Sesto Fiorentino",
+        "addr:postcode": "50019",
+        "contact:phone": "+393427414173",
+        "opening_hours": "Mo-We 11:30-22:30; Th-Fr 11:30-23:00; Sa-Su 11:30-22:30",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6351465,
+          42.5596161
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Terni",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Str. di S. Martino, 122",
+        "addr:city": "Terni",
+        "addr:postcode": "05100",
+        "contact:phone": "+393891145170",
+        "opening_hours": "Mo-Su 11:30-22:30",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.709798,
+          44.97599
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Torino Moncalieri",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via Fortunato Postiglione, 1",
+        "addr:city": "Moncalieri",
+        "addr:postcode": "10024",
+        "contact:phone": "+390116813757",
+        "opening_hours": "Mo-Su 12:00-23:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6206408,
+          44.9828307
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Torino Vinovo",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Str. Debouchè",
+        "addr:city": "Nichelino",
+        "addr:postcode": "10042",
+        "contact:phone": "+393284016313",
+        "opening_hours": "Mo-We 12:00-22:30; Th-Sa 12:00-23:00; Su 12:00-22:30",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2239891,
+          45.6685221
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Treviso",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Viale della Repubblica, 1",
+        "addr:city": "Treviso",
+        "addr:postcode": "31100",
+        "contact:phone": "+39042223687",
+        "opening_hours": "Mo-We 12:00-15:00|18:00-22:30; Th 12:00-15:00|18:00-23:00; Fr 12:00-23:00; Sa 12:00-22:30; Su 12:00-15:00|18:00-22:30",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3103984,
+          45.6505043
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Treviso Sud",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via Giovanni Sartorelli, 4",
+        "addr:city": "Silea",
+        "addr:postcode": "31057",
+        "contact:phone": "+390422363181",
+        "opening_hours": "Mo-Su 11:30-23:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8189802,
+          45.6169628
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Trieste",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via Flavia, 104c",
+        "addr:city": "Trieste",
+        "addr:postcode": "34147",
+        "contact:phone": "+390402824266",
+        "opening_hours": "Mo-We 11:30-22:00; Th-Fr 11:30-22:30; Sa-Su 11:30-22:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8649464,
+          45.4399283
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Verona Grande Mela",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Via Trentino, 1",
+        "addr:city": "Sona",
+        "addr:postcode": "37060",
+        "contact:phone": "+393249263327",
+        "opening_hours": "Mo-Su 11:30-21:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5064679,
+          45.533453
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Vicenza",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Str. Padana Verso Verona, 11",
+        "addr:city": "Vicenza",
+        "addr:postcode": "36100",
+        "contact:phone": "+393351914681",
+        "opening_hours": "Mo-We 11:30-22:00; Th-Sa 11:30-24:00; Su 11:30-22:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5951034,
+          45.5288202
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Vicenza c.c. Palladio",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Str. Padana verso Padova, 60 Centro Commerciale Palladio",
+        "addr:city": "Vicenza",
+        "addr:postcode": "36100",
+        "contact:phone": "+39444239506",
+        "opening_hours": "Mo-Th 11:30-21:30; Fr-Sa 11:30-22:00; Su 11:30-21:30",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4618471,
+          45.4672638
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Vicolungo",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Piazza Santa Caterina 1, c/o, The Style Outlets",
+        "addr:city": "Vicolungo",
+        "addr:postcode": "28060",
+        "contact:phone": "+390321875960",
+        "opening_hours": "Mo-We 11:30-20:00; Th-Sa 11:30-21:00; Su 11:30-20:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3574027,
+          45.6004144
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "mexican;taco",
+        "name": "Vimercate",
+        "brand": "Billy Tacos",
+        "brand:wikidata": "Q121289139",
+        "addr:street": "Centro Commerciale, Via Torri Bianche, 1",
+        "addr:city": "Torri Bianche",
+        "addr:postcode": "20871",
+        "contact:phone": "+39039668623",
+        "opening_hours": "Mo-Th 12:00-15:00|18:00-23:00; Fr-Sa 12:00-15:00|18:00-22:30; Su 12:00-15:00|18:00-23:00",
+        "branch": "N/A",
+        "full_address": "N/A",
+        "provincia": "N/A",
+        "regione": "N/A",
+        "services_str": "N/A"
+      }
+    }
+  ]
+}
