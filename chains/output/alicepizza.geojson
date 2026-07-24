@@ -1,0 +1,5782 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8356505,
+          40.5803646
+        ]
+      },
+      "properties": {
+        "id": "italia",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Mesagne",
+        "branch": "Mesagne",
+        "full_address": "SS7, KM 10,0 c/o Centro Commerciale AppiAntica, 72023 Mesagne BR",
+        "addr:city": "Italia",
+        "contact:phone": "0687805655",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-mesagne/",
+        "opening_hours": {
+          "Monday": "11:00-21:30",
+          "Tuesday": "11:00-21:30",
+          "Wednesday": "11:00-21:30",
+          "Thursday": "11:00-21:30",
+          "Friday": "11:00-21:30",
+          "Saturday": "11:00-21:30",
+          "Sunday": "11:00-21:30"
+        },
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0655828,
+          39.258193
+        ]
+      },
+      "properties": {
+        "id": "cagliari",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Elmas",
+        "branch": "Elmas",
+        "full_address": "FASS Shopping Centre, Viale Elmas, 09067 Cagliari CA",
+        "addr:city": "Cagliari",
+        "contact:phone": "0240703328",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-elmas/",
+        "opening_hours": {
+          "Monday": "10:00-24:00",
+          "Tuesday": "10:00-24:00",
+          "Wednesday": "10:00-24:00",
+          "Thursday": "10:00-24:00",
+          "Friday": "10:00-24:00",
+          "Saturday": "10:00-24:00",
+          "Sunday": "10:00-24:00"
+        },
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0913243,
+          39.2316617
+        ]
+      },
+      "properties": {
+        "id": "cagliari",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "I Fenicotteri",
+        "branch": "I Fenicotteri",
+        "full_address": "Via S. Simone, 60, 09122 Cagliari CA",
+        "addr:city": "Cagliari",
+        "contact:phone": "0687805655",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-i-fenicotteri/",
+        "opening_hours": {
+          "Monday": "9:00-21:00",
+          "Tuesday": "9:00-21:00",
+          "Wednesday": "9:00-21:00",
+          "Thursday": "9:00-21:00",
+          "Friday": "9:00-21:00",
+          "Saturday": "9:00-21:00",
+          "Sunday": "9:00-21:00"
+        },
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.941481115869125,
+          44.39542596384169
+        ]
+      },
+      "properties": {
+        "id": "genova",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Genova Waterfront",
+        "branch": "Genova Waterfront",
+        "full_address": "P.le John Fitzgerald Kennedy, 1, 16129 Genova GE",
+        "addr:city": "Genova",
+        "contact:phone": "+39 02 4070 3328",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-genova-waterfront/",
+        "opening_hours": {
+          "Monday": "8:30-23:00,8:30-24:00",
+          "Tuesday": "8:30-23:00,8:30-24:00",
+          "Wednesday": "8:30-23:00,8:30-24:00",
+          "Thursday": "8:30-23:00,8:30-24:00",
+          "Friday": null,
+          "Saturday": null,
+          "Sunday": null
+        },
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1768437,
+          45.5463999
+        ]
+      },
+      "properties": {
+        "id": "brescia",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Brescia Sant'Anna",
+        "branch": "Brescia Sant'Anna",
+        "full_address": "V. Valcamonica, 25126 Brescia BS",
+        "addr:city": "Brescia",
+        "contact:phone": "0240703328",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-brescia-santanna/",
+        "opening_hours": {
+          "Monday": "11:00-20:00",
+          "Tuesday": "11:00-20:00",
+          "Wednesday": "11:00-20:00",
+          "Thursday": "11:00-20:00",
+          "Friday": "11:00-20:00",
+          "Saturday": "11:00-20:00",
+          "Sunday": "11:00-20:00"
+        },
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.336505,
+          46.486593
+        ]
+      },
+      "properties": {
+        "id": "bolzano",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Bolzano",
+        "branch": "Bolzano",
+        "full_address": "Via Galileo Galilei 20 c/o CC Twenty, 39100 Bolzano (BZ)",
+        "addr:city": "Bolzano",
+        "contact:phone": "0471253447",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-bolzano/",
+        "opening_hours": {
+          "Monday": "11:00-21:30",
+          "Tuesday": "11:00-21:30",
+          "Wednesday": "11:00-21:30",
+          "Thursday": "11:00-21:30",
+          "Friday": "11:00-21:30",
+          "Saturday": "11:00-21:30",
+          "Sunday": "11:00-21:30"
+        },
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.608341,
+          44.4342317
+        ]
+      },
+      "properties": {
+        "id": "bologna",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Castelguelfo",
+        "branch": "Castelguelfo",
+        "full_address": "Via del Commercio, 4/2, 40023 Poggio Piccolo BO",
+        "addr:city": "Bologna",
+        "contact:phone": "0240703328",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-castelguelfo/",
+        "opening_hours": {
+          "Monday": "10:00-20:00",
+          "Tuesday": "10:00-20:00",
+          "Wednesday": "10:00-20:00",
+          "Thursday": "10:00-20:00",
+          "Friday": "10:00-20:00",
+          "Saturday": null,
+          "Sunday": "10:00-21:00"
+        },
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3294678,
+          44.5141483
+        ]
+      },
+      "properties": {
+        "id": "bologna",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Centrolame",
+        "branch": "Centrolame",
+        "full_address": "Via Marco Polo, 3, 40131 Bologna BO c/o Centro Commerciale Centrolame",
+        "addr:city": "Bologna",
+        "contact:phone": "0240703328",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-centrolame/",
+        "opening_hours": {
+          "Monday": "11:00-21:00",
+          "Tuesday": "11:00-21:00",
+          "Wednesday": "11:00-21:00",
+          "Thursday": "11:00-21:00",
+          "Friday": "11:00-21:00",
+          "Saturday": "11:00-21:00",
+          "Sunday": null
+        },
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1180348,
+          39.2160417
+        ]
+      },
+      "properties": {
+        "id": "cagliari",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Cagliari Garibaldi",
+        "branch": "Cagliari Garibaldi",
+        "full_address": "Via Giuseppe Garibaldi, 144-146, 09125 Cagliari CA",
+        "addr:city": "Cagliari",
+        "contact:phone": "07015257643",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-cagliari-garibaldi/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4903532,
+          41.8956606
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Serpenti",
+        "branch": "Serpenti",
+        "full_address": "Via dei Serpenti 20",
+        "addr:city": "Roma",
+        "contact:phone": "06 8780 5655",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-serpenti/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4656599,
+          41.9322188
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Flaminio",
+        "branch": "Flaminio",
+        "full_address": "Via Giulio Romano, 17, 00196 Roma RM",
+        "addr:city": "Roma",
+        "contact:phone": "0662286790",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-flaminio/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2851666,
+          41.6210567
+        ]
+      },
+      "properties": {
+        "id": "frosinone",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "CC Le Sorgenti",
+        "branch": "CC Le Sorgenti",
+        "full_address": "Via armando vona , 20 C/O C.c. Le Sorgenti ",
+        "addr:city": "Frosinone",
+        "contact:phone": "07751772009",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-cc-le-sorgenti/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8312977,
+          45.81756610000001
+        ]
+      },
+      "properties": {
+        "id": "varese",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Varese",
+        "branch": "Varese",
+        "full_address": "Via Morosini, 17, Varese",
+        "addr:city": "Varese",
+        "contact:phone": "0332480132",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-varese/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4858053,
+          41.8608569
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "7 chiese",
+        "branch": "7 chiese",
+        "full_address": "Largo delle Sette Chiese 13/13A, Roma",
+        "addr:city": "Roma",
+        "contact:phone": "065141247",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-7-chiese/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5186273,
+          41.9128645
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Largo Ravenna",
+        "branch": "Largo Ravenna",
+        "full_address": "Largo Ravenna 1, Roma (RM)",
+        "addr:city": "Roma",
+        "contact:phone": "0696009476",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-largo-ravenna/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4382373,
+          41.9020474
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Aura",
+        "branch": "Aura",
+        "full_address": "Viale di Valle Aurelia 30, Roma (RM)",
+        "addr:city": "Roma",
+        "contact:phone": "3483478079",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-aura/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3651646,
+          45.33868160000001
+        ]
+      },
+      "properties": {
+        "id": "melegnano",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Melegnano",
+        "branch": "Melegnano",
+        "full_address": "SS 9 via Emilia 2, Melegnano",
+        "addr:city": "Melegnano",
+        "contact:phone": "0230552408",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-melegnano/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2163115,
+          44.5196655
+        ]
+      },
+      "properties": {
+        "id": "bologna",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "La Pioppa Est",
+        "branch": "La Pioppa Est",
+        "full_address": "A14 Bologna-Taranto, Km 2.3 - Zola Predosa (BO), 40069",
+        "addr:city": "Bologna",
+        "contact:phone": "051756505",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-la-pioppa-est/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.018957138061523,
+          42.87621569853426
+        ]
+      },
+      "properties": {
+        "id": "italia",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Fabro Est",
+        "branch": "Fabro Est",
+        "full_address": "A1 Napoli-Milano, Km 428 - Fabro, 05015, Terni",
+        "addr:city": "Italia",
+        "contact:phone": "0763832092",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-fabbro-est/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4802859,
+          41.8191882
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Cesare Pavese",
+        "branch": "Cesare Pavese",
+        "full_address": "Viale Cesare Pavese 28 - Roma",
+        "addr:city": "Roma",
+        "contact:phone": "06 69264237",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-cesare-pavese/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7124406,
+          45.6273686
+        ]
+      },
+      "properties": {
+        "id": "ferno",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Malpensa",
+        "branch": "Malpensa",
+        "full_address": "Aeroporto Milano Malpensa - Terminal 1 arrivi internazionali",
+        "addr:city": "Ferno",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-malpensa/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4072334,
+          41.959942
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Casal del Marmo",
+        "branch": "Casal del Marmo",
+        "full_address": "Via di Casal del Marmo 123-125, Roma",
+        "addr:city": "Roma",
+        "contact:phone": "06-99705628",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-casal-del-marmo/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5103141,
+          41.8858007
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "largo Brindisi",
+        "branch": "largo Brindisi",
+        "full_address": "Largo Brindisi 2, Roma",
+        "addr:city": "Roma",
+        "contact:phone": "06 8708 5688",
+        "contact:website": "https://www.alicepizza.it/store/alice-largo-brindisi/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2391504,
+          45.5503636
+        ]
+      },
+      "properties": {
+        "id": "cinisello-balsamo",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Cinisello",
+        "branch": "Cinisello",
+        "full_address": "Viale Brianza 2, Cinisello Balsamo",
+        "addr:city": "Cinisello Balsamo",
+        "contact:phone": "02 72199377",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-cinisello/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9978154,
+          45.1493333
+        ]
+      },
+      "properties": {
+        "id": "cremona",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "CC CremonaPo",
+        "branch": "CC CremonaPo",
+        "full_address": "Centro Commerciale CremonaPo, via Castelleone 108, Cremona (CR)",
+        "addr:city": "Cremona",
+        "contact:phone": "02 40703328",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-cc-cremonapo/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1936737,
+          45.4577045
+        ]
+      },
+      "properties": {
+        "id": "italia",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Sforza",
+        "branch": "Sforza",
+        "full_address": "Via Francesco Sforza 49, Milano",
+        "addr:city": "Italia",
+        "contact:phone": "0240703328",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-sforza/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.104199099999999,
+          45.5111849
+        ]
+      },
+      "properties": {
+        "id": "italia",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "C. Merlata",
+        "branch": "C. Merlata",
+        "full_address": "Via Gottlieb Wilhelm Daimler, Milano",
+        "addr:city": "Italia",
+        "contact:phone": "0240703328",
+        "contact:website": "https://www.alicepizza.it/store/17813/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7796747,
+          45.0310571
+        ]
+      },
+      "properties": {
+        "id": "italia",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Rovigo",
+        "branch": "Rovigo",
+        "full_address": "CC La Fattoria | SS16 Adriatica, 45100 Borsea (RO)",
+        "addr:city": "Italia",
+        "contact:phone": "0240703328",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-rovigo/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1549897,
+          45.4681763
+        ]
+      },
+      "properties": {
+        "id": "italia",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Wagner",
+        "branch": "Wagner",
+        "full_address": "Via Buonarroti 9, Milano",
+        "addr:city": "Italia",
+        "contact:phone": "0240703328",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-wagner/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1761693,
+          45.4661342
+        ]
+      },
+      "properties": {
+        "id": "italia",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "cso Magenta",
+        "branch": "cso Magenta",
+        "full_address": "Corso Magenta 34, Milano",
+        "addr:city": "Italia",
+        "contact:phone": "0240703328",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-cso-magenta/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3023091,
+          43.5442141
+        ]
+      },
+      "properties": {
+        "id": "italia",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Livorno",
+        "branch": "Livorno",
+        "full_address": "CC Porta a Mare | Via Furio Diaz 3, Livorno",
+        "addr:city": "Italia",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-livorno/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.52731,
+          45.4641826
+        ]
+      },
+      "properties": {
+        "id": "desenzano-del-garda",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Desenzano",
+        "branch": "Desenzano",
+        "full_address": "Centro Commerciale Le Vele | Via Guglielmo Marconi 1, Desenzano del Garda (BS)",
+        "addr:city": "Desenzano del Garda",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-desenzano/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.455453,
+          41.9092387
+        ]
+      },
+      "properties": {
+        "id": "italia",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Leone IV",
+        "branch": "Leone IV",
+        "full_address": "Via Leone IV 95-97, Roma",
+        "addr:city": "Italia",
+        "contact:phone": "0687860616",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-leone-iv/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2164,
+          45.520679
+        ]
+      },
+      "properties": {
+        "id": "italia",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Bicocca",
+        "branch": "Bicocca",
+        "full_address": "Viale Sarca, angolo via Chiese, Milano",
+        "addr:city": "Italia",
+        "contact:phone": "0240703328",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-bicocca/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.472387,
+          44.313237
+        ]
+      },
+      "properties": {
+        "id": "italia",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Savona",
+        "branch": "Savona",
+        "full_address": "Corso Ricci 203/r, Savona",
+        "addr:city": "Italia",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-savona/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5015756,
+          41.9012873
+        ]
+      },
+      "properties": {
+        "id": "italia",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Termini",
+        "branch": "Termini",
+        "full_address": "Stazione Termini Roma",
+        "addr:city": "Italia",
+        "contact:phone": "0240703328",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-termini/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.184974799999999,
+          45.47792500000001
+        ]
+      },
+      "properties": {
+        "id": "italia",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Moscova",
+        "branch": "Moscova",
+        "full_address": "Largo La Foppa 2, Milano",
+        "addr:city": "Italia",
+        "contact:phone": "0240703328",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-moscova/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.553479558227547,
+          37.29827279721968
+        ]
+      },
+      "properties": {
+        "id": "agrigento",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Città dei Templi",
+        "branch": "Città dei Templi",
+        "full_address": "Via Fosse Ardeatine, Agrigento",
+        "addr:city": "Agrigento",
+        "contact:phone": "09221884232",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-citta-dei-templi/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.59234208366701,
+          45.02442820652596
+        ]
+      },
+      "properties": {
+        "id": "italia",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Beinasco",
+        "branch": "Beinasco",
+        "full_address": "CC Le Fornaci - Strada Torino 34/36, Beinasco",
+        "addr:city": "Italia",
+        "contact:phone": "02.40703328",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-beinasco/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3307899,
+          41.7858586
+        ]
+      },
+      "properties": {
+        "id": "italia",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Dragona",
+        "branch": "Dragona",
+        "full_address": "Via di Dragone 390, Roma",
+        "addr:city": "Italia",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-dragona/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6701488,
+          41.7888662
+        ]
+      },
+      "properties": {
+        "id": "grottaferrata",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Grottaferrata",
+        "branch": "Grottaferrata",
+        "full_address": "Via A. Santovetti 16, Grottaferrata",
+        "addr:city": "Grottaferrata",
+        "contact:phone": "06.87726668",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-grottaferrata/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2126702,
+          45.4625498
+        ]
+      },
+      "properties": {
+        "id": "italia",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "XXII Marzo",
+        "branch": "XXII Marzo",
+        "full_address": "Corso XXII Marzo 25, Milano",
+        "addr:city": "Italia",
+        "contact:phone": "02.40703328",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-xxii-marzo/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.178893,
+          45.4439225
+        ]
+      },
+      "properties": {
+        "id": "italia",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Meda",
+        "branch": "Meda",
+        "full_address": "Via Meda 22, Milano",
+        "addr:city": "Italia",
+        "contact:phone": "02.40703328",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-meda/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.52897310752366,
+          41.971835575571866
+        ]
+      },
+      "properties": {
+        "id": "italia",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Fidene",
+        "branch": "Fidene",
+        "full_address": "Piazza Vocazionisti 9, Roma",
+        "addr:city": "Italia",
+        "contact:phone": "06.8608044",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-fidene/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6908281,
+          45.6652527
+        ]
+      },
+      "properties": {
+        "id": "bergamo",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Orio Center",
+        "branch": "Alice Orio Center",
+        "full_address": " Via Portico, 71 Orio al Serio | Orio Center 1° Piano ",
+        "addr:city": "Bergamo",
+        "contact:website": "https://www.alicepizza.it/store/alice-orio-center/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2026448,
+          45.4512485
+        ]
+      },
+      "properties": {
+        "id": "italia",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Sabotino",
+        "branch": "Sabotino",
+        "full_address": "Viale Sabotino 38 Milano",
+        "addr:city": "Italia",
+        "contact:phone": "02.40703328",
+        "contact:website": "https://www.alicepizza.it/store/alice-sabotino/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1871983,
+          45.4645106
+        ]
+      },
+      "properties": {
+        "id": "italia",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Orefici",
+        "branch": "Alice Orefici",
+        "full_address": "Via Orefici 1 Milano",
+        "addr:city": "Italia",
+        "contact:phone": "02.40703328",
+        "contact:website": "https://www.alicepizza.it/store/alice-orefici/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5344443,
+          41.935689
+        ]
+      },
+      "properties": {
+        "id": "italia",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Sempione",
+        "branch": "Alice Sempione",
+        "full_address": "Via Gargano 10/12 Roma",
+        "addr:city": "Italia",
+        "contact:phone": "06 9604 8179",
+        "contact:website": "https://www.alicepizza.it/store/alice-sempione/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2139256,
+          45.4683833
+        ]
+      },
+      "properties": {
+        "id": "milano",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Indipendenza",
+        "branch": "Alice Indipendenza",
+        "full_address": "Corso Indipendenza 7, Milano",
+        "addr:city": "Milano",
+        "contact:phone": "02.40703328",
+        "contact:website": "https://www.alicepizza.it/store/alice-indipendenza/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.470986,
+          41.8886033
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Trastevere",
+        "branch": "Alice Trastevere",
+        "full_address": "Via di S. Francesco a Ripa 1, Roma",
+        "addr:city": "Roma",
+        "contact:phone": "06 6935 5773",
+        "contact:website": "https://www.alicepizza.it/store/alice-trastevere/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1512441,
+          45.45119529999999
+        ]
+      },
+      "properties": {
+        "id": "milano",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Giambellino",
+        "branch": "Giambellino",
+        "full_address": "Via Tolstoj 16, ang. Via Giambellino, 20144 Milano",
+        "addr:city": "Milano",
+        "contact:phone": "02.40703328",
+        "contact:website": "https://www.alicepizza.it/store/alice-giambellino/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.153935100000002,
+          45.4377817
+        ]
+      },
+      "properties": {
+        "id": "milano",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Miani",
+        "branch": "Alice Miani",
+        "full_address": "Piazza Miani 4, 20143 Milano",
+        "addr:city": "Milano",
+        "contact:phone": "02.40703328",
+        "contact:website": "https://www.alicepizza.it/store/alice-miani/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.211264000000002,
+          45.4492378
+        ]
+      },
+      "properties": {
+        "id": "milano",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Viale Umbria",
+        "branch": "Alice Viale Umbria",
+        "full_address": "Viale Umbria 15, 20135 Milano",
+        "addr:city": "Milano",
+        "contact:phone": "02.40703328",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-umbria/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5672043,
+          41.9295108
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Casal de' Pazzi",
+        "branch": "Alice Casal de' Pazzi",
+        "full_address": "Via di Casal dei Pazzi, 107, 00156, Roma",
+        "addr:city": "Roma",
+        "contact:phone": "06 9437 5701",
+        "contact:website": "https://www.alicepizza.it/store/alice-casal-de-pazzi/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2435725,
+          41.9155222
+        ]
+      },
+      "properties": {
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Aranova",
+        "branch": "Alice Aranova",
+        "full_address": "Via Arturo Pompeati Luchini 2374/2376, 00050, Fiumicino",
+        "contact:phone": "06.87777104",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-aranova/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.182949899999999,
+          45.4607858
+        ]
+      },
+      "properties": {
+        "id": "milano",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Via Torino",
+        "branch": "Via Torino",
+        "full_address": "Via Torino 62, Milano",
+        "addr:city": "Milano",
+        "contact:phone": "02.40703328",
+        "contact:website": "https://www.alicepizza.it/store/alice-via-torino/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1687994,
+          45.4568358
+        ]
+      },
+      "properties": {
+        "id": "milano",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Via Solari 1",
+        "branch": "Via Solari 1",
+        "full_address": "Via Solari 1, Milano",
+        "addr:city": "Milano",
+        "contact:phone": "02.40703328",
+        "contact:website": "https://www.alicepizza.it/store/alice-via-solari-1/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2076662,
+          45.4594687
+        ]
+      },
+      "properties": {
+        "id": "milano",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Monte Nero",
+        "branch": "Alice Monte Nero",
+        "full_address": "Via Spartaco 2, Milano",
+        "addr:city": "Milano",
+        "contact:phone": "02.40703328",
+        "contact:website": "https://www.alicepizza.it/store/alice-monte-nero/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2377297,
+          45.491014
+        ]
+      },
+      "properties": {
+        "id": "milano",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Udine",
+        "branch": "Alice Udine",
+        "full_address": "Via Feltre 1, Milano",
+        "addr:city": "Milano",
+        "contact:phone": "02 40703328",
+        "contact:website": "https://www.alicepizza.it/store/alice-udine/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.612189,
+          45.0572324
+        ]
+      },
+      "properties": {
+        "id": "torino",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Grugliasco",
+        "branch": "Alice Grugliasco",
+        "full_address": "Shopville Le Gru | Via Crea 10 Grugliasco, Torino",
+        "addr:city": "Torino",
+        "contact:phone": "02.40703328",
+        "contact:website": "https://www.alicepizza.it/store/alice-grugliasco/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3225139,
+          43.3308609
+        ]
+      },
+      "properties": {
+        "id": "siena",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice PortaSiena",
+        "branch": "Alice PortaSiena",
+        "full_address": "Galleria PortaSiena, Piazzale Rosselli 25, Siena",
+        "addr:city": "Siena",
+        "contact:website": "https://www.alicepizza.it/store/alice-portasiena/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1696669,
+          45.4635515
+        ]
+      },
+      "properties": {
+        "id": "milano",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice San Vittore",
+        "branch": "Alice San Vittore",
+        "full_address": "Via San Vittore 1, Milano",
+        "addr:city": "Milano",
+        "contact:phone": "02.40703328",
+        "contact:website": "https://www.alicepizza.it/store/alice-san-vittore/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.215895999999999,
+          45.4915229
+        ]
+      },
+      "properties": {
+        "id": "milano",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Venini",
+        "branch": "Venini",
+        "full_address": "Via Giulio e Corrado Venini 57, Milano ",
+        "addr:city": "Milano",
+        "contact:phone": "0240703328",
+        "contact:website": "https://www.alicepizza.it/store/alice-venini/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1648579,
+          45.5340601
+        ]
+      },
+      "properties": {
+        "id": "roncadelle",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Elnos",
+        "branch": "Alice Elnos",
+        "full_address": "Elnos Shopping, Via Luigi Einaudi, 5, 25030 Roncadelle BS",
+        "addr:city": "Roncadelle",
+        "contact:website": "https://www.alicepizza.it/store/alice-elnos/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9845938,
+          45.4351281
+        ]
+      },
+      "properties": {
+        "id": "verona",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Santo Spirito",
+        "branch": "Alice Santo Spirito",
+        "full_address": "Piazza Santo Spirito 4/8, 37122 Verona, Veneto",
+        "addr:city": "Verona",
+        "contact:website": "https://www.alicepizza.it/store/alice-santo-spirito/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9023281,
+          40.6184193
+        ]
+      },
+      "properties": {
+        "id": "brindisi",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Brindisi",
+        "branch": "Alice Brindisi",
+        "full_address": "Centro Commerciale Le Colonne, SS7, 712, 72100 Brindisi BR",
+        "addr:city": "Brindisi",
+        "contact:phone": "0831 1771004",
+        "contact:website": "https://www.alicepizza.it/store/alice-brindisi/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1527504,
+          45.4937546
+        ]
+      },
+      "properties": {
+        "id": "milano",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Prealpi",
+        "branch": "Prealpi",
+        "full_address": "Via Masolino da Panicale 12, Milano ",
+        "addr:city": "Milano",
+        "contact:phone": "02.40703328",
+        "contact:website": "https://www.alicepizza.it/store/alice-prealpi/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.501222,
+          41.892964
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Merulana",
+        "branch": "Alice Merulana",
+        "full_address": "Via Merulana 232, 00185 Roma ",
+        "addr:city": "Roma",
+        "contact:website": "https://www.alicepizza.it/store/alice-merulana/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.173767000000002,
+          45.513963
+        ]
+      },
+      "properties": {
+        "id": "milano",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Affori",
+        "branch": "Alice Affori",
+        "full_address": "Via Pellegrino Rossi 80, Milano ",
+        "addr:city": "Milano",
+        "contact:phone": "02.40703328",
+        "contact:website": "https://www.alicepizza.it/store/alice-affori/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5589774,
+          41.89425490000001
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Tor de' Schiavi",
+        "branch": "Alice Tor de' Schiavi",
+        "full_address": "Via Tor de' Schiavi 403-407 00171 Roma ",
+        "addr:city": "Roma",
+        "contact:phone": "3407816912",
+        "contact:website": "https://www.alicepizza.it/store/alice-tor-de-schiavi/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8633425,
+          45.641487
+        ]
+      },
+      "properties": {
+        "id": "solbiate-olona",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Solbiate Olona",
+        "branch": "Alice Solbiate Olona",
+        "full_address": "Centro Commerciale Le Betulle, Via per Busto Arsizio, 11, 21058 Solbiate Olona VA",
+        "addr:city": "Solbiate Olona",
+        "contact:phone": "03311684709",
+        "contact:website": "https://www.alicepizza.it/store/alice-solbiate/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5228877,
+          40.9095977
+        ]
+      },
+      "properties": {
+        "id": "olbia",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Olbia",
+        "branch": "Alice Olbia",
+        "full_address": "Centro commerciale Olbia Mare, Strada Statale 125 Orientale Sarda, 07026 Olbia SS",
+        "addr:city": "Olbia",
+        "contact:phone": "0789 1672081",
+        "contact:website": "https://www.alicepizza.it/store/alice-olbia/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9995172,
+          45.5799886
+        ]
+      },
+      "properties": {
+        "id": "erbusco",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Le Porte Franche",
+        "branch": "Alice Le Porte Franche",
+        "full_address": "Centro Commerciale Le Porte Franche, Via Rovato 44,   25030 Erbusco (BS)",
+        "addr:city": "Erbusco",
+        "contact:phone": "+39 030 13878513",
+        "contact:website": "https://www.alicepizza.it/store/alice-le-porte-franche/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3060195,
+          45.5459202
+        ]
+      },
+      "properties": {
+        "id": "marcon",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Marcon",
+        "branch": "Alice Marcon",
+        "full_address": "Centro Commerciale Valecenter, Via Enrico Mattei, 1 / C, 30020 Marcon VE",
+        "addr:city": "Marcon",
+        "contact:website": "https://www.alicepizza.it/store/alice-marcon/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2069561,
+          45.4949567
+        ]
+      },
+      "properties": {
+        "id": "milano",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Gioia",
+        "branch": "Gioia",
+        "full_address": "Via Melchiorre Gioia 139, 20125 Milano, Lombardia",
+        "addr:city": "Milano",
+        "contact:phone": "+390240703328",
+        "contact:website": "https://www.alicepizza.it/store/alice-gioia/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7230246,
+          45.6807168
+        ]
+      },
+      "properties": {
+        "id": "somma-lombardo",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Somma Lombardo",
+        "branch": "Alice Somma Lombardo",
+        "full_address": "Via Soragana, 1, 21019 Somma Lombardo VA, Centro Commerciale Il Gigante ",
+        "addr:city": "Somma Lombardo",
+        "contact:website": "https://www.alicepizza.it/store/alice-somma-lombardo/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8152479,
+          45.7907586
+        ]
+      },
+      "properties": {
+        "id": "portogruaro",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Adriatico2",
+        "branch": "Alice Adriatico2",
+        "full_address": "Centro Commerciale Adriatico2, Via Prati Guori, 29, 30026 Portogruaro VE",
+        "addr:city": "Portogruaro",
+        "contact:phone": "04221770054",
+        "contact:website": "https://www.alicepizza.it/store/alice-adriatico2/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4541661,
+          45.5459044
+        ]
+      },
+      "properties": {
+        "id": "bellinzago-lombardo",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice La Corte Lombarda",
+        "branch": "Alice La Corte Lombarda",
+        "full_address": "Centro Commerciale La Corte Lombarda, Via Padana Superiore, 154, 20060 Bellinzago Lombardo MI",
+        "addr:city": "Bellinzago Lombardo",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-la-corte-lombarda/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.176421699999999,
+          45.5034782
+        ]
+      },
+      "properties": {
+        "id": "milano",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Dergano",
+        "branch": "Dergano",
+        "full_address": "Via Giuseppe Tartini 3, Milano ",
+        "addr:city": "Milano",
+        "contact:phone": "0240032101",
+        "contact:website": "https://www.alicepizza.it/store/alice-pizza-dergano/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.180468399999999,
+          45.5748958
+        ]
+      },
+      "properties": {
+        "id": "paderno-dugnano",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice CC Brianza",
+        "branch": "Alice CC Brianza",
+        "full_address": "Centro Commerciale Brianza Strada dei Giovi, Paderno Dugnano ",
+        "addr:city": "Paderno Dugnano",
+        "contact:phone": "0250307627",
+        "contact:website": "https://www.alicepizza.it/store/alice-cc-brianza/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1291029,
+          45.6091196
+        ]
+      },
+      "properties": {
+        "id": "limbiate",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Limbiate",
+        "branch": "Alice Limbiate",
+        "full_address": "CC Limbiate Via Giuseppe Garibaldi Ex SS 527, 20812 Limbiate MB Limbiate",
+        "addr:city": "Limbiate",
+        "contact:phone": "0289865994",
+        "contact:website": "https://www.alicepizza.it/store/alice-limbiate/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.170683,
+          45.4531073
+        ]
+      },
+      "properties": {
+        "id": "milano",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "via Vigevano",
+        "branch": "via Vigevano",
+        "full_address": "Via Vigevano 43, Milano ",
+        "addr:city": "Milano",
+        "contact:phone": "+390242101151",
+        "contact:website": "https://www.alicepizza.it/store/alice-porta-genova/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.400245498539476,
+          41.886699179447696
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Aurelia",
+        "branch": "Alice Aurelia",
+        "full_address": "Via Aurelia 8/456 00163, Roma ",
+        "addr:city": "Roma",
+        "contact:phone": "0687805751",
+        "contact:website": "https://www.alicepizza.it/store/alice-aurelia/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4735145,
+          41.9465995
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Fleming",
+        "branch": "Alice Fleming",
+        "full_address": "Via Flaminia 679, Roma ",
+        "addr:city": "Roma",
+        "contact:phone": "06 9785 7681",
+        "contact:website": "https://www.alicepizza.it/store/alice-fleming/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2249672,
+          45.480965
+        ]
+      },
+      "properties": {
+        "id": "milano",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Città Studi",
+        "branch": "Città Studi",
+        "full_address": "Via Antonio Bazzini 1, Milano ",
+        "addr:city": "Milano",
+        "contact:phone": "02 4210 1154",
+        "contact:website": "https://www.alicepizza.it/store/alice-citta-studi/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.485722,
+          41.8101306
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Maximo",
+        "branch": "Alice Maximo",
+        "full_address": "Via Laurentina 865 ",
+        "addr:city": "Roma",
+        "contact:phone": "06 8780 5678",
+        "contact:website": "https://www.alicepizza.it/store/alice-maximo/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.756117,
+          41.964529
+        ]
+      },
+      "properties": {
+        "id": "guidonia",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Villanova di Guidonia",
+        "branch": "Alice Villanova di Guidonia",
+        "full_address": "Via Maremmana Inferiore, 264, 00012 Guidonia Montecelio ",
+        "addr:city": "Guidonia",
+        "contact:phone": " 0774 707954",
+        "contact:website": "https://www.alicepizza.it/store/alice-villanova-di-guidonia/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1646638,
+          45.455602
+        ]
+      },
+      "properties": {
+        "id": "milano",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Via Solari 23",
+        "branch": "Alice Via Solari 23",
+        "full_address": "Via Andrea Solari 23, Milano ",
+        "addr:city": "Milano",
+        "contact:phone": "0240702303",
+        "contact:website": "https://www.alicepizza.it/store/alice-solari/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.215981771997077,
+          45.48553520533743
+        ]
+      },
+      "properties": {
+        "id": "milano",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Buenos Aires",
+        "branch": "Alice Buenos Aires",
+        "full_address": "Corso Buenos Aires 77, Milano ",
+        "addr:city": "Milano",
+        "contact:phone": "0289919701",
+        "contact:website": "https://www.alicepizza.it/store/alice-buenos-aires/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7136526,
+          45.1173706
+        ]
+      },
+      "properties": {
+        "id": "torino",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Porte di Torino",
+        "branch": "Alice Porte di Torino",
+        "full_address": "Corso Romania, 460, 10156 Torino TO",
+        "addr:city": "Torino",
+        "contact:phone": "01119821721",
+        "contact:website": "https://www.alicepizza.it/store/alice-porte-di-torino/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3664481,
+          41.7818254
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Acilia",
+        "branch": "Alice Acilia",
+        "full_address": "Via di Acilia 71, Roma ",
+        "addr:city": "Roma",
+        "contact:phone": "+39 0695226 690",
+        "contact:website": "https://www.alicepizza.it/store/alice-acilia/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.155173117196638,
+          45.872238601571915
+        ]
+      },
+      "properties": {
+        "id": "darfo-boario-terme",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Adamello",
+        "branch": "Alice Adamello",
+        "full_address": "Centro Commerciale Adamello, Via Cassiano Serventi, n. 2, 25047 Darfo Boario Terme BS",
+        "addr:city": "Darfo Boario Terme",
+        "contact:phone": "03641941594",
+        "contact:website": "https://www.alicepizza.it/store/alice-adamello/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1529904,
+          45.40336749999999
+        ]
+      },
+      "properties": {
+        "id": "assago",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Assago",
+        "branch": "Alice Assago",
+        "full_address": "Centro Commerciale Milanofiori Viale Milano Fiori, 20090 Assago MI",
+        "addr:city": "Assago",
+        "contact:phone": "02 5004 3632",
+        "contact:website": "https://www.alicepizza.it/store/alice-assago/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4777202,
+          41.8259734
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Aeronautica",
+        "branch": "Alice Aeronautica",
+        "full_address": "Viale dell'Aeronautica, 84, Roma ",
+        "addr:city": "Roma",
+        "contact:phone": "+390687757547",
+        "contact:website": "https://www.alicepizza.it/store/alice-aeronautica/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.784196930688461,
+          45.55289533669122
+        ]
+      },
+      "properties": {
+        "id": "affi",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Affi",
+        "branch": "Alice Affi",
+        "full_address": "Centro Commerciale Grand'Affi, Località Canove, 1, 37010 Affi ",
+        "addr:city": "Affi",
+        "contact:phone": "0454682068",
+        "contact:website": "https://www.alicepizza.it/store/alice-affi/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2266859,
+          45.5108389
+        ]
+      },
+      "properties": {
+        "id": "mestre",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Mestre",
+        "branch": "Alice Mestre",
+        "full_address": "Via Don Tosatto 22",
+        "addr:city": "Mestre",
+        "contact:phone": "041-8760064",
+        "contact:website": "https://www.alicepizza.it/store/alice-mestre/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4579685,
+          41.9047747
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Via delle Grazie",
+        "branch": "Alice Via delle Grazie",
+        "full_address": "Via delle Grazie 7/9 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "+39066875746",
+        "contact:website": "https://www.alicepizza.it/store/alice-via-delle-grazie/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4897034,
+          41.904872
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Barberini",
+        "branch": "Alice Barberini",
+        "full_address": "Via di San Basilio 56 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "06/99702598",
+        "contact:website": "https://www.alicepizza.it/store/alice-via-di-san-basilio/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.46823,
+          41.9470649
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Via di Vigna Stelluti",
+        "branch": "Alice Via di Vigna Stelluti",
+        "full_address": "Via di Vigna Stelluti 186 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "+390683791203",
+        "contact:website": "https://www.alicepizza.it/store/alice-via-di-vigna-stelluti/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4881815,
+          41.9086913
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Via Lazio",
+        "branch": "Alice Via Lazio",
+        "full_address": "Via Lazio 15 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "06/42013297",
+        "contact:website": "https://www.alicepizza.it/store/alice-via-lazio/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4907316,
+          41.9080776
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Via Marche",
+        "branch": "Alice Via Marche",
+        "full_address": " Via Marche 21 Roma ",
+        "addr:city": "Roma",
+        "contact:phone": "06/4743344",
+        "contact:website": "https://www.alicepizza.it/store/alice-via-marche/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4776877,
+          41.8803999
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Via Marmorata",
+        "branch": "Alice Via Marmorata",
+        "full_address": "Via Marmorata 111 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "06/5744787",
+        "contact:website": "https://www.alicepizza.it/store/alice-via-marmorata/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4643321,
+          41.91769590000001
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Via Monte Zebio",
+        "branch": "Alice Via Monte Zebio",
+        "full_address": "Via Monte Zebio 21 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "06/37515021",
+        "contact:website": "https://www.alicepizza.it/store/alice-via-monte-zebio/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.42973,
+          41.87707
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Via Silvestri",
+        "branch": "Alice Via Silvestri",
+        "full_address": "Via Silvestri 228 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "+390693379479",
+        "contact:website": "https://www.alicepizza.it/store/alice-via-silvestri/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4942853,
+          41.9092928
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Via Romagna",
+        "branch": "Alice Via Romagna",
+        "full_address": "Via Romagna 28 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "06/483742",
+        "contact:website": "https://www.alicepizza.it/store/alice-via-romagna/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6202825,
+          42.0531211
+        ]
+      },
+      "properties": {
+        "id": "monterotondo",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Monterotondo",
+        "branch": "Alice Monterotondo",
+        "full_address": "Via XX Settembre 2 Monterotondo",
+        "addr:city": "Monterotondo",
+        "contact:phone": "06/90623253",
+        "contact:website": "https://www.alicepizza.it/store/alice-monterotondo/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2774048,
+          41.7338663
+        ]
+      },
+      "properties": {
+        "id": "ostia",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Ostia",
+        "branch": "Alice Ostia",
+        "full_address": "Viale Vasco de Gama 54 Ostia",
+        "addr:city": "Ostia",
+        "contact:phone": "06/5693659",
+        "contact:website": "https://www.alicepizza.it/store/alice-ostia/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4798282,
+          41.8722721
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Ostiense",
+        "branch": "Alice Ostiense",
+        "full_address": "Via Ostiense 48 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "+39065745472",
+        "contact:website": "https://www.alicepizza.it/store/alice-ostiense/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.296133,
+          41.798868
+        ]
+      },
+      "properties": {
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Parco Leonardo",
+        "branch": "Alice Parco Leonardo",
+        "full_address": "Centro Commerciale Viale Donato Bramante 31 Fiumicino",
+        "contact:phone": "+390665001005",
+        "contact:website": "https://www.alicepizza.it/store/alice-parco-leonardo/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4925106,
+          41.9273045
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Parioli",
+        "branch": "Alice Parioli",
+        "full_address": "Via di Villa San Filippo 20 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "06/80690314",
+        "contact:website": "https://www.alicepizza.it/store/alice-parioli/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4686605,
+          41.86436250000001
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Marconi",
+        "branch": "Alice Marconi",
+        "full_address": "Via Grimaldi 3 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "06/83706255",
+        "contact:website": "https://www.alicepizza.it/store/alice-marconi/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5820211,
+          44.3931344
+        ]
+      },
+      "properties": {
+        "id": "cuneo",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Cuneo",
+        "branch": "Alice Cuneo",
+        "full_address": "Centro Commerciale Auchan Via Margarita 8 Cuneo",
+        "addr:city": "Cuneo",
+        "contact:phone": "+390171346573",
+        "contact:website": "https://www.alicepizza.it/store/alice-cuneo/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4778457,
+          41.896086
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Largo Argentina",
+        "branch": "Alice Largo Argentina",
+        "full_address": "Corso Vittorio Emanuele II 35 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "+39066792923",
+        "contact:website": "https://www.alicepizza.it/store/alice-largo-argentina/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5088104,
+          41.88385359999999
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Largo Magna Grecia",
+        "branch": "Alice Largo Magna Grecia",
+        "full_address": "Largo Magna Grecia 24/25 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "+390677076221",
+        "contact:website": "https://www.alicepizza.it/store/alice-largo-magna-grecia/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8890917,
+          41.4560871
+        ]
+      },
+      "properties": {
+        "id": "latina",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Latina",
+        "branch": "Alice Latina",
+        "full_address": "Centro Commerciale Latinafiori Viale Pierluigi Nervi Latina",
+        "addr:city": "Latina",
+        "contact:phone": "0773/479021",
+        "contact:website": "https://www.alicepizza.it/store/alice-latina/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5218822,
+          41.9438734
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Val Padana",
+        "branch": "Alice Val Padana",
+        "full_address": "Viale Val Padana 130/132 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "06/45598700",
+        "contact:website": "https://www.alicepizza.it/store/alice-val-padana/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4587778,
+          41.8506215
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Magliana",
+        "branch": "Alice Magliana",
+        "full_address": "Via di Villa Bonelli 6 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "06/45547136",
+        "contact:website": "https://www.alicepizza.it/store/alice-verona-le-corti-venete-2/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5378403,
+          41.9096202
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Via Cave di Pietralata",
+        "branch": "Alice Via Cave di Pietralata",
+        "full_address": "Via Cave di Pietralata 47 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "06/89520804",
+        "contact:website": "https://www.alicepizza.it/store/alice-via-cave-di-pietralata/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4813095,
+          41.9259341
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Piazza Euclide",
+        "branch": "Alice Piazza Euclide",
+        "full_address": "Via Civinini 91  Roma",
+        "addr:city": "Roma",
+        "contact:phone": "06/8077319",
+        "contact:website": "https://www.alicepizza.it/store/alice-via-chiabrera-2/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4798191,
+          41.8556278
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Via Chiabrera",
+        "branch": "Alice Via Chiabrera",
+        "full_address": "Via Chiabrera 17/19 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "06/546830",
+        "contact:website": "https://www.alicepizza.it/store/alice-via-chiabrera/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5670858,
+          41.8816576
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Via dei Castani",
+        "branch": "Alice Via dei Castani",
+        "full_address": "Via dei Castani 66a Roma",
+        "addr:city": "Roma",
+        "contact:phone": "+390664811924",
+        "contact:website": "https://www.alicepizza.it/store/alice-via-dei-castani/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5599345,
+          41.8583791
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Tuscolana",
+        "branch": "Alice Tuscolana",
+        "full_address": "Via Tuscolana 853f Roma",
+        "addr:city": "Roma",
+        "contact:phone": "06/765403",
+        "contact:website": "https://www.alicepizza.it/store/alice-tuscolana/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4335196,
+          41.8519034
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Trullo",
+        "branch": "Alice Trullo",
+        "full_address": "Via Portuense 716c",
+        "addr:city": "Roma",
+        "contact:phone": "+390665796284",
+        "contact:website": "https://www.alicepizza.it/store/alice-trullo/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.433212,
+          41.807816
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Torrino",
+        "branch": "Alice Torrino",
+        "full_address": "Via della Seta 5 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "06/88541819",
+        "contact:website": "https://www.alicepizza.it/store/alice-torrino/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4556595,
+          41.8705667
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice San Camillo",
+        "branch": "Alice San Camillo",
+        "full_address": "Ospedale San Camillo-Forlanini Circonvallazione Gianicolense 87 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "+393911881176",
+        "contact:website": "https://www.alicepizza.it/store/alice-san-camillo/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5358663,
+          40.7375928
+        ]
+      },
+      "properties": {
+        "id": "sassari",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Sassari",
+        "branch": "Alice Sassari",
+        "full_address": "Centro Commerciale Porte di Sassari, Viale Porto Torres, 07100 Sassari SS",
+        "addr:city": "Sassari",
+        "contact:phone": "079/268207",
+        "contact:website": "https://www.alicepizza.it/store/alice-sassari/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5457676,
+          41.9490259
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Talenti Via Franco Sacchetti",
+        "branch": "Alice Talenti Via Franco Sacchetti",
+        "full_address": "Via Franco Sacchetti 41 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "+390688934176",
+        "contact:website": "https://www.alicepizza.it/store/alice-talenti-via-franco-sacchetti/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6972729,
+          41.955243
+        ]
+      },
+      "properties": {
+        "id": "guidonia",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Tiburtino Shopping Center",
+        "branch": "Alice Tiburtino Shopping Center",
+        "full_address": "Centro Commerciale Tiburtino Shopping Center Via dei Pioppi 6 Guidonia Montecelio",
+        "addr:city": "Guidonia",
+        "contact:phone": "+390774554040",
+        "contact:website": "https://www.alicepizza.it/store/alice-tiburtino-shopping-center/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7966883,
+          41.9616569
+        ]
+      },
+      "properties": {
+        "id": "tivoli",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Tivoli",
+        "branch": "Alice Tivoli",
+        "full_address": "Largo Garibaldi 2 Tivoli",
+        "addr:city": "Tivoli",
+        "contact:phone": "0774/331593",
+        "contact:website": "https://www.alicepizza.it/store/alice-tivoli/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5152851,
+          41.92407559999999
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Corso Trieste",
+        "branch": "Alice Corso Trieste",
+        "full_address": "Corso Trieste 195/197 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "+390645596385",
+        "contact:website": "https://www.alicepizza.it/store/alice-corso-trieste/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.548694,
+          41.851428
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Happio",
+        "branch": "Alice Happio",
+        "full_address": "Centro Commerciale Happio Via Appia Nuova 448 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "06/78345548",
+        "contact:website": "https://www.alicepizza.it/store/alice-happio/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.963305499999999,
+          45.6093616
+        ]
+      },
+      "properties": {
+        "id": "rescaldina",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Rescaldina",
+        "branch": "Alice Rescaldina",
+        "full_address": "Centro Commerciale Rescaldina Via Palmiro Togliatti 2",
+        "addr:city": "Rescaldina",
+        "contact:phone": "02.40703328",
+        "contact:website": "https://www.alicepizza.it/store/alice-rescaldina/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6602427,
+          41.727373
+        ]
+      },
+      "properties": {
+        "id": "albano-laziale",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Albano Laziale",
+        "branch": "Alice Albano Laziale",
+        "full_address": "Corso Giacomo Matteotti 183 Albano",
+        "addr:city": "Albano Laziale",
+        "contact:phone": "+390689537827",
+        "contact:website": "https://www.alicepizza.it/store/alice-albano-laziale/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4459086,
+          41.90471840000001
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Ammiragli",
+        "branch": "Alice Ammiragli",
+        "full_address": "Via degli Ammiragli 18 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "06/39749283",
+        "contact:website": "https://www.alicepizza.it/store/alice-ammiragli/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6228369,
+          41.5867298
+        ]
+      },
+      "properties": {
+        "id": "aprilia",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "CC Aprilia",
+        "branch": "CC Aprilia",
+        "full_address": "C.C. Aprilia 2 SS 148 Pontina Km 44 Aprilia",
+        "addr:city": "Aprilia",
+        "contact:phone": "06/9253893",
+        "contact:website": "https://www.alicepizza.it/store/alice-aprilia/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.427732,
+          42.03603400000001
+        ]
+      },
+      "properties": {
+        "id": "avezzano",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Avezzano",
+        "branch": "Alice Avezzano",
+        "full_address": "Via Camillo Corradini 195 Avezzano",
+        "addr:city": "Avezzano",
+        "contact:phone": "0863/455252",
+        "contact:website": "https://www.alicepizza.it/store/alice-avezzano/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4418975,
+          41.9198416
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Balduina",
+        "branch": "Alice Balduina",
+        "full_address": "Piazza della Balduina 10",
+        "addr:city": "Roma",
+        "contact:phone": "+390653093210",
+        "contact:website": "https://www.alicepizza.it/store/alice-balduina/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4250208,
+          41.9023529
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Boccea",
+        "branch": "Alice Boccea",
+        "full_address": "Via di Boccea 116 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "06/64463800",
+        "contact:website": "https://www.alicepizza.it/store/alice-boccea/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4441751,
+          41.8578319
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Colli Portuensi",
+        "branch": "Alice Colli Portuensi",
+        "full_address": "Viale dei Colli Portuensi 582 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "+39066537061",
+        "contact:website": "https://www.alicepizza.it/store/alice-colli-portuensi/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4942574,
+          41.8673507
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Circonvallazione Ostiense",
+        "branch": "Alice Circonvallazione Ostiense",
+        "full_address": "Circonvallazione Ostiense 353 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "+39065758496",
+        "contact:website": "https://www.alicepizza.it/store/alice-circonvallazione-ostiense/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5676424,
+          41.85387739999999
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Cinecittà",
+        "branch": "Alice Cinecittà",
+        "full_address": "Via Tito Labieno n.2/4 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "06/71545244",
+        "contact:website": "https://www.alicepizza.it/store/alice-cinecitta/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1637492,
+          42.3478859
+        ]
+      },
+      "properties": {
+        "id": "chieti",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Chieti",
+        "branch": "Alice Chieti",
+        "full_address": "Centro Commerciale Megalò Località Santa Filomena Chieti",
+        "addr:city": "Chieti",
+        "contact:phone": "+390871565065",
+        "contact:website": "https://www.alicepizza.it/store/alice-chieti/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1293108,
+          42.5195623
+        ]
+      },
+      "properties": {
+        "id": "pescara",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice CC Pescara Nord",
+        "branch": "Alice CC Pescara Nord",
+        "full_address": "Via Leonardo Petruzzi 140 Pescara",
+        "addr:city": "Pescara",
+        "contact:phone": "02.40703328",
+        "contact:website": "https://www.alicepizza.it/store/alice-centro-commerciale-pescara-nord/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4726043,
+          41.89633509999999
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Baullari",
+        "branch": "Alice Baullari",
+        "full_address": "Via dei Baullari 140 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "+3906 6830 1577",
+        "contact:website": "https://www.alicepizza.it/store/alice-baullari/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5399574,
+          41.9712788
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Porta di Roma",
+        "branch": "Alice Porta di Roma",
+        "full_address": "Centro Commerciale Porta di Roma Via Alberto Lionello 201 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "+390687070650",
+        "contact:website": "https://www.alicepizza.it/store/alice-porta-di-roma/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4610027,
+          41.81768
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Euroma 2",
+        "branch": "Alice Euroma 2",
+        "full_address": "Centro Commerciale Euroma 2 Via Cristoforo Colombo 710 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "+390645472974",
+        "contact:website": "https://www.alicepizza.it/store/alice-euroma-2/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6616046,
+          41.9142713
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Roma Est",
+        "branch": "Alice Roma Est",
+        "full_address": "C.C. Roma Est Via Collatina 858 Km 12800 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "+390622510397",
+        "contact:website": "https://www.alicepizza.it/store/alice-roma-est/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5055434,
+          41.8781995
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Via Satrico",
+        "branch": "Alice Via Satrico",
+        "full_address": "Via Satrico 1d Roma",
+        "addr:city": "Roma",
+        "contact:phone": "+390670495257",
+        "contact:website": "https://www.alicepizza.it/store/alice-via-satrico/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.458483,
+          41.8817532
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Quattro Venti",
+        "branch": "Alice Quattro Venti",
+        "full_address": "Via dei Quattro Venti 92/94 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "+39065813671",
+        "contact:website": "https://www.alicepizza.it/store/alice-quattro-venti/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1169961,
+          42.7878287
+        ]
+      },
+      "properties": {
+        "id": "grosseto",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Grosseto",
+        "branch": "Alice Grosseto",
+        "full_address": "Centro Maremà Via Ecuador 30 Grosseto",
+        "addr:city": "Grosseto",
+        "contact:phone": "+390564456883",
+        "contact:website": "https://www.alicepizza.it/store/alice-grosseto/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5717693,
+          41.85315629999999
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Cinecittadue",
+        "branch": "Alice Cinecittadue",
+        "full_address": "Centro Commerciale Cinecittadue",
+        "addr:city": "Roma",
+        "contact:phone": "06.88970945",
+        "contact:website": "https://www.alicepizza.it/store/alice-cinecittadue/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5910884,
+          41.8996128
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Tor Sapienza",
+        "branch": "Alice Tor Sapienza",
+        "full_address": "Via di Tor Sapienza 89 E",
+        "addr:city": "Roma",
+        "contact:phone": "+39062284423",
+        "contact:website": "https://www.alicepizza.it/store/alice-tor-sapienza/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5002805,
+          41.6692995
+        ]
+      },
+      "properties": {
+        "id": "pomezia",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Pomezia",
+        "branch": "Alice Pomezia",
+        "full_address": "Via Orazio 21",
+        "addr:city": "Pomezia",
+        "contact:phone": "+390669336383",
+        "contact:website": "https://www.alicepizza.it/store/alice-pomezia/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9564696,
+          41.76308239999999
+        ]
+      },
+      "properties": {
+        "id": "valmontone",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Valmontone",
+        "branch": "Alice Valmontone",
+        "full_address": "Valmontone Outlet Via della Pace, Località Pascolaro 00038 Valmontone",
+        "addr:city": "Valmontone",
+        "contact:phone": "+39069591126",
+        "contact:website": "https://www.alicepizza.it/store/alice-valmontone/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7733269,
+          41.95657840000001
+        ]
+      },
+      "properties": {
+        "id": "villa-adriana",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Villa Adriana",
+        "branch": "Alice Villa Adriana",
+        "full_address": "Via Nazionale Tiburtina 161",
+        "addr:city": "Villa Adriana",
+        "contact:phone": "+390774381604",
+        "contact:website": "https://www.alicepizza.it/store/alice-villa-adriana/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4913901,
+          41.8324452
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Tintoretto",
+        "branch": "Alice Tintoretto",
+        "full_address": "Via del Serafico 177 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "+393273373125",
+        "contact:website": "https://www.alicepizza.it/store/alice-tintoretto/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8852624,
+          44.4110337
+        ]
+      },
+      "properties": {
+        "id": "genova",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Genova CC Fiumara",
+        "branch": "Genova CC Fiumara",
+        "full_address": "Fiumara Centro Commerciale - Via Fiumara 15 Genova ",
+        "addr:city": "Genova",
+        "contact:phone": "010/2368611",
+        "contact:website": "https://www.alicepizza.it/store/alice-genova/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2937379,
+          45.4231305
+        ]
+      },
+      "properties": {
+        "id": "peschiera-borromeo",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Peschiera Borromeo",
+        "branch": "Alice Peschiera Borromeo",
+        "full_address": "Galleria Borromea Shopping Center Via della Liberazione 8 ",
+        "addr:city": "Peschiera Borromeo",
+        "contact:phone": "+390251650295",
+        "contact:website": "https://www.alicepizza.it/store/alice-peschiera-borromeo/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4798677,
+          41.8721625
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Sottopasso Ostiense",
+        "branch": "Alice Sottopasso Ostiense",
+        "full_address": "Piazzale dei Partigiani, 00154 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "0689939442",
+        "contact:website": "https://www.alicepizza.it/store/alice-sottopasso-ostiense/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5155838,
+          41.8989426
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice San Lorenzo",
+        "branch": "Alice San Lorenzo",
+        "full_address": "Via Tiburtina 170/172",
+        "addr:city": "Roma",
+        "contact:phone": "+390631075075",
+        "contact:website": "https://www.alicepizza.it/store/alice-san-lorenzo/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1992757,
+          44.4186028
+        ]
+      },
+      "properties": {
+        "id": "ravenna",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Ravenna",
+        "branch": "Alice Ravenna",
+        "full_address": "Via IV Novembre 35",
+        "addr:city": "Ravenna",
+        "contact:phone": "+390544212727",
+        "contact:website": "https://www.alicepizza.it/store/alice-ravenna/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5787573,
+          41.9417301
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice San Basilio",
+        "branch": "Alice San Basilio",
+        "full_address": "Via Casal Tidei 71/77",
+        "addr:city": "Roma",
+        "contact:phone": "+390641227974",
+        "contact:website": "https://www.alicepizza.it/store/alice-san-basilio/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4164201,
+          41.9214027
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Pietro Maffi",
+        "branch": "Alice Pietro Maffi",
+        "full_address": "Via Pietro Maffi 8",
+        "addr:city": "Roma",
+        "contact:phone": "Via Pietro Maffi 8",
+        "contact:website": "https://www.alicepizza.it/store/alice-pietro-maffi/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3758546,
+          41.7500335
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Infernetto",
+        "branch": "Alice Infernetto",
+        "full_address": "Via Ermanno Wolf Ferrari 241",
+        "addr:city": "Roma",
+        "contact:phone": "+390650912957",
+        "contact:website": "https://www.alicepizza.it/store/alice-infernetto/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.389761,
+          43.10876
+        ]
+      },
+      "properties": {
+        "id": "perugia",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Perugia",
+        "branch": "Alice Perugia",
+        "full_address": "Via Sant'Ercolano n.32 Perugia",
+        "addr:city": "Perugia",
+        "contact:phone": "+390754659939",
+        "contact:website": "https://www.alicepizza.it/store/alice-perugia/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.53809,
+          41.94501
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Monte Gennaro",
+        "branch": "Alice Monte Gennaro",
+        "full_address": "Piazza Monte Gennaro 16 A",
+        "addr:city": "Roma",
+        "contact:phone": "+390689230112",
+        "contact:website": "https://www.alicepizza.it/store/alice-monte-gennaro/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.618953,
+          41.9947555
+        ]
+      },
+      "properties": {
+        "id": "fonte-nuova",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Fonte Nuova",
+        "branch": "Alice Fonte Nuova",
+        "full_address": "Via Nomentana 622 Fonte Nuova (Roma)",
+        "addr:city": "Fonte Nuova",
+        "contact:phone": "+39069059654",
+        "contact:website": "https://www.alicepizza.it/store/alice-fonte-nuova/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0818989,
+          44.2443629
+        ]
+      },
+      "properties": {
+        "id": "forli",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Forlì C.C. Punta di Ferro",
+        "branch": "Alice Forlì C.C. Punta di Ferro",
+        "full_address": "C.C. Punta di Ferro Piazzale della Cooperazione 2 47122 Forlì",
+        "addr:city": "Forlì",
+        "contact:phone": "+3905431801729",
+        "contact:website": "https://www.alicepizza.it/store/alice-forli-c-c-punta-di-ferro/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1795125,
+          44.3961911
+        ]
+      },
+      "properties": {
+        "id": "ravenna",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice C.C. Esp Ravenna",
+        "branch": "Alice C.C. Esp Ravenna",
+        "full_address": "Centro Commerciale Esp Via Marco Bussato 74, 48124 Ravenna",
+        "addr:city": "Ravenna",
+        "contact:website": "https://www.alicepizza.it/store/alice-c-c-esp-ravenna/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.864656,
+          45.4395599
+        ]
+      },
+      "properties": {
+        "id": "sona",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Sona C.C. La GrandeMela Shoppingland",
+        "branch": "Alice Sona C.C. La GrandeMela Shoppingland",
+        "full_address": "Via Trentino 1 Sona (VR)",
+        "addr:city": "Sona",
+        "contact:phone": "045/6090497",
+        "contact:website": "https://www.alicepizza.it/store/alice-sona-c-c-la-grandemela-shoppingland/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5236183,
+          41.957684
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Piazza Vimercati",
+        "branch": "Alice Piazza Vimercati",
+        "full_address": "Piazza Ottaviano Vimercati 3/4/5",
+        "addr:city": "Roma",
+        "contact:phone": "+39 068124681",
+        "contact:website": "https://www.alicepizza.it/store/alice-piazza-vimercati/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5422129,
+          44.3847111
+        ]
+      },
+      "properties": {
+        "id": "cuneo",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Corso Giolitti (Cuneo)",
+        "branch": "Alice Corso Giolitti (Cuneo)",
+        "full_address": "Corso Giolitti 4d",
+        "addr:city": "Cuneo",
+        "contact:phone": "+39 01711875586",
+        "contact:website": "https://www.alicepizza.it/store/alice-corso-giolitti-cuneo/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6882515,
+          41.8630227
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Finocchio",
+        "branch": "Alice Finocchio",
+        "full_address": "Via Casilina 1859 B",
+        "addr:city": "Roma",
+        "contact:phone": "+39 0620760503",
+        "contact:website": "https://www.alicepizza.it/store/alice-finocchio/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6408766,
+          41.868313
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Tor Bella Monaca",
+        "branch": "Alice Tor Bella Monaca",
+        "full_address": "Viale Paolo Ferdinando Quaglia 26",
+        "addr:city": "Roma",
+        "contact:phone": "+390669212563",
+        "contact:website": "https://www.alicepizza.it/store/alice-tor-bella-monaca/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5906496,
+          41.8499227
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Ciamarra",
+        "branch": "Alice Ciamarra",
+        "full_address": "Viale Antonio Ciamarra 107 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "+39067211148",
+        "contact:website": "https://www.alicepizza.it/store/alice-ciamarra/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1722276,
+          45.2048375
+        ]
+      },
+      "properties": {
+        "id": "pavia",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Pavia C.C. Carrefour",
+        "branch": "Alice Pavia C.C. Carrefour",
+        "full_address": "Strada Vigentina ang. Via Cassani",
+        "addr:city": "Pavia",
+        "contact:phone": "0382/495919",
+        "contact:website": "https://www.alicepizza.it/store/alice-pavia-c-c-carrefour/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6014352,
+          41.8046166
+        ]
+      },
+      "properties": {
+        "id": "ciampino",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Ciampino",
+        "branch": "Alice Ciampino",
+        "full_address": "Viale John Fitzgerald Kennedy 41 Ciampino",
+        "addr:city": "Ciampino",
+        "contact:phone": "+39 067917722",
+        "contact:website": "https://www.alicepizza.it/store/alice-ciampino/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4374006,
+          41.9422455
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Viale Cortina d’Ampezzo",
+        "branch": "Alice Viale Cortina d’Ampezzo",
+        "full_address": "Viale Cortina d'Ampezzo 321/323 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "+390635502761",
+        "contact:website": "https://www.alicepizza.it/store/alice-viale-cortina-dampezzo/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6445278,
+          41.9755787
+        ]
+      },
+      "properties": {
+        "id": "guidonia",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Palombarese",
+        "branch": "Alice Palombarese",
+        "full_address": "Via Palombarese 207 Guidonia ",
+        "addr:city": "Guidonia",
+        "contact:phone": "+390774536403",
+        "contact:website": "https://www.alicepizza.it/store/alice-palombarese/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5744698,
+          41.9128632
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Colli Aniene",
+        "branch": "Alice Colli Aniene",
+        "full_address": "Via Edoardo D'Onofrio 94 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "06 45422409",
+        "contact:website": "https://www.alicepizza.it/store/alice-colli-aniene/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6714541,
+          45.6932175
+        ]
+      },
+      "properties": {
+        "id": "bergamo",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Bergamo",
+        "branch": "Alice Bergamo",
+        "full_address": "Viale Papa Giovanni XXIII 44, Bergamo",
+        "addr:city": "Bergamo",
+        "contact:website": "https://www.alicepizza.it/store/alice-c-c-oriocenter/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5035796,
+          41.9016958
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Via Marsala",
+        "branch": "Alice Via Marsala",
+        "full_address": "Via Marsala 66 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "+39 06 8957 3867",
+        "contact:website": "https://www.alicepizza.it/store/alice-via-marsala/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3692716,
+          41.9164633
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Casalotti",
+        "branch": "Alice Casalotti",
+        "full_address": "Piazza Ormea 32",
+        "addr:city": "Roma",
+        "contact:phone": "+39 06 164161000",
+        "contact:website": "https://www.alicepizza.it/store/alice-casalotti/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4479414,
+          41.7921707
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Spinaceto",
+        "branch": "Alice Spinaceto",
+        "full_address": "Viale dei Caduti per laResistenza 101 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "+39 0645546847",
+        "contact:website": "https://www.alicepizza.it/store/alice-spinaceto/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.53064,
+          41.909794
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Stazione Tiburtina",
+        "branch": "Alice Stazione Tiburtina",
+        "full_address": "all'interno della Stazione Tiburtina, area Piazza Ipogea",
+        "addr:city": "Roma",
+        "contact:phone": "+390635297403",
+        "contact:website": "https://www.alicepizza.it/store/alice-stazione-tiburtina/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5941568,
+          41.8381174
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice C.C. Anagnina",
+        "branch": "Alice C.C. Anagnina",
+        "full_address": "C.C. Anagnina Via Torre di Mezzavia, 35, 00173 Roma RM",
+        "addr:city": "Roma",
+        "contact:phone": "+39 0689236884",
+        "contact:website": "https://www.alicepizza.it/store/alice-c-c-anagnina/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.501595,
+          43.842897
+        ]
+      },
+      "properties": {
+        "id": "lucca",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Lucca",
+        "branch": "Alice Lucca",
+        "full_address": "Via S. Paolino 22 Lucca",
+        "addr:city": "Lucca",
+        "contact:phone": "+390583572712",
+        "contact:website": "https://www.alicepizza.it/store/alice-lucca/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2076655,
+          45.4760613
+        ]
+      },
+      "properties": {
+        "id": "milano",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Spallanzani",
+        "branch": "Spallanzani",
+        "full_address": "Via L. Spallanzani 18 Milano",
+        "addr:city": "Milano",
+        "contact:phone": "+390245076249",
+        "contact:website": "https://www.alicepizza.it/store/alice-spallanzani/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.382473,
+          42.003007
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice La Storta",
+        "branch": "Alice La Storta",
+        "full_address": "Via Cassia 1665 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "+39 0642916688",
+        "contact:website": "https://www.alicepizza.it/store/alice-la-storta/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6528221,
+          41.5892598
+        ]
+      },
+      "properties": {
+        "id": "aprilia",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Aprilia Via De Gasperi",
+        "branch": "Alice Aprilia Via De Gasperi",
+        "full_address": "Via Alcide De Gasperi 79 Aprilia",
+        "addr:city": "Aprilia",
+        "contact:phone": "+39 0649774410",
+        "contact:website": "https://www.alicepizza.it/store/alice-aprilia-via-de-gasperi/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4656633,
+          41.8313164
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Viale Beethoven",
+        "branch": "Alice Viale Beethoven",
+        "full_address": "Viale Beethoven, 72/74",
+        "addr:city": "Roma",
+        "contact:phone": "+39 06 6942 8780",
+        "contact:website": "https://www.alicepizza.it/store/alice-viale-beethoven/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7102271,
+          41.954518
+        ]
+      },
+      "properties": {
+        "id": "guidonia",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Guidonia",
+        "branch": "Alice Guidonia",
+        "full_address": "Viale Roma 187, Guidonia",
+        "addr:city": "Guidonia",
+        "contact:phone": "0774706389",
+        "contact:website": "https://www.alicepizza.it/store/alice-guidonia/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4348884,
+          41.9717361
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Grottarossa",
+        "branch": "Alice Grottarossa",
+        "full_address": "Via di Grottarossa 20/22 Roma",
+        "addr:city": "Roma",
+        "contact:phone": "+39  06 3099 9650",
+        "contact:website": "https://www.alicepizza.it/store/alice-grottarossa/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2832699,
+          45.5118252
+        ]
+      },
+      "properties": {
+        "id": "vimodrone",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Vimodrone",
+        "branch": "Alice Vimodrone",
+        "full_address": "C.C. Auchan Via Padana Superiore, km 292, Vimodrone (MI)",
+        "addr:city": "Vimodrone",
+        "contact:phone": "02.40703328",
+        "contact:website": "https://www.alicepizza.it/store/alice-vimodrone/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5358165,
+          41.8984195
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Casal Bertone",
+        "branch": "Alice Casal Bertone",
+        "full_address": "Via di Casal Bertone 163 ",
+        "addr:city": "Roma",
+        "contact:phone": "0653099961",
+        "contact:website": "https://www.alicepizza.it/store/alice-casal-bertone/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.833530000000001,
+          44.11944
+        ]
+      },
+      "properties": {
+        "id": "la-spezia",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice La Spezia",
+        "branch": "Alice La Spezia",
+        "full_address": "Centro Commerciale Le Terrazze Via Fontevivo 17",
+        "addr:city": "La Spezia",
+        "contact:phone": "+390187306376",
+        "contact:website": "https://www.alicepizza.it/store/alice-la-spezia/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4624245,
+          41.9085975
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Fabio Massimo",
+        "branch": "Alice Fabio Massimo",
+        "full_address": "Via Fabio Massimo 46 ",
+        "addr:city": "Roma",
+        "contact:phone": "063221530",
+        "contact:website": "https://www.alicepizza.it/store/alice-fabio-massimo/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.162399899999999,
+          39.2455891
+        ]
+      },
+      "properties": {
+        "id": "cagliari",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Cagliari",
+        "branch": "Alice Cagliari",
+        "full_address": "Centro Commerciale Le Vele, Via delle Serre, Quartucciu (Cagliari) ",
+        "addr:city": "Cagliari",
+        "contact:phone": "070884167",
+        "contact:website": "https://www.alicepizza.it/store/alice-cagliari/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0789397,
+          41.9495176
+        ]
+      },
+      "properties": {
+        "id": "ladispoli",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Ladispoli",
+        "branch": "Alice Ladispoli",
+        "full_address": "Viale Italia, 8",
+        "addr:city": "Ladispoli",
+        "contact:phone": "0631053285",
+        "contact:website": "https://www.alicepizza.it/store/alice-ladispoli/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5436317,
+          41.9084637
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Via Tiburtina 574",
+        "branch": "Alice Via Tiburtina 574",
+        "full_address": "Via Tiburtina 574/576 ",
+        "addr:city": "Roma",
+        "contact:phone": "0666483442",
+        "contact:website": "https://www.alicepizza.it/store/alice-via-tiburtina-574/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4478148,
+          41.8740112
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Gianicolense",
+        "branch": "Alice Gianicolense",
+        "full_address": "Circonvallazione Gianicolense 278",
+        "addr:city": "Roma",
+        "contact:phone": "0686201074",
+        "contact:website": "https://www.alicepizza.it/store/alice-gianicolense/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.094351,
+          42.424803
+        ]
+      },
+      "properties": {
+        "id": "viterbo",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Tuscia",
+        "branch": "Alice Tuscia",
+        "full_address": "Centro Commerciale Tuscia, Tangenziale Ovest , Viterbo",
+        "addr:city": "Viterbo",
+        "contact:phone": "0761092164",
+        "contact:website": "https://www.alicepizza.it/store/alice-tuscia/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6165056,
+          41.7659853
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Nettunense",
+        "branch": "Alice Nettunense",
+        "full_address": "Via Nettunense km 1+373, 00047 Marino RM",
+        "addr:city": "Roma",
+        "contact:phone": "3760014318",
+        "contact:website": "https://www.alicepizza.it/store/alice-nettunense/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5065335,
+          41.9399867
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Salario Center",
+        "branch": "Alice Salario Center",
+        "full_address": "Via Salaria 665, Salario Center, Roma ",
+        "addr:city": "Roma",
+        "contact:phone": "3407149795",
+        "contact:website": "https://www.alicepizza.it/store/alice-salario-center/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9071298,
+          40.6359826
+        ]
+      },
+      "properties": {
+        "id": "pontecagnano",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Maximall",
+        "branch": "Alice Maximall",
+        "full_address": "Via Antonio Pacinotti, 84098 Località Scontrafata, Pontecagnano Faiano SA",
+        "addr:city": "Pontecagnano",
+        "contact:phone": "089.9254482",
+        "contact:website": "https://www.alicepizza.it/store/alice-maximall/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4792799,
+          41.856451
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Giustiniano Imperatore",
+        "branch": "Alice Giustiniano Imperatore",
+        "full_address": "Viale Giustiniano Imperatore 32, Roma",
+        "addr:city": "Roma",
+        "contact:phone": "06.45596951",
+        "contact:website": "https://www.alicepizza.it/store/alice-giustiniano-imperatore/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3684198,
+          45.5049129
+        ]
+      },
+      "properties": {
+        "id": "vignate",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Acquario",
+        "branch": "Alice Acquario",
+        "full_address": "Vignate, Centro Commerciale Acquario, Via Nuova Cassanese, 10, 20060 (MI)",
+        "addr:city": "Vignate",
+        "contact:phone": "02 3928 6342",
+        "contact:website": "https://www.alicepizza.it/store/alice-acquario/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5489889,
+          41.9578055
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Dima Shopping Bufalotta",
+        "branch": "Alice Dima Shopping Bufalotta",
+        "full_address": "Centro Commerciale Dima Shopping Bufalotta, Via Dario Niccodemi, 99, Roma",
+        "addr:city": "Roma",
+        "contact:phone": "0687130217",
+        "contact:website": "https://www.alicepizza.it/store/alice-dima-shopping-bufalotta/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4229176,
+          41.9363928
+        ]
+      },
+      "properties": {
+        "id": "roma",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Torrevecchia",
+        "branch": "Alice Torrevecchia",
+        "full_address": "Via di Torrevecchia 13, 00168 Roma ",
+        "addr:city": "Roma",
+        "contact:phone": "0630601957",
+        "contact:website": "https://www.alicepizza.it/store/torrevecchia/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.310402,
+          45.616783
+        ]
+      },
+      "properties": {
+        "id": "monza",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Villasanta",
+        "branch": "Alice Villasanta",
+        "full_address": "Centro Commerciale Villasanta Il Gigante, Via Tiziano Vecellio, 2 Villasanta, Monza Brianza ",
+        "addr:city": "Monza",
+        "contact:phone": "039 578 3836",
+        "contact:website": "https://www.alicepizza.it/store/alice-villasanta/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.69427,
+          45.06767
+        ]
+      },
+      "properties": {
+        "id": "torino",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Torino Università",
+        "branch": "Alice Torino Università",
+        "full_address": "Torino Università, Piazzale Aldo Moro",
+        "addr:city": "Torino",
+        "contact:phone": "0116683660",
+        "contact:website": "https://www.alicepizza.it/store/alice-torino-universita/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.150020399999999,
+          45.5195347
+        ]
+      },
+      "properties": {
+        "id": "novate-milanese",
+        "source": "alicepizza.it",
+        "amenity": "fast_food",
+        "brand": "Alice Pizza",
+        "cuisine": "pizza",
+        "name": "Alice Metropoli",
+        "branch": "Alice Metropoli",
+        "full_address": "Via Carlo Amoretti 1, Novate Milanese Centro Commerciale Metropoli ",
+        "addr:city": "Novate Milanese",
+        "contact:phone": "0226600450",
+        "contact:website": "https://www.alicepizza.it/store/alice-metropoli/",
+        "brand:wikidata": "Q113973272",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    }
+  ]
+}

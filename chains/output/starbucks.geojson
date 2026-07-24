@@ -1,0 +1,1953 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.186833777246113,
+          45.4801965033063
+        ]
+      },
+      "properties": {
+        "id": "1",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Milano Garibaldi",
+        "branch": "Milano Garibaldi",
+        "full_address": "Corso Garibaldi 118, 20121 Milano",
+        "addr:city": "Milano",
+        "addr:street": "Corso Garibaldi 118",
+        "addr:postcode": "20121",
+        "contact:phone": "+39 0265560122",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/lombardia/milano/milano-corso-garibaldi-118",
+        "opening_hours": {
+          "Monday": "07:30-20:00",
+          "Tuesday": "07:30-20:00",
+          "Wednesday": "07:30-20:00",
+          "Thursday": "07:30-20:00",
+          "Friday": "07:30-20:00",
+          "Saturday": "08:00-20:00",
+          "Sunday": "08:00-20:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.713803142236323,
+          45.62553603995746
+        ]
+      },
+      "properties": {
+        "id": "2",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Milano Malpensa T1",
+        "branch": "Milano Malpensa T1",
+        "full_address": "Aeroporto Milano Malpensa T1, 21010 Ferno",
+        "addr:city": "Ferno",
+        "addr:street": "Aeroporto Milano Malpensa T1",
+        "addr:postcode": "21010",
+        "contact:phone": "+39 0258580683",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/lombardia/varese/ferno",
+        "opening_hours": {
+          "Monday": "04:30-21:00",
+          "Tuesday": "04:30-21:00",
+          "Wednesday": "04:30-21:00",
+          "Thursday": "04:30-21:00",
+          "Friday": "04:30-21:00",
+          "Saturday": "04:30-21:00",
+          "Sunday": "04:30-21:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.198562299999999,
+          45.4655661
+        ]
+      },
+      "properties": {
+        "id": "3",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Milano Durini",
+        "branch": "Milano Durini",
+        "full_address": "Via Durini 28, 20122 Milano",
+        "addr:city": "Milano",
+        "addr:street": "Via Durini 28",
+        "addr:postcode": "20122",
+        "contact:phone": "+39 0276004506",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/lombardia/milano/milano-via-durini-28",
+        "opening_hours": {
+          "Monday": "07:30-19:30",
+          "Tuesday": "07:30-19:30",
+          "Wednesday": "07:30-19:30",
+          "Thursday": "07:30-19:30",
+          "Friday": "07:30-19:30",
+          "Saturday": "08:00-20:00",
+          "Sunday": "08:00-20:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.164564731911836,
+          45.46636901889229
+        ]
+      },
+      "properties": {
+        "id": "4",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Milano Vercelli",
+        "branch": "Milano Vercelli",
+        "full_address": "Corso Vercelli 2, 20145 Milano",
+        "addr:city": "Milano",
+        "addr:street": "Corso Vercelli 2",
+        "addr:postcode": "20145",
+        "contact:phone": "+39 0248024629",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/lombardia/milano/milano-corso-vercelli-2",
+        "opening_hours": {
+          "Monday": "07:30-19:30",
+          "Tuesday": "07:30-19:30",
+          "Wednesday": "07:30-19:30",
+          "Thursday": "07:30-19:30",
+          "Friday": "07:30-19:30",
+          "Saturday": "08:00-20:00",
+          "Sunday": "08:00-20:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.205855120623783,
+          45.48579856913868
+        ]
+      },
+      "properties": {
+        "id": "5",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Milano Centrale",
+        "branch": "Milano Centrale",
+        "full_address": "Piazza Savoia 1, 20124 Milano",
+        "addr:city": "Milano",
+        "addr:street": "Piazza Savoia 1",
+        "addr:postcode": "20124",
+        "contact:phone": "+39 0266712764",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/lombardia/milano/milano-piazza-savoia-1",
+        "opening_hours": {
+          "Monday": "06:00-20:00",
+          "Tuesday": "06:00-20:00",
+          "Wednesday": "06:00-20:00",
+          "Thursday": "06:00-20:00",
+          "Friday": "06:00-20:00",
+          "Saturday": "06:00-20:00",
+          "Sunday": "06:00-20:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.680546799999999,
+          45.0656744
+        ]
+      },
+      "properties": {
+        "id": "6",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Torino Buozzi",
+        "branch": "Torino Buozzi",
+        "full_address": "Via Bruno Buozzi 5, 10121 Torino",
+        "addr:city": "Torino",
+        "addr:street": "Via Bruno Buozzi 5",
+        "addr:postcode": "10121",
+        "contact:phone": "+39 0114407612",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/piemonte/torino/torino-via-bruno-buozzi",
+        "opening_hours": {
+          "Monday": "07:30-20:00",
+          "Tuesday": "07:30-20:00",
+          "Wednesday": "07:30-20:00",
+          "Thursday": "07:30-20:00",
+          "Friday": "07:30-20:00",
+          "Saturday": "08:00-20:00",
+          "Sunday": "08:00-20:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.837913818246452,
+          44.73534238352085
+        ]
+      },
+      "properties": {
+        "id": "7",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Serravalle Designer Outlet",
+        "branch": "Serravalle Designer Outlet",
+        "full_address": "Via della Moda 1, 15069 Serravalle Scrivia",
+        "addr:city": "Serravalle Scrivia",
+        "addr:street": "Via della Moda 1",
+        "addr:postcode": "15069",
+        "contact:phone": "+39 0143340581",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/piemonte/alessandria/serravalle-scrivia",
+        "opening_hours": {
+          "Monday": "09:00-20:00",
+          "Tuesday": "09:00-20:00",
+          "Wednesday": "09:00-20:00",
+          "Thursday": "09:00-20:00",
+          "Friday": "09:00-20:00",
+          "Saturday": "09:00-20:00",
+          "Sunday": "09:00-20:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1953544576721,
+          45.48816632676988
+        ]
+      },
+      "properties": {
+        "id": "8",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Milano Restelli",
+        "branch": "Milano Restelli",
+        "full_address": "Via Restelli 5, 20124 Milano",
+        "addr:city": "Milano",
+        "addr:street": "Via Restelli 5",
+        "addr:postcode": "20124",
+        "contact:phone": "+39 026685034",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/lombardia/milano/milano-via-restelli-5",
+        "opening_hours": {
+          "Monday": "07:30-19:00",
+          "Tuesday": "07:30-19:00",
+          "Wednesday": "07:30-19:00",
+          "Thursday": "07:30-19:00",
+          "Friday": "07:30-19:00",
+          "Saturday": "08:00-19:00",
+          "Sunday": "08:00-19:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.14296320033874,
+          43.84702732415819
+        ]
+      },
+      "properties": {
+        "id": "9",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Firenze CC I Gigli",
+        "branch": "Firenze CC I Gigli",
+        "full_address": "Via San Quirico 165, 50013 Campi Bisenzio",
+        "addr:city": "Campi Bisenzio",
+        "addr:street": "Via San Quirico 165",
+        "addr:postcode": "50013",
+        "contact:phone": "+39 055898076",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/toscana/firenze/campi-bisenzio",
+        "opening_hours": {
+          "Monday": "09:00-21:00",
+          "Tuesday": "09:00-21:00",
+          "Wednesday": "09:00-21:00",
+          "Thursday": "09:00-21:00",
+          "Friday": "09:00-21:00",
+          "Saturday": "09:00-21:00",
+          "Sunday": "09:00-21:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.00347419947511,
+          45.58011061846956
+        ]
+      },
+      "properties": {
+        "id": "10",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Erbusco DriveThru",
+        "branch": "Erbusco DriveThru",
+        "full_address": "Via Rovato 43, 25030 Erbusco",
+        "addr:city": "Erbusco",
+        "addr:street": "Via Rovato 43",
+        "addr:postcode": "25030",
+        "contact:phone": "+39 030723355",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/lombardia/brescia/erbusco",
+        "opening_hours": {
+          "Monday": "06:30-19:00",
+          "Tuesday": "06:30-19:00",
+          "Wednesday": "06:30-19:00",
+          "Thursday": "06:30-19:00",
+          "Friday": "06:30-19:00",
+          "Saturday": "07:30-19:30",
+          "Sunday": "07:30-19:30"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6782968662704665,
+          45.06176345356055
+        ]
+      },
+      "properties": {
+        "id": "11",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Torino Porta Nuova",
+        "branch": "Torino Porta Nuova",
+        "full_address": "Corso Vittorio Emanuele II 58, 10123 Torino",
+        "addr:city": "Torino",
+        "addr:street": "Corso Vittorio Emanuele II 58",
+        "addr:postcode": "10123",
+        "contact:phone": "+39 0115612420",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/piemonte/torino/torino-corso-vittorio-emanuele",
+        "opening_hours": {
+          "Monday": "06:30-20:00",
+          "Tuesday": "06:30-20:00",
+          "Wednesday": "06:30-20:00",
+          "Thursday": "06:30-20:00",
+          "Friday": "06:30-20:00",
+          "Saturday": "06:30-20:00",
+          "Sunday": "06:30-20:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.695538059030135,
+          45.66435857562876
+        ]
+      },
+      "properties": {
+        "id": "12",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Bergamo CC OrioCenter",
+        "branch": "Bergamo CC OrioCenter",
+        "full_address": "Via Portico 71, 24050 Orio al Serio",
+        "addr:city": "Orio al Serio",
+        "addr:street": "Via Portico 71",
+        "addr:postcode": "24050",
+        "contact:phone": "+39 035311239",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/lombardia/bergamo/orio-al-serio",
+        "opening_hours": {
+          "Monday": "08:30-22:00",
+          "Tuesday": "08:30-22:00",
+          "Wednesday": "08:30-22:00",
+          "Thursday": "08:30-22:00",
+          "Friday": "08:30-22:00",
+          "Saturday": "08:30-22:00",
+          "Sunday": "08:30-22:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0524608179077,
+          45.5634975005873
+        ]
+      },
+      "properties": {
+        "id": "13",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Arese CC Il Centro",
+        "branch": "Arese CC Il Centro",
+        "full_address": "Via Giuseppe Eugenio Luraghi 1, 20044 Arese",
+        "addr:city": "Arese",
+        "addr:street": "Via Giuseppe Eugenio Luraghi 1",
+        "addr:postcode": "20044",
+        "contact:phone": "+39 0293878282",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/lombardia/milano/arese",
+        "opening_hours": {
+          "Monday": "08:00-20:00",
+          "Tuesday": "08:00-20:00",
+          "Wednesday": "08:00-20:00",
+          "Thursday": "08:00-20:00",
+          "Friday": "08:00-20:00",
+          "Saturday": "08:00-20:00",
+          "Sunday": "08:00-20:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.444581362565597,
+          41.71620182909307
+        ]
+      },
+      "properties": {
+        "id": "14",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Roma Castel Romano Designer Outlet",
+        "branch": "Roma Castel Romano Designer Outlet",
+        "full_address": "Via del Ponte di Piscina Cupa 64, 00128 Roma",
+        "addr:city": "Roma",
+        "addr:street": "Via del Ponte di Piscina Cupa 64",
+        "addr:postcode": "00128",
+        "contact:phone": "+39 0650576764",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/lazio/roma/roma-via-del-ponte",
+        "opening_hours": {
+          "Monday": "09:00-20:00",
+          "Tuesday": "09:00-20:00",
+          "Wednesday": "09:00-20:00",
+          "Thursday": "09:00-20:00",
+          "Friday": "09:00-20:00",
+          "Saturday": "09:00-20:00",
+          "Sunday": "09:00-20:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.119322479762278,
+          45.576399244105204
+        ]
+      },
+      "properties": {
+        "id": "15",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Franciacorta Village",
+        "branch": "Franciacorta Village",
+        "full_address": "Piazza Cascina Moie 1/2, 25050 Rodengo Saiano",
+        "addr:city": "Rodengo Saiano",
+        "addr:street": "Piazza Cascina Moie 1/2",
+        "addr:postcode": "25050",
+        "contact:phone": "+39 030610594",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/lombardia/brescia/rodengo-saiano",
+        "opening_hours": {
+          "Monday": "09:00-20:00",
+          "Tuesday": "09:00-20:00",
+          "Wednesday": "09:00-20:00",
+          "Thursday": "09:00-20:00",
+          "Friday": "09:00-20:00",
+          "Saturday": "09:00-20:00",
+          "Sunday": "09:00-20:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.738990130931458,
+          45.128596167058085
+        ]
+      },
+      "properties": {
+        "id": "16",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Torino Outlet Village",
+        "branch": "Torino Outlet Village",
+        "full_address": "Via Torino 160, 10036 Settimo Torinese",
+        "addr:city": "Settimo Torinese",
+        "addr:street": "Via Torino 160",
+        "addr:postcode": "10036",
+        "contact:phone": "+39 0118955201",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/piemonte/torino/settimo-torinese",
+        "opening_hours": {
+          "Monday": "09:30-20:00",
+          "Tuesday": "09:30-20:00",
+          "Wednesday": "09:30-20:00",
+          "Thursday": "09:30-20:00",
+          "Friday": "09:30-20:00",
+          "Saturday": "09:30-20:00",
+          "Sunday": "09:30-20:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.216038078018203,
+          45.36109161517802
+        ]
+      },
+      "properties": {
+        "id": "17",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Scalo Milano Outlet&More",
+        "branch": "Scalo Milano Outlet&More",
+        "full_address": "Via Milano 5, 20085 Locate di Triulzi",
+        "addr:city": "Locate di Triulzi",
+        "addr:street": "Via Milano 5",
+        "addr:postcode": "20085",
+        "contact:phone": "+39 029077641",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/lombardia/milano/locate-di-triulzi",
+        "opening_hours": {
+          "Monday": "08:00-20:00",
+          "Tuesday": "08:00-20:00",
+          "Wednesday": "08:00-20:00",
+          "Thursday": "08:00-20:00",
+          "Friday": "08:00-21:00",
+          "Saturday": "08:00-21:00",
+          "Sunday": "08:00-21:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1871153,
+          45.4626756
+        ]
+      },
+      "properties": {
+        "id": "18",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Milano via Torino",
+        "branch": "Milano via Torino",
+        "full_address": "Via Torino 21, 20123 Milano",
+        "addr:city": "Milano",
+        "addr:street": "Via Torino 21",
+        "addr:postcode": "20123",
+        "contact:phone": "+39 0272105550",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/lombardia/milano/milano-via-torino-21",
+        "opening_hours": {
+          "Monday": "07:30-19:30",
+          "Tuesday": "07:30-19:30",
+          "Wednesday": "07:30-19:30",
+          "Thursday": "07:30-19:30",
+          "Friday": "07:30-19:30",
+          "Saturday": "08:00-20:00",
+          "Sunday": "08:00-20:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.995311433729533,
+          45.44206371295437
+        ]
+      },
+      "properties": {
+        "id": "19",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Verona",
+        "branch": "Verona",
+        "full_address": "Galleria Pellicciai 2, 37121 Verona",
+        "addr:city": "Verona",
+        "addr:street": "Galleria Pellicciai 2",
+        "addr:postcode": "37121",
+        "contact:phone": "+39 0458039012",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/veneto/verona/verona-galleria-pellicciai-2",
+        "opening_hours": {
+          "Monday": "07:30-19:30",
+          "Tuesday": "07:30-19:30",
+          "Wednesday": "07:30-19:30",
+          "Thursday": "07:30-19:30",
+          "Friday": "07:30-19:30",
+          "Saturday": "08:00-20:00",
+          "Sunday": "08:00-20:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.249415427105149,
+          43.77562536404131
+        ]
+      },
+      "properties": {
+        "id": "20",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Firenze Santa Maria Novella",
+        "branch": "Firenze Santa Maria Novella",
+        "full_address": "Piazza della Stazione, 50123 Firenze",
+        "addr:city": "Firenze",
+        "addr:street": "Piazza della Stazione",
+        "addr:postcode": "50123",
+        "contact:phone": "+ 39 0557092880",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/toscana/firenze/firenze-piazza-della-stazione",
+        "opening_hours": {
+          "Monday": "07:00-20:00",
+          "Tuesday": "07:00-20:00",
+          "Wednesday": "07:00-20:00",
+          "Thursday": "07:00-20:00",
+          "Friday": "07:00-20:00",
+          "Saturday": "07:00-20:00",
+          "Sunday": "07:00-20:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.166012,
+          45.5326642
+        ]
+      },
+      "properties": {
+        "id": "21",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "ELNÒS Shopping",
+        "branch": "ELNÒS Shopping",
+        "full_address": "Via Einaudi Mattei 37/39, 25030 Roncadelle",
+        "addr:city": "Roncadelle",
+        "addr:street": "Via Einaudi Mattei 37/39",
+        "addr:postcode": "25030",
+        "contact:phone": "+39 0307870495",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/lombardia/brescia/roncadelle",
+        "opening_hours": {
+          "Monday": "08:30-21:00",
+          "Tuesday": "08:30-21:00",
+          "Wednesday": "08:30-21:00",
+          "Thursday": "08:30-21:00",
+          "Friday": "08:30-21:00",
+          "Saturday": "08:30-21:00",
+          "Sunday": "08:30-21:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.478686534341227,
+          41.900318622381754
+        ]
+      },
+      "properties": {
+        "id": "22",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Roma Montecitorio",
+        "branch": "Roma Montecitorio",
+        "full_address": "Via Della Guglia 56/59, 00186 Roma",
+        "addr:city": "Roma",
+        "addr:street": "Via Della Guglia 56/59",
+        "addr:postcode": "00186",
+        "contact:phone": "+39 066791205",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/lazio/roma/roma-via-della-guglia",
+        "opening_hours": {
+          "Monday": "07:30-21:00",
+          "Tuesday": "07:30-21:00",
+          "Wednesday": "07:30-21:00",
+          "Thursday": "07:30-21:00",
+          "Friday": "07:30-21:00",
+          "Saturday": "07:30-21:00",
+          "Sunday": "07:30-21:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.666992578013994,
+          45.69304719559307
+        ]
+      },
+      "properties": {
+        "id": "23",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Bergamo",
+        "branch": "Bergamo",
+        "full_address": "Via XX Settembre, 24122 Bergamo",
+        "addr:city": "Bergamo",
+        "addr:street": "Via XX Settembre",
+        "addr:postcode": "24122",
+        "contact:phone": "+39 035322995",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/lombardia/bergamo/bergamo",
+        "opening_hours": {
+          "Monday": "07:30-19:30",
+          "Tuesday": "07:30-19:30",
+          "Wednesday": "07:30-19:30",
+          "Thursday": "07:30-19:30",
+          "Friday": "07:30-19:30",
+          "Saturday": "07:30-19:30",
+          "Sunday": "08:00-19:30"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.321141822387688,
+          41.00684554502322
+        ]
+      },
+      "properties": {
+        "id": "24",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Marcianise La Reggia Designer Outlet",
+        "branch": "Marcianise La Reggia Designer Outlet",
+        "full_address": "S.P. 336 Sannitica, 81025 Marcianise",
+        "addr:city": "Marcianise",
+        "addr:street": "S.P. 336 Sannitica",
+        "addr:postcode": "81025",
+        "contact:phone": "+39 0823608002",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/campania/caserta/marcianise",
+        "opening_hours": {
+          "Monday": "10:00-21:00",
+          "Tuesday": "10:00-21:00",
+          "Wednesday": "10:00-21:00",
+          "Thursday": "10:00-21:00",
+          "Friday": "10:00-21:00",
+          "Saturday": "10:00-21:00",
+          "Sunday": "10:00-21:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.469118987102522,
+          41.90920741446277
+        ]
+      },
+      "properties": {
+        "id": "25",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Roma Cola di Rienzo",
+        "branch": "Roma Cola di Rienzo",
+        "full_address": "Via Cola di Rienzo 21/A-23/A, 00192 Roma",
+        "addr:city": "Roma",
+        "addr:street": "Via Cola di Rienzo 21/A-23/A",
+        "addr:postcode": "00192",
+        "contact:phone": "+39 0636001353",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/lazio/roma/roma-via-cola-di",
+        "opening_hours": {
+          "Monday": "07:00-20:00",
+          "Tuesday": "07:00-20:00",
+          "Wednesday": "07:00-20:00",
+          "Thursday": "07:00-20:00",
+          "Friday": "07:00-20:00",
+          "Saturday": "07:00-20:00",
+          "Sunday": "07:00-20:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.502177736492932,
+          41.900925886641076
+        ]
+      },
+      "properties": {
+        "id": "26",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Roma Termini Terrazza",
+        "branch": "Roma Termini Terrazza",
+        "full_address": "Via G. Giolitti 40, 00185 Roma",
+        "addr:city": "Roma",
+        "addr:street": "Via G. Giolitti 40",
+        "addr:postcode": "00185",
+        "contact:phone": "+39 064873345",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/lazio/roma/roma-via-g.-giolitti",
+        "opening_hours": {
+          "Monday": "06:00-21:00",
+          "Tuesday": "06:00-21:00",
+          "Wednesday": "06:00-21:00",
+          "Thursday": "06:00-21:00",
+          "Friday": "06:00-21:00",
+          "Saturday": "06:00-21:00",
+          "Sunday": "06:00-21:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.502038261624158,
+          41.90097180313902
+        ]
+      },
+      "properties": {
+        "id": "27",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Roma Termini KIOSK",
+        "branch": "Roma Termini KIOSK",
+        "full_address": "Via Giovanni Giolitti, 40, 00185 Roma",
+        "addr:city": "Roma",
+        "addr:street": "Via Giovanni Giolitti, 40",
+        "addr:postcode": "00185",
+        "contact:phone": "+39 064871875",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/lazio/roma/roma-via-giovanni-giolitti",
+        "opening_hours": {
+          "Monday": "06:00-21:00",
+          "Tuesday": "06:00-21:00",
+          "Wednesday": "06:00-21:00",
+          "Thursday": "06:00-21:00",
+          "Friday": "06:00-21:00",
+          "Saturday": "06:00-21:00",
+          "Sunday": "06:00-21:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2529768,
+          43.7735194
+        ]
+      },
+      "properties": {
+        "id": "28",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Firenze Cerretani",
+        "branch": "Firenze Cerretani",
+        "full_address": "Via de' Cerretani 46/R, 50123 Firenze",
+        "addr:city": "Firenze",
+        "addr:street": "Via de' Cerretani 46/R",
+        "addr:postcode": "50123",
+        "contact:phone": "+ 39 0556144204",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/toscana/firenze/firenze-via-de--cerretani",
+        "opening_hours": {
+          "Monday": "07:00-21:00",
+          "Tuesday": "07:00-21:00",
+          "Wednesday": "07:00-21:00",
+          "Thursday": "07:00-21:00",
+          "Friday": "07:00-21:00",
+          "Saturday": "07:00-21:00",
+          "Sunday": "07:00-21:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.938071102516156,
+          44.40595861976559
+        ]
+      },
+      "properties": {
+        "id": "29",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Genova",
+        "branch": "Genova",
+        "full_address": "Via Alla Porta Degli Archi, 6R, 16128 Genova",
+        "addr:city": "Genova",
+        "addr:street": "Via Alla Porta Degli Archi, 6R",
+        "addr:postcode": "16128",
+        "contact:phone": "+39 0105702563",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/liguria/genova/genova",
+        "opening_hours": {
+          "Monday": "07:30-19:30",
+          "Tuesday": "07:30-19:30",
+          "Wednesday": "07:30-19:30",
+          "Thursday": "07:30-19:30",
+          "Friday": "07:30-19:30",
+          "Saturday": "08:00-20:00",
+          "Sunday": "08:00-20:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.24944184477463,
+          40.83887308430762
+        ]
+      },
+      "properties": {
+        "id": "30",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Napoli Galleria",
+        "branch": "Napoli Galleria",
+        "full_address": "Galleria Umberto I 40-43, 80132 Napoli",
+        "addr:city": "Napoli",
+        "addr:street": "Galleria Umberto I 40-43",
+        "addr:postcode": "80132",
+        "contact:phone": "+39 0817810085",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/campania/napoli/napoli-galleria-umberto-i",
+        "opening_hours": {
+          "Monday": "07:00-20:00",
+          "Tuesday": "07:00-20:00",
+          "Wednesday": "07:00-20:00",
+          "Thursday": "07:00-20:00",
+          "Friday": "07:00-20:00",
+          "Saturday": "07:00-21:00",
+          "Sunday": "07:00-21:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8706754,
+          41.1225369
+        ]
+      },
+      "properties": {
+        "id": "31",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Bari",
+        "branch": "Bari",
+        "full_address": "Via Argiro 112-112A, 70121 Bari",
+        "addr:city": "Bari",
+        "addr:street": "Via Argiro 112-112A",
+        "addr:postcode": "70121",
+        "contact:phone": "+39 0804729225",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/puglia/bari/bari",
+        "opening_hours": {
+          "Monday": "07:00-20:30",
+          "Tuesday": "07:00-20:30",
+          "Wednesday": "07:00-20:30",
+          "Thursday": "07:00-20:30",
+          "Friday": "07:00-20:30",
+          "Saturday": "07:00-20:30",
+          "Sunday": "07:00-20:30"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.302141179449835,
+          43.54396653250352
+        ]
+      },
+      "properties": {
+        "id": "32",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Livorno Porta a Mare",
+        "branch": "Livorno Porta a Mare",
+        "full_address": "Via Gaetano D'Alesio 2, 57123 Porta a Mare",
+        "addr:city": "Porta a Mare",
+        "addr:street": "Via Gaetano D'Alesio 2",
+        "addr:postcode": "57123",
+        "contact:phone": "+39 05861881464",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/toscana/livorno/porta-a-mare",
+        "opening_hours": {
+          "Monday": "09:00-21:00",
+          "Tuesday": "09:00-21:00",
+          "Wednesday": "09:00-21:00",
+          "Thursday": "09:00-21:00",
+          "Friday": "09:00-21:00",
+          "Saturday": "09:00-21:00",
+          "Sunday": "09:00-21:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.100416228597252,
+          45.513147511387366
+        ]
+      },
+      "properties": {
+        "id": "33",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Milano Merlata Bloom",
+        "branch": "Milano Merlata Bloom",
+        "full_address": "Via Triboniano, 20151 Milano",
+        "addr:city": "Milano",
+        "addr:street": "Via Triboniano",
+        "addr:postcode": "20151",
+        "contact:phone": "+39 0297071141",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/lombardia/milano/milano-via-triboniano",
+        "opening_hours": {
+          "Monday": "09:00-22:00",
+          "Tuesday": "09:00-22:00",
+          "Wednesday": "09:00-22:00",
+          "Thursday": "09:00-22:00",
+          "Friday": "09:00-22:00",
+          "Saturday": "09:00-22:00",
+          "Sunday": "09:00-22:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3420336,
+          44.4916966
+        ]
+      },
+      "properties": {
+        "id": "34",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Bologna",
+        "branch": "Bologna",
+        "full_address": "Via D'Azeglio 34, 40124 Bologna",
+        "addr:city": "Bologna",
+        "addr:street": "Via D'Azeglio 34",
+        "addr:postcode": "40124",
+        "contact:phone": "+39 051237067",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/emilia-romagna/bologna/bologna",
+        "opening_hours": {
+          "Monday": "07:30-20:00",
+          "Tuesday": "07:30-20:00",
+          "Wednesday": "07:30-20:00",
+          "Thursday": "07:30-20:00",
+          "Friday": "07:30-20:00",
+          "Saturday": "08:00-20:00",
+          "Sunday": "08:00-20:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.540201715869145,
+          41.97158892253417
+        ]
+      },
+      "properties": {
+        "id": "35",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Porta di Roma",
+        "branch": "Porta di Roma",
+        "full_address": "Via Alberto Lionello 201, 00139 Roma",
+        "addr:city": "Roma",
+        "addr:street": "Via Alberto Lionello 201",
+        "addr:postcode": "00139",
+        "contact:phone": "+39 0687070579",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/lazio/roma/roma-via-alberto-lionello",
+        "opening_hours": {
+          "Monday": "09:00-22:00",
+          "Tuesday": "09:00-22:00",
+          "Wednesday": "09:00-22:00",
+          "Thursday": "09:00-22:00",
+          "Friday": "09:00-22:00",
+          "Saturday": "08:30-22:00",
+          "Sunday": "08:30-21:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.723579794095606,
+          45.64668719693398
+        ]
+      },
+      "properties": {
+        "id": "36",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Milano Malpensa T2",
+        "branch": "Milano Malpensa T2",
+        "full_address": "Aeroporto Milano Malpensa T2, 21019 Somma Lombarda",
+        "addr:city": "Somma Lombarda",
+        "addr:street": "Aeroporto Milano Malpensa T2",
+        "addr:postcode": "21019",
+        "contact:phone": "+39 0258583939",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/lombardia/varese/somma-lombarda",
+        "opening_hours": {
+          "Monday": "04:30-21:00",
+          "Tuesday": "04:30-21:00",
+          "Wednesday": "04:30-21:00",
+          "Thursday": "04:30-21:00",
+          "Friday": "04:30-21:00",
+          "Saturday": "04:30-21:00",
+          "Sunday": "04:30-21:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.17800992145691,
+          45.392513285833566
+        ]
+      },
+      "properties": {
+        "id": "37",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Milano CC Fiordaliso",
+        "branch": "Milano CC Fiordaliso",
+        "full_address": "Via Curiel 25, 20089 Rozzano",
+        "addr:city": "Rozzano",
+        "addr:street": "Via Curiel 25",
+        "addr:postcode": "20089",
+        "contact:phone": "+39 028255499",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/lombardia/milano/rozzano",
+        "opening_hours": {
+          "Monday": "09:00-22:00",
+          "Tuesday": "09:00-22:00",
+          "Wednesday": "09:00-22:00",
+          "Thursday": "09:00-22:00",
+          "Friday": "09:00-22:00",
+          "Saturday": "09:00-22:00",
+          "Sunday": "09:00-22:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.247704345893869,
+          44.4885623878053
+        ]
+      },
+      "properties": {
+        "id": "38",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Bologna Shopville Gran Reno",
+        "branch": "Bologna Shopville Gran Reno",
+        "full_address": "Via Marilyn Monroe 2, 40033 Casalecchio di Reno",
+        "addr:city": "Casalecchio di Reno",
+        "addr:street": "Via Marilyn Monroe 2",
+        "addr:postcode": "40033",
+        "contact:phone": "+39 0516178030",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/emilia-romagna/bologna/casalecchio-di-reno",
+        "opening_hours": {
+          "Monday": "09:00-21:00",
+          "Tuesday": "09:00-21:00",
+          "Wednesday": "09:00-21:00",
+          "Thursday": "09:00-21:00",
+          "Friday": "09:00-21:00",
+          "Saturday": "09:00-21:00",
+          "Sunday": "09:00-21:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9760224,
+          45.405258
+        ]
+      },
+      "properties": {
+        "id": "40",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Verona CC Adigeo",
+        "branch": "Verona CC Adigeo",
+        "full_address": "Viale Delle Nazioni, 1, 37135 Verona",
+        "addr:city": "Verona",
+        "addr:street": "Viale Delle Nazioni, 1",
+        "addr:postcode": "37135",
+        "contact:phone": "+39 045505854",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/veneto/verona/verona-viale-delle-nazioni",
+        "opening_hours": {
+          "Monday": "09:00-21:00",
+          "Tuesday": "09:00-21:00",
+          "Wednesday": "09:00-21:00",
+          "Thursday": "09:00-21:00",
+          "Friday": "09:00-21:00",
+          "Saturday": "09:00-21:00",
+          "Sunday": "09:00-21:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8758816,
+          45.4064963
+        ]
+      },
+      "properties": {
+        "id": "42",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Padova",
+        "branch": "Padova",
+        "full_address": "Piazza delle Erbe, 1, 35122 Padova",
+        "addr:city": "Padova",
+        "addr:street": "Piazza delle Erbe, 1",
+        "addr:postcode": "35122",
+        "contact:phone": "+39 049663004",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/veneto/padova/padova",
+        "opening_hours": {
+          "Monday": "07:30-19:30",
+          "Tuesday": "07:30-19:30",
+          "Wednesday": "07:30-19:30",
+          "Thursday": "07:30-19:30",
+          "Friday": "07:30-19:30",
+          "Saturday": "08:00-20:00",
+          "Sunday": "08:00-20:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.272462314190303,
+          40.8522944065607
+        ]
+      },
+      "properties": {
+        "id": "44",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Napoli Centrale",
+        "branch": "Napoli Centrale",
+        "full_address": "Piazza Garibaldi, 1, 80142 Napoli",
+        "addr:city": "Napoli",
+        "addr:street": "Piazza Garibaldi, 1",
+        "addr:postcode": "80142",
+        "contact:phone": "+39 081201641",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/campania/napoli/napoli-piazza-garibaldi-1",
+        "opening_hours": {
+          "Monday": "06:00-21:00",
+          "Tuesday": "06:00-21:00",
+          "Wednesday": "06:00-21:00",
+          "Thursday": "06:00-21:00",
+          "Friday": "06:00-21:00",
+          "Saturday": "06:00-21:00",
+          "Sunday": "06:00-21:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.257049759455121,
+          43.77152218417217
+        ]
+      },
+      "properties": {
+        "id": "45",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Firenze Via del Corso",
+        "branch": "Firenze Via del Corso",
+        "full_address": "Via del Corso, 24, 50122 Firenze",
+        "addr:city": "Firenze",
+        "addr:street": "Via del Corso, 24",
+        "addr:postcode": "50122",
+        "contact:phone": "+39 0552023111",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/toscana/firenze/firenze-via-del-corso",
+        "opening_hours": {
+          "Monday": "07:30-21:00",
+          "Tuesday": "07:30-21:00",
+          "Wednesday": "07:30-21:00",
+          "Thursday": "07:30-21:00",
+          "Friday": "07:30-21:00",
+          "Saturday": "07:30-21:00",
+          "Sunday": "07:30-21:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.336419654596313,
+          45.437121302922556
+        ]
+      },
+      "properties": {
+        "id": "46",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Venezia Rialto",
+        "branch": "Venezia Rialto",
+        "full_address": "Marzarieta Due Aprile, 30124 Venezia",
+        "addr:city": "Venezia",
+        "addr:street": "Marzarieta Due Aprile",
+        "addr:postcode": "30124",
+        "contact:phone": "+39 0412410937",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/veneto/venezia/venezia",
+        "opening_hours": {
+          "Monday": "07:30-20:00",
+          "Tuesday": "07:30-20:00",
+          "Wednesday": "07:30-20:00",
+          "Thursday": "07:30-20:00",
+          "Friday": "07:30-20:00",
+          "Saturday": "08:00-20:00",
+          "Sunday": "08:00-20:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4809056,
+          41.9022227
+        ]
+      },
+      "properties": {
+        "id": "47",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Roma Flagship San Silvestro",
+        "branch": "Roma Flagship San Silvestro",
+        "full_address": "Piazza San Silvestro, 6, 00187 Roma",
+        "addr:city": "Roma",
+        "addr:street": "Piazza San Silvestro, 6",
+        "addr:postcode": "00187",
+        "contact:phone": "+39 06 69922508",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/lazio/roma/roma-piazza-san-silvestro",
+        "opening_hours": {
+          "Monday": "07:00-21:00",
+          "Tuesday": "07:00-21:00",
+          "Wednesday": "07:00-21:00",
+          "Thursday": "07:00-21:00",
+          "Friday": "07:00-21:00",
+          "Saturday": "07:00-21:00",
+          "Sunday": "07:00-21:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5866426,
+          44.0398216
+        ]
+      },
+      "properties": {
+        "id": "48",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Rimini CC Le Befane",
+        "branch": "Rimini CC Le Befane",
+        "full_address": "Via Caduti di Nassirya, 20, 47924 Rimini",
+        "addr:city": "Rimini",
+        "addr:street": "Via Caduti di Nassirya, 20",
+        "addr:postcode": "47924",
+        "contact:phone": "+39 0541313006",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/emilia-romagna/rimini/rimini",
+        "opening_hours": {
+          "Monday": "08:30-21:00",
+          "Tuesday": "08:30-21:00",
+          "Wednesday": "08:30-21:00",
+          "Thursday": "08:30-21:00",
+          "Friday": "08:30-21:00",
+          "Saturday": "08:30-21:00",
+          "Sunday": "08:30-21:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.471998899444598,
+          40.74836037819695
+        ]
+      },
+      "properties": {
+        "id": "49",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Pompeii MaxiMall",
+        "branch": "Pompeii MaxiMall",
+        "full_address": "Via Plinio, 56, 80058 &#160; Torre Annunziata",
+        "addr:city": "Torre Annunziata",
+        "addr:street": " Via Plinio, 56",
+        "addr:postcode": "80058 &#160;",
+        "contact:website": "https://www.starbucks.it/it/stores/italia/torre-annunziata",
+        "opening_hours": {
+          "Monday": "10:00-21:00",
+          "Tuesday": "10:00-21:00",
+          "Wednesday": "10:00-21:00",
+          "Thursday": "10:00-21:00",
+          "Friday": "10:00-21:00",
+          "Saturday": "10:00-21:30",
+          "Sunday": "10:00-21:30"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.51424080422973,
+          45.43178146487149
+        ]
+      },
+      "properties": {
+        "id": "50",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Lonato CC il Leone",
+        "branch": "Lonato CC il Leone",
+        "full_address": "Via Mantova, 36, 25017 Lonato",
+        "addr:city": "Lonato",
+        "addr:street": "Via Mantova, 36",
+        "addr:postcode": "25017",
+        "contact:phone": "030 4190460",
+        "contact:website": "https://www.starbucks.it/",
+        "opening_hours": {
+          "Monday": "09:00-22:00",
+          "Tuesday": "09:00-22:00",
+          "Wednesday": "09:00-22:00",
+          "Thursday": "09:00-22:00",
+          "Friday": "09:00-22:00",
+          "Saturday": "09:00-22:00",
+          "Sunday": "09:00-22:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.536512577176655,
+          45.67013834442542
+        ]
+      },
+      "properties": {
+        "id": "51",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Noventa di Piave Designer Outlet",
+        "branch": "Noventa di Piave Designer Outlet",
+        "full_address": "Via Marco Polo, 1, 30020 Noventa di Piave",
+        "addr:city": "Noventa di Piave",
+        "addr:street": "Via Marco Polo, 1",
+        "addr:postcode": "30020",
+        "contact:phone": "04211896455",
+        "contact:website": "https://www.starbucks.it/",
+        "opening_hours": {
+          "Monday": "09:00-20:00",
+          "Tuesday": "09:00-20:00",
+          "Wednesday": "09:00-20:00",
+          "Thursday": "09:00-20:00",
+          "Friday": "09:00-20:00",
+          "Saturday": "09:00-20:00",
+          "Sunday": "09:00-20:00"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.355673636245713,
+          46.496487249989904
+        ]
+      },
+      "properties": {
+        "id": "52",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "– Bolzano WaltherPark",
+        "branch": "– Bolzano WaltherPark",
+        "full_address": "Piazza Alto Adige, 1, 39100 Bolzano",
+        "addr:city": "Bolzano",
+        "addr:street": "Piazza Alto Adige, 1",
+        "addr:postcode": "39100",
+        "contact:phone": "0471 347459",
+        "contact:website": "https://www.starbucks.it/",
+        "opening_hours": {
+          "Monday": "09:30-19:30",
+          "Tuesday": "09:30-19:30",
+          "Wednesday": "09:30-19:30",
+          "Thursday": "09:30-19:30",
+          "Friday": "09:30-19:30",
+          "Saturday": "09:30-19:30",
+          "Sunday": "09:30-19:30"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.19103,
+          45.4646
+        ]
+      },
+      "properties": {
+        "id": "53",
+        "source": "starbucks.it",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "– Milano Metro Duomo",
+        "branch": "– Milano Metro Duomo",
+        "full_address": "Piazza del Duomo, 20123 Milano",
+        "addr:city": "Milano",
+        "addr:street": "Piazza del Duomo",
+        "addr:postcode": "20123",
+        "contact:website": "https://www.starbucks.it/",
+        "opening_hours": {
+          "Monday": "07:00-19:30",
+          "Tuesday": "07:00-19:30",
+          "Wednesday": "07:00-19:30",
+          "Thursday": "07:00-19:30",
+          "Friday": "07:00-19:30",
+          "Saturday": "08:00-19:30",
+          "Sunday": "08:00-19:30"
+        },
+        "brand:wikidata": "Q37158",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/en/d/d3/Starbucks_Corporation_Logo_2011.svg",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    }
+  ]
+}
