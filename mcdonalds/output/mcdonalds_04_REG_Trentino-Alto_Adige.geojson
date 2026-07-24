@@ -1,0 +1,475 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.132269,
+          46.033113
+        ]
+      },
+      "properties": {
+        "id": 61,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Trento",
+        "addr:city": "Trento",
+        "addr:street": "Via di Madonna Bianca, 5",
+        "branch": "Trento",
+        "contact:phone": "0461390416",
+        "contact:website": "https://www.mcdonalds.it/ristorante/trentino-alto-adige/trento/trento",
+        "opening_hours": {
+          "Monday": "07:00-23:00",
+          "Tuesday": "07:00-23:00",
+          "Wednesday": "07:00-23:00",
+          "Thursday": "07:00-23:00",
+          "Friday": "07:00-00:00",
+          "Saturday": "07:00-00:00",
+          "Sunday": "07:00-23:00"
+        },
+        "full_address": "Via di Madonna Bianca, 5 Trento tel: 0461390416",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "61.00",
+        "regione": "trentino-alto-adige",
+        "provincia": "trento",
+        "slug": "trento",
+        "detail_url": "https://www.mcdonalds.it/ristorante/trentino-alto-adige/trento/trento",
+        "page_coordinates": [
+          11.132269,
+          46.033113
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Trento</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 61</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>Via di Madonna Bianca, 5 Trento tel: 0461390416, Trento (TRENTO)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0461390416</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/trentino-alto-adige/trento/trento\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">07:00-23:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">07:00-23:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">07:00-23:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">07:00-23:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">07:00-23:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Play Land</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.322375,
+          46.469337
+        ]
+      },
+      "properties": {
+        "id": 152,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Bolzano Buozzi",
+        "addr:city": "Bolzano",
+        "addr:street": "Via Bruno Buozzi, 30",
+        "branch": "Bolzano Buozzi",
+        "contact:phone": "0471 1983025",
+        "contact:website": "https://www.mcdonalds.it/ristorante/trentino-alto-adige/bolzano/bolzano-buozzi",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "10:30-00:00",
+          "Thursday": "10:30-00:00",
+          "Friday": "10:30-00:00",
+          "Saturday": "10:00-00:00",
+          "Sunday": "10:00-00:00"
+        },
+        "full_address": "Via Bruno Buozzi, 30 Bolzano tel: 0471 1983025",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "152.00",
+        "regione": "trentino-alto-adige",
+        "provincia": "bolzano",
+        "slug": "bolzano-buozzi",
+        "detail_url": "https://www.mcdonalds.it/ristorante/trentino-alto-adige/bolzano/bolzano-buozzi",
+        "page_coordinates": [
+          11.322375,
+          46.469337
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Bolzano Buozzi</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 152</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>Via Bruno Buozzi, 30 Bolzano tel: 0471 1983025, Bolzano (BOLZANO)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0471 1983025</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/trentino-alto-adige/bolzano/bolzano-buozzi\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">10:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">10:00-00:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.001768,
+          45.861387
+        ]
+      },
+      "properties": {
+        "id": 277,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Rovereto",
+        "addr:city": "Rovereto",
+        "addr:street": "via alla Stazione, 2",
+        "branch": "Rovereto",
+        "contact:phone": "0464 472583",
+        "contact:website": "https://www.mcdonalds.it/ristorante/trentino-alto-adige/trento/rovereto",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-00:00",
+          "Saturday": "07:00-00:00",
+          "Sunday": "07:00-00:00"
+        },
+        "full_address": "via alla Stazione, 2 Trento tel: 0464 472583",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "277.00",
+        "regione": "trentino-alto-adige",
+        "provincia": "trento",
+        "slug": "rovereto",
+        "detail_url": "https://www.mcdonalds.it/ristorante/trentino-alto-adige/trento/rovereto",
+        "page_coordinates": [
+          11.001768,
+          45.861387
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Rovereto</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 277</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>via alla Stazione, 2 Trento tel: 0464 472583, Rovereto (TRENTO)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0464 472583</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/trentino-alto-adige/trento/rovereto\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.336366,
+          46.486568
+        ]
+      },
+      "properties": {
+        "id": 532,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Bolzano Mall",
+        "addr:city": "Bolzano",
+        "addr:street": "via G. Galilei c/o CC Twenty",
+        "branch": "Bolzano Mall",
+        "contact:phone": "0471 1982881",
+        "contact:website": "https://www.mcdonalds.it/ristorante/trentino-alto-adige/bolzano/bolzano-mall",
+        "opening_hours": {
+          "Monday": "10:30-21:00",
+          "Tuesday": "10:30-21:00",
+          "Wednesday": "10:30-21:00",
+          "Thursday": "10:30-21:00",
+          "Friday": "10:30-22:00",
+          "Saturday": "10:00-22:00",
+          "Sunday": "10:00-21:00"
+        },
+        "full_address": "via G. Galilei c/o CC Twenty Bolzano tel: 0471 1982881",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "532.00",
+        "regione": "trentino-alto-adige",
+        "provincia": "bolzano",
+        "slug": "bolzano-mall",
+        "detail_url": "https://www.mcdonalds.it/ristorante/trentino-alto-adige/bolzano/bolzano-mall",
+        "page_coordinates": [
+          11.336366,
+          46.486568
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Bolzano Mall</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 532</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>via G. Galilei c/o CC Twenty Bolzano tel: 0471 1982881, Bolzano (BOLZANO)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0471 1982881</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/trentino-alto-adige/bolzano/bolzano-mall\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">10:30-21:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">10:30-21:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">10:30-21:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">10:30-21:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">10:30-22:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">10:00-22:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">10:00-21:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Play Land</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.169157,
+          46.656235
+        ]
+      },
+      "properties": {
+        "id": 537,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Merano",
+        "addr:city": "Merano",
+        "addr:street": "via Roma, Merano",
+        "branch": "Merano",
+        "contact:phone": "0473 392344",
+        "contact:website": "https://www.mcdonalds.it/ristorante/trentino-alto-adige/bolzano/merano",
+        "opening_hours": {
+          "Monday": "10:30-01:00",
+          "Tuesday": "10:30-01:00",
+          "Wednesday": "10:30-01:00",
+          "Thursday": "10:30-01:00",
+          "Friday": "10:30-01:00",
+          "Saturday": "10:30-01:00",
+          "Sunday": "10:30-01:00"
+        },
+        "full_address": "via Roma, Merano Bolzano tel: 0473 392344",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "537.00",
+        "regione": "trentino-alto-adige",
+        "provincia": "bolzano",
+        "slug": "merano",
+        "detail_url": "https://www.mcdonalds.it/ristorante/trentino-alto-adige/bolzano/merano",
+        "page_coordinates": [
+          11.169157,
+          46.656235
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Merano</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 537</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>via Roma, Merano Bolzano tel: 0473 392344, Merano (BOLZANO)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0473 392344</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/trentino-alto-adige/bolzano/merano\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">10:30-01:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">10:30-01:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">10:30-01:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">10:30-01:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">10:30-01:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">10:30-01:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">10:30-01:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Play Land</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.122177,
+          46.081657
+        ]
+      },
+      "properties": {
+        "id": 568,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Trento Nord",
+        "addr:city": "Trento",
+        "addr:street": "via Brennero",
+        "branch": "Trento Nord",
+        "contact:phone": "0461 1943042",
+        "contact:website": "https://www.mcdonalds.it/ristorante/trentino-alto-adige/trento/trento-nord",
+        "opening_hours": {
+          "Monday": "07:00-23:00",
+          "Tuesday": "07:00-23:00",
+          "Wednesday": "07:00-23:00",
+          "Thursday": "07:00-23:00",
+          "Friday": "07:00-00:00",
+          "Saturday": "07:00-00:00",
+          "Sunday": "07:00-23:00"
+        },
+        "full_address": "via Brennero Trento tel: 0461 1943042",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "568.00",
+        "regione": "trentino-alto-adige",
+        "provincia": "trento",
+        "slug": "trento-nord",
+        "detail_url": "https://www.mcdonalds.it/ristorante/trentino-alto-adige/trento/trento-nord",
+        "page_coordinates": [
+          11.122177,
+          46.081657
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Trento Nord</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 568</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>via Brennero Trento tel: 0461 1943042, Trento (TRENTO)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0461 1943042</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/trentino-alto-adige/trento/trento-nord\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">07:00-23:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">07:00-23:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">07:00-23:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">07:00-23:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">07:00-23:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Play Land</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.353967,
+          46.497978
+        ]
+      },
+      "properties": {
+        "id": 584,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Bolzano Piazza Parrocchia",
+        "addr:city": "Bolzano",
+        "addr:street": "Piazza Parrocchia 4",
+        "branch": "Bolzano Piazza Parrocchia",
+        "contact:phone": "0471 1983023",
+        "contact:website": "https://www.mcdonalds.it/ristorante/trentino-alto-adige/bolzano/bolzano-piazza-parrocchia",
+        "opening_hours": {
+          "Monday": "10:00-22:00",
+          "Tuesday": "10:00-22:00",
+          "Wednesday": "10:00-22:00",
+          "Thursday": "10:00-22:00",
+          "Friday": "10:00-00:00",
+          "Saturday": "10:00-00:00",
+          "Sunday": "10:00-23:00"
+        },
+        "full_address": "Piazza Parrocchia 4 Bolzano tel: 0471 1983023",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "584.00",
+        "regione": "trentino-alto-adige",
+        "provincia": "bolzano",
+        "slug": "bolzano-piazza-parrocchia",
+        "detail_url": "https://www.mcdonalds.it/ristorante/trentino-alto-adige/bolzano/bolzano-piazza-parrocchia",
+        "page_coordinates": [
+          11.353967,
+          46.497978
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Bolzano Piazza Parrocchia</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 584</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>Piazza Parrocchia 4 Bolzano tel: 0471 1983023, Bolzano (BOLZANO)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0471 1983023</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/trentino-alto-adige/bolzano/bolzano-piazza-parrocchia\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">10:00-22:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">10:00-22:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">10:00-22:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">10:00-22:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">10:00-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">10:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">10:00-23:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.132971,
+          46.679298
+        ]
+      },
+      "properties": {
+        "id": 673,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Merano Mall",
+        "addr:city": "Algund                                    Lagundo",
+        "addr:street": "Via Weingartner. 31",
+        "branch": "Merano Mall",
+        "contact:phone": "0473392406",
+        "contact:website": "https://www.mcdonalds.it/ristorante/trentino-alto-adige/bolzano/merano-mall",
+        "opening_hours": {
+          "Monday": "11:00-21:00",
+          "Tuesday": "11:00-21:00",
+          "Wednesday": "11:00-21:00",
+          "Thursday": "11:00-21:00",
+          "Friday": "11:00-21:00",
+          "Saturday": "11:00-21:00",
+          "Sunday": "11:00-21:00"
+        },
+        "full_address": "Via Weingartner. 31 Bolzano tel: 0473392406",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "673.00",
+        "regione": "trentino-alto-adige",
+        "provincia": "bolzano",
+        "slug": "merano-mall",
+        "detail_url": "https://www.mcdonalds.it/ristorante/trentino-alto-adige/bolzano/merano-mall",
+        "page_coordinates": [
+          11.132971,
+          46.679298
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Merano Mall</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 673</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>Via Weingartner. 31 Bolzano tel: 0473392406, Algund                                    Lagundo (BOLZANO)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0473392406</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/trentino-alto-adige/bolzano/merano-mall\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">11:00-21:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">11:00-21:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">11:00-21:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">11:00-21:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">11:00-21:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">11:00-21:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">11:00-21:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    }
+  ]
+}

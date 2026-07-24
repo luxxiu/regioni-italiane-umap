@@ -1,0 +1,1056 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.637723,
+          38.103196
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Reggio Calabria",
+        "addr:city": "Reggio Calabria",
+        "addr:street": "Corso Garibaldi 460",
+        "branch": "Reggio Calabria",
+        "contact:phone": "0965 810535",
+        "contact:website": "https://www.mcdonalds.it/ristorante/calabria/reggio-calabria/reggio-calabria",
+        "opening_hours": {
+          "Monday": "10:00-06:00",
+          "Tuesday": "10:00-06:00",
+          "Wednesday": "10:00-06:00",
+          "Thursday": "10:00-06:00",
+          "Friday": "10:00-06:00",
+          "Saturday": "10:00-06:00",
+          "Sunday": "10:00-06:00"
+        },
+        "full_address": "Corso Garibaldi 460 Reggio Calabria tel: 0965 810535",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "15.00",
+        "regione": "calabria",
+        "provincia": "reggio-calabria",
+        "slug": "reggio-calabria",
+        "detail_url": "https://www.mcdonalds.it/ristorante/calabria/reggio-calabria/reggio-calabria",
+        "page_coordinates": [
+          15.637723,
+          38.103196
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Reggio Calabria</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 15</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>Corso Garibaldi 460 Reggio Calabria tel: 0965 810535, Reggio Calabria (REGGIO-CALABRIA)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0965 810535</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/calabria/reggio-calabria/reggio-calabria\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">10:00-06:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">10:00-06:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">10:00-06:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">10:00-06:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">10:00-06:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">10:00-06:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">10:00-06:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>Take Away</li>\n<li>Feste di Compleanno</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.532092,
+          38.717297
+        ]
+      },
+      "properties": {
+        "id": 46,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Montepaone",
+        "addr:city": "Montepaone Lido",
+        "addr:street": "Via Nausica",
+        "branch": "Montepaone",
+        "contact:phone": "0967-49831",
+        "contact:website": "https://www.mcdonalds.it/ristorante/calabria/catanzaro/montepaone",
+        "opening_hours": {
+          "Monday": "10:30-23:00",
+          "Tuesday": "10:30-23:00",
+          "Wednesday": "10:30-23:00",
+          "Thursday": "10:30-23:00",
+          "Friday": "10:30-23:00",
+          "Saturday": "10:30-00:00",
+          "Sunday": "10:30-00:00"
+        },
+        "full_address": "Via Nausica Catanzaro tel: 0967-49831",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "46.00",
+        "regione": "calabria",
+        "provincia": "catanzaro",
+        "slug": "montepaone",
+        "detail_url": "https://www.mcdonalds.it/ristorante/calabria/catanzaro/montepaone",
+        "page_coordinates": [
+          16.532092,
+          38.717297
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Montepaone</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 46</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>Via Nausica Catanzaro tel: 0967-49831, Montepaone Lido (CATANZARO)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0967-49831</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/calabria/catanzaro/montepaone\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">10:30-23:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">10:30-23:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">10:30-23:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">10:30-23:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">10:30-23:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.314762,
+          38.287565
+        ]
+      },
+      "properties": {
+        "id": 105,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Siderno",
+        "addr:city": "Siderno Marina",
+        "addr:street": "VIa Carlo Russo 1",
+        "branch": "Siderno",
+        "contact:phone": "0964 344921",
+        "contact:website": "https://www.mcdonalds.it/ristorante/calabria/reggio-calabria/siderno",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "10:30-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "10:30-01:00",
+          "Saturday": "10:30-01:00",
+          "Sunday": "10:30-01:00"
+        },
+        "full_address": "VIa Carlo Russo 1 Reggio Calabria tel: 0964 344921",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "105.00",
+        "regione": "calabria",
+        "provincia": "reggio-calabria",
+        "slug": "siderno",
+        "detail_url": "https://www.mcdonalds.it/ristorante/calabria/reggio-calabria/siderno",
+        "page_coordinates": [
+          16.314762,
+          38.287565
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Siderno</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 105</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>VIa Carlo Russo 1 Reggio Calabria tel: 0964 344921, Siderno Marina (REGGIO-CALABRIA)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0964 344921</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/calabria/reggio-calabria/siderno\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">10:30-01:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">10:30-01:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">10:30-01:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.26394,
+          39.310822
+        ]
+      },
+      "properties": {
+        "id": 156,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Zumpano CS",
+        "addr:city": "Zumpano",
+        "addr:street": "via Marino",
+        "branch": "Zumpano CS",
+        "contact:phone": "0984 417508",
+        "contact:website": "https://www.mcdonalds.it/ristorante/calabria/cosenza/zumpano-cs",
+        "opening_hours": {
+          "Monday": "08:00-00:00",
+          "Tuesday": "08:00-00:00",
+          "Wednesday": "08:00-00:00",
+          "Thursday": "08:00-00:00",
+          "Friday": "08:00-00:00",
+          "Saturday": "08:00-00:00",
+          "Sunday": "08:00-00:00"
+        },
+        "full_address": "via Marino Cosenza tel: 0984 417508",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "156.00",
+        "regione": "calabria",
+        "provincia": "cosenza",
+        "slug": "zumpano-cs",
+        "detail_url": "https://www.mcdonalds.it/ristorante/calabria/cosenza/zumpano-cs",
+        "page_coordinates": [
+          16.26394,
+          39.310822
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Zumpano CS</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 156</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>via Marino Cosenza tel: 0984 417508, Zumpano (COSENZA)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0984 417508</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/calabria/cosenza/zumpano-cs\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">08:00-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">08:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">08:00-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">08:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">08:00-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">08:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">08:00-00:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Play Land</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.234483,
+          39.353359
+        ]
+      },
+      "properties": {
+        "id": 212,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Rende Marconi",
+        "addr:city": "Rende",
+        "addr:street": "Via Guglielmo Marconi",
+        "branch": "Rende Marconi",
+        "contact:phone": "0984 839473",
+        "contact:website": "https://www.mcdonalds.it/ristorante/calabria/cosenza/rende-marconi",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-01:00",
+          "Thursday": "07:00-01:00",
+          "Friday": "07:00-01:00",
+          "Saturday": "07:00-01:00",
+          "Sunday": "07:00-01:00"
+        },
+        "full_address": "Via Guglielmo Marconi Cosenza tel: 0984 839473",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "212.00",
+        "regione": "calabria",
+        "provincia": "cosenza",
+        "slug": "rende-marconi",
+        "detail_url": "https://www.mcdonalds.it/ristorante/calabria/cosenza/rende-marconi",
+        "page_coordinates": [
+          16.234483,
+          39.353359
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Rende Marconi</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 212</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>Via Guglielmo Marconi Cosenza tel: 0984 839473, Rende (COSENZA)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0984 839473</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/calabria/cosenza/rende-marconi\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">07:00-01:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">07:00-01:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">07:00-01:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">07:00-01:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">07:00-01:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">07:00-01:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">07:00-01:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Play Land</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.647459,
+          38.842559
+        ]
+      },
+      "properties": {
+        "id": 221,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Catanzaro Le Fontane",
+        "addr:city": "Catanzaro",
+        "addr:street": "VIale Emilia",
+        "branch": "Catanzaro Le Fontane",
+        "contact:phone": "0961 719226",
+        "contact:website": "https://www.mcdonalds.it/ristorante/calabria/catanzaro/catanzaro-le-fontane",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "06:00-00:00",
+          "Thursday": "06:00-00:00",
+          "Friday": "10:30-00:00",
+          "Saturday": "10:30-00:00",
+          "Sunday": "10:30-00:00"
+        },
+        "full_address": "VIale Emilia Catanzaro tel: 0961 719226",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "221.00",
+        "regione": "calabria",
+        "provincia": "catanzaro",
+        "slug": "catanzaro-le-fontane",
+        "detail_url": "https://www.mcdonalds.it/ristorante/calabria/catanzaro/catanzaro-le-fontane",
+        "page_coordinates": [
+          16.647459,
+          38.842559
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Catanzaro Le Fontane</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 221</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>VIale Emilia Catanzaro tel: 0961 719226, Catanzaro (CATANZARO)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0961 719226</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/calabria/catanzaro/catanzaro-le-fontane\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">06:00-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">06:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.35057,
+          38.899842
+        ]
+      },
+      "properties": {
+        "id": 224,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Lamezia I 2 Mari",
+        "addr:city": "Maida",
+        "addr:street": "Località Comuni Condomini",
+        "branch": "Lamezia I 2 Mari",
+        "contact:phone": "0968 751333",
+        "contact:website": "https://www.mcdonalds.it/ristorante/calabria/catanzaro/lamezia-i-2-mari",
+        "opening_hours": {
+          "Monday": "10:30-23:00",
+          "Tuesday": "10:30-23:00",
+          "Wednesday": "10:30-23:00",
+          "Thursday": "10:30-23:00",
+          "Friday": "10:30-23:00",
+          "Saturday": "10:30-00:00",
+          "Sunday": "10:30-23:00"
+        },
+        "full_address": "Località Comuni Condomini Catanzaro tel: 0968 751333",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "224.00",
+        "regione": "calabria",
+        "provincia": "catanzaro",
+        "slug": "lamezia-i-2-mari",
+        "detail_url": "https://www.mcdonalds.it/ristorante/calabria/catanzaro/lamezia-i-2-mari",
+        "page_coordinates": [
+          16.35057,
+          38.899842
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Lamezia I 2 Mari</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 224</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>Località Comuni Condomini Catanzaro tel: 0968 751333, Maida (CATANZARO)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0968 751333</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/calabria/catanzaro/lamezia-i-2-mari\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">10:30-23:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">10:30-23:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">10:30-23:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">10:30-23:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">10:30-23:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">10:30-23:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Play Land</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.662624,
+          38.067337
+        ]
+      },
+      "properties": {
+        "id": 260,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Reggio Calabria Tangenziale",
+        "addr:city": "Reggio Calabria",
+        "addr:street": "SS 106 km 1",
+        "branch": "Reggio Calabria Tangenziale",
+        "contact:phone": "0965 062791",
+        "contact:website": "https://www.mcdonalds.it/ristorante/calabria/reggio-calabria/reggio-calabria-tangenziale",
+        "opening_hours": {
+          "Monday": "10:00-00:00",
+          "Tuesday": "10:00-00:00",
+          "Wednesday": "10:00-00:00",
+          "Thursday": "10:00-00:00",
+          "Friday": "10:00-00:00",
+          "Saturday": "10:00-00:00",
+          "Sunday": "10:00-00:00"
+        },
+        "full_address": "SS 106 km 1 Reggio Calabria tel: 0965 062791",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "260.00",
+        "regione": "calabria",
+        "provincia": "reggio-calabria",
+        "slug": "reggio-calabria-tangenziale",
+        "detail_url": "https://www.mcdonalds.it/ristorante/calabria/reggio-calabria/reggio-calabria-tangenziale",
+        "page_coordinates": [
+          15.662624,
+          38.067337
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Reggio Calabria Tangenziale</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 260</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>SS 106 km 1 Reggio Calabria tel: 0965 062791, Reggio Calabria (REGGIO-CALABRIA)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0965 062791</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/calabria/reggio-calabria/reggio-calabria-tangenziale\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">10:00-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">10:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">10:00-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">10:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">10:00-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">10:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">10:00-00:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.917657,
+          38.407599
+        ]
+      },
+      "properties": {
+        "id": 280,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Gioia Tauro",
+        "addr:city": "Gioia Tauro",
+        "addr:street": "Strada Statale 111",
+        "branch": "Gioia Tauro",
+        "contact:phone": "0966507634",
+        "contact:website": "https://www.mcdonalds.it/ristorante/calabria/reggio-calabria/gioia-tauro",
+        "opening_hours": {
+          "Monday": "10:00-00:00",
+          "Tuesday": "10:00-00:00",
+          "Wednesday": "10:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "10:00-01:00",
+          "Saturday": "10:00-01:00",
+          "Sunday": "10:00-01:00"
+        },
+        "full_address": "Strada Statale 111 Reggio Calabria tel: 0966507634",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "280.00",
+        "regione": "calabria",
+        "provincia": "reggio-calabria",
+        "slug": "gioia-tauro",
+        "detail_url": "https://www.mcdonalds.it/ristorante/calabria/reggio-calabria/gioia-tauro",
+        "page_coordinates": [
+          15.917657,
+          38.407599
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Gioia Tauro</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 280</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>Strada Statale 111 Reggio Calabria tel: 0966507634, Gioia Tauro (REGGIO-CALABRIA)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0966507634</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/calabria/reggio-calabria/gioia-tauro\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">10:00-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">10:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">10:00-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">10:00-01:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">10:00-01:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">10:00-01:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.598776,
+          38.884807
+        ]
+      },
+      "properties": {
+        "id": 309,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Catanzaro Le Aquile",
+        "addr:city": "Catanzaro",
+        "addr:street": "via Lucrezia della Valle",
+        "branch": "Catanzaro Le Aquile",
+        "contact:phone": "0961 754775",
+        "contact:website": "https://www.mcdonalds.it/ristorante/calabria/catanzaro/catanzaro-le-aquile",
+        "opening_hours": {
+          "Monday": "10:30-23:00",
+          "Tuesday": "10:30-23:00",
+          "Wednesday": "10:30-23:00",
+          "Thursday": "10:30-23:00",
+          "Friday": "10:30-23:00",
+          "Saturday": "10:30-00:00",
+          "Sunday": "10:30-23:00"
+        },
+        "full_address": "via Lucrezia della Valle Catanzaro tel: 0961 754775",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "309.00",
+        "regione": "calabria",
+        "provincia": "catanzaro",
+        "slug": "catanzaro-le-aquile",
+        "detail_url": "https://www.mcdonalds.it/ristorante/calabria/catanzaro/catanzaro-le-aquile",
+        "page_coordinates": [
+          16.598776,
+          38.884807
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Catanzaro Le Aquile</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 309</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>via Lucrezia della Valle Catanzaro tel: 0961 754775, Catanzaro (CATANZARO)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0961 754775</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/calabria/catanzaro/catanzaro-le-aquile\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">10:30-23:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">10:30-23:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">10:30-23:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">10:30-23:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">10:30-23:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">10:30-23:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>Take Away</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.331413,
+          38.933767
+        ]
+      },
+      "properties": {
+        "id": 329,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Lamezia Terme Drive",
+        "addr:city": "Lamezia Terme",
+        "addr:street": "via del Progresso",
+        "branch": "Lamezia Terme Drive",
+        "contact:phone": "0968 453115",
+        "contact:website": "https://www.mcdonalds.it/ristorante/calabria/catanzaro/lamezia-terme-drive",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "10:30-00:00",
+          "Thursday": "10:30-00:00",
+          "Friday": "10:30-00:00",
+          "Saturday": "10:30-00:00",
+          "Sunday": "10:30-00:00"
+        },
+        "full_address": "via del Progresso Catanzaro tel: 0968 453115",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "329.00",
+        "regione": "calabria",
+        "provincia": "catanzaro",
+        "slug": "lamezia-terme-drive",
+        "detail_url": "https://www.mcdonalds.it/ristorante/calabria/catanzaro/lamezia-terme-drive",
+        "page_coordinates": [
+          16.331413,
+          38.933767
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Lamezia Terme Drive</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 329</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>via del Progresso Catanzaro tel: 0968 453115, Lamezia Terme (CATANZARO)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0968 453115</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/calabria/catanzaro/lamezia-terme-drive\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.091066,
+          39.114083
+        ]
+      },
+      "properties": {
+        "id": 350,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Crotone Passovecchio",
+        "addr:city": "Crotone",
+        "addr:street": "SS106, 6",
+        "branch": "Crotone Passovecchio",
+        "contact:phone": "0962 930431",
+        "contact:website": "https://www.mcdonalds.it/ristorante/calabria/crotone/crotone-passovecchio",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "10:30-00:00",
+          "Thursday": "10:30-00:00",
+          "Friday": "10:30-00:00",
+          "Saturday": "10:30-00:00",
+          "Sunday": "10:30-00:00"
+        },
+        "full_address": "SS106, 6 Crotone tel: 0962 930431",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "350.00",
+        "regione": "calabria",
+        "provincia": "crotone",
+        "slug": "crotone-passovecchio",
+        "detail_url": "https://www.mcdonalds.it/ristorante/calabria/crotone/crotone-passovecchio",
+        "page_coordinates": [
+          17.091066,
+          39.114083
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Crotone Passovecchio</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 350</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>SS106, 6 Crotone tel: 0962 930431, Crotone (CROTONE)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0962 930431</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/calabria/crotone/crotone-passovecchio\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.241055,
+          39.328501
+        ]
+      },
+      "properties": {
+        "id": 458,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Rende",
+        "addr:city": "Rende",
+        "addr:street": "Via Kennedy",
+        "branch": "Rende",
+        "contact:phone": "0984 467780",
+        "contact:website": "https://www.mcdonalds.it/ristorante/calabria/cosenza/rende",
+        "opening_hours": {
+          "Monday": "07:30-22:30",
+          "Tuesday": "07:30-22:30",
+          "Wednesday": "07:30-18:00",
+          "Thursday": "16:00-23:00",
+          "Friday": "07:30-22:30",
+          "Saturday": "07:30-23:30",
+          "Sunday": "07:30-23:30"
+        },
+        "full_address": "Via Kennedy Cosenza tel: 0984 467780",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "458.00",
+        "regione": "calabria",
+        "provincia": "cosenza",
+        "slug": "rende",
+        "detail_url": "https://www.mcdonalds.it/ristorante/calabria/cosenza/rende",
+        "page_coordinates": [
+          16.241055,
+          39.328501
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Rende</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 458</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>Via Kennedy Cosenza tel: 0984 467780, Rende (COSENZA)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0984 467780</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/calabria/cosenza/rende\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">07:30-22:30</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">07:30-22:30</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">07:30-18:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">16:00-23:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">07:30-22:30</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">07:30-23:30</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">07:30-23:30</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.252303,
+          39.302892
+        ]
+      },
+      "properties": {
+        "id": 590,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Cosenza Bilotti Museo",
+        "addr:city": "Cosenza",
+        "addr:street": "Piazza Carlo F. Bilotti 17",
+        "branch": "Cosenza Bilotti Museo",
+        "contact:phone": "0984 063170",
+        "contact:website": "https://www.mcdonalds.it/ristorante/calabria/cosenza/cosenza-bilotti-museo",
+        "opening_hours": {
+          "Monday": "07:30-23:30",
+          "Tuesday": "07:30-23:30",
+          "Wednesday": "07:30-23:30",
+          "Thursday": "07:30-23:30",
+          "Friday": "07:30-23:30",
+          "Saturday": "07:30-00:30",
+          "Sunday": "07:30-23:30"
+        },
+        "full_address": "Piazza Carlo F. Bilotti 17 Cosenza tel: 0984 063170",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "590.00",
+        "regione": "calabria",
+        "provincia": "cosenza",
+        "slug": "cosenza-bilotti-museo",
+        "detail_url": "https://www.mcdonalds.it/ristorante/calabria/cosenza/cosenza-bilotti-museo",
+        "page_coordinates": [
+          16.252303,
+          39.302892
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Cosenza Bilotti Museo</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 590</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>Piazza Carlo F. Bilotti 17 Cosenza tel: 0984 063170, Cosenza (COSENZA)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0984 063170</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/calabria/cosenza/cosenza-bilotti-museo\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">07:30-23:30</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">07:30-23:30</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">07:30-23:30</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">07:30-23:30</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">07:30-23:30</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">07:30-00:30</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">07:30-23:30</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.508376,
+          39.67229
+        ]
+      },
+      "properties": {
+        "id": 683,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Corigliano Rossano SS 106",
+        "addr:city": "Corigliano Calabro",
+        "addr:street": "S.S. 16 Radd. Jonica",
+        "branch": "Corigliano Rossano SS 106",
+        "contact:phone": "0983282009",
+        "contact:website": "https://www.mcdonalds.it/ristorante/calabria/cosenza/corigliano-rossano-ss-106",
+        "opening_hours": {
+          "Monday": "07:30-00:00",
+          "Tuesday": "07:30-00:00",
+          "Wednesday": "07:30-00:00",
+          "Thursday": "07:30-00:00",
+          "Friday": "07:30-00:00",
+          "Saturday": "07:30-00:00",
+          "Sunday": "07:30-00:00"
+        },
+        "full_address": "S.S. 16 Radd. Jonica Cosenza tel: 0983282009",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "683.00",
+        "regione": "calabria",
+        "provincia": "cosenza",
+        "slug": "corigliano-rossano-ss-106",
+        "detail_url": "https://www.mcdonalds.it/ristorante/calabria/cosenza/corigliano-rossano-ss-106",
+        "page_coordinates": [
+          16.508376,
+          39.67229
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Corigliano Rossano SS 106</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 683</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>S.S. 16 Radd. Jonica Cosenza tel: 0983282009, Corigliano Calabro (COSENZA)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0983282009</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/calabria/cosenza/corigliano-rossano-ss-106\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">07:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">07:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">07:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">07:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">07:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">07:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">07:30-00:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Play Land</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.087288,
+          38.673278
+        ]
+      },
+      "properties": {
+        "id": 723,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Vibo Valentia",
+        "addr:city": "Vibo Valentia",
+        "addr:street": "viale Affaccio snc",
+        "branch": "Vibo Valentia",
+        "contact:phone": "0963 583830",
+        "contact:website": "https://www.mcdonalds.it/ristorante/calabria/vibo-valentia/vibo-valentia",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "10:30-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "10:30-01:00",
+          "Saturday": "10:30-01:00",
+          "Sunday": "10:30-01:00"
+        },
+        "full_address": "viale Affaccio snc Vibo Valentia tel: 0963 583830",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "723.00",
+        "regione": "calabria",
+        "provincia": "vibo-valentia",
+        "slug": "vibo-valentia",
+        "detail_url": "https://www.mcdonalds.it/ristorante/calabria/vibo-valentia/vibo-valentia",
+        "page_coordinates": [
+          16.087288,
+          38.673278
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Vibo Valentia</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 723</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>viale Affaccio snc Vibo Valentia tel: 0963 583830, Vibo Valentia (VIBO-VALENTIA)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0963 583830</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/calabria/vibo-valentia/vibo-valentia\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">10:30-01:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">10:30-01:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">10:30-01:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.109898,
+          39.074518
+        ]
+      },
+      "properties": {
+        "id": 959,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Crotone Drive",
+        "addr:city": "Crotone",
+        "addr:street": "Via Gioacchino Da Fiore",
+        "branch": "Crotone Drive",
+        "contact:phone": "0962 1723074",
+        "contact:website": "https://www.mcdonalds.it/ristorante/calabria/crotone/crotone-drive",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "10:30-00:00",
+          "Thursday": "10:30-00:00",
+          "Friday": "10:30-00:00",
+          "Saturday": "10:30-00:00",
+          "Sunday": "10:30-00:00"
+        },
+        "full_address": "Via Gioacchino Da Fiore Crotone tel: 0962 1723074",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "959.00",
+        "regione": "calabria",
+        "provincia": "crotone",
+        "slug": "crotone-drive",
+        "detail_url": "https://www.mcdonalds.it/ristorante/calabria/crotone/crotone-drive",
+        "page_coordinates": [
+          17.109898,
+          39.074518
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Crotone Drive</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 959</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>Via Gioacchino Da Fiore Crotone tel: 0962 1723074, Crotone (CROTONE)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0962 1723074</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/calabria/crotone/crotone-drive\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.114106,
+          39.369224
+        ]
+      },
+      "properties": {
+        "id": 1066,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "CIRO MARINA",
+        "addr:city": "Ciro Marina",
+        "addr:street": "SS 106",
+        "branch": "CIRO MARINA",
+        "contact:phone": "0962 1720634",
+        "contact:website": "https://www.mcdonalds.it/ristorante/calabria/crotone/ciro-marina",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "10:30-00:00",
+          "Thursday": "10:30-00:00",
+          "Friday": "10:30-00:00",
+          "Saturday": "10:30-00:00",
+          "Sunday": "10:30-00:00"
+        },
+        "full_address": "SS 106 Crotone tel: 0962 1720634",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1066.00",
+        "regione": "calabria",
+        "provincia": "crotone",
+        "slug": "ciro-marina",
+        "detail_url": "https://www.mcdonalds.it/ristorante/calabria/crotone/ciro-marina",
+        "page_coordinates": [
+          17.114106,
+          39.369224
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">CIRO MARINA</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 1066</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>SS 106 Crotone tel: 0962 1720634, Ciro Marina (CROTONE)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0962 1720634</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/calabria/crotone/ciro-marina\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    }
+  ]
+}

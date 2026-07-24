@@ -1,0 +1,1100 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.16463,
+          39.244929
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Quartucciu",
+        "addr:city": "Quartucciu",
+        "addr:street": "Via Delle Serre",
+        "branch": "Quartucciu",
+        "contact:phone": "070 880087",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/quartucciu",
+        "opening_hours": {
+          "Monday": "10:30-23:00",
+          "Tuesday": "10:30-23:00",
+          "Wednesday": "10:30-23:00",
+          "Thursday": "10:30-23:00",
+          "Friday": "10:30-23:00",
+          "Saturday": "10:30-23:00",
+          "Sunday": "10:30-23:00"
+        },
+        "full_address": "Via Delle Serre Cagliari tel: 070 880087",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "10.00",
+        "regione": "sardegna",
+        "provincia": "cagliari",
+        "slug": "quartucciu",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/quartucciu",
+        "page_coordinates": [
+          9.16463,
+          39.244929
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Quartucciu</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 10</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>Via Delle Serre Cagliari tel: 070 880087, Quartucciu (CAGLIARI)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">070 880087</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/sardegna/cagliari/quartucciu\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">10:30-23:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">10:30-23:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">10:30-23:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">10:30-23:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">10:30-23:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">10:30-23:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">10:30-23:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.588012,
+          39.91237
+        ]
+      },
+      "properties": {
+        "id": 29,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Oristano",
+        "addr:city": "Oristano",
+        "addr:street": "Via Cagliari 45",
+        "branch": "Oristano",
+        "contact:phone": "0783 217075",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/oristano/oristano",
+        "opening_hours": {
+          "Monday": "08:00-00:00",
+          "Tuesday": "08:00-00:00",
+          "Wednesday": "08:00-00:00",
+          "Thursday": "08:00-00:00",
+          "Friday": "08:00-00:00",
+          "Saturday": "08:00-00:00",
+          "Sunday": "08:00-00:00"
+        },
+        "full_address": "Via Cagliari 45 Oristano tel: 0783 217075",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "29.00",
+        "regione": "sardegna",
+        "provincia": "oristano",
+        "slug": "oristano",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/oristano/oristano",
+        "page_coordinates": [
+          8.588012,
+          39.91237
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Oristano</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 29</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>Via Cagliari 45 Oristano tel: 0783 217075, Oristano (ORISTANO)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0783 217075</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/sardegna/oristano/oristano\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">08:00-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">08:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">08:00-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">08:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">08:00-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">08:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">08:00-00:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.120201,
+          39.227839
+        ]
+      },
+      "properties": {
+        "id": 84,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Cagliari Bacaredda",
+        "addr:city": "Cagliari",
+        "addr:street": "Via Bacaredda 97",
+        "branch": "Cagliari Bacaredda",
+        "contact:phone": "070 4525660",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-bacaredda",
+        "opening_hours": {
+          "Monday": "11:00-00:00",
+          "Tuesday": "11:00-00:00",
+          "Wednesday": "11:00-00:00",
+          "Thursday": "11:00-00:00",
+          "Friday": "11:00-00:00",
+          "Saturday": "11:00-00:00",
+          "Sunday": "11:00-00:00"
+        },
+        "full_address": "Via Bacaredda 97 Cagliari tel: 070 4525660",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "84.00",
+        "regione": "sardegna",
+        "provincia": "cagliari",
+        "slug": "cagliari-bacaredda",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-bacaredda",
+        "page_coordinates": [
+          9.120201,
+          39.227839
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Cagliari Bacaredda</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 84</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>Via Bacaredda 97 Cagliari tel: 070 4525660, Cagliari (CAGLIARI)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">070 4525660</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-bacaredda\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">11:00-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">11:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">11:00-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">11:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">11:00-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">11:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">11:00-00:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Play Land</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.092278,
+          39.231347
+        ]
+      },
+      "properties": {
+        "id": 388,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Cagliari S. Simone",
+        "addr:city": "Cagliari",
+        "addr:street": "Via Simone, 60",
+        "branch": "Cagliari S. Simone",
+        "contact:phone": "070 276162",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-s-simone",
+        "full_address": "Via Simone, 60 Cagliari tel: 070 276162",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "388.00",
+        "regione": "sardegna",
+        "provincia": "cagliari",
+        "slug": "cagliari-s-simone",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-s-simone",
+        "page_coordinates": [
+          9.092278,
+          39.231347
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Cagliari S. Simone</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 388</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>Via Simone, 60 Cagliari tel: 070 276162, Cagliari (CAGLIARI)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">070 276162</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-s-simone\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McCafé®</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.522651,
+          40.909367
+        ]
+      },
+      "properties": {
+        "id": 390,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Olbia",
+        "addr:city": "Olbia",
+        "addr:street": "Via Cesare Pavese",
+        "branch": "Olbia",
+        "contact:phone": "0789 69104",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/olbia-tempio/olbia",
+        "opening_hours": {
+          "Monday": "08:00-21:00",
+          "Tuesday": "08:00-21:00",
+          "Wednesday": "08:00-21:00",
+          "Thursday": "08:00-21:00",
+          "Friday": "08:00-21:00",
+          "Saturday": "08:00-21:00",
+          "Sunday": "08:00-21:00"
+        },
+        "full_address": "Via Cesare Pavese Olbia-Tempio tel: 0789 69104",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "390.00",
+        "regione": "sardegna",
+        "provincia": "olbia-tempio",
+        "slug": "olbia",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/olbia-tempio/olbia",
+        "page_coordinates": [
+          9.522651,
+          40.909367
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Olbia</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 390</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>Via Cesare Pavese Olbia-Tempio tel: 0789 69104, Olbia (OLBIA-TEMPIO)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0789 69104</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/sardegna/olbia-tempio/olbia\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">08:00-21:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">08:00-21:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">08:00-21:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">08:00-21:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">08:00-21:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">08:00-21:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">08:00-21:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.535044,
+          40.737885
+        ]
+      },
+      "properties": {
+        "id": 405,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Sassari",
+        "addr:city": "Sassari",
+        "addr:street": "C.C. rinascente    Viale Porto Torres",
+        "branch": "Sassari",
+        "contact:phone": "079 2633040",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/sassari/sassari",
+        "full_address": "C.C. rinascente Viale Porto Torres Sassari tel: 079 2633040",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "405.00",
+        "regione": "sardegna",
+        "provincia": "sassari",
+        "slug": "sassari",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/sassari/sassari",
+        "page_coordinates": [
+          8.535044,
+          40.737885
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Sassari</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 405</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>C.C. rinascente Viale Porto Torres Sassari tel: 079 2633040, Sassari (SASSARI)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">079 2633040</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/sardegna/sassari/sassari\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.112611,
+          39.250556
+        ]
+      },
+      "properties": {
+        "id": 508,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Cagliari Peretti",
+        "addr:city": "Cagliari",
+        "addr:street": "via Peretti",
+        "branch": "Cagliari Peretti",
+        "contact:phone": "070 3293930",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-peretti",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "10:30-00:00",
+          "Thursday": "10:30-00:00",
+          "Friday": "10:30-00:00",
+          "Saturday": "10:30-00:00",
+          "Sunday": "10:30-00:00"
+        },
+        "full_address": "via Peretti Cagliari tel: 070 3293930",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "508.00",
+        "regione": "sardegna",
+        "provincia": "cagliari",
+        "slug": "cagliari-peretti",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-peretti",
+        "page_coordinates": [
+          9.112611,
+          39.250556
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Cagliari Peretti</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 508</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>via Peretti Cagliari tel: 070 3293930, Cagliari (CAGLIARI)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">070 3293930</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-peretti\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Play Land</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.067591,
+          39.291172
+        ]
+      },
+      "properties": {
+        "id": 509,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Sestu",
+        "addr:city": "Sestu",
+        "addr:street": "Ex SS 131",
+        "branch": "Sestu",
+        "contact:phone": "070 3293913",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/sestu",
+        "opening_hours": {
+          "Monday": "06:30-00:00",
+          "Tuesday": "06:30-00:00",
+          "Wednesday": "06:30-00:00",
+          "Thursday": "06:30-00:00",
+          "Friday": "06:30-00:00",
+          "Saturday": "06:30-00:00",
+          "Sunday": "06:30-00:00"
+        },
+        "full_address": "Ex SS 131 Cagliari tel: 070 3293913",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "509.00",
+        "regione": "sardegna",
+        "provincia": "cagliari",
+        "slug": "sestu",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/sestu",
+        "page_coordinates": [
+          9.067591,
+          39.291172
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Sestu</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 509</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>Ex SS 131 Cagliari tel: 070 3293913, Sestu (CAGLIARI)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">070 3293913</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/sardegna/cagliari/sestu\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">06:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">06:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">06:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">06:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">06:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">06:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">06:30-00:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Play Land</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.216539,
+          39.229188
+        ]
+      },
+      "properties": {
+        "id": 531,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Quartu SantElena Poetto",
+        "addr:city": "Quartu Santelena",
+        "addr:street": "Viale Lungomare del Golfo",
+        "branch": "Quartu SantElena Poetto",
+        "contact:phone": "070 3293996",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/quartu-santelena-poetto",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "10:30-00:00",
+          "Thursday": "10:30-00:00",
+          "Friday": "10:30-00:00",
+          "Saturday": "10:30-00:00",
+          "Sunday": "10:30-00:00"
+        },
+        "full_address": "Viale Lungomare del Golfo Cagliari tel: 070 3293996",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "531.00",
+        "regione": "sardegna",
+        "provincia": "cagliari",
+        "slug": "quartu-santelena-poetto",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/quartu-santelena-poetto",
+        "page_coordinates": [
+          9.216539,
+          39.229188
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Quartu SantElena Poetto</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 531</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>Viale Lungomare del Golfo Cagliari tel: 070 3293996, Quartu Santelena (CAGLIARI)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">070 3293996</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/sardegna/cagliari/quartu-santelena-poetto\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Play Land</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.305981,
+          40.322281
+        ]
+      },
+      "properties": {
+        "id": 541,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Nuoro",
+        "addr:city": "Nuoro",
+        "addr:street": "Via Don Giovanni Bosco, Nuoro",
+        "branch": "Nuoro",
+        "contact:phone": "078 4093314",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/nuoro/nuoro",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-00:00",
+          "Saturday": "07:00-00:00",
+          "Sunday": "07:00-00:00"
+        },
+        "full_address": "Via Don Giovanni Bosco, Nuoro Nuoro tel: 078 4093314",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "541.00",
+        "regione": "sardegna",
+        "provincia": "nuoro",
+        "slug": "nuoro",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/nuoro/nuoro",
+        "page_coordinates": [
+          9.305981,
+          40.322281
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Nuoro</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 541</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>Via Don Giovanni Bosco, Nuoro Nuoro tel: 078 4093314, Nuoro (NUORO)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">078 4093314</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/sardegna/nuoro/nuoro\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Play Land</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.51147,
+          39.169015
+        ]
+      },
+      "properties": {
+        "id": 575,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Carbonia Drive",
+        "addr:city": "Carbonia",
+        "addr:street": "via della Stazione",
+        "branch": "Carbonia Drive",
+        "contact:phone": "0781 052369",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/sud-sardegna/carbonia-drive",
+        "opening_hours": {
+          "Monday": "08:00-23:00",
+          "Tuesday": "08:00-23:00",
+          "Wednesday": "08:00-19:30",
+          "Thursday": "17:00-23:00",
+          "Friday": "08:00-00:00",
+          "Saturday": "08:00-00:00",
+          "Sunday": "17:00-00:00"
+        },
+        "full_address": "via della Stazione Sud Sardegna tel: 0781 052369",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "575.00",
+        "regione": "sardegna",
+        "provincia": "sud-sardegna",
+        "slug": "carbonia-drive",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/sud-sardegna/carbonia-drive",
+        "page_coordinates": [
+          8.51147,
+          39.169015
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Carbonia Drive</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 575</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>via della Stazione Sud Sardegna tel: 0781 052369, Carbonia (SUD-SARDEGNA)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0781 052369</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/sardegna/sud-sardegna/carbonia-drive\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">08:00-23:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">08:00-23:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">08:00-19:30</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">17:00-23:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">08:00-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">08:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">17:00-00:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.510237,
+          40.930795
+        ]
+      },
+      "properties": {
+        "id": 599,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Olbia Indonesia",
+        "addr:city": "Olbia",
+        "addr:street": "via Indonesia snc",
+        "branch": "Olbia Indonesia",
+        "contact:phone": "0789 072922",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/olbia-tempio/olbia-indonesia",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-00:00",
+          "Saturday": "07:00-00:00",
+          "Sunday": "07:00-00:00"
+        },
+        "full_address": "via Indonesia snc Olbia-Tempio tel: 0789 072922",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "599.00",
+        "regione": "sardegna",
+        "provincia": "olbia-tempio",
+        "slug": "olbia-indonesia",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/olbia-tempio/olbia-indonesia",
+        "page_coordinates": [
+          9.510237,
+          40.930795
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Olbia Indonesia</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 599</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>via Indonesia snc Olbia-Tempio tel: 0789 072922, Olbia (OLBIA-TEMPIO)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0789 072922</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/sardegna/olbia-tempio/olbia-indonesia\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Play Land</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.061043,
+          39.253487
+        ]
+      },
+      "properties": {
+        "id": 643,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Cagliari Aeroporto",
+        "addr:city": "Elmas",
+        "addr:street": "Via dei Trasvolatori",
+        "branch": "Cagliari Aeroporto",
+        "contact:phone": "0703322888",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-aeroporto",
+        "opening_hours": {
+          "Monday": "09:00-22:00",
+          "Tuesday": "09:00-22:00",
+          "Wednesday": "09:00-22:00",
+          "Thursday": "09:00-22:00",
+          "Friday": "09:00-22:00",
+          "Saturday": "09:00-22:00",
+          "Sunday": "09:00-22:00"
+        },
+        "full_address": "Via dei Trasvolatori Cagliari tel: 0703322888",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "643.00",
+        "regione": "sardegna",
+        "provincia": "cagliari",
+        "slug": "cagliari-aeroporto",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-aeroporto",
+        "page_coordinates": [
+          9.061043,
+          39.253487
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Cagliari Aeroporto</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 643</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>Via dei Trasvolatori Cagliari tel: 0703322888, Elmas (CAGLIARI)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0703322888</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-aeroporto\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">09:00-22:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">09:00-22:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">09:00-22:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">09:00-22:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">09:00-22:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">09:00-22:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">09:00-22:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>Take Away</li>\n<li>Ordina in App</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.113488,
+          39.216675
+        ]
+      },
+      "properties": {
+        "id": 645,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Cagliari Via Giovanni Maria Dettori",
+        "addr:city": "Cagliari",
+        "addr:street": "cagliari via giovanni maria dettori",
+        "branch": "Cagliari Via Giovanni Maria Dettori",
+        "contact:phone": "070 3294424",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-via-giovanni-maria-dettori",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-00:00",
+          "Saturday": "07:00-03:00",
+          "Sunday": "07:00-00:00"
+        },
+        "full_address": "cagliari via giovanni maria dettori Cagliari tel: 070 3294424",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "645.00",
+        "regione": "sardegna",
+        "provincia": "cagliari",
+        "slug": "cagliari-via-giovanni-maria-dettori",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-via-giovanni-maria-dettori",
+        "page_coordinates": [
+          9.113488,
+          39.216675
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Cagliari Via Giovanni Maria Dettori</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 645</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>cagliari via giovanni maria dettori Cagliari tel: 070 3294424, Cagliari (CAGLIARI)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">070 3294424</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-via-giovanni-maria-dettori\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">07:00-03:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.549735,
+          40.72822
+        ]
+      },
+      "properties": {
+        "id": 669,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Sassari via Predda Niedda",
+        "addr:city": "Sassari",
+        "addr:street": "Via Predda Niedda",
+        "branch": "Sassari via Predda Niedda",
+        "contact:phone": "0794112008",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/sassari/sassari-via-predda-niedda",
+        "opening_hours": {
+          "Monday": "07:30-00:00",
+          "Tuesday": "07:30-00:00",
+          "Wednesday": "07:30-00:00",
+          "Thursday": "16:00-00:00",
+          "Friday": "07:30-00:00",
+          "Saturday": "07:30-00:00",
+          "Sunday": "07:30-00:00"
+        },
+        "full_address": "Via Predda Niedda Sassari tel: 0794112008",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "669.00",
+        "regione": "sardegna",
+        "provincia": "sassari",
+        "slug": "sassari-via-predda-niedda",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/sassari/sassari-via-predda-niedda",
+        "page_coordinates": [
+          8.549735,
+          40.72822
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Sassari via Predda Niedda</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 669</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>Via Predda Niedda Sassari tel: 0794112008, Sassari (SASSARI)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0794112008</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/sardegna/sassari/sassari-via-predda-niedda\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">07:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">07:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">07:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">16:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">07:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">07:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">07:30-00:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Play Land</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.495622,
+          40.955122
+        ]
+      },
+      "properties": {
+        "id": 707,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Olbia Aldo Moro",
+        "addr:city": "Olbia",
+        "addr:street": "via Nicosia 18",
+        "branch": "Olbia Aldo Moro",
+        "contact:phone": "3455299677",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/olbia-tempio/olbia-aldo-moro",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-00:00",
+          "Saturday": "07:00-00:00",
+          "Sunday": "07:00-00:00"
+        },
+        "full_address": "via Nicosia 18 Olbia-Tempio tel: 3455299677",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "707.00",
+        "regione": "sardegna",
+        "provincia": "olbia-tempio",
+        "slug": "olbia-aldo-moro",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/olbia-tempio/olbia-aldo-moro",
+        "page_coordinates": [
+          9.495622,
+          40.955122
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Olbia Aldo Moro</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 707</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>via Nicosia 18 Olbia-Tempio tel: 3455299677, Olbia (OLBIA-TEMPIO)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">3455299677</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/sardegna/olbia-tempio/olbia-aldo-moro\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">07:00-00:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Play Land</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.398892,
+          40.829288
+        ]
+      },
+      "properties": {
+        "id": 763,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Porto Torres",
+        "addr:city": "Porto Torres",
+        "addr:street": "Via dellIndustria",
+        "branch": "Porto Torres",
+        "contact:phone": "0794142107",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/sassari/porto-torres",
+        "opening_hours": {
+          "Monday": "08:00-23:00",
+          "Tuesday": "08:00-23:00",
+          "Wednesday": "08:00-23:00",
+          "Thursday": "08:00-23:00",
+          "Friday": "08:00-23:00",
+          "Saturday": "08:00-00:00",
+          "Sunday": "08:00-00:00"
+        },
+        "full_address": "Via dellIndustria Sassari tel: 0794142107",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "763.00",
+        "regione": "sardegna",
+        "provincia": "sassari",
+        "slug": "porto-torres",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/sassari/porto-torres",
+        "page_coordinates": [
+          8.398892,
+          40.829288
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Porto Torres</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 763</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>Via dellIndustria Sassari tel: 0794142107, Porto Torres (SASSARI)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0794142107</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/sardegna/sassari/porto-torres\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">08:00-23:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">08:00-23:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">08:00-23:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">08:00-23:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">08:00-23:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">08:00-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">08:00-00:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Play Land</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.180994,
+          39.275975
+        ]
+      },
+      "properties": {
+        "id": 964,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Settimo San Pietro",
+        "addr:city": "Settimo San Pietro",
+        "addr:street": "Strada Provinciale 15",
+        "branch": "Settimo San Pietro",
+        "contact:phone": "0700950792",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/settimo-san-pietro",
+        "opening_hours": {
+          "Monday": "10:30-23:00",
+          "Tuesday": "10:30-23:00",
+          "Wednesday": "10:30-23:00",
+          "Thursday": "10:30-23:00",
+          "Friday": "10:30-23:00",
+          "Saturday": "10:30-23:00",
+          "Sunday": "10:30-23:00"
+        },
+        "full_address": "Strada Provinciale 15 Cagliari tel: 0700950792",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "964.00",
+        "regione": "sardegna",
+        "provincia": "cagliari",
+        "slug": "settimo-san-pietro",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/settimo-san-pietro",
+        "page_coordinates": [
+          9.180994,
+          39.275975
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Settimo San Pietro</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 964</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>Strada Provinciale 15 Cagliari tel: 0700950792, Settimo San Pietro (CAGLIARI)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0700950792</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/sardegna/cagliari/settimo-san-pietro\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">10:30-23:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">10:30-23:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">10:30-23:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">10:30-23:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">10:30-23:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">10:30-23:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">10:30-23:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.598487,
+          39.890291
+        ]
+      },
+      "properties": {
+        "id": 1022,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Oristano Via Dublino",
+        "addr:city": "Oristano",
+        "addr:street": "Via Dublino",
+        "branch": "Oristano Via Dublino",
+        "contact:phone": "0783020457",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/oristano/oristano-via-dublino",
+        "opening_hours": {
+          "Monday": "07:30-00:00",
+          "Tuesday": "07:30-00:00",
+          "Wednesday": "07:30-00:00",
+          "Thursday": "07:30-00:00",
+          "Friday": "07:30-00:00",
+          "Saturday": "07:30-00:00",
+          "Sunday": "07:30-00:00"
+        },
+        "full_address": "Via Dublino Oristano tel: 0783020457",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1022.00",
+        "regione": "sardegna",
+        "provincia": "oristano",
+        "slug": "oristano-via-dublino",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/oristano/oristano-via-dublino",
+        "page_coordinates": [
+          8.598487,
+          39.890291
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Oristano Via Dublino</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 1022</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>Via Dublino Oristano tel: 0783020457, Oristano (ORISTANO)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0783020457</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/sardegna/oristano/oristano-via-dublino\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">07:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">07:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">07:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">07:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">07:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">07:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">07:30-00:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    }
+  ]
+}

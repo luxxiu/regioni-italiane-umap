@@ -1,0 +1,183 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.674754,
+          41.576288
+        ]
+      },
+      "properties": {
+        "id": 365,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Campobasso Drive",
+        "addr:city": "Campobasso",
+        "addr:street": "via Colle delle Api",
+        "branch": "Campobasso Drive",
+        "contact:phone": "0874 332281",
+        "contact:website": "https://www.mcdonalds.it/ristorante/molise/campobasso/campobasso-drive",
+        "opening_hours": {
+          "Monday": "07:30-01:00",
+          "Tuesday": "07:30-01:00",
+          "Wednesday": "07:30-01:00",
+          "Thursday": "07:30-01:00",
+          "Friday": "07:30-01:00",
+          "Saturday": "07:30-01:00",
+          "Sunday": "07:30-01:00"
+        },
+        "full_address": "via Colle delle Api Campobasso tel: 0874 332281",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "365.00",
+        "regione": "molise",
+        "provincia": "campobasso",
+        "slug": "campobasso-drive",
+        "detail_url": "https://www.mcdonalds.it/ristorante/molise/campobasso/campobasso-drive",
+        "page_coordinates": [
+          14.674754,
+          41.576288
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Campobasso Drive</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 365</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>via Colle delle Api Campobasso tel: 0874 332281, Campobasso (CAMPOBASSO)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0874 332281</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/molise/campobasso/campobasso-drive\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">07:30-01:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">07:30-01:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">07:30-01:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">07:30-01:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">07:30-01:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">07:30-01:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">07:30-01:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Play Land</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.250573,
+          41.59766
+        ]
+      },
+      "properties": {
+        "id": 751,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Isernia",
+        "addr:city": "Isernia",
+        "addr:street": "SS 17",
+        "branch": "Isernia",
+        "contact:phone": "0865 253715",
+        "contact:website": "https://www.mcdonalds.it/ristorante/molise/isernia/isernia",
+        "opening_hours": {
+          "Monday": "07:30-01:00",
+          "Tuesday": "07:30-01:00",
+          "Wednesday": "07:30-01:00",
+          "Thursday": "07:30-01:00",
+          "Friday": "07:30-01:00",
+          "Saturday": "07:30-01:00",
+          "Sunday": "07:30-01:00"
+        },
+        "full_address": "SS 17 Isernia tel: 0865 253715",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "751.00",
+        "regione": "molise",
+        "provincia": "isernia",
+        "slug": "isernia",
+        "detail_url": "https://www.mcdonalds.it/ristorante/molise/isernia/isernia",
+        "page_coordinates": [
+          14.250573,
+          41.59766
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Isernia</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 751</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>SS 17 Isernia tel: 0865 253715, Isernia (ISERNIA)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0865 253715</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/molise/isernia/isernia\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">07:30-01:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">07:30-01:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">07:30-01:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">07:30-01:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">07:30-01:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">07:30-01:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">07:30-01:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.056008,
+          41.465531
+        ]
+      },
+      "properties": {
+        "id": 1072,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Venafro",
+        "addr:city": "Venafro",
+        "addr:street": "SS85",
+        "branch": "Venafro",
+        "contact:phone": "0865 250569",
+        "contact:website": "https://www.mcdonalds.it/ristorante/molise/isernia/venafro",
+        "opening_hours": {
+          "Monday": "09:00-03:00",
+          "Tuesday": "09:00-03:00",
+          "Wednesday": "09:00-03:00",
+          "Thursday": "09:00-03:00",
+          "Friday": "09:00-05:00",
+          "Saturday": "09:00-05:00",
+          "Sunday": "09:00-03:00"
+        },
+        "full_address": "SS85 Isernia tel: 0865 250569",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1072.00",
+        "regione": "molise",
+        "provincia": "isernia",
+        "slug": "venafro",
+        "detail_url": "https://www.mcdonalds.it/ristorante/molise/isernia/venafro",
+        "page_coordinates": [
+          14.056008,
+          41.465531
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Venafro</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 1072</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>SS85 Isernia tel: 0865 250569, Venafro (ISERNIA)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0865 250569</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/molise/isernia/venafro\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">09:00-03:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">09:00-03:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">09:00-03:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">09:00-03:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">09:00-05:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">09:00-05:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">09:00-03:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    }
+  ]
+}

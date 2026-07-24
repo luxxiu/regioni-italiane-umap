@@ -1,0 +1,180 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.799081,
+          40.627042
+        ]
+      },
+      "properties": {
+        "id": 55,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Potenza",
+        "addr:city": "Potenza",
+        "addr:street": "Viale del Basento",
+        "branch": "Potenza",
+        "contact:phone": "0971 601051",
+        "contact:website": "https://www.mcdonalds.it/ristorante/basilicata/potenza/potenza",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "10:30-00:00",
+          "Thursday": "10:30-00:00",
+          "Friday": "10:30-00:00",
+          "Saturday": "10:30-00:00",
+          "Sunday": "10:30-00:00"
+        },
+        "full_address": "Viale del Basento Potenza tel: 0971 601051",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "55.00",
+        "regione": "basilicata",
+        "provincia": "potenza",
+        "slug": "potenza",
+        "detail_url": "https://www.mcdonalds.it/ristorante/basilicata/potenza/potenza",
+        "page_coordinates": [
+          15.799081,
+          40.627042
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Potenza</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 55</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>Viale del Basento Potenza tel: 0971 601051, Potenza (POTENZA)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0971 601051</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/basilicata/potenza/potenza\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">10:30-00:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.658452,
+          40.177917
+        ]
+      },
+      "properties": {
+        "id": 960,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Policoro Drive",
+        "addr:city": "Policoro",
+        "addr:street": "Via Nazionale snc",
+        "branch": "Policoro Drive",
+        "contact:phone": "0835 1651653",
+        "contact:website": "https://www.mcdonalds.it/ristorante/basilicata/matera/policoro-drive",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-01:00",
+          "Thursday": "07:00-01:00",
+          "Friday": "07:00-03:00",
+          "Saturday": "07:00-03:00",
+          "Sunday": "07:00-03:00"
+        },
+        "full_address": "Via Nazionale snc Matera tel: 0835 1651653",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "960.00",
+        "regione": "basilicata",
+        "provincia": "matera",
+        "slug": "policoro-drive",
+        "detail_url": "https://www.mcdonalds.it/ristorante/basilicata/matera/policoro-drive",
+        "page_coordinates": [
+          16.658452,
+          40.177917
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Policoro Drive</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 960</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>Via Nazionale snc Matera tel: 0835 1651653, Policoro (MATERA)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">0835 1651653</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/basilicata/matera/policoro-drive\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">07:00-01:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">07:00-01:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">07:00-01:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">07:00-01:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">07:00-03:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">07:00-03:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">07:00-03:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McDrive®</li>\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.803002,
+          40.638292
+        ]
+      },
+      "properties": {
+        "id": 1015,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Potenza via Pretoria",
+        "addr:city": "Potenza",
+        "addr:street": "via Pretoria 134",
+        "branch": "Potenza via Pretoria",
+        "contact:phone": "09711562752",
+        "contact:website": "https://www.mcdonalds.it/ristorante/basilicata/potenza/potenza-via-pretoria",
+        "opening_hours": {
+          "Monday": "07:30-00:00",
+          "Tuesday": "07:30-00:00",
+          "Wednesday": "07:30-00:00",
+          "Thursday": "07:30-00:00",
+          "Friday": "07:30-03:00",
+          "Saturday": "07:30-03:00",
+          "Sunday": "07:30-01:00"
+        },
+        "full_address": "via Pretoria 134 Potenza tel: 09711562752",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1015.00",
+        "regione": "basilicata",
+        "provincia": "potenza",
+        "slug": "potenza-via-pretoria",
+        "detail_url": "https://www.mcdonalds.it/ristorante/basilicata/potenza/potenza-via-pretoria",
+        "page_coordinates": [
+          15.803002,
+          40.638292
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<div style=\"font-family:sans-serif;line-height:1.5;\">\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"60\" height=\"60\" style=\"float:left;margin-right:10px;\">\n<h2 style=\"margin:0 0 2px 0;\">Potenza via Pretoria</h2>\n<div style=\"color:#888;font-size:0.85em;\">Store ID: 1015</div>\n<div style=\"clear:both;\"></div>\n<hr style=\"border:none;border-top:1px solid #ddd;margin:8px 0;\">\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Address</h3>\n<div>via Pretoria 134 Potenza tel: 09711562752, Potenza (POTENZA)</div>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Contacts</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;\">\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Phone</td><td style=\"padding:2px 0;\">09711562752</td></tr>\n<tr><td style=\"padding:2px 8px 2px 0;font-weight:bold;\">Website</td><td style=\"padding:2px 0;\"><a href=\"https://www.mcdonalds.it/ristorante/basilicata/potenza/potenza-via-pretoria\" target=\"_blank\">Visit</a></td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Opening Hours</h3>\n<table style=\"border-collapse:collapse;font-size:0.9em;width:100%;\">\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Monday</td><td style=\"padding:3px 8px;\">07:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Tuesday</td><td style=\"padding:3px 8px;\">07:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Wednesday</td><td style=\"padding:3px 8px;\">07:30-00:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Thursday</td><td style=\"padding:3px 8px;\">07:30-00:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Friday</td><td style=\"padding:3px 8px;\">07:30-03:00</td></tr>\n<tr style=\"background:#fff;\"><td style=\"padding:3px 8px;font-weight:bold;\">Saturday</td><td style=\"padding:3px 8px;\">07:30-03:00</td></tr>\n<tr style=\"background:#f9f9f9;\"><td style=\"padding:3px 8px;font-weight:bold;\">Sunday</td><td style=\"padding:3px 8px;\">07:30-01:00</td></tr>\n</table>\n<h3 style=\"margin:8px 0 4px 0;font-size:1em;\">Services</h3>\n<ul style=\"margin:0;padding-left:18px;font-size:0.9em;\">\n<li>McCafé®</li>\n<li>Take Away</li>\n<li>Servizio al tavolo</li>\n<li>Ordina in App</li>\n<li>Feste di Compleanno</li>\n<li>Wi-fi</li>\n</ul>\n</div>"
+      }
+    }
+  ]
+}
