@@ -23919,48 +23919,6 @@
           "iconClass": "Circle"
         }
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.268099117453518,
-          43.70150404775292
-        ]
-      },
-      "properties": {
-        "id": "nice-etoile",
-        "source": "lapiadineria.com",
-        "amenity": "fast_food",
-        "brand": "La Piadineria",
-        "cuisine": "piadina",
-        "name": "La Piadineria - Nice Etoile",
-        "branch": "Nice Etoile",
-        "full_address": "NIZZA , Avenue Jean Medecin, 30",
-        "addr:city": "NIZZA",
-        "addr:street": "Avenue Jean Medecin, 30",
-        "contact:phone": "04 93 81 67 49",
-        "services": [
-          "Asporto",
-          "Just Eat",
-          "Deliveroo",
-          "UberEats"
-        ],
-        "opening_hours": {
-          "Monday": "10:00-19:30",
-          "Tuesday": "10:00-19:30",
-          "Wednesday": "10:00-19:30",
-          "Thursday": "10:00-19:30",
-          "Friday": "10:00-19:30",
-          "Saturday": "10:00-19:30",
-          "Sunday": "11:00-19:00"
-        },
-        "brand:wikidata": "Q108195414",
-        "_umap_options": {
-          "iconClass": "Circle"
-        }
-      }
     }
   ]
 }
