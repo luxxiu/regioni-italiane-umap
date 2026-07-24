@@ -1,0 +1,325 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.677966954561635, 45.06228540316955]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Five Guys",
+        "brand": "Five Guys",
+        "brand:wikidata": "Q1131810",
+        "addr:street": "58 Corso Vittorio Emanuele II",
+        "addr:city": "Turin",
+        "addr:postcode": "10121",
+        "contact:phone": "011 235017",
+        "opening_hours": {
+          "Monday": "11:00-22:00",
+          "Tuesday": "11:00-22:00",
+          "Wednesday": "11:00-22:00",
+          "Thursday": "11:00-22:00",
+          "Friday": "11:00-22:00",
+          "Saturday": "11:00-22:00",
+          "Sunday": "11:00-22:00"
+        },
+        "website": "https://restaurants.fiveguys.it/it_it/58-corso-vittorio-emanuele-ii",
+        "store_id": "1",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.204017149204441, 45.485708216021266]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Five Guys",
+        "brand": "Five Guys",
+        "brand:wikidata": "Q1131810",
+        "addr:street": "Milano Centrale, Piazza Duca D’Aosta, 1",
+        "addr:city": "Milan",
+        "addr:postcode": "20124",
+        "contact:phone": "02 6707 0051",
+        "opening_hours": {
+          "Monday": "10:30-22:00",
+          "Tuesday": "10:30-22:00",
+          "Wednesday": "10:30-22:00",
+          "Thursday": "10:30-22:00",
+          "Friday": "10:30-22:00",
+          "Saturday": "10:30-22:00",
+          "Sunday": "10:30-22:00"
+        },
+        "website": "https://restaurants.fiveguys.it/it_it/milano-centrale-piazza-duca-d’aosta-1",
+        "store_id": "2",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.270555394319894, 40.85201020789316]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Five Guys",
+        "brand": "Five Guys",
+        "brand:wikidata": "Q1131810",
+        "addr:street": "Naples Centrale, Galleria Commerciale Ipogea, Piazza Giuseppe Garibaldi",
+        "addr:city": "Naples",
+        "addr:postcode": "80142",
+        "contact:phone": "081 461 3608",
+        "opening_hours": {
+          "Monday": "11:00-22:00",
+          "Tuesday": "11:00-22:00",
+          "Wednesday": "11:00-22:00",
+          "Thursday": "11:00-22:00",
+          "Friday": "11:00-22:30",
+          "Saturday": "11:00-22:30",
+          "Sunday": "11:00-22:00"
+        },
+        "website": "https://restaurants.fiveguys.it/it_it/naples-centrale-galleria-commerciale-ipogea-piazza-giuseppe-garibaldi",
+        "store_id": "3",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.5015756, 41.9012873]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Five Guys",
+        "brand": "Five Guys",
+        "brand:wikidata": "Q1131810",
+        "addr:street": "Roma Termini Piazzale dei Cinquencento",
+        "addr:city": "Rome",
+        "addr:postcode": "00187",
+        "contact:phone": "06 482 3949",
+        "opening_hours": {
+          "Monday": "11:00-22:00",
+          "Tuesday": "11:00-22:00",
+          "Wednesday": "11:00-22:00",
+          "Thursday": "11:00-22:00",
+          "Friday": "11:00-22:00",
+          "Saturday": "11:00-22:00",
+          "Sunday": "11:00-22:00"
+        },
+        "website": "https://restaurants.fiveguys.it/it_it/roma-termini",
+        "store_id": "4",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.3212432, 45.441729]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Five Guys",
+        "brand": "Five Guys",
+        "brand:wikidata": "Q1131810",
+        "addr:street": "Venice. Italy",
+        "addr:city": "Venezia",
+        "addr:postcode": "30121",
+        "contact:phone": "041 575 8006",
+        "opening_hours": {
+          "Monday": "11:00-22:00",
+          "Tuesday": "11:00-22:00",
+          "Wednesday": "11:00-22:00",
+          "Thursday": "11:00-22:00",
+          "Friday": "11:00-22:00",
+          "Saturday": "11:00-22:00",
+          "Sunday": "11:00-22:00"
+        },
+        "website": "https://restaurants.fiveguys.it/it_it/venice-italy",
+        "store_id": "5",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.246705343302699, 43.776027484288676]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Five Guys",
+        "brand": "Five Guys",
+        "brand:wikidata": "Q1131810",
+        "addr:street": "Via Alamanni 2R Firenze Stazione Santa Maria Novella",
+        "addr:city": "Firenze",
+        "addr:postcode": "50123",
+        "contact:phone": "055 986 7819",
+        "opening_hours": {
+          "Monday": "11:00-22:00",
+          "Tuesday": "11:00-22:00",
+          "Wednesday": "11:00-22:00",
+          "Thursday": "11:00-22:00",
+          "Friday": "11:00-22:00",
+          "Saturday": "11:00-22:00",
+          "Sunday": "11:00-22:00"
+        },
+        "website": "https://restaurants.fiveguys.it/it_it/via-alamanni-2r",
+        "store_id": "6",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.583910930885146, 45.54794515449431]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Five Guys",
+        "brand": "Five Guys",
+        "brand:wikidata": "Q1131810",
+        "addr:street": "Via Aldo Moro 245",
+        "addr:city": "Vicenza",
+        "addr:postcode": "36100",
+        "contact:phone": "0444 207727",
+        "opening_hours": {
+          "Monday": "11:00-20:00",
+          "Tuesday": "11:00-20:00",
+          "Wednesday": "11:00-20:00",
+          "Thursday": "11:00-20:00",
+          "Friday": "11:00-20:00",
+          "Saturday": "11:00-20:00",
+          "Sunday": "11:00-20:00"
+        },
+        "website": "https://restaurants.fiveguys.it/it_it/via-aldo-moro-245",
+        "store_id": "7",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.1843417, 45.4664011]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Five Guys",
+        "brand": "Five Guys",
+        "brand:wikidata": "Q1131810",
+        "addr:street": "Via Dante 7",
+        "addr:city": "Milan",
+        "addr:postcode": "20123",
+        "contact:phone": "02 7210 5749",
+        "opening_hours": {
+          "Monday": "11:30-22:00",
+          "Tuesday": "11:30-22:00",
+          "Wednesday": "11:30-22:00",
+          "Thursday": "11:30-22:00",
+          "Friday": "11:30-22:00",
+          "Saturday": "11:30-22:00",
+          "Sunday": "11:30-22:00"
+        },
+        "website": "https://restaurants.fiveguys.it/it_it/via-dante-7",
+        "store_id": "8",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.142761788308526, 43.84578917297773]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Five Guys",
+        "brand": "Five Guys",
+        "brand:wikidata": "Q1131810",
+        "addr:street": "Via San Quirico 165",
+        "addr:city": "Campi Bisenzio",
+        "addr:postcode": "50013",
+        "contact:phone": "055 835 8270",
+        "opening_hours": {
+          "Monday": "12:00-22:00",
+          "Tuesday": "12:00-22:00",
+          "Wednesday": "12:00-22:00",
+          "Thursday": "12:00-22:00",
+          "Friday": "11:30-22:00",
+          "Saturday": "11:30-22:00",
+          "Sunday": "11:30-22:00"
+        },
+        "website": "https://restaurants.fiveguys.it/it_it/via-san-quirico-165",
+        "store_id": "9",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.181682181756798, 45.46017137802822]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Five Guys",
+        "brand": "Five Guys",
+        "brand:wikidata": "Q1131810",
+        "addr:street": "Via Stampa 13-15 Via Torino",
+        "addr:city": "Milan",
+        "addr:postcode": "20123",
+        "contact:phone": "02 874009",
+        "opening_hours": {
+          "Monday": "11:30-22:30",
+          "Tuesday": "11:30-22:30",
+          "Wednesday": "11:30-10:30",
+          "Thursday": "11:30-22:30",
+          "Friday": "11:30-23:00",
+          "Saturday": "11:30-23:00",
+          "Sunday": "11:30-22:30"
+        },
+        "website": "https://restaurants.fiveguys.it/it_it/via-stampa-13-15-via-torino",
+        "store_id": "10",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    }
+  ]
+}
