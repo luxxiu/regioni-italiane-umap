@@ -1,0 +1,1180 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.880202,
+          42.941217
+        ]
+      },
+      "properties": {
+        "id": 20,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "San Benedetto Del Tronto",
+        "addr:city": "San Benedetto Del Tronto",
+        "addr:street": "Via Liberazione, 14",
+        "branch": "San Benedetto Del Tronto",
+        "contact:phone": "0735 782082",
+        "contact:website": "https://www.mcdonalds.it/ristorante/marche/ascoli-piceno/san-benedetto-del-tronto",
+        "opening_hours": {
+          "Monday": "09:00-02:00",
+          "Tuesday": "09:00-02:00",
+          "Wednesday": "09:00-02:00",
+          "Thursday": "09:00-02:00",
+          "Friday": "09:00-05:00",
+          "Saturday": "09:00-06:00",
+          "Sunday": "09:00-02:00"
+        },
+        "full_address": "Via Liberazione, 14 Ascoli Piceno tel: 0735 782082",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "20.00",
+        "regione": "marche",
+        "provincia": "ascoli-piceno",
+        "slug": "san-benedetto-del-tronto",
+        "detail_url": "https://www.mcdonalds.it/ristorante/marche/ascoli-piceno/san-benedetto-del-tronto",
+        "page_coordinates": [
+          13.880202,
+          42.941217
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**San Benedetto Del Tronto**\n---\n**ID:** 20\n\n### Address\nVia Liberazione, 14 Ascoli Piceno tel: 0735 782082, San Benedetto Del Tronto (ascoli-piceno)\n\n### Contacts\n**Phone:** 0735 782082\n**Website:** [https://www.mcdonalds.it/ristorante/marche/ascoli-piceno/san-benedetto-del-tronto](https://www.mcdonalds.it/ristorante/marche/ascoli-piceno/san-benedetto-del-tronto)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 09:00-02:00 |\n| **Tuesday** | 09:00-02:00 |\n| **Wednesday** | 09:00-02:00 |\n| **Thursday** | 09:00-02:00 |\n| **Friday** | 09:00-05:00 |\n| **Saturday** | 09:00-06:00 |\n| **Sunday** | 09:00-02:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.213034,
+          43.707628
+        ]
+      },
+      "properties": {
+        "id": 26,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Senigallia",
+        "addr:city": "Senigallia",
+        "addr:street": "Via Giordano Bruno, 49",
+        "branch": "Senigallia",
+        "contact:phone": "0717920503",
+        "contact:website": "https://www.mcdonalds.it/ristorante/marche/ancona/senigallia",
+        "opening_hours": {
+          "Monday": "08:00-01:00",
+          "Tuesday": "08:00-01:00",
+          "Wednesday": "08:00-01:00",
+          "Thursday": "08:00-01:00",
+          "Friday": "08:00-03:00",
+          "Saturday": "08:00-04:00",
+          "Sunday": "09:00-01:00"
+        },
+        "full_address": "Via Giordano Bruno, 49 Ancona tel: 0717920503",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "26.00",
+        "regione": "marche",
+        "provincia": "ancona",
+        "slug": "senigallia",
+        "detail_url": "https://www.mcdonalds.it/ristorante/marche/ancona/senigallia",
+        "page_coordinates": [
+          13.213034,
+          43.707628
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Senigallia**\n---\n**ID:** 26\n\n### Address\nVia Giordano Bruno, 49 Ancona tel: 0717920503, Senigallia (ancona)\n\n### Contacts\n**Phone:** 0717920503\n**Website:** [https://www.mcdonalds.it/ristorante/marche/ancona/senigallia](https://www.mcdonalds.it/ristorante/marche/ancona/senigallia)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-01:00 |\n| **Tuesday** | 08:00-01:00 |\n| **Wednesday** | 08:00-01:00 |\n| **Thursday** | 08:00-01:00 |\n| **Friday** | 08:00-03:00 |\n| **Saturday** | 08:00-04:00 |\n| **Sunday** | 09:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.800781,
+          43.164946
+        ]
+      },
+      "properties": {
+        "id": 83,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Porto San Giorgio Drive",
+        "addr:city": "Porto San Giorgio",
+        "addr:street": "Via Fratelli Rosselli, 264",
+        "branch": "Porto San Giorgio Drive",
+        "contact:phone": "0734 673779",
+        "contact:website": "https://www.mcdonalds.it/ristorante/marche/fermo/porto-san-giorgio-drive",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "10:30-00:00",
+          "Thursday": "10:30-00:00",
+          "Friday": "10:30-03:00",
+          "Saturday": "10:30-05:00",
+          "Sunday": "09:00-00:00"
+        },
+        "full_address": "Via Fratelli Rosselli, 264 Fermo tel: 0734 673779",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "83.00",
+        "regione": "marche",
+        "provincia": "fermo",
+        "slug": "porto-san-giorgio-drive",
+        "detail_url": "https://www.mcdonalds.it/ristorante/marche/fermo/porto-san-giorgio-drive",
+        "page_coordinates": [
+          13.800781,
+          43.164946
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Porto San Giorgio Drive**\n---\n**ID:** 83\n\n### Address\nVia Fratelli Rosselli, 264 Fermo tel: 0734 673779, Porto San Giorgio (fermo)\n\n### Contacts\n**Phone:** 0734 673779\n**Website:** [https://www.mcdonalds.it/ristorante/marche/fermo/porto-san-giorgio-drive](https://www.mcdonalds.it/ristorante/marche/fermo/porto-san-giorgio-drive)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-00:00 |\n| **Tuesday** | 10:30-00:00 |\n| **Wednesday** | 10:30-00:00 |\n| **Thursday** | 10:30-00:00 |\n| **Friday** | 10:30-03:00 |\n| **Saturday** | 10:30-05:00 |\n| **Sunday** | 09:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.510699,
+          43.558267
+        ]
+      },
+      "properties": {
+        "id": 91,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Ancona Baraccola",
+        "addr:city": "Ancona",
+        "addr:street": "Via Albertini",
+        "branch": "Ancona Baraccola",
+        "contact:phone": "071 2864984",
+        "contact:website": "https://www.mcdonalds.it/ristorante/marche/ancona/ancona-baraccola",
+        "opening_hours": {
+          "Monday": "10:30-02:00",
+          "Tuesday": "10:30-02:00",
+          "Wednesday": "10:30-02:00",
+          "Thursday": "08:30-02:00",
+          "Friday": "10:30-04:00",
+          "Saturday": "10:30-04:00",
+          "Sunday": "10:30-02:00"
+        },
+        "full_address": "Via Albertini Ancona tel: 071 2864984",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "91.00",
+        "regione": "marche",
+        "provincia": "ancona",
+        "slug": "ancona-baraccola",
+        "detail_url": "https://www.mcdonalds.it/ristorante/marche/ancona/ancona-baraccola",
+        "page_coordinates": [
+          13.510699,
+          43.558267
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Ancona Baraccola**\n---\n**ID:** 91\n\n### Address\nVia Albertini Ancona tel: 071 2864984, Ancona (ancona)\n\n### Contacts\n**Phone:** 071 2864984\n**Website:** [https://www.mcdonalds.it/ristorante/marche/ancona/ancona-baraccola](https://www.mcdonalds.it/ristorante/marche/ancona/ancona-baraccola)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-02:00 |\n| **Tuesday** | 10:30-02:00 |\n| **Wednesday** | 10:30-02:00 |\n| **Thursday** | 08:30-02:00 |\n| **Friday** | 10:30-04:00 |\n| **Saturday** | 10:30-04:00 |\n| **Sunday** | 10:30-02:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.252008,
+          43.522996
+        ]
+      },
+      "properties": {
+        "id": 248,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Jesi",
+        "addr:city": "Jesi",
+        "addr:street": "Via Gorgolungo, 6",
+        "branch": "Jesi",
+        "contact:phone": "0731 215175",
+        "contact:website": "https://www.mcdonalds.it/ristorante/marche/ancona/jesi",
+        "opening_hours": {
+          "Monday": "08:00-01:00",
+          "Tuesday": "08:00-01:00",
+          "Wednesday": "08:00-01:00",
+          "Thursday": "08:00-01:00",
+          "Friday": "08:00-03:00",
+          "Saturday": "08:00-04:00",
+          "Sunday": "09:00-01:00"
+        },
+        "full_address": "Via Gorgolungo, 6 Ancona tel: 0731 215175",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "248.00",
+        "regione": "marche",
+        "provincia": "ancona",
+        "slug": "jesi",
+        "detail_url": "https://www.mcdonalds.it/ristorante/marche/ancona/jesi",
+        "page_coordinates": [
+          13.252008,
+          43.522996
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Jesi**\n---\n**ID:** 248\n\n### Address\nVia Gorgolungo, 6 Ancona tel: 0731 215175, Jesi (ancona)\n\n### Contacts\n**Phone:** 0731 215175\n**Website:** [https://www.mcdonalds.it/ristorante/marche/ancona/jesi](https://www.mcdonalds.it/ristorante/marche/ancona/jesi)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-01:00 |\n| **Tuesday** | 08:00-01:00 |\n| **Wednesday** | 08:00-01:00 |\n| **Thursday** | 08:00-01:00 |\n| **Friday** | 08:00-03:00 |\n| **Saturday** | 08:00-04:00 |\n| **Sunday** | 09:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.484319,
+          43.270227
+        ]
+      },
+      "properties": {
+        "id": 270,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Corridonia",
+        "addr:city": "Corridonia",
+        "addr:street": "VIa Enrico Mattei, 189",
+        "branch": "Corridonia",
+        "contact:phone": "0733 288212",
+        "contact:website": "https://www.mcdonalds.it/ristorante/marche/macerata/corridonia",
+        "opening_hours": {
+          "Monday": "08:00-00:00",
+          "Tuesday": "08:00-00:00",
+          "Wednesday": "08:00-00:00",
+          "Thursday": "08:00-00:00",
+          "Friday": "08:00-00:00",
+          "Saturday": "08:00-00:00",
+          "Sunday": "08:00-00:00"
+        },
+        "full_address": "VIa Enrico Mattei, 189 Macerata tel: 0733 288212",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "270.00",
+        "regione": "marche",
+        "provincia": "macerata",
+        "slug": "corridonia",
+        "detail_url": "https://www.mcdonalds.it/ristorante/marche/macerata/corridonia",
+        "page_coordinates": [
+          13.484319,
+          43.270227
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Corridonia**\n---\n**ID:** 270\n\n### Address\nVIa Enrico Mattei, 189 Macerata tel: 0733 288212, Corridonia (macerata)\n\n### Contacts\n**Phone:** 0733 288212\n**Website:** [https://www.mcdonalds.it/ristorante/marche/macerata/corridonia](https://www.mcdonalds.it/ristorante/marche/macerata/corridonia)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-00:00 |\n| **Tuesday** | 08:00-00:00 |\n| **Wednesday** | 08:00-00:00 |\n| **Thursday** | 08:00-00:00 |\n| **Friday** | 08:00-00:00 |\n| **Saturday** | 08:00-00:00 |\n| **Sunday** | 08:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.652858,
+          43.434734
+        ]
+      },
+      "properties": {
+        "id": 304,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Loreto",
+        "addr:city": "Loreto",
+        "addr:street": "via Paolo Borsellino 2",
+        "branch": "Loreto",
+        "contact:phone": "071 7590675",
+        "contact:website": "https://www.mcdonalds.it/ristorante/marche/ancona/loreto",
+        "opening_hours": {
+          "Monday": "08:00-00:00",
+          "Tuesday": "08:00-00:00",
+          "Wednesday": "08:00-00:00",
+          "Thursday": "08:00-00:00",
+          "Friday": "08:00-00:00",
+          "Saturday": "08:00-00:00",
+          "Sunday": "08:00-00:00"
+        },
+        "full_address": "via Paolo Borsellino 2 Ancona tel: 071 7590675",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "304.00",
+        "regione": "marche",
+        "provincia": "ancona",
+        "slug": "loreto",
+        "detail_url": "https://www.mcdonalds.it/ristorante/marche/ancona/loreto",
+        "page_coordinates": [
+          13.652858,
+          43.434734
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Loreto**\n---\n**ID:** 304\n\n### Address\nvia Paolo Borsellino 2 Ancona tel: 071 7590675, Loreto (ancona)\n\n### Contacts\n**Phone:** 071 7590675\n**Website:** [https://www.mcdonalds.it/ristorante/marche/ancona/loreto](https://www.mcdonalds.it/ristorante/marche/ancona/loreto)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-00:00 |\n| **Tuesday** | 08:00-00:00 |\n| **Wednesday** | 08:00-00:00 |\n| **Thursday** | 08:00-00:00 |\n| **Friday** | 08:00-00:00 |\n| **Saturday** | 08:00-00:00 |\n| **Sunday** | 08:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.723596,
+          43.285914
+        ]
+      },
+      "properties": {
+        "id": 317,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Chienti Est",
+        "addr:city": "Santelpidio A Mare",
+        "addr:street": "Chienti Est (Total-Erg)",
+        "branch": "Chienti Est",
+        "contact:phone": "0734869980",
+        "contact:website": "https://www.mcdonalds.it/ristorante/marche/fermo/chienti-est",
+        "opening_hours": {
+          "Monday": "12:00-22:00",
+          "Tuesday": "12:00-22:00",
+          "Wednesday": "12:00-22:00",
+          "Thursday": "12:00-22:00",
+          "Friday": "12:00-22:00",
+          "Saturday": "12:00-22:00",
+          "Sunday": "12:00-22:00"
+        },
+        "full_address": "Chienti Est (Total-Erg) Fermo tel: 0734869980",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "317.00",
+        "regione": "marche",
+        "provincia": "fermo",
+        "slug": "chienti-est",
+        "detail_url": "https://www.mcdonalds.it/ristorante/marche/fermo/chienti-est",
+        "page_coordinates": [
+          13.723596,
+          43.285914
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "Take Away",
+          "Play Land"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Chienti Est**\n---\n**ID:** 317\n\n### Address\nChienti Est (Total-Erg) Fermo tel: 0734869980, Santelpidio A Mare (fermo)\n\n### Contacts\n**Phone:** 0734869980\n**Website:** [https://www.mcdonalds.it/ristorante/marche/fermo/chienti-est](https://www.mcdonalds.it/ristorante/marche/fermo/chienti-est)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 12:00-22:00 |\n| **Tuesday** | 12:00-22:00 |\n| **Wednesday** | 12:00-22:00 |\n| **Thursday** | 12:00-22:00 |\n| **Friday** | 12:00-22:00 |\n| **Saturday** | 12:00-22:00 |\n| **Sunday** | 12:00-22:00 |\n\n### Services\nMcDrive® • Take Away • Play Land"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.532839,
+          43.503519
+        ]
+      },
+      "properties": {
+        "id": 512,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Osimo",
+        "addr:city": "Osimo",
+        "addr:street": "via dellIndustria. 2",
+        "branch": "Osimo",
+        "contact:phone": "071 2513485",
+        "contact:website": "https://www.mcdonalds.it/ristorante/marche/ancona/osimo",
+        "opening_hours": {
+          "Monday": "10:30-01:00",
+          "Tuesday": "10:30-01:00",
+          "Wednesday": "10:30-01:00",
+          "Thursday": "08:00-01:00",
+          "Friday": "10:30-03:00",
+          "Saturday": "10:30-03:00",
+          "Sunday": "10:30-01:00"
+        },
+        "full_address": "via dellIndustria. 2 Ancona tel: 071 2513485",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "512.00",
+        "regione": "marche",
+        "provincia": "ancona",
+        "slug": "osimo",
+        "detail_url": "https://www.mcdonalds.it/ristorante/marche/ancona/osimo",
+        "page_coordinates": [
+          13.532839,
+          43.503519
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Osimo**\n---\n**ID:** 512\n\n### Address\nvia dellIndustria. 2 Ancona tel: 071 2513485, Osimo (ancona)\n\n### Contacts\n**Phone:** 071 2513485\n**Website:** [https://www.mcdonalds.it/ristorante/marche/ancona/osimo](https://www.mcdonalds.it/ristorante/marche/ancona/osimo)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-01:00 |\n| **Tuesday** | 10:30-01:00 |\n| **Wednesday** | 10:30-01:00 |\n| **Thursday** | 08:00-01:00 |\n| **Friday** | 10:30-03:00 |\n| **Saturday** | 10:30-03:00 |\n| **Sunday** | 10:30-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.039132,
+          43.834014
+        ]
+      },
+      "properties": {
+        "id": 527,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Fano",
+        "addr:city": "Fano",
+        "addr:street": "​viale Piceno.56",
+        "branch": "Fano",
+        "contact:phone": "0721 1953149",
+        "contact:website": "https://www.mcdonalds.it/ristorante/marche/pesaro/fano",
+        "opening_hours": {
+          "Monday": "10:30-02:00",
+          "Tuesday": "10:30-02:00",
+          "Wednesday": "10:30-02:00",
+          "Thursday": "10:30-02:00",
+          "Friday": "10:30-04:00",
+          "Saturday": "10:30-04:00",
+          "Sunday": "10:30-02:00"
+        },
+        "full_address": "​viale Piceno.56 Pesaro tel: 0721 1953149",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "527.00",
+        "regione": "marche",
+        "provincia": "pesaro",
+        "slug": "fano",
+        "detail_url": "https://www.mcdonalds.it/ristorante/marche/pesaro/fano",
+        "page_coordinates": [
+          13.039132,
+          43.834014
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Fano**\n---\n**ID:** 527\n\n### Address\n​viale Piceno.56 Pesaro tel: 0721 1953149, Fano (pesaro)\n\n### Contacts\n**Phone:** 0721 1953149\n**Website:** [https://www.mcdonalds.it/ristorante/marche/pesaro/fano](https://www.mcdonalds.it/ristorante/marche/pesaro/fano)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-02:00 |\n| **Tuesday** | 10:30-02:00 |\n| **Wednesday** | 10:30-02:00 |\n| **Thursday** | 10:30-02:00 |\n| **Friday** | 10:30-04:00 |\n| **Saturday** | 10:30-04:00 |\n| **Sunday** | 10:30-02:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.621027,
+          42.844835
+        ]
+      },
+      "properties": {
+        "id": 550,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Ascoli Piceno Drive",
+        "addr:city": "Ascoli Piceno",
+        "addr:street": "Via del Commercio",
+        "branch": "Ascoli Piceno Drive",
+        "contact:phone": "0736 722338",
+        "contact:website": "https://www.mcdonalds.it/ristorante/marche/ascoli-piceno/ascoli-piceno-drive",
+        "opening_hours": {
+          "Monday": "08:00-02:00",
+          "Tuesday": "08:00-02:00",
+          "Wednesday": "08:00-02:00",
+          "Thursday": "08:00-02:00",
+          "Friday": "08:00-03:00",
+          "Saturday": "08:00-05:00",
+          "Sunday": "08:00-02:00"
+        },
+        "full_address": "Via del Commercio Ascoli Piceno tel: 0736 722338",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "550.00",
+        "regione": "marche",
+        "provincia": "ascoli-piceno",
+        "slug": "ascoli-piceno-drive",
+        "detail_url": "https://www.mcdonalds.it/ristorante/marche/ascoli-piceno/ascoli-piceno-drive",
+        "page_coordinates": [
+          13.621027,
+          42.844835
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Ascoli Piceno Drive**\n---\n**ID:** 550\n\n### Address\nVia del Commercio Ascoli Piceno tel: 0736 722338, Ascoli Piceno (ascoli-piceno)\n\n### Contacts\n**Phone:** 0736 722338\n**Website:** [https://www.mcdonalds.it/ristorante/marche/ascoli-piceno/ascoli-piceno-drive](https://www.mcdonalds.it/ristorante/marche/ascoli-piceno/ascoli-piceno-drive)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-02:00 |\n| **Tuesday** | 08:00-02:00 |\n| **Wednesday** | 08:00-02:00 |\n| **Thursday** | 08:00-02:00 |\n| **Friday** | 08:00-03:00 |\n| **Saturday** | 08:00-05:00 |\n| **Sunday** | 08:00-02:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.871737,
+          43.906393
+        ]
+      },
+      "properties": {
+        "id": 576,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Pesaro Gagarin Drive",
+        "addr:city": "Pesaro",
+        "addr:street": "Via Grande Torino. 6",
+        "branch": "Pesaro Gagarin Drive",
+        "contact:phone": "0721 1953366",
+        "contact:website": "https://www.mcdonalds.it/ristorante/marche/pesaro/pesaro-gagarin-drive",
+        "opening_hours": {
+          "Monday": "08:00-01:00",
+          "Tuesday": "08:00-01:00",
+          "Wednesday": "08:00-01:00",
+          "Thursday": "08:00-01:00",
+          "Friday": "08:00-04:00",
+          "Saturday": "08:00-05:00",
+          "Sunday": "09:00-01:00"
+        },
+        "full_address": "Via Grande Torino. 6 Pesaro tel: 0721 1953366",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "576.00",
+        "regione": "marche",
+        "provincia": "pesaro",
+        "slug": "pesaro-gagarin-drive",
+        "detail_url": "https://www.mcdonalds.it/ristorante/marche/pesaro/pesaro-gagarin-drive",
+        "page_coordinates": [
+          12.871737,
+          43.906393
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Pesaro Gagarin Drive**\n---\n**ID:** 576\n\n### Address\nVia Grande Torino. 6 Pesaro tel: 0721 1953366, Pesaro (pesaro)\n\n### Contacts\n**Phone:** 0721 1953366\n**Website:** [https://www.mcdonalds.it/ristorante/marche/pesaro/pesaro-gagarin-drive](https://www.mcdonalds.it/ristorante/marche/pesaro/pesaro-gagarin-drive)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-01:00 |\n| **Tuesday** | 08:00-01:00 |\n| **Wednesday** | 08:00-01:00 |\n| **Thursday** | 08:00-01:00 |\n| **Friday** | 08:00-04:00 |\n| **Saturday** | 08:00-05:00 |\n| **Sunday** | 09:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.455345,
+          43.607488
+        ]
+      },
+      "properties": {
+        "id": 600,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Ancona Torrette",
+        "addr:city": "Ancona",
+        "addr:street": "Via Tenna angolo Via Conca",
+        "branch": "Ancona Torrette",
+        "contact:phone": "071 2512041",
+        "contact:website": "https://www.mcdonalds.it/ristorante/marche/ancona/ancona-torrette",
+        "opening_hours": {
+          "Monday": "10:30-01:00",
+          "Tuesday": "10:30-01:00",
+          "Wednesday": "10:30-01:00",
+          "Thursday": "08:00-01:00",
+          "Friday": "10:30-03:00",
+          "Saturday": "10:30-03:00",
+          "Sunday": "10:30-01:00"
+        },
+        "full_address": "Via Tenna angolo Via Conca Ancona tel: 071 2512041",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "600.00",
+        "regione": "marche",
+        "provincia": "ancona",
+        "slug": "ancona-torrette",
+        "detail_url": "https://www.mcdonalds.it/ristorante/marche/ancona/ancona-torrette",
+        "page_coordinates": [
+          13.455345,
+          43.607488
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Ancona Torrette**\n---\n**ID:** 600\n\n### Address\nVia Tenna angolo Via Conca Ancona tel: 071 2512041, Ancona (ancona)\n\n### Contacts\n**Phone:** 071 2512041\n**Website:** [https://www.mcdonalds.it/ristorante/marche/ancona/ancona-torrette](https://www.mcdonalds.it/ristorante/marche/ancona/ancona-torrette)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-01:00 |\n| **Tuesday** | 10:30-01:00 |\n| **Wednesday** | 10:30-01:00 |\n| **Thursday** | 08:00-01:00 |\n| **Friday** | 10:30-03:00 |\n| **Saturday** | 10:30-03:00 |\n| **Sunday** | 10:30-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.92693,
+          43.348924
+        ]
+      },
+      "properties": {
+        "id": 613,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Fabriano Via Dante",
+        "addr:city": "Fabriano",
+        "addr:street": "via Dante Alighieri 223",
+        "branch": "Fabriano Via Dante",
+        "contact:phone": "0732 862014",
+        "contact:website": "https://www.mcdonalds.it/ristorante/marche/ancona/fabriano-via-dante",
+        "opening_hours": {
+          "Monday": "08:00-01:00",
+          "Tuesday": "08:00-01:00",
+          "Wednesday": "08:00-01:00",
+          "Thursday": "10:00-00:00",
+          "Friday": "08:00-01:00",
+          "Saturday": "08:00-01:00",
+          "Sunday": "08:00-01:00"
+        },
+        "full_address": "via Dante Alighieri 223 Ancona tel: 0732 862014",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "613.00",
+        "regione": "marche",
+        "provincia": "ancona",
+        "slug": "fabriano-via-dante",
+        "detail_url": "https://www.mcdonalds.it/ristorante/marche/ancona/fabriano-via-dante",
+        "page_coordinates": [
+          12.92693,
+          43.348924
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Fabriano Via Dante**\n---\n**ID:** 613\n\n### Address\nvia Dante Alighieri 223 Ancona tel: 0732 862014, Fabriano (ancona)\n\n### Contacts\n**Phone:** 0732 862014\n**Website:** [https://www.mcdonalds.it/ristorante/marche/ancona/fabriano-via-dante](https://www.mcdonalds.it/ristorante/marche/ancona/fabriano-via-dante)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-01:00 |\n| **Tuesday** | 08:00-01:00 |\n| **Wednesday** | 08:00-01:00 |\n| **Thursday** | 10:00-00:00 |\n| **Friday** | 08:00-01:00 |\n| **Saturday** | 08:00-01:00 |\n| **Sunday** | 08:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.706592,
+          43.300679
+        ]
+      },
+      "properties": {
+        "id": 652,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Civitanova Marche",
+        "addr:city": "Civitanova Marche",
+        "addr:street": "Via Silvio Pellico",
+        "branch": "Civitanova Marche",
+        "contact:phone": "0733093442",
+        "contact:website": "https://www.mcdonalds.it/ristorante/marche/macerata/civitanova-marche",
+        "opening_hours": {
+          "Monday": "08:00-00:00",
+          "Tuesday": "08:00-00:00",
+          "Wednesday": "08:00-00:00",
+          "Thursday": "08:00-00:00",
+          "Friday": "08:00-00:00",
+          "Saturday": "08:00-00:00",
+          "Sunday": "08:00-00:00"
+        },
+        "full_address": "Via Silvio Pellico Macerata tel: 0733093442",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "652.00",
+        "regione": "marche",
+        "provincia": "macerata",
+        "slug": "civitanova-marche",
+        "detail_url": "https://www.mcdonalds.it/ristorante/marche/macerata/civitanova-marche",
+        "page_coordinates": [
+          13.706592,
+          43.300679
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Civitanova Marche**\n---\n**ID:** 652\n\n### Address\nVia Silvio Pellico Macerata tel: 0733093442, Civitanova Marche (macerata)\n\n### Contacts\n**Phone:** 0733093442\n**Website:** [https://www.mcdonalds.it/ristorante/marche/macerata/civitanova-marche](https://www.mcdonalds.it/ristorante/marche/macerata/civitanova-marche)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-00:00 |\n| **Tuesday** | 08:00-00:00 |\n| **Wednesday** | 08:00-00:00 |\n| **Thursday** | 08:00-00:00 |\n| **Friday** | 08:00-00:00 |\n| **Saturday** | 08:00-00:00 |\n| **Sunday** | 08:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.309241,
+          43.215995
+        ]
+      },
+      "properties": {
+        "id": 658,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Tolentino Via Pertini",
+        "addr:city": "Tolentino",
+        "addr:street": "Via Sandro Pertini. 23",
+        "branch": "Tolentino Via Pertini",
+        "contact:phone": "0733093446",
+        "contact:website": "https://www.mcdonalds.it/ristorante/marche/macerata/tolentino-via-pertini",
+        "opening_hours": {
+          "Monday": "08:00-00:00",
+          "Tuesday": "08:00-00:00",
+          "Wednesday": "08:00-00:00",
+          "Thursday": "08:00-00:00",
+          "Friday": "08:00-00:00",
+          "Saturday": "08:00-00:00",
+          "Sunday": "08:00-00:00"
+        },
+        "full_address": "Via Sandro Pertini. 23 Macerata tel: 0733093446",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "658.00",
+        "regione": "marche",
+        "provincia": "macerata",
+        "slug": "tolentino-via-pertini",
+        "detail_url": "https://www.mcdonalds.it/ristorante/marche/macerata/tolentino-via-pertini",
+        "page_coordinates": [
+          13.309241,
+          43.215995
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Tolentino Via Pertini**\n---\n**ID:** 658\n\n### Address\nVia Sandro Pertini. 23 Macerata tel: 0733093446, Tolentino (macerata)\n\n### Contacts\n**Phone:** 0733093446\n**Website:** [https://www.mcdonalds.it/ristorante/marche/macerata/tolentino-via-pertini](https://www.mcdonalds.it/ristorante/marche/macerata/tolentino-via-pertini)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-00:00 |\n| **Tuesday** | 08:00-00:00 |\n| **Wednesday** | 08:00-00:00 |\n| **Thursday** | 08:00-00:00 |\n| **Friday** | 08:00-00:00 |\n| **Saturday** | 08:00-00:00 |\n| **Sunday** | 08:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.435963,
+          43.339363
+        ]
+      },
+      "properties": {
+        "id": 778,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Montecassiano",
+        "addr:city": "Montecassiano",
+        "addr:street": "SP77 snc",
+        "branch": "Montecassiano",
+        "contact:phone": "0733 1587982",
+        "contact:website": "https://www.mcdonalds.it/ristorante/marche/macerata/montecassiano",
+        "opening_hours": {
+          "Monday": "08:00-00:00",
+          "Tuesday": "08:00-00:00",
+          "Wednesday": "08:00-00:00",
+          "Thursday": "08:00-00:00",
+          "Friday": "08:00-00:00",
+          "Saturday": "08:00-00:00",
+          "Sunday": "08:00-00:00"
+        },
+        "full_address": "SP77 snc Macerata tel: 0733 1587982",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "778.00",
+        "regione": "marche",
+        "provincia": "macerata",
+        "slug": "montecassiano",
+        "detail_url": "https://www.mcdonalds.it/ristorante/marche/macerata/montecassiano",
+        "page_coordinates": [
+          13.435963,
+          43.339363
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Montecassiano**\n---\n**ID:** 778\n\n### Address\nSP77 snc Macerata tel: 0733 1587982, Montecassiano (macerata)\n\n### Contacts\n**Phone:** 0733 1587982\n**Website:** [https://www.mcdonalds.it/ristorante/marche/macerata/montecassiano](https://www.mcdonalds.it/ristorante/marche/macerata/montecassiano)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-00:00 |\n| **Tuesday** | 08:00-00:00 |\n| **Wednesday** | 08:00-00:00 |\n| **Thursday** | 08:00-00:00 |\n| **Friday** | 08:00-00:00 |\n| **Saturday** | 08:00-00:00 |\n| **Sunday** | 08:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.722326,
+          43.285557
+        ]
+      },
+      "properties": {
+        "id": 785,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Chienti Ovest",
+        "addr:city": "Santelpidio A Mare",
+        "addr:street": "c/o ADS Chienti Ovest A14 km 263",
+        "branch": "Chienti Ovest",
+        "contact:phone": "0734014746",
+        "contact:website": "https://www.mcdonalds.it/ristorante/marche/fermo/chienti-ovest",
+        "opening_hours": {
+          "Monday": "11:00-22:00",
+          "Tuesday": "11:00-22:00",
+          "Wednesday": "11:00-22:00",
+          "Thursday": "11:00-22:00",
+          "Friday": "10:00-23:00",
+          "Saturday": "10:00-23:00",
+          "Sunday": "10:00-23:00"
+        },
+        "full_address": "c/o ADS Chienti Ovest A14 km 263 Fermo tel: 0734014746",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "785.00",
+        "regione": "marche",
+        "provincia": "fermo",
+        "slug": "chienti-ovest",
+        "detail_url": "https://www.mcdonalds.it/ristorante/marche/fermo/chienti-ovest",
+        "page_coordinates": [
+          13.722326,
+          43.285557
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Chienti Ovest**\n---\n**ID:** 785\n\n### Address\nc/o ADS Chienti Ovest A14 km 263 Fermo tel: 0734014746, Santelpidio A Mare (fermo)\n\n### Contacts\n**Phone:** 0734014746\n**Website:** [https://www.mcdonalds.it/ristorante/marche/fermo/chienti-ovest](https://www.mcdonalds.it/ristorante/marche/fermo/chienti-ovest)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 11:00-22:00 |\n| **Tuesday** | 11:00-22:00 |\n| **Wednesday** | 11:00-22:00 |\n| **Thursday** | 11:00-22:00 |\n| **Friday** | 10:00-23:00 |\n| **Saturday** | 10:00-23:00 |\n| **Sunday** | 10:00-23:00 |\n\n### Services\nTake Away • Ordina in App • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.673783,
+          43.176538
+        ]
+      },
+      "properties": {
+        "id": 989,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Campiglione di Fermo",
+        "addr:city": "Fermo",
+        "addr:street": "Via Giacomo Filippo Maria Prosperi",
+        "branch": "Campiglione di Fermo",
+        "contact:phone": "0734012535",
+        "contact:website": "https://www.mcdonalds.it/ristorante/marche/fermo/campiglione-di-fermo",
+        "opening_hours": {
+          "Monday": "08:00-01:00",
+          "Tuesday": "08:00-01:00",
+          "Wednesday": "08:00-01:00",
+          "Thursday": "08:00-01:00",
+          "Friday": "08:00-03:00",
+          "Saturday": "08:00-04:00",
+          "Sunday": "08:00-01:00"
+        },
+        "full_address": "Via Giacomo Filippo Maria Prosperi Fermo tel: 0734012535",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "989.00",
+        "regione": "marche",
+        "provincia": "fermo",
+        "slug": "campiglione-di-fermo",
+        "detail_url": "https://www.mcdonalds.it/ristorante/marche/fermo/campiglione-di-fermo",
+        "page_coordinates": [
+          13.673783,
+          43.176538
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Campiglione di Fermo**\n---\n**ID:** 989\n\n### Address\nVia Giacomo Filippo Maria Prosperi Fermo tel: 0734012535, Fermo (fermo)\n\n### Contacts\n**Phone:** 0734012535\n**Website:** [https://www.mcdonalds.it/ristorante/marche/fermo/campiglione-di-fermo](https://www.mcdonalds.it/ristorante/marche/fermo/campiglione-di-fermo)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-01:00 |\n| **Tuesday** | 08:00-01:00 |\n| **Wednesday** | 08:00-01:00 |\n| **Thursday** | 08:00-01:00 |\n| **Friday** | 08:00-03:00 |\n| **Saturday** | 08:00-04:00 |\n| **Sunday** | 08:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.012214,
+          43.801098
+        ]
+      },
+      "properties": {
+        "id": 1028,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Fano Einaudi Mall",
+        "addr:city": "Fano",
+        "addr:street": "Via Luigi Einaudi 30",
+        "branch": "Fano Einaudi Mall",
+        "contact:phone": "07211530670",
+        "contact:website": "https://www.mcdonalds.it/ristorante/marche/pesaro/fano-einaudi-mall",
+        "opening_hours": {
+          "Monday": "09:00-21:00",
+          "Tuesday": "09:00-21:00",
+          "Wednesday": "09:00-21:00",
+          "Thursday": "09:00-21:00",
+          "Friday": "09:00-21:00",
+          "Saturday": "09:00-21:00",
+          "Sunday": "09:00-21:00"
+        },
+        "full_address": "Via Luigi Einaudi 30 Pesaro tel: 07211530670",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1028.00",
+        "regione": "marche",
+        "provincia": "pesaro",
+        "slug": "fano-einaudi-mall",
+        "detail_url": "https://www.mcdonalds.it/ristorante/marche/pesaro/fano-einaudi-mall",
+        "page_coordinates": [
+          13.012214,
+          43.801098
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Fano Einaudi Mall**\n---\n**ID:** 1028\n\n### Address\nVia Luigi Einaudi 30 Pesaro tel: 07211530670, Fano (pesaro)\n\n### Contacts\n**Phone:** 07211530670\n**Website:** [https://www.mcdonalds.it/ristorante/marche/pesaro/fano-einaudi-mall](https://www.mcdonalds.it/ristorante/marche/pesaro/fano-einaudi-mall)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 09:00-21:00 |\n| **Tuesday** | 09:00-21:00 |\n| **Wednesday** | 09:00-21:00 |\n| **Thursday** | 09:00-21:00 |\n| **Friday** | 09:00-21:00 |\n| **Saturday** | 09:00-21:00 |\n| **Sunday** | 09:00-21:00 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Wi-fi"
+      }
+    }
+  ]
+}

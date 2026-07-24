@@ -1,0 +1,889 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.583841,
+          43.060528
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Assisi",
+        "addr:city": "Santa Maria Degli Angeli",
+        "addr:street": "Via Patrono dItalia ang. Via Carducci",
+        "branch": "Assisi",
+        "contact:phone": "075 8044422",
+        "contact:website": "https://www.mcdonalds.it/ristorante/umbria/perugia/assisi",
+        "opening_hours": {
+          "Monday": "08:00-00:00",
+          "Tuesday": "08:00-00:00",
+          "Wednesday": "08:00-00:00",
+          "Thursday": "08:00-00:00",
+          "Friday": "08:00-00:00",
+          "Saturday": "08:00-00:00",
+          "Sunday": "08:00-00:00"
+        },
+        "full_address": "Via Patrono dItalia ang. Via Carducci Perugia tel: 075 8044422",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "4.00",
+        "regione": "umbria",
+        "provincia": "perugia",
+        "slug": "assisi",
+        "detail_url": "https://www.mcdonalds.it/ristorante/umbria/perugia/assisi",
+        "page_coordinates": [
+          12.583841,
+          43.060528
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Assisi**\n---\n**ID:** 4\n\n### Address\nVia Patrono dItalia ang. Via Carducci Perugia tel: 075 8044422, Santa Maria Degli Angeli (perugia)\n\n### Contacts\n**Phone:** 075 8044422\n**Website:** [https://www.mcdonalds.it/ristorante/umbria/perugia/assisi](https://www.mcdonalds.it/ristorante/umbria/perugia/assisi)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-00:00 |\n| **Tuesday** | 08:00-00:00 |\n| **Wednesday** | 08:00-00:00 |\n| **Thursday** | 08:00-00:00 |\n| **Friday** | 08:00-00:00 |\n| **Saturday** | 08:00-00:00 |\n| **Sunday** | 08:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.336237,
+          43.079453
+        ]
+      },
+      "properties": {
+        "id": 203,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Perugia San Sisto",
+        "addr:city": "San Sisto",
+        "addr:street": "Via Dottori 105",
+        "branch": "Perugia San Sisto",
+        "contact:phone": "075 5271167",
+        "contact:website": "https://www.mcdonalds.it/ristorante/umbria/perugia/perugia-san-sisto",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-01:00",
+          "Thursday": "07:00-01:00",
+          "Friday": "07:00-01:00",
+          "Saturday": "07:00-01:00",
+          "Sunday": "07:00-01:00"
+        },
+        "full_address": "Via Dottori 105 Perugia tel: 075 5271167",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "203.00",
+        "regione": "umbria",
+        "provincia": "perugia",
+        "slug": "perugia-san-sisto",
+        "detail_url": "https://www.mcdonalds.it/ristorante/umbria/perugia/perugia-san-sisto",
+        "page_coordinates": [
+          12.336237,
+          43.079453
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Perugia San Sisto**\n---\n**ID:** 203\n\n### Address\nVia Dottori 105 Perugia tel: 075 5271167, San Sisto (perugia)\n\n### Contacts\n**Phone:** 075 5271167\n**Website:** [https://www.mcdonalds.it/ristorante/umbria/perugia/perugia-san-sisto](https://www.mcdonalds.it/ristorante/umbria/perugia/perugia-san-sisto)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-01:00 |\n| **Tuesday** | 07:00-01:00 |\n| **Wednesday** | 07:00-01:00 |\n| **Thursday** | 07:00-01:00 |\n| **Friday** | 07:00-01:00 |\n| **Saturday** | 07:00-01:00 |\n| **Sunday** | 07:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.624972,
+          42.577357
+        ]
+      },
+      "properties": {
+        "id": 293,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Terni Drive",
+        "addr:city": "Terni",
+        "addr:street": "via del Centenario, 4",
+        "branch": "Terni Drive",
+        "contact:phone": "0744 300328",
+        "contact:website": "https://www.mcdonalds.it/ristorante/umbria/terni/terni-drive",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-01:00",
+          "Thursday": "07:00-01:00",
+          "Friday": "07:00-02:00",
+          "Saturday": "06:00-02:00",
+          "Sunday": "06:00-01:00"
+        },
+        "full_address": "via del Centenario, 4 Terni tel: 0744 300328",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "293.00",
+        "regione": "umbria",
+        "provincia": "terni",
+        "slug": "terni-drive",
+        "detail_url": "https://www.mcdonalds.it/ristorante/umbria/terni/terni-drive",
+        "page_coordinates": [
+          12.624972,
+          42.577357
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Terni Drive**\n---\n**ID:** 293\n\n### Address\nvia del Centenario, 4 Terni tel: 0744 300328, Terni (terni)\n\n### Contacts\n**Phone:** 0744 300328\n**Website:** [https://www.mcdonalds.it/ristorante/umbria/terni/terni-drive](https://www.mcdonalds.it/ristorante/umbria/terni/terni-drive)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-01:00 |\n| **Tuesday** | 07:00-01:00 |\n| **Wednesday** | 07:00-01:00 |\n| **Thursday** | 07:00-01:00 |\n| **Friday** | 07:00-02:00 |\n| **Saturday** | 06:00-02:00 |\n| **Sunday** | 06:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.230004,
+          43.469459
+        ]
+      },
+      "properties": {
+        "id": 306,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Città di Castello",
+        "addr:city": "Citta Di Castello",
+        "addr:street": "via Rodolfo Morandi",
+        "branch": "Città di Castello",
+        "contact:phone": "075 6317033",
+        "contact:website": "https://www.mcdonalds.it/ristorante/umbria/perugia/citta-di-castello",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-00:00",
+          "Saturday": "07:00-00:00",
+          "Sunday": "07:00-00:00"
+        },
+        "full_address": "via Rodolfo Morandi Perugia tel: 075 6317033",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "306.00",
+        "regione": "umbria",
+        "provincia": "perugia",
+        "slug": "citta-di-castello",
+        "detail_url": "https://www.mcdonalds.it/ristorante/umbria/perugia/citta-di-castello",
+        "page_coordinates": [
+          12.230004,
+          43.469459
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Città di Castello**\n---\n**ID:** 306\n\n### Address\nvia Rodolfo Morandi Perugia tel: 075 6317033, Citta Di Castello (perugia)\n\n### Contacts\n**Phone:** 075 6317033\n**Website:** [https://www.mcdonalds.it/ristorante/umbria/perugia/citta-di-castello](https://www.mcdonalds.it/ristorante/umbria/perugia/citta-di-castello)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-00:00 |\n| **Tuesday** | 07:00-00:00 |\n| **Wednesday** | 07:00-00:00 |\n| **Thursday** | 07:00-00:00 |\n| **Friday** | 07:00-00:00 |\n| **Saturday** | 07:00-00:00 |\n| **Sunday** | 07:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.470115,
+          43.088319
+        ]
+      },
+      "properties": {
+        "id": 459,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Perugia Collestrada",
+        "addr:city": "Perugia",
+        "addr:street": "Via Valtiera, 181",
+        "branch": "Perugia Collestrada",
+        "contact:phone": "075 5997346",
+        "contact:website": "https://www.mcdonalds.it/ristorante/umbria/perugia/perugia-collestrada",
+        "opening_hours": {
+          "Monday": "09:00-21:00",
+          "Tuesday": "09:00-21:00",
+          "Wednesday": "09:00-21:00",
+          "Thursday": "09:00-21:00",
+          "Friday": "09:00-21:00",
+          "Saturday": "09:00-21:00",
+          "Sunday": "09:00-21:00"
+        },
+        "full_address": "Via Valtiera, 181 Perugia tel: 075 5997346",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "459.00",
+        "regione": "umbria",
+        "provincia": "perugia",
+        "slug": "perugia-collestrada",
+        "detail_url": "https://www.mcdonalds.it/ristorante/umbria/perugia/perugia-collestrada",
+        "page_coordinates": [
+          12.470115,
+          43.088319
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Perugia Collestrada**\n---\n**ID:** 459\n\n### Address\nVia Valtiera, 181 Perugia tel: 075 5997346, Perugia (perugia)\n\n### Contacts\n**Phone:** 075 5997346\n**Website:** [https://www.mcdonalds.it/ristorante/umbria/perugia/perugia-collestrada](https://www.mcdonalds.it/ristorante/umbria/perugia/perugia-collestrada)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 09:00-21:00 |\n| **Tuesday** | 09:00-21:00 |\n| **Wednesday** | 09:00-21:00 |\n| **Thursday** | 09:00-21:00 |\n| **Friday** | 09:00-21:00 |\n| **Saturday** | 09:00-21:00 |\n| **Sunday** | 09:00-21:00 |\n\n### Services\nMcCafé® • Take Away • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.684179,
+          42.962661
+        ]
+      },
+      "properties": {
+        "id": 529,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Foligno Drive",
+        "addr:city": "Foligno",
+        "addr:street": "Via Fiamenga Foligno, PG",
+        "branch": "Foligno Drive",
+        "contact:phone": "0742 602510",
+        "contact:website": "https://www.mcdonalds.it/ristorante/umbria/perugia/foligno-drive",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-01:00",
+          "Thursday": "07:00-01:00",
+          "Friday": "07:00-01:00",
+          "Saturday": "07:00-01:00",
+          "Sunday": "07:00-01:00"
+        },
+        "full_address": "Via Fiamenga Foligno, PG Perugia tel: 0742 602510",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "529.00",
+        "regione": "umbria",
+        "provincia": "perugia",
+        "slug": "foligno-drive",
+        "detail_url": "https://www.mcdonalds.it/ristorante/umbria/perugia/foligno-drive",
+        "page_coordinates": [
+          12.684179,
+          42.962661
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Foligno Drive**\n---\n**ID:** 529\n\n### Address\nVia Fiamenga Foligno, PG Perugia tel: 0742 602510, Foligno (perugia)\n\n### Contacts\n**Phone:** 0742 602510\n**Website:** [https://www.mcdonalds.it/ristorante/umbria/perugia/foligno-drive](https://www.mcdonalds.it/ristorante/umbria/perugia/foligno-drive)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-01:00 |\n| **Tuesday** | 07:00-01:00 |\n| **Wednesday** | 07:00-01:00 |\n| **Thursday** | 07:00-01:00 |\n| **Friday** | 07:00-01:00 |\n| **Saturday** | 07:00-01:00 |\n| **Sunday** | 07:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.362664,
+          43.106146
+        ]
+      },
+      "properties": {
+        "id": 540,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Perugia Stadio",
+        "addr:city": "Perugia",
+        "addr:street": "Via Trasimeno Ovest, Perugia",
+        "branch": "Perugia Stadio",
+        "contact:phone": "075 6317305",
+        "contact:website": "https://www.mcdonalds.it/ristorante/umbria/perugia/perugia-stadio",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-01:00",
+          "Thursday": "07:00-01:00",
+          "Friday": "07:00-01:00",
+          "Saturday": "07:00-01:00",
+          "Sunday": "07:00-01:00"
+        },
+        "full_address": "Via Trasimeno Ovest, Perugia Perugia tel: 075 6317305",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "540.00",
+        "regione": "umbria",
+        "provincia": "perugia",
+        "slug": "perugia-stadio",
+        "detail_url": "https://www.mcdonalds.it/ristorante/umbria/perugia/perugia-stadio",
+        "page_coordinates": [
+          12.362664,
+          43.106146
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Perugia Stadio**\n---\n**ID:** 540\n\n### Address\nVia Trasimeno Ovest, Perugia Perugia tel: 075 6317305, Perugia (perugia)\n\n### Contacts\n**Phone:** 075 6317305\n**Website:** [https://www.mcdonalds.it/ristorante/umbria/perugia/perugia-stadio](https://www.mcdonalds.it/ristorante/umbria/perugia/perugia-stadio)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-01:00 |\n| **Tuesday** | 07:00-01:00 |\n| **Wednesday** | 07:00-01:00 |\n| **Thursday** | 07:00-01:00 |\n| **Friday** | 07:00-01:00 |\n| **Saturday** | 07:00-01:00 |\n| **Sunday** | 07:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.300215,
+          43.10198
+        ]
+      },
+      "properties": {
+        "id": 682,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Corciano",
+        "addr:city": "Corciano",
+        "addr:street": "Via A. Gramsci",
+        "branch": "Corciano",
+        "contact:phone": "0756318511",
+        "contact:website": "https://www.mcdonalds.it/ristorante/umbria/perugia/corciano",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-01:00",
+          "Thursday": "07:00-01:00",
+          "Friday": "07:00-01:00",
+          "Saturday": "07:00-01:00",
+          "Sunday": "07:00-01:00"
+        },
+        "full_address": "Via A. Gramsci Perugia tel: 0756318511",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "682.00",
+        "regione": "umbria",
+        "provincia": "perugia",
+        "slug": "corciano",
+        "detail_url": "https://www.mcdonalds.it/ristorante/umbria/perugia/corciano",
+        "page_coordinates": [
+          12.300215,
+          43.10198
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Corciano**\n---\n**ID:** 682\n\n### Address\nVia A. Gramsci Perugia tel: 0756318511, Corciano (perugia)\n\n### Contacts\n**Phone:** 0756318511\n**Website:** [https://www.mcdonalds.it/ristorante/umbria/perugia/corciano](https://www.mcdonalds.it/ristorante/umbria/perugia/corciano)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-01:00 |\n| **Tuesday** | 07:00-01:00 |\n| **Wednesday** | 07:00-01:00 |\n| **Thursday** | 07:00-01:00 |\n| **Friday** | 07:00-01:00 |\n| **Saturday** | 07:00-01:00 |\n| **Sunday** | 07:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.634189,
+          42.560398
+        ]
+      },
+      "properties": {
+        "id": 716,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Terni Viale dello Stadio",
+        "addr:city": "Terni",
+        "addr:street": "Viale dello Stadio",
+        "branch": "Terni Viale dello Stadio",
+        "contact:phone": "0744030618",
+        "contact:website": "https://www.mcdonalds.it/ristorante/umbria/terni/terni-viale-dello-stadio",
+        "opening_hours": {
+          "Monday": "07:00-02:00",
+          "Tuesday": "07:00-02:00",
+          "Wednesday": "07:00-20:00",
+          "Thursday": "07:00-02:00",
+          "Friday": "07:00-03:00",
+          "Saturday": "07:00-03:00",
+          "Sunday": "07:00-02:00"
+        },
+        "full_address": "Viale dello Stadio Terni tel: 0744030618",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "716.00",
+        "regione": "umbria",
+        "provincia": "terni",
+        "slug": "terni-viale-dello-stadio",
+        "detail_url": "https://www.mcdonalds.it/ristorante/umbria/terni/terni-viale-dello-stadio",
+        "page_coordinates": [
+          12.634189,
+          42.560398
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Terni Viale dello Stadio**\n---\n**ID:** 716\n\n### Address\nViale dello Stadio Terni tel: 0744030618, Terni (terni)\n\n### Contacts\n**Phone:** 0744030618\n**Website:** [https://www.mcdonalds.it/ristorante/umbria/terni/terni-viale-dello-stadio](https://www.mcdonalds.it/ristorante/umbria/terni/terni-viale-dello-stadio)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-02:00 |\n| **Tuesday** | 07:00-02:00 |\n| **Wednesday** | 07:00-20:00 |\n| **Thursday** | 07:00-02:00 |\n| **Friday** | 07:00-03:00 |\n| **Saturday** | 07:00-03:00 |\n| **Sunday** | 07:00-02:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.546842,
+          43.062567
+        ]
+      },
+      "properties": {
+        "id": 761,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Bastia Umbra",
+        "addr:city": "Bastia Umbra",
+        "addr:street": "Via Eugenio Montale 1",
+        "branch": "Bastia Umbra",
+        "contact:phone": "0753757708",
+        "contact:website": "https://www.mcdonalds.it/ristorante/umbria/perugia/bastia-umbra",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-01:00",
+          "Thursday": "07:00-01:00",
+          "Friday": "07:00-01:00",
+          "Saturday": "07:00-01:00",
+          "Sunday": "07:00-01:00"
+        },
+        "full_address": "Via Eugenio Montale 1 Perugia tel: 0753757708",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "761.00",
+        "regione": "umbria",
+        "provincia": "perugia",
+        "slug": "bastia-umbra",
+        "detail_url": "https://www.mcdonalds.it/ristorante/umbria/perugia/bastia-umbra",
+        "page_coordinates": [
+          12.546842,
+          43.062567
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Bastia Umbra**\n---\n**ID:** 761\n\n### Address\nVia Eugenio Montale 1 Perugia tel: 0753757708, Bastia Umbra (perugia)\n\n### Contacts\n**Phone:** 0753757708\n**Website:** [https://www.mcdonalds.it/ristorante/umbria/perugia/bastia-umbra](https://www.mcdonalds.it/ristorante/umbria/perugia/bastia-umbra)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-01:00 |\n| **Tuesday** | 07:00-01:00 |\n| **Wednesday** | 07:00-01:00 |\n| **Thursday** | 07:00-01:00 |\n| **Friday** | 07:00-01:00 |\n| **Saturday** | 07:00-01:00 |\n| **Sunday** | 07:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.448019,
+          43.086939
+        ]
+      },
+      "properties": {
+        "id": 779,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Perugia Ponte San Giovanni",
+        "addr:city": "Perugia",
+        "addr:street": "via della valtiera",
+        "branch": "Perugia Ponte San Giovanni",
+        "contact:phone": "075 3757972",
+        "contact:website": "https://www.mcdonalds.it/ristorante/umbria/perugia/perugia-ponte-san-giovanni",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-01:00",
+          "Thursday": "07:00-01:00",
+          "Friday": "07:00-01:00",
+          "Saturday": "07:00-01:00",
+          "Sunday": "07:00-01:00"
+        },
+        "full_address": "via della valtiera Perugia tel: 075 3757972",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "779.00",
+        "regione": "umbria",
+        "provincia": "perugia",
+        "slug": "perugia-ponte-san-giovanni",
+        "detail_url": "https://www.mcdonalds.it/ristorante/umbria/perugia/perugia-ponte-san-giovanni",
+        "page_coordinates": [
+          12.448019,
+          43.086939
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Perugia Ponte San Giovanni**\n---\n**ID:** 779\n\n### Address\nvia della valtiera Perugia tel: 075 3757972, Perugia (perugia)\n\n### Contacts\n**Phone:** 075 3757972\n**Website:** [https://www.mcdonalds.it/ristorante/umbria/perugia/perugia-ponte-san-giovanni](https://www.mcdonalds.it/ristorante/umbria/perugia/perugia-ponte-san-giovanni)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-01:00 |\n| **Tuesday** | 07:00-01:00 |\n| **Wednesday** | 07:00-01:00 |\n| **Thursday** | 07:00-01:00 |\n| **Friday** | 07:00-01:00 |\n| **Saturday** | 07:00-01:00 |\n| **Sunday** | 07:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.659384,
+          42.554941
+        ]
+      },
+      "properties": {
+        "id": 1019,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Terni Est",
+        "addr:city": "Terni",
+        "addr:street": "Via Alfredo Urbinati",
+        "branch": "Terni Est",
+        "contact:phone": "0744030798",
+        "contact:website": "https://www.mcdonalds.it/ristorante/umbria/terni/terni-est",
+        "opening_hours": {
+          "Monday": "07:00-02:00",
+          "Tuesday": "07:00-02:00",
+          "Wednesday": "07:00-02:00",
+          "Thursday": "07:00-02:00",
+          "Friday": "07:00-03:00",
+          "Saturday": "07:00-03:00",
+          "Sunday": "07:00-02:00"
+        },
+        "full_address": "Via Alfredo Urbinati Terni tel: 0744030798",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1019.00",
+        "regione": "umbria",
+        "provincia": "terni",
+        "slug": "terni-est",
+        "detail_url": "https://www.mcdonalds.it/ristorante/umbria/terni/terni-est",
+        "page_coordinates": [
+          12.659384,
+          42.554941
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Terni Est**\n---\n**ID:** 1019\n\n### Address\nVia Alfredo Urbinati Terni tel: 0744030798, Terni (terni)\n\n### Contacts\n**Phone:** 0744030798\n**Website:** [https://www.mcdonalds.it/ristorante/umbria/terni/terni-est](https://www.mcdonalds.it/ristorante/umbria/terni/terni-est)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-02:00 |\n| **Tuesday** | 07:00-02:00 |\n| **Wednesday** | 07:00-02:00 |\n| **Thursday** | 07:00-02:00 |\n| **Friday** | 07:00-03:00 |\n| **Saturday** | 07:00-03:00 |\n| **Sunday** | 07:00-02:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.728183,
+          42.749666
+        ]
+      },
+      "properties": {
+        "id": 1040,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Spoleto Via dei Filosofi",
+        "addr:city": "Spoleto",
+        "addr:street": "Via dei Filosofi 127/B",
+        "branch": "Spoleto Via dei Filosofi",
+        "contact:phone": "0743 670328",
+        "contact:website": "https://www.mcdonalds.it/ristorante/umbria/perugia/spoleto-via-dei-filosofi",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-01:00",
+          "Thursday": "07:00-01:00",
+          "Friday": "07:00-01:00",
+          "Saturday": "07:00-01:00",
+          "Sunday": "07:00-01:00"
+        },
+        "full_address": "Via dei Filosofi 127/B Perugia tel: 0743 670328",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1040.00",
+        "regione": "umbria",
+        "provincia": "perugia",
+        "slug": "spoleto-via-dei-filosofi",
+        "detail_url": "https://www.mcdonalds.it/ristorante/umbria/perugia/spoleto-via-dei-filosofi",
+        "page_coordinates": [
+          12.728183,
+          42.749666
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Spoleto Via dei Filosofi**\n---\n**ID:** 1040\n\n### Address\nVia dei Filosofi 127/B Perugia tel: 0743 670328, Spoleto (perugia)\n\n### Contacts\n**Phone:** 0743 670328\n**Website:** [https://www.mcdonalds.it/ristorante/umbria/perugia/spoleto-via-dei-filosofi](https://www.mcdonalds.it/ristorante/umbria/perugia/spoleto-via-dei-filosofi)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-01:00 |\n| **Tuesday** | 07:00-01:00 |\n| **Wednesday** | 07:00-01:00 |\n| **Thursday** | 07:00-01:00 |\n| **Friday** | 07:00-01:00 |\n| **Saturday** | 07:00-01:00 |\n| **Sunday** | 07:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.142066,
+          42.719371
+        ]
+      },
+      "properties": {
+        "id": 1054,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Orvieto",
+        "addr:city": "Orvieto",
+        "addr:street": "Via Angelo Costanzi 59C",
+        "branch": "Orvieto",
+        "contact:phone": "0763 530162",
+        "contact:website": "https://www.mcdonalds.it/ristorante/umbria/terni/orvieto",
+        "opening_hours": {
+          "Monday": "07:30-00:00",
+          "Tuesday": "07:30-00:00",
+          "Wednesday": "07:30-00:00",
+          "Thursday": "07:30-00:00",
+          "Friday": "07:30-01:00",
+          "Saturday": "07:30-01:00",
+          "Sunday": "07:30-00:00"
+        },
+        "full_address": "Via Angelo Costanzi 59C Terni tel: 0763 530162",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1054.00",
+        "regione": "umbria",
+        "provincia": "terni",
+        "slug": "orvieto",
+        "detail_url": "https://www.mcdonalds.it/ristorante/umbria/terni/orvieto",
+        "page_coordinates": [
+          12.142066,
+          42.719371
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Orvieto**\n---\n**ID:** 1054\n\n### Address\nVia Angelo Costanzi 59C Terni tel: 0763 530162, Orvieto (terni)\n\n### Contacts\n**Phone:** 0763 530162\n**Website:** [https://www.mcdonalds.it/ristorante/umbria/terni/orvieto](https://www.mcdonalds.it/ristorante/umbria/terni/orvieto)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:30-00:00 |\n| **Tuesday** | 07:30-00:00 |\n| **Wednesday** | 07:30-00:00 |\n| **Thursday** | 07:30-00:00 |\n| **Friday** | 07:30-01:00 |\n| **Saturday** | 07:30-01:00 |\n| **Sunday** | 07:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.71576,
+          42.941257
+        ]
+      },
+      "properties": {
+        "id": 1078,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Foligno Via Roma",
+        "addr:city": "Foligno",
+        "addr:street": "Viale Roma 82C",
+        "branch": "Foligno Via Roma",
+        "contact:phone": "0742 1972205",
+        "contact:website": "https://www.mcdonalds.it/ristorante/umbria/perugia/foligno-via-roma",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-01:00",
+          "Thursday": "07:00-01:00",
+          "Friday": "07:00-01:00",
+          "Saturday": "07:00-01:00",
+          "Sunday": "07:00-01:00"
+        },
+        "full_address": "Viale Roma 82C Perugia tel: 0742 1972205",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1078.00",
+        "regione": "umbria",
+        "provincia": "perugia",
+        "slug": "foligno-via-roma",
+        "detail_url": "https://www.mcdonalds.it/ristorante/umbria/perugia/foligno-via-roma",
+        "page_coordinates": [
+          12.71576,
+          42.941257
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Foligno Via Roma**\n---\n**ID:** 1078\n\n### Address\nViale Roma 82C Perugia tel: 0742 1972205, Foligno (perugia)\n\n### Contacts\n**Phone:** 0742 1972205\n**Website:** [https://www.mcdonalds.it/ristorante/umbria/perugia/foligno-via-roma](https://www.mcdonalds.it/ristorante/umbria/perugia/foligno-via-roma)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-01:00 |\n| **Tuesday** | 07:00-01:00 |\n| **Wednesday** | 07:00-01:00 |\n| **Thursday** | 07:00-01:00 |\n| **Friday** | 07:00-01:00 |\n| **Saturday** | 07:00-01:00 |\n| **Sunday** | 07:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    }
+  ]
+}

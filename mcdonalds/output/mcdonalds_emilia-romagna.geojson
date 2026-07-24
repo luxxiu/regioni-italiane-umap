@@ -1,0 +1,3928 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.798498,
+          44.556879
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Sassuolo",
+        "addr:city": "Sassuolo",
+        "addr:street": "Via Radici In Piano, 421",
+        "branch": "Sassuolo",
+        "contact:phone": "0536 522409",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/modena/sassuolo",
+        "opening_hours": {
+          "Monday": "06:30-01:00",
+          "Tuesday": "06:30-01:00",
+          "Wednesday": "06:30-01:00",
+          "Thursday": "06:30-01:00",
+          "Friday": "06:30-01:00",
+          "Saturday": "06:30-01:00",
+          "Sunday": "06:30-01:00"
+        },
+        "full_address": "Via Radici In Piano, 421 Modena tel: 0536 522409",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "6.00",
+        "regione": "emilia-romagna",
+        "provincia": "modena",
+        "slug": "sassuolo",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/modena/sassuolo",
+        "page_coordinates": [
+          10.798498,
+          44.556879
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Sassuolo**\n---\n**ID:** 6\n\n### Address\nVia Radici In Piano, 421 Modena tel: 0536 522409, Sassuolo (modena)\n\n### Contacts\n**Phone:** 0536 522409\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/modena/sassuolo](https://www.mcdonalds.it/ristorante/emilia-romagna/modena/sassuolo)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 06:30-01:00 |\n| **Tuesday** | 06:30-01:00 |\n| **Wednesday** | 06:30-01:00 |\n| **Thursday** | 06:30-01:00 |\n| **Friday** | 06:30-01:00 |\n| **Saturday** | 06:30-01:00 |\n| **Sunday** | 06:30-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.270031,
+          44.468353
+        ]
+      },
+      "properties": {
+        "id": 13,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Casalecchio Di Reno 1",
+        "addr:city": "Casalecchio Di Reno",
+        "addr:street": "Via Porrettana 502",
+        "branch": "Casalecchio Di Reno 1",
+        "contact:phone": "051 6132269",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/casalecchio-di-reno-1",
+        "opening_hours": {
+          "Monday": "11:00-23:00",
+          "Tuesday": "11:00-23:00",
+          "Wednesday": "11:00-23:00",
+          "Thursday": "11:00-23:00",
+          "Friday": "11:00-23:00",
+          "Saturday": "11:00-23:00",
+          "Sunday": "11:00-23:00"
+        },
+        "full_address": "Via Porrettana 502 Bologna tel: 051 6132269",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "13.00",
+        "regione": "emilia-romagna",
+        "provincia": "bologna",
+        "slug": "casalecchio-di-reno-1",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/casalecchio-di-reno-1",
+        "page_coordinates": [
+          11.270031,
+          44.468353
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Casalecchio Di Reno 1**\n---\n**ID:** 13\n\n### Address\nVia Porrettana 502 Bologna tel: 051 6132269, Casalecchio Di Reno (bologna)\n\n### Contacts\n**Phone:** 051 6132269\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/casalecchio-di-reno-1](https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/casalecchio-di-reno-1)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 11:00-23:00 |\n| **Tuesday** | 11:00-23:00 |\n| **Wednesday** | 11:00-23:00 |\n| **Thursday** | 11:00-23:00 |\n| **Friday** | 11:00-23:00 |\n| **Saturday** | 11:00-23:00 |\n| **Sunday** | 11:00-23:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.706158,
+          45.051312
+        ]
+      },
+      "properties": {
+        "id": 24,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Piacenza Stazione",
+        "addr:city": "Piacenza",
+        "addr:street": "Piazzale Marconi",
+        "branch": "Piacenza Stazione",
+        "contact:phone": "0523 045562",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/piacenza/piacenza-stazione",
+        "opening_hours": {
+          "Monday": "07:00-21:00",
+          "Tuesday": "07:00-21:00",
+          "Wednesday": "07:00-21:00",
+          "Thursday": "07:00-21:00",
+          "Friday": "07:00-21:00",
+          "Saturday": "07:00-21:00",
+          "Sunday": "08:00-21:00"
+        },
+        "full_address": "Piazzale Marconi Piacenza tel: 0523 045562",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "24.00",
+        "regione": "emilia-romagna",
+        "provincia": "piacenza",
+        "slug": "piacenza-stazione",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/piacenza/piacenza-stazione",
+        "page_coordinates": [
+          9.706158,
+          45.051312
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Piacenza Stazione**\n---\n**ID:** 24\n\n### Address\nPiazzale Marconi Piacenza tel: 0523 045562, Piacenza (piacenza)\n\n### Contacts\n**Phone:** 0523 045562\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/piacenza/piacenza-stazione](https://www.mcdonalds.it/ristorante/emilia-romagna/piacenza/piacenza-stazione)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-21:00 |\n| **Tuesday** | 07:00-21:00 |\n| **Wednesday** | 07:00-21:00 |\n| **Thursday** | 07:00-21:00 |\n| **Friday** | 07:00-21:00 |\n| **Saturday** | 07:00-21:00 |\n| **Sunday** | 08:00-21:00 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.400386,
+          44.473344
+        ]
+      },
+      "properties": {
+        "id": 32,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Bologna S. Lazzaro",
+        "addr:city": "Bologna",
+        "addr:street": "Via Dozza 33",
+        "branch": "Bologna S. Lazzaro",
+        "contact:phone": "051 6272232",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/bologna-s-lazzaro",
+        "opening_hours": {
+          "Monday": "11:00-23:00",
+          "Tuesday": "11:00-23:00",
+          "Wednesday": "11:00-23:00",
+          "Thursday": "11:00-23:00",
+          "Friday": "11:00-23:30",
+          "Saturday": "11:00-23:30",
+          "Sunday": "11:00-23:00"
+        },
+        "full_address": "Via Dozza 33 Bologna tel: 051 6272232",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "32.00",
+        "regione": "emilia-romagna",
+        "provincia": "bologna",
+        "slug": "bologna-s-lazzaro",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/bologna-s-lazzaro",
+        "page_coordinates": [
+          11.400386,
+          44.473344
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Bologna S. Lazzaro**\n---\n**ID:** 32\n\n### Address\nVia Dozza 33 Bologna tel: 051 6272232, Bologna (bologna)\n\n### Contacts\n**Phone:** 051 6272232\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/bologna-s-lazzaro](https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/bologna-s-lazzaro)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 11:00-23:00 |\n| **Tuesday** | 11:00-23:00 |\n| **Wednesday** | 11:00-23:00 |\n| **Thursday** | 11:00-23:00 |\n| **Friday** | 11:00-23:30 |\n| **Saturday** | 11:00-23:30 |\n| **Sunday** | 11:00-23:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.906326,
+          44.654604
+        ]
+      },
+      "properties": {
+        "id": 37,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Modena Bruciata",
+        "addr:city": "Modena",
+        "addr:street": "Via Emilia Ovest 407",
+        "branch": "Modena Bruciata",
+        "contact:phone": "059 848599",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/modena/modena-bruciata",
+        "opening_hours": {
+          "Monday": "08:30-21:30",
+          "Tuesday": "08:30-21:30",
+          "Wednesday": "08:30-21:30",
+          "Thursday": "08:30-21:30",
+          "Friday": "08:30-21:30",
+          "Saturday": "08:30-21:30",
+          "Sunday": "08:30-21:30"
+        },
+        "full_address": "Via Emilia Ovest 1480 Modena tel: 059 848599",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "412.00",
+        "regione": "emilia-romagna",
+        "provincia": "modena",
+        "slug": "modena-bruciata",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/modena/modena-bruciata",
+        "page_coordinates": [
+          10.853159,
+          44.647969
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Modena Bruciata**\n---\n**ID:** 37\n\n### Address\nVia Emilia Ovest 1480 Modena tel: 059 848599, Modena (modena)\n\n### Contacts\n**Phone:** 059 848599\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/modena/modena-bruciata](https://www.mcdonalds.it/ristorante/emilia-romagna/modena/modena-bruciata)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:30-21:30 |\n| **Tuesday** | 08:30-21:30 |\n| **Wednesday** | 08:30-21:30 |\n| **Thursday** | 08:30-21:30 |\n| **Friday** | 08:30-21:30 |\n| **Saturday** | 08:30-21:30 |\n| **Sunday** | 08:30-21:30 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.023101,
+          44.229222
+        ]
+      },
+      "properties": {
+        "id": 42,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Forlì",
+        "addr:city": "Forli",
+        "addr:street": "Viale Bologna",
+        "branch": "Forlì",
+        "contact:phone": "0543 705214",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/forli-cesena/forli",
+        "opening_hours": {
+          "Monday": "10:30-01:00",
+          "Tuesday": "10:30-01:00",
+          "Wednesday": "10:30-01:00",
+          "Thursday": "10:30-01:00",
+          "Friday": "10:30-02:00",
+          "Saturday": "10:30-02:00",
+          "Sunday": "10:30-01:00"
+        },
+        "full_address": "Viale Bologna Forlì-Cesena tel: 0543 705214",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "42.00",
+        "regione": "emilia-romagna",
+        "provincia": "forli-cesena",
+        "slug": "forli",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/forli-cesena/forli",
+        "page_coordinates": [
+          12.023101,
+          44.229222
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Forlì**\n---\n**ID:** 42\n\n### Address\nViale Bologna Forlì-Cesena tel: 0543 705214, Forli (forli-cesena)\n\n### Contacts\n**Phone:** 0543 705214\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/forli-cesena/forli](https://www.mcdonalds.it/ristorante/emilia-romagna/forli-cesena/forli)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-01:00 |\n| **Tuesday** | 10:30-01:00 |\n| **Wednesday** | 10:30-01:00 |\n| **Thursday** | 10:30-01:00 |\n| **Friday** | 10:30-02:00 |\n| **Saturday** | 10:30-02:00 |\n| **Sunday** | 10:30-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.59796,
+          44.846039
+        ]
+      },
+      "properties": {
+        "id": 43,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Ferrara Drive",
+        "addr:city": "Ferrara",
+        "addr:street": "Via Modena, 17",
+        "branch": "Ferrara Drive",
+        "contact:phone": "331 1555567",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/ferrara/ferrara-drive",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "10:30-00:00",
+          "Thursday": "10:30-00:00",
+          "Friday": "10:30-01:00",
+          "Saturday": "10:30-01:00",
+          "Sunday": "10:30-00:00"
+        },
+        "full_address": "Via Modena, 17 Ferrara tel: 331 1555567",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "43.00",
+        "regione": "emilia-romagna",
+        "provincia": "ferrara",
+        "slug": "ferrara-drive",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/ferrara/ferrara-drive",
+        "page_coordinates": [
+          11.59796,
+          44.846039
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Ferrara Drive**\n---\n**ID:** 43\n\n### Address\nVia Modena, 17 Ferrara tel: 331 1555567, Ferrara (ferrara)\n\n### Contacts\n**Phone:** 331 1555567\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/ferrara/ferrara-drive](https://www.mcdonalds.it/ristorante/emilia-romagna/ferrara/ferrara-drive)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-00:00 |\n| **Tuesday** | 10:30-00:00 |\n| **Wednesday** | 10:30-00:00 |\n| **Thursday** | 10:30-00:00 |\n| **Friday** | 10:30-01:00 |\n| **Saturday** | 10:30-01:00 |\n| **Sunday** | 10:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.65613,
+          45.054597
+        ]
+      },
+      "properties": {
+        "id": 72,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Piacenza Emilia",
+        "addr:city": "Piacenza",
+        "addr:street": "Via Emilia Pavese",
+        "branch": "Piacenza Emilia",
+        "contact:phone": "0523 497320",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/piacenza/piacenza-emilia",
+        "opening_hours": {
+          "Monday": "10:00-00:00",
+          "Tuesday": "10:00-00:00",
+          "Wednesday": "10:00-00:00",
+          "Thursday": "10:00-00:00",
+          "Friday": "10:00-00:00",
+          "Saturday": "10:00-00:00",
+          "Sunday": "10:00-00:00"
+        },
+        "full_address": "Via Emilia Pavese Piacenza tel: 0523 497320",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "72.00",
+        "regione": "emilia-romagna",
+        "provincia": "piacenza",
+        "slug": "piacenza-emilia",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/piacenza/piacenza-emilia",
+        "page_coordinates": [
+          9.65613,
+          45.054597
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Piacenza Emilia**\n---\n**ID:** 72\n\n### Address\nVia Emilia Pavese Piacenza tel: 0523 497320, Piacenza (piacenza)\n\n### Contacts\n**Phone:** 0523 497320\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/piacenza/piacenza-emilia](https://www.mcdonalds.it/ristorante/emilia-romagna/piacenza/piacenza-emilia)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:00-00:00 |\n| **Tuesday** | 10:00-00:00 |\n| **Wednesday** | 10:00-00:00 |\n| **Thursday** | 10:00-00:00 |\n| **Friday** | 10:00-00:00 |\n| **Saturday** | 10:00-00:00 |\n| **Sunday** | 10:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.280326,
+          44.508386
+        ]
+      },
+      "properties": {
+        "id": 96,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Bologna Togliatti Drive",
+        "addr:city": "Bologna",
+        "addr:street": "Viale Togliatti 11",
+        "branch": "Bologna Togliatti Drive",
+        "contact:phone": "051 6199761",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/bologna-togliatti-drive",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-00:00",
+          "Saturday": "00:00-00:00",
+          "Sunday": "07:00-00:00"
+        },
+        "full_address": "Viale Togliatti 11 Bologna tel: 051 6199761",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "96.00",
+        "regione": "emilia-romagna",
+        "provincia": "bologna",
+        "slug": "bologna-togliatti-drive",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/bologna-togliatti-drive",
+        "page_coordinates": [
+          11.280326,
+          44.508386
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Bologna Togliatti Drive**\n---\n**ID:** 96\n\n### Address\nViale Togliatti 11 Bologna tel: 051 6199761, Bologna (bologna)\n\n### Contacts\n**Phone:** 051 6199761\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/bologna-togliatti-drive](https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/bologna-togliatti-drive)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-00:00 |\n| **Tuesday** | 07:00-00:00 |\n| **Wednesday** | 07:00-00:00 |\n| **Thursday** | 07:00-00:00 |\n| **Friday** | 07:00-00:00 |\n| **Saturday** | 00:00-00:00 |\n| **Sunday** | 07:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.395665,
+          44.515819
+        ]
+      },
+      "properties": {
+        "id": 139,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Bologna CAAB",
+        "addr:city": "Bologna",
+        "addr:street": "Via Tito Carnacini, 6",
+        "branch": "Bologna CAAB",
+        "contact:phone": "051 501184",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/bologna-caab",
+        "opening_hours": {
+          "Monday": "09:00-00:00",
+          "Tuesday": "09:00-00:00",
+          "Wednesday": "09:00-00:00",
+          "Thursday": "09:00-00:00",
+          "Friday": "09:00-00:00",
+          "Saturday": "09:00-00:00",
+          "Sunday": "09:00-00:00"
+        },
+        "full_address": "Via Tito Carnacini, 6 Bologna tel: 051 501184",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "139.00",
+        "regione": "emilia-romagna",
+        "provincia": "bologna",
+        "slug": "bologna-caab",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/bologna-caab",
+        "page_coordinates": [
+          11.395665,
+          44.515819
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Bologna CAAB**\n---\n**ID:** 139\n\n### Address\nVia Tito Carnacini, 6 Bologna tel: 051 501184, Bologna (bologna)\n\n### Contacts\n**Phone:** 051 501184\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/bologna-caab](https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/bologna-caab)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 09:00-00:00 |\n| **Tuesday** | 09:00-00:00 |\n| **Wednesday** | 09:00-00:00 |\n| **Thursday** | 09:00-00:00 |\n| **Friday** | 09:00-00:00 |\n| **Saturday** | 09:00-00:00 |\n| **Sunday** | 09:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.334589,
+          44.820502
+        ]
+      },
+      "properties": {
+        "id": 151,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Parma San Leonardo",
+        "addr:city": "Parma",
+        "addr:street": "Via San Leonardo  53",
+        "branch": "Parma San Leonardo",
+        "contact:phone": "0521 798309",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/parma/parma-san-leonardo",
+        "opening_hours": {
+          "Monday": "07:00-23:59",
+          "Tuesday": "07:00-23:59",
+          "Wednesday": "07:00-23:59",
+          "Thursday": "07:00-03:00",
+          "Friday": "07:00-03:00",
+          "Saturday": "07:00-03:00",
+          "Sunday": "07:00-23:59"
+        },
+        "full_address": "Via San Leonardo 53 Parma tel: 0521 798309",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "151.00",
+        "regione": "emilia-romagna",
+        "provincia": "parma",
+        "slug": "parma-san-leonardo",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/parma/parma-san-leonardo",
+        "page_coordinates": [
+          10.334589,
+          44.820502
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Parma San Leonardo**\n---\n**ID:** 151\n\n### Address\nVia San Leonardo 53 Parma tel: 0521 798309, Parma (parma)\n\n### Contacts\n**Phone:** 0521 798309\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/parma/parma-san-leonardo](https://www.mcdonalds.it/ristorante/emilia-romagna/parma/parma-san-leonardo)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-23:59 |\n| **Tuesday** | 07:00-23:59 |\n| **Wednesday** | 07:00-23:59 |\n| **Thursday** | 07:00-03:00 |\n| **Friday** | 07:00-03:00 |\n| **Saturday** | 07:00-03:00 |\n| **Sunday** | 07:00-23:59 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.586778,
+          44.040616
+        ]
+      },
+      "properties": {
+        "id": 154,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Rimini Le Befane",
+        "addr:city": "Rimini",
+        "addr:street": "Via Caduti di Nassiriya, 20",
+        "branch": "Rimini Le Befane",
+        "contact:phone": "0541 382157",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/rimini/rimini-le-befane",
+        "opening_hours": {
+          "Monday": "10:30-22:00",
+          "Tuesday": "10:30-22:00",
+          "Wednesday": "10:30-22:00",
+          "Thursday": "10:30-22:00",
+          "Friday": "10:30-22:30",
+          "Saturday": "10:30-22:30",
+          "Sunday": "10:30-22:00"
+        },
+        "full_address": "Via Caduti di Nassiriya, 20 Rimini tel: 0541 382157",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "154.00",
+        "regione": "emilia-romagna",
+        "provincia": "rimini",
+        "slug": "rimini-le-befane",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/rimini/rimini-le-befane",
+        "page_coordinates": [
+          12.586778,
+          44.040616
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Rimini Le Befane**\n---\n**ID:** 154\n\n### Address\nVia Caduti di Nassiriya, 20 Rimini tel: 0541 382157, Rimini (rimini)\n\n### Contacts\n**Phone:** 0541 382157\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/rimini/rimini-le-befane](https://www.mcdonalds.it/ristorante/emilia-romagna/rimini/rimini-le-befane)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-22:00 |\n| **Tuesday** | 10:30-22:00 |\n| **Wednesday** | 10:30-22:00 |\n| **Thursday** | 10:30-22:00 |\n| **Friday** | 10:30-22:30 |\n| **Saturday** | 10:30-22:30 |\n| **Sunday** | 10:30-22:00 |\n\n### Services\nMcCafé® • Take Away • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.86187,
+          44.776092
+        ]
+      },
+      "properties": {
+        "id": 182,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Carpi",
+        "addr:city": "Carpi",
+        "addr:street": "Tangenziale Bruno Losi",
+        "branch": "Carpi",
+        "contact:phone": "059 691384",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/modena/carpi",
+        "opening_hours": {
+          "Monday": "06:30-01:00",
+          "Tuesday": "06:30-01:00",
+          "Wednesday": "06:30-01:00",
+          "Thursday": "06:30-01:00",
+          "Friday": "06:30-04:00",
+          "Saturday": "06:30-04:00",
+          "Sunday": "06:30-00:00"
+        },
+        "full_address": "Tangenziale Bruno Losi Modena tel: 059 691384",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "182.00",
+        "regione": "emilia-romagna",
+        "provincia": "modena",
+        "slug": "carpi",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/modena/carpi",
+        "page_coordinates": [
+          10.86187,
+          44.776092
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Carpi**\n---\n**ID:** 182\n\n### Address\nTangenziale Bruno Losi Modena tel: 059 691384, Carpi (modena)\n\n### Contacts\n**Phone:** 059 691384\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/modena/carpi](https://www.mcdonalds.it/ristorante/emilia-romagna/modena/carpi)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 06:30-01:00 |\n| **Tuesday** | 06:30-01:00 |\n| **Wednesday** | 06:30-01:00 |\n| **Thursday** | 06:30-01:00 |\n| **Friday** | 06:30-04:00 |\n| **Saturday** | 06:30-04:00 |\n| **Sunday** | 06:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.30243,
+          44.749099
+        ]
+      },
+      "properties": {
+        "id": 188,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Cento",
+        "addr:city": "Cento",
+        "addr:street": "via Matteo Loves, 1",
+        "branch": "Cento",
+        "contact:phone": "051 6832289",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/ferrara/cento",
+        "opening_hours": {
+          "Monday": "06:30-00:00",
+          "Tuesday": "06:30-00:00",
+          "Wednesday": "06:30-00:00",
+          "Thursday": "06:30-00:00",
+          "Friday": "06:30-02:00",
+          "Saturday": "06:30-02:00",
+          "Sunday": "06:30-00:00"
+        },
+        "full_address": "via Matteo Loves, 1 Ferrara tel: 051 6832289",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "188.00",
+        "regione": "emilia-romagna",
+        "provincia": "ferrara",
+        "slug": "cento",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/ferrara/cento",
+        "page_coordinates": [
+          11.30243,
+          44.749099
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Cento**\n---\n**ID:** 188\n\n### Address\nvia Matteo Loves, 1 Ferrara tel: 051 6832289, Cento (ferrara)\n\n### Contacts\n**Phone:** 051 6832289\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/ferrara/cento](https://www.mcdonalds.it/ristorante/emilia-romagna/ferrara/cento)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 06:30-00:00 |\n| **Tuesday** | 06:30-00:00 |\n| **Wednesday** | 06:30-00:00 |\n| **Thursday** | 06:30-00:00 |\n| **Friday** | 06:30-02:00 |\n| **Saturday** | 06:30-02:00 |\n| **Sunday** | 06:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.28243,
+          44.169143
+        ]
+      },
+      "properties": {
+        "id": 198,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Cesena Cervese",
+        "addr:city": "Cesena",
+        "addr:street": "via Cervese 3622",
+        "branch": "Cesena Cervese",
+        "contact:phone": "0547 632906",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/forli-cesena/cesena-cervese",
+        "opening_hours": {
+          "Monday": "11:00-00:00",
+          "Tuesday": "11:00-00:00",
+          "Wednesday": "11:00-00:00",
+          "Thursday": "11:00-00:00",
+          "Friday": "11:00-00:00",
+          "Saturday": "11:00-00:00",
+          "Sunday": "11:00-00:00"
+        },
+        "full_address": "via Cervese 3622 Forlì-Cesena tel: 0547 632906",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "198.00",
+        "regione": "emilia-romagna",
+        "provincia": "forli-cesena",
+        "slug": "cesena-cervese",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/forli-cesena/cesena-cervese",
+        "page_coordinates": [
+          12.28243,
+          44.169143
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Cesena Cervese**\n---\n**ID:** 198\n\n### Address\nvia Cervese 3622 Forlì-Cesena tel: 0547 632906, Cesena (forli-cesena)\n\n### Contacts\n**Phone:** 0547 632906\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/forli-cesena/cesena-cervese](https://www.mcdonalds.it/ristorante/emilia-romagna/forli-cesena/cesena-cervese)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 11:00-00:00 |\n| **Tuesday** | 11:00-00:00 |\n| **Wednesday** | 11:00-00:00 |\n| **Thursday** | 11:00-00:00 |\n| **Friday** | 11:00-00:00 |\n| **Saturday** | 11:00-00:00 |\n| **Sunday** | 11:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.89583,
+          44.304735
+        ]
+      },
+      "properties": {
+        "id": 206,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Faenza",
+        "addr:city": "Faenza",
+        "addr:street": "via Vietri sul Mare, 4",
+        "branch": "Faenza",
+        "contact:phone": "0546 668071",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/ravenna/faenza",
+        "opening_hours": {
+          "Monday": "10:30-01:00",
+          "Tuesday": "10:30-01:00",
+          "Wednesday": "10:30-01:00",
+          "Thursday": "10:30-01:00",
+          "Friday": "10:30-03:00",
+          "Saturday": "10:30-03:00",
+          "Sunday": "10:30-01:00"
+        },
+        "full_address": "via Vietri sul Mare, 4 Ravenna tel: 0546 668071",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "206.00",
+        "regione": "emilia-romagna",
+        "provincia": "ravenna",
+        "slug": "faenza",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/ravenna/faenza",
+        "page_coordinates": [
+          11.89583,
+          44.304735
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Faenza**\n---\n**ID:** 206\n\n### Address\nvia Vietri sul Mare, 4 Ravenna tel: 0546 668071, Faenza (ravenna)\n\n### Contacts\n**Phone:** 0546 668071\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/ravenna/faenza](https://www.mcdonalds.it/ristorante/emilia-romagna/ravenna/faenza)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-01:00 |\n| **Tuesday** | 10:30-01:00 |\n| **Wednesday** | 10:30-01:00 |\n| **Thursday** | 10:30-01:00 |\n| **Friday** | 10:30-03:00 |\n| **Saturday** | 10:30-03:00 |\n| **Sunday** | 10:30-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.93084,
+          44.654329
+        ]
+      },
+      "properties": {
+        "id": 214,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Modena Stazione",
+        "addr:city": "Modena",
+        "addr:street": "Piazzale Dante. 19",
+        "branch": "Modena Stazione",
+        "contact:phone": "059 4743414",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/modena/modena-stazione",
+        "opening_hours": {
+          "Monday": "09:00-23:00",
+          "Tuesday": "09:00-23:00",
+          "Wednesday": "09:00-23:00",
+          "Thursday": "09:00-23:00",
+          "Friday": "09:00-23:00",
+          "Saturday": "09:00-23:00",
+          "Sunday": "09:00-23:00"
+        },
+        "full_address": "Piazzale Dante. 19 Modena tel: 059 4743414",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "214.00",
+        "regione": "emilia-romagna",
+        "provincia": "modena",
+        "slug": "modena-stazione",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/modena/modena-stazione",
+        "page_coordinates": [
+          10.93084,
+          44.654329
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Ordina in App",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Modena Stazione**\n---\n**ID:** 214\n\n### Address\nPiazzale Dante. 19 Modena tel: 059 4743414, Modena (modena)\n\n### Contacts\n**Phone:** 059 4743414\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/modena/modena-stazione](https://www.mcdonalds.it/ristorante/emilia-romagna/modena/modena-stazione)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 09:00-23:00 |\n| **Tuesday** | 09:00-23:00 |\n| **Wednesday** | 09:00-23:00 |\n| **Thursday** | 09:00-23:00 |\n| **Friday** | 09:00-23:00 |\n| **Saturday** | 09:00-23:00 |\n| **Sunday** | 09:00-23:00 |\n\n### Services\nTake Away • Ordina in App • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.598268,
+          44.815197
+        ]
+      },
+      "properties": {
+        "id": 232,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Ferrara Sud",
+        "addr:city": "Ferrara",
+        "addr:street": "via Bologna, 306",
+        "branch": "Ferrara Sud",
+        "contact:phone": "346 6635157",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/ferrara/ferrara-sud",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "08:30-00:00",
+          "Thursday": "10:30-00:00",
+          "Friday": "10:30-01:00",
+          "Saturday": "10:30-01:00",
+          "Sunday": "10:30-00:00"
+        },
+        "full_address": "via Bologna, 306 Ferrara tel: 346 6635157",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "232.00",
+        "regione": "emilia-romagna",
+        "provincia": "ferrara",
+        "slug": "ferrara-sud",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/ferrara/ferrara-sud",
+        "page_coordinates": [
+          11.598268,
+          44.815197
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Ferrara Sud**\n---\n**ID:** 232\n\n### Address\nvia Bologna, 306 Ferrara tel: 346 6635157, Ferrara (ferrara)\n\n### Contacts\n**Phone:** 346 6635157\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/ferrara/ferrara-sud](https://www.mcdonalds.it/ristorante/emilia-romagna/ferrara/ferrara-sud)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-00:00 |\n| **Tuesday** | 10:30-00:00 |\n| **Wednesday** | 08:30-00:00 |\n| **Thursday** | 10:30-00:00 |\n| **Friday** | 10:30-01:00 |\n| **Saturday** | 10:30-01:00 |\n| **Sunday** | 10:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.617259,
+          44.711235
+        ]
+      },
+      "properties": {
+        "id": 256,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Reggio Emilia Tien An Men",
+        "addr:city": "Reggio Emilia",
+        "addr:street": "Via Nicolò Copernico, 30",
+        "branch": "Reggio Emilia Tien An Men",
+        "contact:phone": "0522 306956",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/reggio-emilia/reggio-emilia-tien-an-men",
+        "opening_hours": {
+          "Monday": "06:30-00:59",
+          "Tuesday": "06:30-00:59",
+          "Wednesday": "06:30-00:59",
+          "Thursday": "06:30-00:59",
+          "Friday": "06:30-02:59",
+          "Saturday": "06:30-02:59",
+          "Sunday": "06:30-00:59"
+        },
+        "full_address": "Via Nicolò Copernico, 30 Reggio Emilia tel: 0522 306956",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "256.00",
+        "regione": "emilia-romagna",
+        "provincia": "reggio-emilia",
+        "slug": "reggio-emilia-tien-an-men",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/reggio-emilia/reggio-emilia-tien-an-men",
+        "page_coordinates": [
+          10.617259,
+          44.711235
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Reggio Emilia Tien An Men**\n---\n**ID:** 256\n\n### Address\nVia Nicolò Copernico, 30 Reggio Emilia tel: 0522 306956, Reggio Emilia (reggio-emilia)\n\n### Contacts\n**Phone:** 0522 306956\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/reggio-emilia/reggio-emilia-tien-an-men](https://www.mcdonalds.it/ristorante/emilia-romagna/reggio-emilia/reggio-emilia-tien-an-men)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 06:30-00:59 |\n| **Tuesday** | 06:30-00:59 |\n| **Wednesday** | 06:30-00:59 |\n| **Thursday** | 06:30-00:59 |\n| **Friday** | 06:30-02:59 |\n| **Saturday** | 06:30-02:59 |\n| **Sunday** | 06:30-00:59 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.019894,
+          44.499313
+        ]
+      },
+      "properties": {
+        "id": 258,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Vignola",
+        "addr:city": "Vignola",
+        "addr:street": "VIa per Spilamberto 1662",
+        "branch": "Vignola",
+        "contact:phone": "059 7520197",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/modena/vignola",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "10:30-00:00",
+          "Thursday": "10:30-00:00",
+          "Friday": "10:30-00:00",
+          "Saturday": "10:30-00:00",
+          "Sunday": "10:30-00:00"
+        },
+        "full_address": "VIa per Spilamberto 1662 Modena tel: 059 7520197",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "258.00",
+        "regione": "emilia-romagna",
+        "provincia": "modena",
+        "slug": "vignola",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/modena/vignola",
+        "page_coordinates": [
+          11.019894,
+          44.499313
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Vignola**\n---\n**ID:** 258\n\n### Address\nVIa per Spilamberto 1662 Modena tel: 059 7520197, Vignola (modena)\n\n### Contacts\n**Phone:** 059 7520197\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/modena/vignola](https://www.mcdonalds.it/ristorante/emilia-romagna/modena/vignola)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-00:00 |\n| **Tuesday** | 10:30-00:00 |\n| **Wednesday** | 10:30-00:00 |\n| **Thursday** | 10:30-00:00 |\n| **Friday** | 10:30-00:00 |\n| **Saturday** | 10:30-00:00 |\n| **Sunday** | 10:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.081181,
+          44.243459
+        ]
+      },
+      "properties": {
+        "id": 283,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Forlì Mall",
+        "addr:city": "Forli",
+        "addr:street": "Piazzale della Cooperazione, 4",
+        "branch": "Forlì Mall",
+        "contact:phone": "0543 722924",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/forli-cesena/forli-mall",
+        "opening_hours": {
+          "Monday": "09:00-21:30",
+          "Tuesday": "09:00-21:30",
+          "Wednesday": "09:00-21:30",
+          "Thursday": "09:00-21:30",
+          "Friday": "09:00-21:30",
+          "Saturday": "09:00-21:30",
+          "Sunday": "09:00-21:30"
+        },
+        "full_address": "Piazzale della Cooperazione, 4 Forlì-Cesena tel: 0543 722924",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "283.00",
+        "regione": "emilia-romagna",
+        "provincia": "forli-cesena",
+        "slug": "forli-mall",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/forli-cesena/forli-mall",
+        "page_coordinates": [
+          12.081181,
+          44.243459
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Forlì Mall**\n---\n**ID:** 283\n\n### Address\nPiazzale della Cooperazione, 4 Forlì-Cesena tel: 0543 722924, Forli (forli-cesena)\n\n### Contacts\n**Phone:** 0543 722924\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/forli-cesena/forli-mall](https://www.mcdonalds.it/ristorante/emilia-romagna/forli-cesena/forli-mall)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 09:00-21:30 |\n| **Tuesday** | 09:00-21:30 |\n| **Wednesday** | 09:00-21:30 |\n| **Thursday** | 09:00-21:30 |\n| **Friday** | 09:00-21:30 |\n| **Saturday** | 09:00-21:30 |\n| **Sunday** | 09:00-21:30 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.050827,
+          44.890943
+        ]
+      },
+      "properties": {
+        "id": 287,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Mirandola",
+        "addr:city": "Mirandola",
+        "addr:street": "Via Agnini",
+        "branch": "Mirandola",
+        "contact:phone": "0535 27689",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/modena/mirandola",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-02:00",
+          "Saturday": "07:00-02:00",
+          "Sunday": "07:00-00:00"
+        },
+        "full_address": "Via Agnini Modena tel: 0535 27689",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "287.00",
+        "regione": "emilia-romagna",
+        "provincia": "modena",
+        "slug": "mirandola",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/modena/mirandola",
+        "page_coordinates": [
+          11.050827,
+          44.890943
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Mirandola**\n---\n**ID:** 287\n\n### Address\nVia Agnini Modena tel: 0535 27689, Mirandola (modena)\n\n### Contacts\n**Phone:** 0535 27689\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/modena/mirandola](https://www.mcdonalds.it/ristorante/emilia-romagna/modena/mirandola)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-00:00 |\n| **Tuesday** | 07:00-00:00 |\n| **Wednesday** | 07:00-00:00 |\n| **Thursday** | 07:00-00:00 |\n| **Friday** | 07:00-02:00 |\n| **Saturday** | 07:00-02:00 |\n| **Sunday** | 07:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.361891,
+          44.519279
+        ]
+      },
+      "properties": {
+        "id": 296,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Bologna Stalingrado",
+        "addr:city": "Bologna",
+        "addr:street": "Via Stalingrado, 71",
+        "branch": "Bologna Stalingrado",
+        "contact:phone": "051 6311959",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/bologna-stalingrado",
+        "opening_hours": {
+          "Monday": "07:30-00:00",
+          "Tuesday": "07:30-00:00",
+          "Wednesday": "07:30-00:00",
+          "Thursday": "07:30-00:00",
+          "Friday": "07:30-00:30",
+          "Saturday": "07:30-00:30",
+          "Sunday": "07:30-00:30"
+        },
+        "full_address": "Via Stalingrado, 71 Bologna tel: 051 6311959",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "296.00",
+        "regione": "emilia-romagna",
+        "provincia": "bologna",
+        "slug": "bologna-stalingrado",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/bologna-stalingrado",
+        "page_coordinates": [
+          11.361891,
+          44.519279
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Bologna Stalingrado**\n---\n**ID:** 296\n\n### Address\nVia Stalingrado, 71 Bologna tel: 051 6311959, Bologna (bologna)\n\n### Contacts\n**Phone:** 051 6311959\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/bologna-stalingrado](https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/bologna-stalingrado)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:30-00:00 |\n| **Tuesday** | 07:30-00:00 |\n| **Wednesday** | 07:30-00:00 |\n| **Thursday** | 07:30-00:00 |\n| **Friday** | 07:30-00:30 |\n| **Saturday** | 07:30-00:30 |\n| **Sunday** | 07:30-00:30 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.911175,
+          44.428319
+        ]
+      },
+      "properties": {
+        "id": 301,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Lugo",
+        "addr:city": "Lugo",
+        "addr:street": "via Piratello, 64",
+        "branch": "Lugo",
+        "contact:phone": "0545 20205",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/ravenna/lugo",
+        "opening_hours": {
+          "Monday": "08:00-00:00",
+          "Tuesday": "08:00-00:00",
+          "Wednesday": "08:00-01:00",
+          "Thursday": "08:00-01:00",
+          "Friday": "08:00-02:00",
+          "Saturday": "08:00-02:00",
+          "Sunday": "08:00-00:00"
+        },
+        "full_address": "via Piratello, 64 Ravenna tel: 0545 20205",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "301.00",
+        "regione": "emilia-romagna",
+        "provincia": "ravenna",
+        "slug": "lugo",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/ravenna/lugo",
+        "page_coordinates": [
+          11.911175,
+          44.428319
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Lugo**\n---\n**ID:** 301\n\n### Address\nvia Piratello, 64 Ravenna tel: 0545 20205, Lugo (ravenna)\n\n### Contacts\n**Phone:** 0545 20205\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/ravenna/lugo](https://www.mcdonalds.it/ristorante/emilia-romagna/ravenna/lugo)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-00:00 |\n| **Tuesday** | 08:00-00:00 |\n| **Wednesday** | 08:00-01:00 |\n| **Thursday** | 08:00-01:00 |\n| **Friday** | 08:00-02:00 |\n| **Saturday** | 08:00-02:00 |\n| **Sunday** | 08:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.090138,
+          44.881736
+        ]
+      },
+      "properties": {
+        "id": 305,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Fidenza",
+        "addr:city": "Fidenza",
+        "addr:street": "via San Michele Campagna, 26",
+        "branch": "Fidenza",
+        "contact:phone": "0524801608",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/parma/fidenza",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "10:30-00:00",
+          "Thursday": "10:30-00:00",
+          "Friday": "10:30-00:00",
+          "Saturday": "10:30-00:00",
+          "Sunday": "10:30-00:00"
+        },
+        "full_address": "via San Michele Campagna, 26 Parma tel: 0524801608",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "305.00",
+        "regione": "emilia-romagna",
+        "provincia": "parma",
+        "slug": "fidenza",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/parma/fidenza",
+        "page_coordinates": [
+          10.090138,
+          44.881736
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Fidenza**\n---\n**ID:** 305\n\n### Address\nvia San Michele Campagna, 26 Parma tel: 0524801608, Fidenza (parma)\n\n### Contacts\n**Phone:** 0524801608\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/parma/fidenza](https://www.mcdonalds.it/ristorante/emilia-romagna/parma/fidenza)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-00:00 |\n| **Tuesday** | 10:30-00:00 |\n| **Wednesday** | 10:30-00:00 |\n| **Thursday** | 10:30-00:00 |\n| **Friday** | 10:30-00:00 |\n| **Saturday** | 10:30-00:00 |\n| **Sunday** | 10:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.514177,
+          44.08962
+        ]
+      },
+      "properties": {
+        "id": 310,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Rimini Popilia",
+        "addr:city": "Rimini",
+        "addr:street": "Via Popilia, 237",
+        "branch": "Rimini Popilia",
+        "contact:phone": "0541 732761",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/rimini/rimini-popilia",
+        "opening_hours": {
+          "Monday": "10:30-23:00",
+          "Tuesday": "10:30-23:00",
+          "Wednesday": "10:30-23:00",
+          "Thursday": "10:30-23:00",
+          "Friday": "10:30-00:00",
+          "Saturday": "10:30-00:00",
+          "Sunday": "10:30-23:00"
+        },
+        "full_address": "Via Popilia, 237 Rimini tel: 0541 732761",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "310.00",
+        "regione": "emilia-romagna",
+        "provincia": "rimini",
+        "slug": "rimini-popilia",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/rimini/rimini-popilia",
+        "page_coordinates": [
+          12.514177,
+          44.08962
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Rimini Popilia**\n---\n**ID:** 310\n\n### Address\nVia Popilia, 237 Rimini tel: 0541 732761, Rimini (rimini)\n\n### Contacts\n**Phone:** 0541 732761\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/rimini/rimini-popilia](https://www.mcdonalds.it/ristorante/emilia-romagna/rimini/rimini-popilia)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-23:00 |\n| **Tuesday** | 10:30-23:00 |\n| **Wednesday** | 10:30-23:00 |\n| **Thursday** | 10:30-23:00 |\n| **Friday** | 10:30-00:00 |\n| **Saturday** | 10:30-00:00 |\n| **Sunday** | 10:30-23:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.359858,
+          44.568631
+        ]
+      },
+      "properties": {
+        "id": 315,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Castel Maggiore",
+        "addr:city": "Castel Maggiore",
+        "addr:street": "via Galliera, 24",
+        "branch": "Castel Maggiore",
+        "contact:phone": "051 715443",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/castel-maggiore",
+        "opening_hours": {
+          "Monday": "11:00-01:00",
+          "Tuesday": "11:00-01:00",
+          "Wednesday": "11:00-01:00",
+          "Thursday": "11:00-01:00",
+          "Friday": "11:00-01:00",
+          "Saturday": "11:00-01:00",
+          "Sunday": "11:00-01:00"
+        },
+        "full_address": "via Galliera, 24 Bologna tel: 051 715443",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "315.00",
+        "regione": "emilia-romagna",
+        "provincia": "bologna",
+        "slug": "castel-maggiore",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/castel-maggiore",
+        "page_coordinates": [
+          11.359858,
+          44.568631
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Castel Maggiore**\n---\n**ID:** 315\n\n### Address\nvia Galliera, 24 Bologna tel: 051 715443, Castel Maggiore (bologna)\n\n### Contacts\n**Phone:** 051 715443\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/castel-maggiore](https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/castel-maggiore)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 11:00-01:00 |\n| **Tuesday** | 11:00-01:00 |\n| **Wednesday** | 11:00-01:00 |\n| **Thursday** | 11:00-01:00 |\n| **Friday** | 11:00-01:00 |\n| **Saturday** | 11:00-01:00 |\n| **Sunday** | 11:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.381451,
+          44.7848
+        ]
+      },
+      "properties": {
+        "id": 316,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Parma Est",
+        "addr:city": "Parma",
+        "addr:street": "via Emilio Lepido 70",
+        "branch": "Parma Est",
+        "contact:phone": "0521 462501",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/parma/parma-est",
+        "opening_hours": {
+          "Monday": "07:00-03:00",
+          "Tuesday": "07:00-03:00",
+          "Wednesday": "07:00-03:00",
+          "Thursday": "07:00-03:00",
+          "Friday": "07:00-05:00",
+          "Saturday": "07:00-05:00",
+          "Sunday": "07:00-03:00"
+        },
+        "full_address": "via Emilio Lepido 70 Parma tel: 0521 462501",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "316.00",
+        "regione": "emilia-romagna",
+        "provincia": "parma",
+        "slug": "parma-est",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/parma/parma-est",
+        "page_coordinates": [
+          10.381451,
+          44.7848
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Parma Est**\n---\n**ID:** 316\n\n### Address\nvia Emilio Lepido 70 Parma tel: 0521 462501, Parma (parma)\n\n### Contacts\n**Phone:** 0521 462501\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/parma/parma-est](https://www.mcdonalds.it/ristorante/emilia-romagna/parma/parma-est)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-03:00 |\n| **Tuesday** | 07:00-03:00 |\n| **Wednesday** | 07:00-03:00 |\n| **Thursday** | 07:00-03:00 |\n| **Friday** | 07:00-05:00 |\n| **Saturday** | 07:00-05:00 |\n| **Sunday** | 07:00-03:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.344521,
+          44.499796
+        ]
+      },
+      "properties": {
+        "id": 318,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Bologna VIII Agosto",
+        "addr:city": "Bologna",
+        "addr:street": "Piazza dell8 Agosto. 31",
+        "branch": "Bologna VIII Agosto",
+        "contact:phone": "051 7177390",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/bologna-viii-agosto",
+        "opening_hours": {
+          "Monday": "10:30-23:30",
+          "Tuesday": "10:30-23:30",
+          "Wednesday": "10:30-23:30",
+          "Thursday": "10:30-23:30",
+          "Friday": "10:30-00:00",
+          "Saturday": "10:30-00:00",
+          "Sunday": "10:30-23:30"
+        },
+        "full_address": "Piazza dell8 Agosto. 31 Bologna tel: 051 7177390",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "318.00",
+        "regione": "emilia-romagna",
+        "provincia": "bologna",
+        "slug": "bologna-viii-agosto",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/bologna-viii-agosto",
+        "page_coordinates": [
+          11.344521,
+          44.499796
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Servizio al tavolo",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Bologna VIII Agosto**\n---\n**ID:** 318\n\n### Address\nPiazza dell8 Agosto. 31 Bologna tel: 051 7177390, Bologna (bologna)\n\n### Contacts\n**Phone:** 051 7177390\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/bologna-viii-agosto](https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/bologna-viii-agosto)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-23:30 |\n| **Tuesday** | 10:30-23:30 |\n| **Wednesday** | 10:30-23:30 |\n| **Thursday** | 10:30-23:30 |\n| **Friday** | 10:30-00:00 |\n| **Saturday** | 10:30-00:00 |\n| **Sunday** | 10:30-23:30 |\n\n### Services\nTake Away • Servizio al tavolo • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.21426,
+          44.519658
+        ]
+      },
+      "properties": {
+        "id": 332,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "La Pioppa Est",
+        "addr:city": "Zola Predosa",
+        "addr:street": "La Pioppa Est (Agip-Eni)",
+        "branch": "La Pioppa Est",
+        "contact:phone": "0510076082",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/la-pioppa-est",
+        "opening_hours": {
+          "Monday": "10:00-23:00",
+          "Tuesday": "10:00-23:00",
+          "Wednesday": "10:00-23:00",
+          "Thursday": "10:00-23:00",
+          "Friday": "10:00-23:00",
+          "Saturday": "10:00-23:00",
+          "Sunday": "10:00-23:00"
+        },
+        "full_address": "La Pioppa Est (Agip-Eni) Bologna tel: 0510076082",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "332.00",
+        "regione": "emilia-romagna",
+        "provincia": "bologna",
+        "slug": "la-pioppa-est",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/la-pioppa-est",
+        "page_coordinates": [
+          11.21426,
+          44.519658
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "Take Away",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**La Pioppa Est**\n---\n**ID:** 332\n\n### Address\nLa Pioppa Est (Agip-Eni) Bologna tel: 0510076082, Zola Predosa (bologna)\n\n### Contacts\n**Phone:** 0510076082\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/la-pioppa-est](https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/la-pioppa-est)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:00-23:00 |\n| **Tuesday** | 10:00-23:00 |\n| **Wednesday** | 10:00-23:00 |\n| **Thursday** | 10:00-23:00 |\n| **Friday** | 10:00-23:00 |\n| **Saturday** | 10:00-23:00 |\n| **Sunday** | 10:00-23:00 |\n\n### Services\nMcDrive® • Take Away • Ordina in App • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.21591,
+          44.51874
+        ]
+      },
+      "properties": {
+        "id": 333,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "La Pioppa Ovest",
+        "addr:city": "Zola Predosa",
+        "addr:street": "La Pioppa Ovest Srl",
+        "branch": "La Pioppa Ovest",
+        "contact:phone": "051 757202",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/la-pioppa-ovest",
+        "opening_hours": {
+          "Monday": "11:00-22:00",
+          "Tuesday": "11:00-22:00",
+          "Wednesday": "11:00-22:00",
+          "Thursday": "11:00-22:00",
+          "Friday": "11:00-22:00",
+          "Saturday": "11:00-22:00",
+          "Sunday": "11:00-22:00"
+        },
+        "full_address": "La Pioppa Ovest Srl Bologna tel: 051 757202",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "333.00",
+        "regione": "emilia-romagna",
+        "provincia": "bologna",
+        "slug": "la-pioppa-ovest",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/la-pioppa-ovest",
+        "page_coordinates": [
+          11.21591,
+          44.51874
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "Take Away",
+          "Play Land"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**La Pioppa Ovest**\n---\n**ID:** 333\n\n### Address\nLa Pioppa Ovest Srl Bologna tel: 051 757202, Zola Predosa (bologna)\n\n### Contacts\n**Phone:** 051 757202\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/la-pioppa-ovest](https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/la-pioppa-ovest)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 11:00-22:00 |\n| **Tuesday** | 11:00-22:00 |\n| **Wednesday** | 11:00-22:00 |\n| **Thursday** | 11:00-22:00 |\n| **Friday** | 11:00-22:00 |\n| **Saturday** | 11:00-22:00 |\n| **Sunday** | 11:00-22:00 |\n\n### Services\nMcDrive® • Take Away • Play Land"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.593896,
+          44.038805
+        ]
+      },
+      "properties": {
+        "id": 335,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Rimini Flaminia",
+        "addr:city": "Rimini",
+        "addr:street": "via Flaminia 275",
+        "branch": "Rimini Flaminia",
+        "contact:phone": "0541 1913975",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/rimini/rimini-flaminia",
+        "opening_hours": {
+          "Monday": "08:00-08:00",
+          "Tuesday": "08:00-00:00",
+          "Wednesday": "08:00-00:00",
+          "Thursday": "08:00-00:00",
+          "Friday": "08:00-02:00",
+          "Saturday": "08:00-02:00",
+          "Sunday": "08:00-00:00"
+        },
+        "full_address": "via Flaminia 275 Rimini tel: 0541 1913975",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "335.00",
+        "regione": "emilia-romagna",
+        "provincia": "rimini",
+        "slug": "rimini-flaminia",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/rimini/rimini-flaminia",
+        "page_coordinates": [
+          12.593896,
+          44.038805
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Rimini Flaminia**\n---\n**ID:** 335\n\n### Address\nvia Flaminia 275 Rimini tel: 0541 1913975, Rimini (rimini)\n\n### Contacts\n**Phone:** 0541 1913975\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/rimini/rimini-flaminia](https://www.mcdonalds.it/ristorante/emilia-romagna/rimini/rimini-flaminia)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-08:00 |\n| **Tuesday** | 08:00-00:00 |\n| **Wednesday** | 08:00-00:00 |\n| **Thursday** | 08:00-00:00 |\n| **Friday** | 08:00-02:00 |\n| **Saturday** | 08:00-02:00 |\n| **Sunday** | 08:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.230295,
+          44.426032
+        ]
+      },
+      "properties": {
+        "id": 344,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Ravenna via Trieste",
+        "addr:city": "Ravenna",
+        "addr:street": "via Travaglini 28",
+        "branch": "Ravenna via Trieste",
+        "contact:phone": "0544 082737",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/ravenna/ravenna-via-trieste",
+        "opening_hours": {
+          "Monday": "08:00-02:00",
+          "Tuesday": "08:00-02:00",
+          "Wednesday": "08:00-02:00",
+          "Thursday": "08:00-02:00",
+          "Friday": "08:00-04:00",
+          "Saturday": "08:00-05:00",
+          "Sunday": "08:00-02:00"
+        },
+        "full_address": "via Travaglini 28 Ravenna tel: 0544 082737",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "344.00",
+        "regione": "emilia-romagna",
+        "provincia": "ravenna",
+        "slug": "ravenna-via-trieste",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/ravenna/ravenna-via-trieste",
+        "page_coordinates": [
+          12.230295,
+          44.426032
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Ravenna via Trieste**\n---\n**ID:** 344\n\n### Address\nvia Travaglini 28 Ravenna tel: 0544 082737, Ravenna (ravenna)\n\n### Contacts\n**Phone:** 0544 082737\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/ravenna/ravenna-via-trieste](https://www.mcdonalds.it/ristorante/emilia-romagna/ravenna/ravenna-via-trieste)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-02:00 |\n| **Tuesday** | 08:00-02:00 |\n| **Wednesday** | 08:00-02:00 |\n| **Thursday** | 08:00-02:00 |\n| **Friday** | 08:00-04:00 |\n| **Saturday** | 08:00-05:00 |\n| **Sunday** | 08:00-02:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.853159,
+          44.647969
+        ]
+      },
+      "properties": {
+        "id": 412,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Modena Bruciata",
+        "addr:city": "Modena",
+        "addr:street": "Via Emilia Ovest 1480",
+        "branch": "Modena Bruciata",
+        "contact:phone": "059 848599",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/modena/modena-bruciata",
+        "opening_hours": {
+          "Monday": "08:30-21:30",
+          "Tuesday": "08:30-21:30",
+          "Wednesday": "08:30-21:30",
+          "Thursday": "08:30-21:30",
+          "Friday": "08:30-21:30",
+          "Saturday": "08:30-21:30",
+          "Sunday": "08:30-21:30"
+        },
+        "full_address": "Via Emilia Ovest 1480 Modena tel: 059 848599",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "412.00",
+        "regione": "emilia-romagna",
+        "provincia": "modena",
+        "slug": "modena-bruciata",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/modena/modena-bruciata",
+        "page_coordinates": [
+          10.853159,
+          44.647969
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Modena Bruciata**\n---\n**ID:** 412\n\n### Address\nVia Emilia Ovest 1480 Modena tel: 059 848599, Modena (modena)\n\n### Contacts\n**Phone:** 059 848599\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/modena/modena-bruciata](https://www.mcdonalds.it/ristorante/emilia-romagna/modena/modena-bruciata)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:30-21:30 |\n| **Tuesday** | 08:30-21:30 |\n| **Wednesday** | 08:30-21:30 |\n| **Thursday** | 08:30-21:30 |\n| **Friday** | 08:30-21:30 |\n| **Saturday** | 08:30-21:30 |\n| **Sunday** | 08:30-21:30 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.619472,
+          44.835235
+        ]
+      },
+      "properties": {
+        "id": 420,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Ferrara Trento E Trieste",
+        "addr:city": "Ferrara",
+        "addr:street": "Piazza Trento E Trieste 6",
+        "branch": "Ferrara Trento E Trieste",
+        "contact:phone": "346 6776895",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/ferrara/ferrara-trento-e-trieste",
+        "opening_hours": {
+          "Monday": "08:00-23:00",
+          "Tuesday": "08:00-23:00",
+          "Wednesday": "08:00-00:00",
+          "Thursday": "08:00-23:00",
+          "Friday": "08:00-02:00",
+          "Saturday": "09:30-02:00",
+          "Sunday": "09:30-23:00"
+        },
+        "full_address": "Piazza Trento E Trieste 6 Ferrara tel: 346 6776895",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "420.00",
+        "regione": "emilia-romagna",
+        "provincia": "ferrara",
+        "slug": "ferrara-trento-e-trieste",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/ferrara/ferrara-trento-e-trieste",
+        "page_coordinates": [
+          11.619472,
+          44.835235
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Ferrara Trento E Trieste**\n---\n**ID:** 420\n\n### Address\nPiazza Trento E Trieste 6 Ferrara tel: 346 6776895, Ferrara (ferrara)\n\n### Contacts\n**Phone:** 346 6776895\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/ferrara/ferrara-trento-e-trieste](https://www.mcdonalds.it/ristorante/emilia-romagna/ferrara/ferrara-trento-e-trieste)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-23:00 |\n| **Tuesday** | 08:00-23:00 |\n| **Wednesday** | 08:00-00:00 |\n| **Thursday** | 08:00-23:00 |\n| **Friday** | 08:00-02:00 |\n| **Saturday** | 09:30-02:00 |\n| **Sunday** | 09:30-23:00 |\n\n### Services\nMcCafé® • Take Away • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.342559,
+          44.494961
+        ]
+      },
+      "properties": {
+        "id": 422,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Bologna Indipendenza 1",
+        "addr:city": "Bologna",
+        "addr:street": "Via Indipendenza, 2",
+        "branch": "Bologna Indipendenza 1",
+        "contact:phone": "051 232064",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/bologna-indipendenza-1",
+        "opening_hours": {
+          "Monday": "11:00-23:30",
+          "Tuesday": "11:00-23:30",
+          "Wednesday": "11:00-23:30",
+          "Thursday": "11:00-23:30",
+          "Friday": "11:00-00:30",
+          "Saturday": "11:00-00:30",
+          "Sunday": "11:00-23:30"
+        },
+        "full_address": "Via Indipendenza, 2 Bologna tel: 051 232064",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "422.00",
+        "regione": "emilia-romagna",
+        "provincia": "bologna",
+        "slug": "bologna-indipendenza-1",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/bologna-indipendenza-1",
+        "page_coordinates": [
+          11.342559,
+          44.494961
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Bologna Indipendenza 1**\n---\n**ID:** 422\n\n### Address\nVia Indipendenza, 2 Bologna tel: 051 232064, Bologna (bologna)\n\n### Contacts\n**Phone:** 051 232064\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/bologna-indipendenza-1](https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/bologna-indipendenza-1)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 11:00-23:30 |\n| **Tuesday** | 11:00-23:30 |\n| **Wednesday** | 11:00-23:30 |\n| **Thursday** | 11:00-23:30 |\n| **Friday** | 11:00-00:30 |\n| **Saturday** | 11:00-00:30 |\n| **Sunday** | 11:00-23:30 |\n\n### Services\nTake Away • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.432692,
+          44.156808
+        ]
+      },
+      "properties": {
+        "id": 456,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Savignano Sul Rubicone",
+        "addr:city": "Savignano Sul Rubicone",
+        "addr:street": "Via Giovanni Da Verrazzano, 4",
+        "branch": "Savignano Sul Rubicone",
+        "contact:phone": "0541 345670",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/forli-cesena/savignano-sul-rubicone",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "10:30-00:00",
+          "Thursday": "10:30-00:00",
+          "Friday": "10:30-01:30",
+          "Saturday": "10:30-01:30",
+          "Sunday": "10:30-00:00"
+        },
+        "full_address": "Via Giovanni Da Verrazzano, 4 Forlì-Cesena tel: 0541 345670",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "456.00",
+        "regione": "emilia-romagna",
+        "provincia": "forli-cesena",
+        "slug": "savignano-sul-rubicone",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/forli-cesena/savignano-sul-rubicone",
+        "page_coordinates": [
+          12.432692,
+          44.156808
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Savignano Sul Rubicone**\n---\n**ID:** 456\n\n### Address\nVia Giovanni Da Verrazzano, 4 Forlì-Cesena tel: 0541 345670, Savignano Sul Rubicone (forli-cesena)\n\n### Contacts\n**Phone:** 0541 345670\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/forli-cesena/savignano-sul-rubicone](https://www.mcdonalds.it/ristorante/emilia-romagna/forli-cesena/savignano-sul-rubicone)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-00:00 |\n| **Tuesday** | 10:30-00:00 |\n| **Wednesday** | 10:30-00:00 |\n| **Thursday** | 10:30-00:00 |\n| **Friday** | 10:30-01:30 |\n| **Saturday** | 10:30-01:30 |\n| **Sunday** | 10:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.180623,
+          44.396154
+        ]
+      },
+      "properties": {
+        "id": 480,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Ravenna Ipercoop",
+        "addr:city": "Ravenna",
+        "addr:street": "Via Classicana 408",
+        "branch": "Ravenna Ipercoop",
+        "contact:phone": "0544 270562",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/ravenna/ravenna-ipercoop",
+        "opening_hours": {
+          "Monday": "08:00-21:30",
+          "Tuesday": "08:00-21:30",
+          "Wednesday": "08:00-21:30",
+          "Thursday": "08:00-21:30",
+          "Friday": "08:00-21:30",
+          "Saturday": "08:00-21:30",
+          "Sunday": "09:00-21:30"
+        },
+        "full_address": "Via Classicana 408 Ravenna tel: 0544 270562",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "480.00",
+        "regione": "emilia-romagna",
+        "provincia": "ravenna",
+        "slug": "ravenna-ipercoop",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/ravenna/ravenna-ipercoop",
+        "page_coordinates": [
+          12.180623,
+          44.396154
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Ravenna Ipercoop**\n---\n**ID:** 480\n\n### Address\nVia Classicana 408 Ravenna tel: 0544 270562, Ravenna (ravenna)\n\n### Contacts\n**Phone:** 0544 270562\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/ravenna/ravenna-ipercoop](https://www.mcdonalds.it/ristorante/emilia-romagna/ravenna/ravenna-ipercoop)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-21:30 |\n| **Tuesday** | 08:00-21:30 |\n| **Wednesday** | 08:00-21:30 |\n| **Thursday** | 08:00-21:30 |\n| **Friday** | 08:00-21:30 |\n| **Saturday** | 08:00-21:30 |\n| **Sunday** | 09:00-21:30 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.646546,
+          44.69287
+        ]
+      },
+      "properties": {
+        "id": 481,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Reggio Emilia Via Emilia Ospizio",
+        "addr:city": "Reggio Emilia",
+        "addr:street": "Via Emilia all’Ospizio 45",
+        "branch": "Reggio Emilia Via Emilia Ospizio",
+        "contact:phone": "0522 332911",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/reggio-emilia/reggio-emilia-via-emilia-ospizio",
+        "opening_hours": {
+          "Monday": "11:00-23:00",
+          "Tuesday": "11:00-23:00",
+          "Wednesday": "11:00-23:00",
+          "Thursday": "11:00-23:00",
+          "Friday": "11:00-23:00",
+          "Saturday": "11:00-23:00",
+          "Sunday": "11:00-23:00"
+        },
+        "full_address": "Via Emilia all’Ospizio 45 Reggio Emilia tel: 0522 332911",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "481.00",
+        "regione": "emilia-romagna",
+        "provincia": "reggio-emilia",
+        "slug": "reggio-emilia-via-emilia-ospizio",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/reggio-emilia/reggio-emilia-via-emilia-ospizio",
+        "page_coordinates": [
+          10.646546,
+          44.69287
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Reggio Emilia Via Emilia Ospizio**\n---\n**ID:** 481\n\n### Address\nVia Emilia all’Ospizio 45 Reggio Emilia tel: 0522 332911, Reggio Emilia (reggio-emilia)\n\n### Contacts\n**Phone:** 0522 332911\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/reggio-emilia/reggio-emilia-via-emilia-ospizio](https://www.mcdonalds.it/ristorante/emilia-romagna/reggio-emilia/reggio-emilia-via-emilia-ospizio)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 11:00-23:00 |\n| **Tuesday** | 11:00-23:00 |\n| **Wednesday** | 11:00-23:00 |\n| **Thursday** | 11:00-23:00 |\n| **Friday** | 11:00-23:00 |\n| **Saturday** | 11:00-23:00 |\n| **Sunday** | 11:00-23:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.290376,
+          44.809361
+        ]
+      },
+      "properties": {
+        "id": 488,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Parma",
+        "addr:city": "Parma",
+        "addr:street": "Via Emilia Ovest 101",
+        "branch": "Parma",
+        "contact:phone": "0521 944286",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/parma/parma",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-03:00",
+          "Thursday": "07:00-01:00",
+          "Friday": "07:00-01:00",
+          "Saturday": "07:00-01:00",
+          "Sunday": "07:00-01:00"
+        },
+        "full_address": "Via Emilia Ovest 101 Parma tel: 0521 944286",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "488.00",
+        "regione": "emilia-romagna",
+        "provincia": "parma",
+        "slug": "parma",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/parma/parma",
+        "page_coordinates": [
+          10.290376,
+          44.809361
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Parma**\n---\n**ID:** 488\n\n### Address\nVia Emilia Ovest 101 Parma tel: 0521 944286, Parma (parma)\n\n### Contacts\n**Phone:** 0521 944286\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/parma/parma](https://www.mcdonalds.it/ristorante/emilia-romagna/parma/parma)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-01:00 |\n| **Tuesday** | 07:00-01:00 |\n| **Wednesday** | 07:00-03:00 |\n| **Thursday** | 07:00-01:00 |\n| **Friday** | 07:00-01:00 |\n| **Saturday** | 07:00-01:00 |\n| **Sunday** | 07:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.944886,
+          44.638498
+        ]
+      },
+      "properties": {
+        "id": 498,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Modena Emilia Est",
+        "addr:city": "Modena",
+        "addr:street": "Via Curiel, 25",
+        "branch": "Modena Emilia Est",
+        "contact:phone": "059 4925509",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/modena/modena-emilia-est",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "10:30-00:00",
+          "Thursday": "10:30-00:00",
+          "Friday": "10:30-00:00",
+          "Saturday": "10:30-01:00",
+          "Sunday": "10:30-00:00"
+        },
+        "full_address": "Via Curiel, 25 Modena tel: 059 4925509",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "498.00",
+        "regione": "emilia-romagna",
+        "provincia": "modena",
+        "slug": "modena-emilia-est",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/modena/modena-emilia-est",
+        "page_coordinates": [
+          10.944886,
+          44.638498
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Modena Emilia Est**\n---\n**ID:** 498\n\n### Address\nVia Curiel, 25 Modena tel: 059 4925509, Modena (modena)\n\n### Contacts\n**Phone:** 059 4925509\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/modena/modena-emilia-est](https://www.mcdonalds.it/ristorante/emilia-romagna/modena/modena-emilia-est)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-00:00 |\n| **Tuesday** | 10:30-00:00 |\n| **Wednesday** | 10:30-00:00 |\n| **Thursday** | 10:30-00:00 |\n| **Friday** | 10:30-00:00 |\n| **Saturday** | 10:30-01:00 |\n| **Sunday** | 10:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.393165,
+          44.496471
+        ]
+      },
+      "properties": {
+        "id": 556,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Bologna via Larga",
+        "addr:city": "Bologna",
+        "addr:street": "Via Larga. 17",
+        "branch": "Bologna via Larga",
+        "contact:phone": "051 7178428",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/bologna-via-larga",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "10:30-00:00",
+          "Thursday": "10:30-00:00",
+          "Friday": "10:30-00:30",
+          "Saturday": "10:30-00:30",
+          "Sunday": "10:30-00:00"
+        },
+        "full_address": "Via Larga. 17 Bologna tel: 051 7178428",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "556.00",
+        "regione": "emilia-romagna",
+        "provincia": "bologna",
+        "slug": "bologna-via-larga",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/bologna-via-larga",
+        "page_coordinates": [
+          11.393165,
+          44.496471
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Bologna via Larga**\n---\n**ID:** 556\n\n### Address\nVia Larga. 17 Bologna tel: 051 7178428, Bologna (bologna)\n\n### Contacts\n**Phone:** 051 7178428\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/bologna-via-larga](https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/bologna-via-larga)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-00:00 |\n| **Tuesday** | 10:30-00:00 |\n| **Wednesday** | 10:30-00:00 |\n| **Thursday** | 10:30-00:00 |\n| **Friday** | 10:30-00:30 |\n| **Saturday** | 10:30-00:30 |\n| **Sunday** | 10:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.597709,
+          44.666493
+        ]
+      },
+      "properties": {
+        "id": 564,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Reggio Emilia Baragalla",
+        "addr:city": "Reggio Emilia",
+        "addr:street": "Via David Ricardo 7/A",
+        "branch": "Reggio Emilia Baragalla",
+        "contact:phone": "0522 1932184",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/reggio-emilia/reggio-emilia-baragalla",
+        "opening_hours": {
+          "Monday": "11:00-00:30",
+          "Tuesday": "11:00-00:30",
+          "Wednesday": "11:00-00:30",
+          "Thursday": "11:00-00:30",
+          "Friday": "11:00-02:00",
+          "Saturday": "11:00-02:00",
+          "Sunday": "11:00-00:30"
+        },
+        "full_address": "Via David Ricardo 7/A Reggio Emilia tel: 0522 1932184",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "564.00",
+        "regione": "emilia-romagna",
+        "provincia": "reggio-emilia",
+        "slug": "reggio-emilia-baragalla",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/reggio-emilia/reggio-emilia-baragalla",
+        "page_coordinates": [
+          10.597709,
+          44.666493
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Reggio Emilia Baragalla**\n---\n**ID:** 564\n\n### Address\nVia David Ricardo 7/A Reggio Emilia tel: 0522 1932184, Reggio Emilia (reggio-emilia)\n\n### Contacts\n**Phone:** 0522 1932184\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/reggio-emilia/reggio-emilia-baragalla](https://www.mcdonalds.it/ristorante/emilia-romagna/reggio-emilia/reggio-emilia-baragalla)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 11:00-00:30 |\n| **Tuesday** | 11:00-00:30 |\n| **Wednesday** | 11:00-00:30 |\n| **Thursday** | 11:00-00:30 |\n| **Friday** | 11:00-02:00 |\n| **Saturday** | 11:00-02:00 |\n| **Sunday** | 11:00-00:30 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.21766,
+          44.145533
+        ]
+      },
+      "properties": {
+        "id": 573,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Cesena Cattaneo",
+        "addr:city": "Cesena",
+        "addr:street": "Via Emilia Ponente. 864",
+        "branch": "Cesena Cattaneo",
+        "contact:phone": "0547 1861860",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/forli-cesena/cesena-cattaneo",
+        "opening_hours": {
+          "Monday": "11:00-00:00",
+          "Tuesday": "11:00-00:00",
+          "Wednesday": "11:00-00:00",
+          "Thursday": "11:00-00:00",
+          "Friday": "11:00-00:00",
+          "Saturday": "11:00-00:00",
+          "Sunday": "11:00-00:00"
+        },
+        "full_address": "Via Emilia Ponente. 864 Forlì-Cesena tel: 0547 1861860",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "573.00",
+        "regione": "emilia-romagna",
+        "provincia": "forli-cesena",
+        "slug": "cesena-cattaneo",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/forli-cesena/cesena-cattaneo",
+        "page_coordinates": [
+          12.21766,
+          44.145533
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Cesena Cattaneo**\n---\n**ID:** 573\n\n### Address\nVia Emilia Ponente. 864 Forlì-Cesena tel: 0547 1861860, Cesena (forli-cesena)\n\n### Contacts\n**Phone:** 0547 1861860\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/forli-cesena/cesena-cattaneo](https://www.mcdonalds.it/ristorante/emilia-romagna/forli-cesena/cesena-cattaneo)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 11:00-00:00 |\n| **Tuesday** | 11:00-00:00 |\n| **Wednesday** | 11:00-00:00 |\n| **Thursday** | 11:00-00:00 |\n| **Friday** | 11:00-00:00 |\n| **Saturday** | 11:00-00:00 |\n| **Sunday** | 11:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.733771,
+          45.032344
+        ]
+      },
+      "properties": {
+        "id": 627,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Piacenza Parmense",
+        "addr:city": "Piacenza",
+        "addr:street": "via Stradiotti",
+        "branch": "Piacenza Parmense",
+        "contact:phone": "0523044915",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/piacenza/piacenza-parmense",
+        "opening_hours": {
+          "Monday": "10:00-00:00",
+          "Tuesday": "10:00-00:00",
+          "Wednesday": "10:00-00:00",
+          "Thursday": "10:00-00:00",
+          "Friday": "10:00-00:00",
+          "Saturday": "10:00-00:00",
+          "Sunday": "10:00-00:00"
+        },
+        "full_address": "via Stradiotti Piacenza tel: 0523044915",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "627.00",
+        "regione": "emilia-romagna",
+        "provincia": "piacenza",
+        "slug": "piacenza-parmense",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/piacenza/piacenza-parmense",
+        "page_coordinates": [
+          9.733771,
+          45.032344
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Piacenza Parmense**\n---\n**ID:** 627\n\n### Address\nvia Stradiotti Piacenza tel: 0523044915, Piacenza (piacenza)\n\n### Contacts\n**Phone:** 0523044915\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/piacenza/piacenza-parmense](https://www.mcdonalds.it/ristorante/emilia-romagna/piacenza/piacenza-parmense)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:00-00:00 |\n| **Tuesday** | 10:00-00:00 |\n| **Wednesday** | 10:00-00:00 |\n| **Thursday** | 10:00-00:00 |\n| **Friday** | 10:00-00:00 |\n| **Saturday** | 10:00-00:00 |\n| **Sunday** | 10:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.208211,
+          44.418868
+        ]
+      },
+      "properties": {
+        "id": 632,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Ravenna Stazione",
+        "addr:city": "Ravenna",
+        "addr:street": "Piazza Luigi Carlo Farini. 14",
+        "branch": "Ravenna Stazione",
+        "contact:phone": "05441586004",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/ravenna/ravenna-stazione",
+        "opening_hours": {
+          "Monday": "10:00-22:00",
+          "Tuesday": "10:00-22:00",
+          "Wednesday": "10:00-21:00",
+          "Thursday": "10:00-21:00",
+          "Friday": "10:00-22:00",
+          "Saturday": "10:00-22:00",
+          "Sunday": "10:00-22:00"
+        },
+        "full_address": "Piazza Luigi Carlo Farini. 14 Ravenna tel: 05441586004",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "632.00",
+        "regione": "emilia-romagna",
+        "provincia": "ravenna",
+        "slug": "ravenna-stazione",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/ravenna/ravenna-stazione",
+        "page_coordinates": [
+          12.208211,
+          44.418868
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Ravenna Stazione**\n---\n**ID:** 632\n\n### Address\nPiazza Luigi Carlo Farini. 14 Ravenna tel: 05441586004, Ravenna (ravenna)\n\n### Contacts\n**Phone:** 05441586004\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/ravenna/ravenna-stazione](https://www.mcdonalds.it/ristorante/emilia-romagna/ravenna/ravenna-stazione)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:00-22:00 |\n| **Tuesday** | 10:00-22:00 |\n| **Wednesday** | 10:00-21:00 |\n| **Thursday** | 10:00-21:00 |\n| **Friday** | 10:00-22:00 |\n| **Saturday** | 10:00-22:00 |\n| **Sunday** | 10:00-22:00 |\n\n### Services\nTake Away • Ordina in App • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.245523,
+          44.487143
+        ]
+      },
+      "properties": {
+        "id": 672,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Casalecchio De Curtis",
+        "addr:city": "Casalecchio Di Reno",
+        "addr:street": "Via Antonio de Curtis",
+        "branch": "Casalecchio De Curtis",
+        "contact:phone": "0517172399",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/casalecchio-de-curtis",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "10:30-00:00",
+          "Thursday": "10:30-00:00",
+          "Friday": "10:30-00:00",
+          "Saturday": "10:30-00:00",
+          "Sunday": "10:30-00:00"
+        },
+        "full_address": "Via Antonio de Curtis Bologna tel: 0517172399",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "672.00",
+        "regione": "emilia-romagna",
+        "provincia": "bologna",
+        "slug": "casalecchio-de-curtis",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/casalecchio-de-curtis",
+        "page_coordinates": [
+          11.245523,
+          44.487143
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Casalecchio De Curtis**\n---\n**ID:** 672\n\n### Address\nVia Antonio de Curtis Bologna tel: 0517172399, Casalecchio Di Reno (bologna)\n\n### Contacts\n**Phone:** 0517172399\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/casalecchio-de-curtis](https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/casalecchio-de-curtis)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-00:00 |\n| **Tuesday** | 10:30-00:00 |\n| **Wednesday** | 10:30-00:00 |\n| **Thursday** | 10:30-00:00 |\n| **Friday** | 10:30-00:00 |\n| **Saturday** | 10:30-00:00 |\n| **Sunday** | 10:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.730811,
+          43.952988
+        ]
+      },
+      "properties": {
+        "id": 689,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Cattolica",
+        "addr:city": "Cattolica",
+        "addr:street": "SS 16 km 221",
+        "branch": "Cattolica",
+        "contact:phone": "05411914506",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/rimini/cattolica",
+        "opening_hours": {
+          "Monday": "10:30-23:30",
+          "Tuesday": "10:30-23:30",
+          "Wednesday": "10:30-23:30",
+          "Thursday": "10:30-23:30",
+          "Friday": "10:30-01:30",
+          "Saturday": "10:30-01:30",
+          "Sunday": "10:30-23:30"
+        },
+        "full_address": "SS 16 km 221 Rimini tel: 05411914506",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "689.00",
+        "regione": "emilia-romagna",
+        "provincia": "rimini",
+        "slug": "cattolica",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/rimini/cattolica",
+        "page_coordinates": [
+          12.730811,
+          43.952988
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Cattolica**\n---\n**ID:** 689\n\n### Address\nSS 16 km 221 Rimini tel: 05411914506, Cattolica (rimini)\n\n### Contacts\n**Phone:** 05411914506\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/rimini/cattolica](https://www.mcdonalds.it/ristorante/emilia-romagna/rimini/cattolica)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-23:30 |\n| **Tuesday** | 10:30-23:30 |\n| **Wednesday** | 10:30-23:30 |\n| **Thursday** | 10:30-23:30 |\n| **Friday** | 10:30-01:30 |\n| **Saturday** | 10:30-01:30 |\n| **Sunday** | 10:30-23:30 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.993951,
+          44.817348
+        ]
+      },
+      "properties": {
+        "id": 694,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Salsomaggiore Terme",
+        "addr:city": "Salsomaggiore Terme",
+        "addr:street": "Via Vittorio Rossi",
+        "branch": "Salsomaggiore Terme",
+        "contact:phone": "0524482029",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/parma/salsomaggiore-terme",
+        "opening_hours": {
+          "Monday": "08:00-00:00",
+          "Tuesday": "08:00-00:00",
+          "Wednesday": "08:00-00:00",
+          "Thursday": "08:00-00:00",
+          "Friday": "08:00-00:00",
+          "Saturday": "08:00-00:00",
+          "Sunday": "08:00-00:00"
+        },
+        "full_address": "Via Vittorio Rossi Parma tel: 0524482029",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "694.00",
+        "regione": "emilia-romagna",
+        "provincia": "parma",
+        "slug": "salsomaggiore-terme",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/parma/salsomaggiore-terme",
+        "page_coordinates": [
+          9.993951,
+          44.817348
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Salsomaggiore Terme**\n---\n**ID:** 694\n\n### Address\nVia Vittorio Rossi Parma tel: 0524482029, Salsomaggiore Terme (parma)\n\n### Contacts\n**Phone:** 0524482029\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/parma/salsomaggiore-terme](https://www.mcdonalds.it/ristorante/emilia-romagna/parma/salsomaggiore-terme)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-00:00 |\n| **Tuesday** | 08:00-00:00 |\n| **Wednesday** | 08:00-00:00 |\n| **Thursday** | 08:00-00:00 |\n| **Friday** | 08:00-00:00 |\n| **Saturday** | 08:00-00:00 |\n| **Sunday** | 08:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.027184,
+          44.603429
+        ]
+      },
+      "properties": {
+        "id": 695,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Castelfranco Emilia",
+        "addr:city": "Castelfranco Emilia",
+        "addr:street": "Via I Carracci. 3",
+        "branch": "Castelfranco Emilia",
+        "contact:phone": "0594926679",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/modena/castelfranco-emilia",
+        "opening_hours": {
+          "Monday": "11:00-00:00",
+          "Tuesday": "11:00-00:00",
+          "Wednesday": "11:00-00:00",
+          "Thursday": "11:00-00:00",
+          "Friday": "11:00-00:00",
+          "Saturday": "10:30-00:00",
+          "Sunday": "10:30-00:00"
+        },
+        "full_address": "Via I Carracci. 3 Modena tel: 0594926679",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "695.00",
+        "regione": "emilia-romagna",
+        "provincia": "modena",
+        "slug": "castelfranco-emilia",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/modena/castelfranco-emilia",
+        "page_coordinates": [
+          11.027184,
+          44.603429
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Castelfranco Emilia**\n---\n**ID:** 695\n\n### Address\nVia I Carracci. 3 Modena tel: 0594926679, Castelfranco Emilia (modena)\n\n### Contacts\n**Phone:** 0594926679\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/modena/castelfranco-emilia](https://www.mcdonalds.it/ristorante/emilia-romagna/modena/castelfranco-emilia)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 11:00-00:00 |\n| **Tuesday** | 11:00-00:00 |\n| **Wednesday** | 11:00-00:00 |\n| **Thursday** | 11:00-00:00 |\n| **Friday** | 11:00-00:00 |\n| **Saturday** | 10:30-00:00 |\n| **Sunday** | 10:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.248105,
+          44.488226
+        ]
+      },
+      "properties": {
+        "id": 712,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Casalecchio Mall",
+        "addr:city": "Casalecchio Di Reno",
+        "addr:street": "Via Marilyn Monroe. 2",
+        "branch": "Casalecchio Mall",
+        "contact:phone": "0510492728",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/casalecchio-mall",
+        "opening_hours": {
+          "Monday": "11:00-23:00",
+          "Tuesday": "11:00-23:00",
+          "Wednesday": "11:00-23:00",
+          "Thursday": "11:00-23:00",
+          "Friday": "11:00-23:00",
+          "Saturday": "11:00-23:00",
+          "Sunday": "11:00-23:00"
+        },
+        "full_address": "Via Marilyn Monroe. 2 Bologna tel: 0510492728",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "712.00",
+        "regione": "emilia-romagna",
+        "provincia": "bologna",
+        "slug": "casalecchio-mall",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/casalecchio-mall",
+        "page_coordinates": [
+          11.248105,
+          44.488226
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Casalecchio Mall**\n---\n**ID:** 712\n\n### Address\nVia Marilyn Monroe. 2 Bologna tel: 0510492728, Casalecchio Di Reno (bologna)\n\n### Contacts\n**Phone:** 0510492728\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/casalecchio-mall](https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/casalecchio-mall)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 11:00-23:00 |\n| **Tuesday** | 11:00-23:00 |\n| **Wednesday** | 11:00-23:00 |\n| **Thursday** | 11:00-23:00 |\n| **Friday** | 11:00-23:00 |\n| **Saturday** | 11:00-23:00 |\n| **Sunday** | 11:00-23:00 |\n\n### Services\nTake Away • Ordina in App • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.862301,
+          44.598468
+        ]
+      },
+      "properties": {
+        "id": 724,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Casinalbo",
+        "addr:city": "Formigine",
+        "addr:street": "Via Giardini Nord. 531",
+        "branch": "Casinalbo",
+        "contact:phone": "059 7103808",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/modena/casinalbo",
+        "opening_hours": {
+          "Monday": "11:00-00:00",
+          "Tuesday": "11:00-00:00",
+          "Wednesday": "11:00-00:00",
+          "Thursday": "11:00-00:00",
+          "Friday": "11:00-01:00",
+          "Saturday": "11:00-01:00",
+          "Sunday": "10:00-00:00"
+        },
+        "full_address": "Via Giardini Nord. 531 Modena tel: 059 7103808",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "724.00",
+        "regione": "emilia-romagna",
+        "provincia": "modena",
+        "slug": "casinalbo",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/modena/casinalbo",
+        "page_coordinates": [
+          10.862301,
+          44.598468
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Casinalbo**\n---\n**ID:** 724\n\n### Address\nVia Giardini Nord. 531 Modena tel: 059 7103808, Formigine (modena)\n\n### Contacts\n**Phone:** 059 7103808\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/modena/casinalbo](https://www.mcdonalds.it/ristorante/emilia-romagna/modena/casinalbo)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 11:00-00:00 |\n| **Tuesday** | 11:00-00:00 |\n| **Wednesday** | 11:00-00:00 |\n| **Thursday** | 11:00-00:00 |\n| **Friday** | 11:00-01:00 |\n| **Saturday** | 11:00-01:00 |\n| **Sunday** | 10:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.79235,
+          44.76313
+        ]
+      },
+      "properties": {
+        "id": 738,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Correggio Viale Vecchia Ferrovia",
+        "addr:city": "Correggio",
+        "addr:street": "Viale Vecchia Ferrovia 28",
+        "branch": "Correggio Viale Vecchia Ferrovia",
+        "contact:phone": "0522 1306524",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/reggio-emilia/correggio-viale-vecchia-ferrovia",
+        "opening_hours": {
+          "Monday": "06:30-00:00",
+          "Tuesday": "06:30-00:00",
+          "Wednesday": "06:30-00:00",
+          "Thursday": "06:30-00:00",
+          "Friday": "06:30-01:00",
+          "Saturday": "06:30-01:00",
+          "Sunday": "06:30-00:00"
+        },
+        "full_address": "Viale Vecchia Ferrovia 28 Reggio Emilia tel: 0522 1306524",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "738.00",
+        "regione": "emilia-romagna",
+        "provincia": "reggio-emilia",
+        "slug": "correggio-viale-vecchia-ferrovia",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/reggio-emilia/correggio-viale-vecchia-ferrovia",
+        "page_coordinates": [
+          10.79235,
+          44.76313
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Correggio Viale Vecchia Ferrovia**\n---\n**ID:** 738\n\n### Address\nViale Vecchia Ferrovia 28 Reggio Emilia tel: 0522 1306524, Correggio (reggio-emilia)\n\n### Contacts\n**Phone:** 0522 1306524\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/reggio-emilia/correggio-viale-vecchia-ferrovia](https://www.mcdonalds.it/ristorante/emilia-romagna/reggio-emilia/correggio-viale-vecchia-ferrovia)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 06:30-00:00 |\n| **Tuesday** | 06:30-00:00 |\n| **Wednesday** | 06:30-00:00 |\n| **Thursday** | 06:30-00:00 |\n| **Friday** | 06:30-01:00 |\n| **Saturday** | 06:30-01:00 |\n| **Sunday** | 06:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.088884,
+          44.24828
+        ]
+      },
+      "properties": {
+        "id": 749,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Forlì Via Altobelli",
+        "addr:city": "Forli",
+        "addr:street": "Via Argentina Altobelli 12/14",
+        "branch": "Forlì Via Altobelli",
+        "contact:phone": "0543 1652813",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/forli-cesena/forli-via-altobelli",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-01:00",
+          "Thursday": "07:00-22:00",
+          "Friday": "07:00-02:00",
+          "Saturday": "07:00-02:00",
+          "Sunday": "07:00-01:00"
+        },
+        "full_address": "Via Argentina Altobelli 12/14 Forlì-Cesena tel: 0543 1652813",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "749.00",
+        "regione": "emilia-romagna",
+        "provincia": "forli-cesena",
+        "slug": "forli-via-altobelli",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/forli-cesena/forli-via-altobelli",
+        "page_coordinates": [
+          12.088884,
+          44.24828
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Forlì Via Altobelli**\n---\n**ID:** 749\n\n### Address\nVia Argentina Altobelli 12/14 Forlì-Cesena tel: 0543 1652813, Forli (forli-cesena)\n\n### Contacts\n**Phone:** 0543 1652813\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/forli-cesena/forli-via-altobelli](https://www.mcdonalds.it/ristorante/emilia-romagna/forli-cesena/forli-via-altobelli)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-01:00 |\n| **Tuesday** | 07:00-01:00 |\n| **Wednesday** | 07:00-01:00 |\n| **Thursday** | 07:00-22:00 |\n| **Friday** | 07:00-02:00 |\n| **Saturday** | 07:00-02:00 |\n| **Sunday** | 07:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.37292,
+          44.221663
+        ]
+      },
+      "properties": {
+        "id": 956,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Pinarella",
+        "addr:city": "Pinarella",
+        "addr:street": "Via Romea Sud 189",
+        "branch": "Pinarella",
+        "contact:phone": "0544 1583432",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/ravenna/pinarella",
+        "opening_hours": {
+          "Monday": "11:00-00:00",
+          "Tuesday": "11:00-00:00",
+          "Wednesday": "11:00-00:00",
+          "Thursday": "11:00-00:00",
+          "Friday": "11:00-00:00",
+          "Saturday": "11:00-00:00",
+          "Sunday": "11:00-00:00"
+        },
+        "full_address": "Via Romea Sud 189 Ravenna tel: 0544 1583432",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "956.00",
+        "regione": "emilia-romagna",
+        "provincia": "ravenna",
+        "slug": "pinarella",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/ravenna/pinarella",
+        "page_coordinates": [
+          12.37292,
+          44.221663
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Pinarella**\n---\n**ID:** 956\n\n### Address\nVia Romea Sud 189 Ravenna tel: 0544 1583432, Pinarella (ravenna)\n\n### Contacts\n**Phone:** 0544 1583432\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/ravenna/pinarella](https://www.mcdonalds.it/ristorante/emilia-romagna/ravenna/pinarella)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 11:00-00:00 |\n| **Tuesday** | 11:00-00:00 |\n| **Wednesday** | 11:00-00:00 |\n| **Thursday** | 11:00-00:00 |\n| **Friday** | 11:00-00:00 |\n| **Saturday** | 11:00-00:00 |\n| **Sunday** | 11:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.447373,
+          45.056371
+        ]
+      },
+      "properties": {
+        "id": 962,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Castel San Giovanni Drive",
+        "addr:city": "Castel San Giovanni",
+        "addr:street": "SS 10 Padana Inferiore",
+        "branch": "Castel San Giovanni Drive",
+        "contact:phone": "05231495341",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/piacenza/castel-san-giovanni-drive",
+        "opening_hours": {
+          "Monday": "10:30-01:00",
+          "Tuesday": "10:30-01:00",
+          "Wednesday": "10:30-01:00",
+          "Thursday": "10:30-01:00",
+          "Friday": "10:30-01:00",
+          "Saturday": "10:30-01:00",
+          "Sunday": "07:00-01:00"
+        },
+        "full_address": "SS 10 Padana Inferiore Piacenza tel: 05231495341",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "962.00",
+        "regione": "emilia-romagna",
+        "provincia": "piacenza",
+        "slug": "castel-san-giovanni-drive",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/piacenza/castel-san-giovanni-drive",
+        "page_coordinates": [
+          9.447373,
+          45.056371
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Castel San Giovanni Drive**\n---\n**ID:** 962\n\n### Address\nSS 10 Padana Inferiore Piacenza tel: 05231495341, Castel San Giovanni (piacenza)\n\n### Contacts\n**Phone:** 05231495341\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/piacenza/castel-san-giovanni-drive](https://www.mcdonalds.it/ristorante/emilia-romagna/piacenza/castel-san-giovanni-drive)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-01:00 |\n| **Tuesday** | 10:30-01:00 |\n| **Wednesday** | 10:30-01:00 |\n| **Thursday** | 10:30-01:00 |\n| **Friday** | 10:30-01:00 |\n| **Saturday** | 10:30-01:00 |\n| **Sunday** | 07:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.584991,
+          44.403718
+        ]
+      },
+      "properties": {
+        "id": 969,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Castel San Pietro Terme",
+        "addr:city": "Castel San Pietro Terme",
+        "addr:street": "Via Emilia Ponente. 210",
+        "branch": "Castel San Pietro Terme",
+        "contact:phone": "051 0061107",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/castel-san-pietro-terme",
+        "opening_hours": {
+          "Monday": "09:00-00:00",
+          "Tuesday": "09:00-00:00",
+          "Wednesday": "09:00-00:00",
+          "Thursday": "09:00-00:00",
+          "Friday": "09:00-00:00",
+          "Saturday": "09:00-00:00",
+          "Sunday": "09:00-00:00"
+        },
+        "full_address": "Via Emilia Ponente. 210 Bologna tel: 051 0061107",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "969.00",
+        "regione": "emilia-romagna",
+        "provincia": "bologna",
+        "slug": "castel-san-pietro-terme",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/castel-san-pietro-terme",
+        "page_coordinates": [
+          11.584991,
+          44.403718
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Castel San Pietro Terme**\n---\n**ID:** 969\n\n### Address\nVia Emilia Ponente. 210 Bologna tel: 051 0061107, Castel San Pietro Terme (bologna)\n\n### Contacts\n**Phone:** 051 0061107\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/castel-san-pietro-terme](https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/castel-san-pietro-terme)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 09:00-00:00 |\n| **Tuesday** | 09:00-00:00 |\n| **Wednesday** | 09:00-00:00 |\n| **Thursday** | 09:00-00:00 |\n| **Friday** | 09:00-00:00 |\n| **Saturday** | 09:00-00:00 |\n| **Sunday** | 09:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.89805,
+          44.93709
+        ]
+      },
+      "properties": {
+        "id": 990,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Castel San Pietro Terme",
+        "addr:city": "Fiorenzuola Darda",
+        "addr:street": "Via Emilia Ponente 35",
+        "branch": "Castel San Pietro Terme",
+        "contact:phone": "051 0061107",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/castel-san-pietro-terme",
+        "opening_hours": {
+          "Monday": "09:00-00:00",
+          "Tuesday": "09:00-00:00",
+          "Wednesday": "09:00-00:00",
+          "Thursday": "09:00-00:00",
+          "Friday": "09:00-00:00",
+          "Saturday": "09:00-00:00",
+          "Sunday": "09:00-00:00"
+        },
+        "full_address": "Via Emilia Ponente. 210 Bologna tel: 051 0061107",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "969.00",
+        "regione": "emilia-romagna",
+        "provincia": "bologna",
+        "slug": "castel-san-pietro-terme",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/castel-san-pietro-terme",
+        "page_coordinates": [
+          11.584991,
+          44.403718
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Castel San Pietro Terme**\n---\n**ID:** 990\n\n### Address\nVia Emilia Ponente. 210 Bologna tel: 051 0061107, Fiorenzuola Darda (bologna)\n\n### Contacts\n**Phone:** 051 0061107\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/castel-san-pietro-terme](https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/castel-san-pietro-terme)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 09:00-00:00 |\n| **Tuesday** | 09:00-00:00 |\n| **Wednesday** | 09:00-00:00 |\n| **Thursday** | 09:00-00:00 |\n| **Friday** | 09:00-00:00 |\n| **Saturday** | 09:00-00:00 |\n| **Sunday** | 09:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.436714,
+          44.840191
+        ]
+      },
+      "properties": {
+        "id": 991,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Sorbolo",
+        "addr:city": "Sorbolo",
+        "addr:street": "Largo Alberazza 2",
+        "branch": "Sorbolo",
+        "contact:phone": "05211403337",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/parma/sorbolo",
+        "opening_hours": {
+          "Monday": "08:00-23:00",
+          "Tuesday": "08:00-23:00",
+          "Wednesday": "08:00-23:00",
+          "Thursday": "08:00-23:00",
+          "Friday": "08:00-01:00",
+          "Saturday": "08:00-01:00",
+          "Sunday": "08:00-23:00"
+        },
+        "full_address": "Largo Alberazza 2 Parma tel: 05211403337",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "991.00",
+        "regione": "emilia-romagna",
+        "provincia": "parma",
+        "slug": "sorbolo",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/parma/sorbolo",
+        "page_coordinates": [
+          10.436714,
+          44.840191
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Sorbolo**\n---\n**ID:** 991\n\n### Address\nLargo Alberazza 2 Parma tel: 05211403337, Sorbolo (parma)\n\n### Contacts\n**Phone:** 05211403337\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/parma/sorbolo](https://www.mcdonalds.it/ristorante/emilia-romagna/parma/sorbolo)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-23:00 |\n| **Tuesday** | 08:00-23:00 |\n| **Wednesday** | 08:00-23:00 |\n| **Thursday** | 08:00-23:00 |\n| **Friday** | 08:00-01:00 |\n| **Saturday** | 08:00-01:00 |\n| **Sunday** | 08:00-23:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.195474,
+          44.627368
+        ]
+      },
+      "properties": {
+        "id": 992,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "San Giovanni in Persiceto",
+        "addr:city": "San Giovanni In Persiceto",
+        "addr:street": "Via Elsa Morante 5",
+        "branch": "San Giovanni in Persiceto",
+        "contact:phone": "0510018987",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/san-giovanni-in-persiceto",
+        "opening_hours": {
+          "Monday": "10:30-23:00",
+          "Tuesday": "10:30-23:00",
+          "Wednesday": "10:30-23:00",
+          "Thursday": "10:30-23:00",
+          "Friday": "10:30-00:00",
+          "Saturday": "10:30-00:00",
+          "Sunday": "10:30-23:00"
+        },
+        "full_address": "Via Elsa Morante 5 Bologna tel: 0510018987",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "992.00",
+        "regione": "emilia-romagna",
+        "provincia": "bologna",
+        "slug": "san-giovanni-in-persiceto",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/san-giovanni-in-persiceto",
+        "page_coordinates": [
+          11.195474,
+          44.627368
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**San Giovanni in Persiceto**\n---\n**ID:** 992\n\n### Address\nVia Elsa Morante 5 Bologna tel: 0510018987, San Giovanni In Persiceto (bologna)\n\n### Contacts\n**Phone:** 0510018987\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/san-giovanni-in-persiceto](https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/san-giovanni-in-persiceto)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-23:00 |\n| **Tuesday** | 10:30-23:00 |\n| **Wednesday** | 10:30-23:00 |\n| **Thursday** | 10:30-23:00 |\n| **Friday** | 10:30-00:00 |\n| **Saturday** | 10:30-00:00 |\n| **Sunday** | 10:30-23:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.838785,
+          44.323993
+        ]
+      },
+      "properties": {
+        "id": 1008,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Pavullo nel Frignano",
+        "addr:city": "Pavullo Nel Frignano",
+        "addr:street": "Via Gianluigi Plati",
+        "branch": "Pavullo nel Frignano",
+        "contact:phone": "05361702718",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/modena/pavullo-nel-frignano",
+        "opening_hours": {
+          "Monday": "08:00-00:00",
+          "Tuesday": "08:00-00:00",
+          "Wednesday": "08:00-00:00",
+          "Thursday": "08:00-00:00",
+          "Friday": "08:00-01:00",
+          "Saturday": "08:00-01:00",
+          "Sunday": "08:00-00:00"
+        },
+        "full_address": "Via Gianluigi Plati Modena tel: 05361702718",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1008.00",
+        "regione": "emilia-romagna",
+        "provincia": "modena",
+        "slug": "pavullo-nel-frignano",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/modena/pavullo-nel-frignano",
+        "page_coordinates": [
+          10.838785,
+          44.323993
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Pavullo nel Frignano**\n---\n**ID:** 1008\n\n### Address\nVia Gianluigi Plati Modena tel: 05361702718, Pavullo Nel Frignano (modena)\n\n### Contacts\n**Phone:** 05361702718\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/modena/pavullo-nel-frignano](https://www.mcdonalds.it/ristorante/emilia-romagna/modena/pavullo-nel-frignano)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-00:00 |\n| **Tuesday** | 08:00-00:00 |\n| **Wednesday** | 08:00-00:00 |\n| **Thursday** | 08:00-00:00 |\n| **Friday** | 08:00-01:00 |\n| **Saturday** | 08:00-01:00 |\n| **Sunday** | 08:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7336,
+          44.374173
+        ]
+      },
+      "properties": {
+        "id": 1012,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Imola Selice Drive",
+        "addr:city": "Imola",
+        "addr:street": "Via Provinciale Selice. 43A",
+        "branch": "Imola Selice Drive",
+        "contact:phone": "05421881604",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/imola-selice-drive",
+        "opening_hours": {
+          "Monday": "09:00-00:00",
+          "Tuesday": "09:00-00:00",
+          "Wednesday": "09:00-00:00",
+          "Thursday": "09:00-00:00",
+          "Friday": "09:00-00:00",
+          "Saturday": "09:00-00:00",
+          "Sunday": "09:00-00:00"
+        },
+        "full_address": "Via Provinciale Selice. 43A Bologna tel: 05421881604",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1012.00",
+        "regione": "emilia-romagna",
+        "provincia": "bologna",
+        "slug": "imola-selice-drive",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/imola-selice-drive",
+        "page_coordinates": [
+          11.7336,
+          44.374173
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Imola Selice Drive**\n---\n**ID:** 1012\n\n### Address\nVia Provinciale Selice. 43A Bologna tel: 05421881604, Imola (bologna)\n\n### Contacts\n**Phone:** 05421881604\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/imola-selice-drive](https://www.mcdonalds.it/ristorante/emilia-romagna/bologna/imola-selice-drive)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 09:00-00:00 |\n| **Tuesday** | 09:00-00:00 |\n| **Wednesday** | 09:00-00:00 |\n| **Thursday** | 09:00-00:00 |\n| **Friday** | 09:00-00:00 |\n| **Saturday** | 09:00-00:00 |\n| **Sunday** | 09:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.842396,
+          44.60348
+        ]
+      },
+      "properties": {
+        "id": 1023,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Argenta",
+        "addr:city": "Argenta",
+        "addr:street": "Via Celletta. 104",
+        "branch": "Argenta",
+        "contact:phone": "0532091994",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/ferrara/argenta",
+        "opening_hours": {
+          "Monday": "09:30-23:00",
+          "Tuesday": "09:30-23:00",
+          "Wednesday": "09:30-23:00",
+          "Thursday": "09:30-23:00",
+          "Friday": "09:30-01:00",
+          "Saturday": "09:30-01:00",
+          "Sunday": "09:30-23:00"
+        },
+        "full_address": "Via Celletta. 104 Ferrara tel: 0532091994",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1023.00",
+        "regione": "emilia-romagna",
+        "provincia": "ferrara",
+        "slug": "argenta",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/ferrara/argenta",
+        "page_coordinates": [
+          11.842396,
+          44.60348
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Argenta**\n---\n**ID:** 1023\n\n### Address\nVia Celletta. 104 Ferrara tel: 0532091994, Argenta (ferrara)\n\n### Contacts\n**Phone:** 0532091994\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/ferrara/argenta](https://www.mcdonalds.it/ristorante/emilia-romagna/ferrara/argenta)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 09:30-23:00 |\n| **Tuesday** | 09:30-23:00 |\n| **Wednesday** | 09:30-23:00 |\n| **Thursday** | 09:30-23:00 |\n| **Friday** | 09:30-01:00 |\n| **Saturday** | 09:30-01:00 |\n| **Sunday** | 09:30-23:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.105031,
+          44.194171
+        ]
+      },
+      "properties": {
+        "id": 1024,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Forlimpopoli Cineflash Drive",
+        "addr:city": "Forlimpopoli",
+        "addr:street": "Via Emilia per Forlì. 1498",
+        "branch": "Forlimpopoli Cineflash Drive",
+        "contact:phone": "0543031260",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/forli-cesena/forlimpopoli-cineflash-drive",
+        "opening_hours": {
+          "Monday": "11:00-00:30",
+          "Tuesday": "11:00-00:30",
+          "Wednesday": "11:00-00:30",
+          "Thursday": "11:00-00:30",
+          "Friday": "11:00-00:30",
+          "Saturday": "11:00-00:30",
+          "Sunday": "11:00-00:30"
+        },
+        "full_address": "Via Emilia per Forlì. 1498 Forlì-Cesena tel: 0543031260",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1024.00",
+        "regione": "emilia-romagna",
+        "provincia": "forli-cesena",
+        "slug": "forlimpopoli-cineflash-drive",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/forli-cesena/forlimpopoli-cineflash-drive",
+        "page_coordinates": [
+          12.105031,
+          44.194171
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Forlimpopoli Cineflash Drive**\n---\n**ID:** 1024\n\n### Address\nVia Emilia per Forlì. 1498 Forlì-Cesena tel: 0543031260, Forlimpopoli (forli-cesena)\n\n### Contacts\n**Phone:** 0543031260\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/forli-cesena/forlimpopoli-cineflash-drive](https://www.mcdonalds.it/ristorante/emilia-romagna/forli-cesena/forlimpopoli-cineflash-drive)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 11:00-00:30 |\n| **Tuesday** | 11:00-00:30 |\n| **Wednesday** | 11:00-00:30 |\n| **Thursday** | 11:00-00:30 |\n| **Friday** | 11:00-00:30 |\n| **Saturday** | 11:00-00:30 |\n| **Sunday** | 11:00-00:30 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.633323,
+          44.005506
+        ]
+      },
+      "properties": {
+        "id": 1029,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Riccione Flaminia",
+        "addr:city": "Riccione",
+        "addr:street": "Via Flaminia. 51-53",
+        "branch": "Riccione Flaminia",
+        "contact:phone": "05411413901",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/rimini/riccione-flaminia",
+        "opening_hours": {
+          "Monday": "09:00-01:00",
+          "Tuesday": "09:00-01:00",
+          "Wednesday": "09:00-01:00",
+          "Thursday": "09:00-01:00",
+          "Friday": "09:00-02:00",
+          "Saturday": "09:00-02:00",
+          "Sunday": "09:00-01:00"
+        },
+        "full_address": "Via Flaminia. 51-53 Rimini tel: 05411413901",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1029.00",
+        "regione": "emilia-romagna",
+        "provincia": "rimini",
+        "slug": "riccione-flaminia",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/rimini/riccione-flaminia",
+        "page_coordinates": [
+          12.633323,
+          44.005506
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Riccione Flaminia**\n---\n**ID:** 1029\n\n### Address\nVia Flaminia. 51-53 Rimini tel: 05411413901, Riccione (rimini)\n\n### Contacts\n**Phone:** 05411413901\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/rimini/riccione-flaminia](https://www.mcdonalds.it/ristorante/emilia-romagna/rimini/riccione-flaminia)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 09:00-01:00 |\n| **Tuesday** | 09:00-01:00 |\n| **Wednesday** | 09:00-01:00 |\n| **Thursday** | 09:00-01:00 |\n| **Friday** | 09:00-02:00 |\n| **Saturday** | 09:00-02:00 |\n| **Sunday** | 09:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.470081,
+          44.697055
+        ]
+      },
+      "properties": {
+        "id": 1063,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Montecchio Fratelli Cervi",
+        "addr:city": "Montecchio Emilia",
+        "addr:street": "Via Fratelli Cervi",
+        "branch": "Montecchio Fratelli Cervi",
+        "contact:phone": "0522 1074738",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/reggio-emilia/montecchio-fratelli-cervi",
+        "opening_hours": {
+          "Monday": "07:30-00:00",
+          "Tuesday": "07:30-00:00",
+          "Wednesday": "07:30-00:00",
+          "Thursday": "07:30-00:00",
+          "Friday": "07:30-01:00",
+          "Saturday": "07:30-01:00",
+          "Sunday": "07:30-00:00"
+        },
+        "full_address": "Via Fratelli Cervi Reggio Emilia tel: 0522 1074738",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1063.00",
+        "regione": "emilia-romagna",
+        "provincia": "reggio-emilia",
+        "slug": "montecchio-fratelli-cervi",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/reggio-emilia/montecchio-fratelli-cervi",
+        "page_coordinates": [
+          10.470081,
+          44.697055
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Montecchio Fratelli Cervi**\n---\n**ID:** 1063\n\n### Address\nVia Fratelli Cervi Reggio Emilia tel: 0522 1074738, Montecchio Emilia (reggio-emilia)\n\n### Contacts\n**Phone:** 0522 1074738\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/reggio-emilia/montecchio-fratelli-cervi](https://www.mcdonalds.it/ristorante/emilia-romagna/reggio-emilia/montecchio-fratelli-cervi)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:30-00:00 |\n| **Tuesday** | 07:30-00:00 |\n| **Wednesday** | 07:30-00:00 |\n| **Thursday** | 07:30-00:00 |\n| **Friday** | 07:30-01:00 |\n| **Saturday** | 07:30-01:00 |\n| **Sunday** | 07:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.378024,
+          44.826279
+        ]
+      },
+      "properties": {
+        "id": 1065,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "San Martino Ovest",
+        "addr:city": "Parma",
+        "addr:street": "c/o ADS San Martino Ovest A1 km 114",
+        "branch": "San Martino Ovest",
+        "contact:phone": "0521 1401204",
+        "contact:website": "https://www.mcdonalds.it/ristorante/emilia-romagna/parma/san-martino-ovest",
+        "opening_hours": {
+          "Monday": "09:00-22:00",
+          "Tuesday": "09:00-22:00",
+          "Wednesday": "09:00-22:00",
+          "Thursday": "09:00-22:00",
+          "Friday": "09:00-23:00",
+          "Saturday": "09:00-23:00",
+          "Sunday": "09:00-23:00"
+        },
+        "full_address": "c/o ADS San Martino Ovest A1 km 114 Parma tel: 0521 1401204",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1065.00",
+        "regione": "emilia-romagna",
+        "provincia": "parma",
+        "slug": "san-martino-ovest",
+        "detail_url": "https://www.mcdonalds.it/ristorante/emilia-romagna/parma/san-martino-ovest",
+        "page_coordinates": [
+          10.378024,
+          44.826279
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**San Martino Ovest**\n---\n**ID:** 1065\n\n### Address\nc/o ADS San Martino Ovest A1 km 114 Parma tel: 0521 1401204, Parma (parma)\n\n### Contacts\n**Phone:** 0521 1401204\n**Website:** [https://www.mcdonalds.it/ristorante/emilia-romagna/parma/san-martino-ovest](https://www.mcdonalds.it/ristorante/emilia-romagna/parma/san-martino-ovest)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 09:00-22:00 |\n| **Tuesday** | 09:00-22:00 |\n| **Wednesday** | 09:00-22:00 |\n| **Thursday** | 09:00-22:00 |\n| **Friday** | 09:00-23:00 |\n| **Saturday** | 09:00-23:00 |\n| **Sunday** | 09:00-23:00 |\n\n### Services\nTake Away • Ordina in App • Wi-fi"
+      }
+    }
+  ]
+}

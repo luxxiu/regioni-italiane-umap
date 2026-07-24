@@ -1,0 +1,3473 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.779496,
+          45.033058
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Rovigo",
+        "addr:city": "Borsea",
+        "addr:street": "Frazione Borsea",
+        "branch": "Rovigo",
+        "contact:phone": "0425 471088",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/rovigo/rovigo",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-01:00",
+          "Thursday": "07:00-01:00",
+          "Friday": "07:00-03:00",
+          "Saturday": "07:00-05:59",
+          "Sunday": "06:00-01:00"
+        },
+        "full_address": "Frazione Borsea Rovigo tel: 0425 471088",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "8.00",
+        "regione": "veneto",
+        "provincia": "rovigo",
+        "slug": "rovigo",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/rovigo/rovigo",
+        "page_coordinates": [
+          11.779496,
+          45.033058
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Rovigo**\n---\n**ID:** 8\n\n### Address\nFrazione Borsea Rovigo tel: 0425 471088, Borsea (rovigo)\n\n### Contacts\n**Phone:** 0425 471088\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/rovigo/rovigo](https://www.mcdonalds.it/ristorante/veneto/rovigo/rovigo)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-01:00 |\n| **Tuesday** | 07:00-01:00 |\n| **Wednesday** | 07:00-01:00 |\n| **Thursday** | 07:00-01:00 |\n| **Friday** | 07:00-03:00 |\n| **Saturday** | 07:00-05:59 |\n| **Sunday** | 06:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.967785,
+          45.444081
+        ]
+      },
+      "properties": {
+        "id": 19,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Verona Milano",
+        "addr:city": "Verona",
+        "addr:street": "Corso Milano 62",
+        "branch": "Verona Milano",
+        "contact:phone": "045 8103241",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/verona/verona-milano",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-01:00",
+          "Thursday": "07:00-01:00",
+          "Friday": "07:00-02:00",
+          "Saturday": "07:00-02:00",
+          "Sunday": "07:00-01:00"
+        },
+        "full_address": "Corso Milano 62 Verona tel: 045 8103241",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "19.00",
+        "regione": "veneto",
+        "provincia": "verona",
+        "slug": "verona-milano",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/verona/verona-milano",
+        "page_coordinates": [
+          10.967785,
+          45.444081
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Verona Milano**\n---\n**ID:** 19\n\n### Address\nCorso Milano 62 Verona tel: 045 8103241, Verona (verona)\n\n### Contacts\n**Phone:** 045 8103241\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/verona/verona-milano](https://www.mcdonalds.it/ristorante/veneto/verona/verona-milano)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-01:00 |\n| **Tuesday** | 07:00-01:00 |\n| **Wednesday** | 07:00-01:00 |\n| **Thursday** | 07:00-01:00 |\n| **Friday** | 07:00-02:00 |\n| **Saturday** | 07:00-02:00 |\n| **Sunday** | 07:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.863817,
+          45.439876
+        ]
+      },
+      "properties": {
+        "id": 44,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Lugagnano di Sona",
+        "addr:city": "Lugagnano",
+        "addr:street": "Via Trentino 1",
+        "branch": "Lugagnano di Sona",
+        "contact:phone": "045 6090211",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/verona/lugagnano-di-sona",
+        "opening_hours": {
+          "Monday": "11:00-22:00",
+          "Tuesday": "11:00-22:00",
+          "Wednesday": "11:00-22:00",
+          "Thursday": "11:00-22:00",
+          "Friday": "11:00-23:00",
+          "Saturday": "11:00-00:00",
+          "Sunday": "15:00-23:00"
+        },
+        "full_address": "Via Trentino 1 Verona tel: 045 6090211",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "44.00",
+        "regione": "veneto",
+        "provincia": "verona",
+        "slug": "lugagnano-di-sona",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/verona/lugagnano-di-sona",
+        "page_coordinates": [
+          10.863817,
+          45.439876
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Lugagnano di Sona**\n---\n**ID:** 44\n\n### Address\nVia Trentino 1 Verona tel: 045 6090211, Lugagnano (verona)\n\n### Contacts\n**Phone:** 045 6090211\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/verona/lugagnano-di-sona](https://www.mcdonalds.it/ristorante/veneto/verona/lugagnano-di-sona)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 11:00-22:00 |\n| **Tuesday** | 11:00-22:00 |\n| **Wednesday** | 11:00-22:00 |\n| **Thursday** | 11:00-22:00 |\n| **Friday** | 11:00-23:00 |\n| **Saturday** | 11:00-00:00 |\n| **Sunday** | 15:00-23:00 |\n\n### Services\nTake Away • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.787804,
+          45.551289
+        ]
+      },
+      "properties": {
+        "id": 49,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Affi Drive",
+        "addr:city": "Affi",
+        "addr:street": "Via San Pieretto, 27",
+        "branch": "Affi Drive",
+        "contact:phone": "045 6261286",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/verona/affi-drive",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-01:00",
+          "Thursday": "07:00-01:00",
+          "Friday": "07:00-02:00",
+          "Saturday": "07:00-02:00",
+          "Sunday": "07:00-01:00"
+        },
+        "full_address": "Via San Pieretto, 27 Verona tel: 045 6261286",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "49.00",
+        "regione": "veneto",
+        "provincia": "verona",
+        "slug": "affi-drive",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/verona/affi-drive",
+        "page_coordinates": [
+          10.787804,
+          45.551289
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Affi Drive**\n---\n**ID:** 49\n\n### Address\nVia San Pieretto, 27 Verona tel: 045 6261286, Affi (verona)\n\n### Contacts\n**Phone:** 045 6261286\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/verona/affi-drive](https://www.mcdonalds.it/ristorante/veneto/verona/affi-drive)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-01:00 |\n| **Tuesday** | 07:00-01:00 |\n| **Wednesday** | 07:00-01:00 |\n| **Thursday** | 07:00-01:00 |\n| **Friday** | 07:00-02:00 |\n| **Saturday** | 07:00-02:00 |\n| **Sunday** | 07:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.978846,
+          45.411496
+        ]
+      },
+      "properties": {
+        "id": 52,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Verona Fiera",
+        "addr:city": "Verona",
+        "addr:street": "Viale del Lavoro, 25",
+        "branch": "Verona Fiera",
+        "contact:phone": "045 581462",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/verona/verona-fiera",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-01:00",
+          "Thursday": "07:00-01:00",
+          "Friday": "07:00-05:00",
+          "Saturday": "07:00-05:00",
+          "Sunday": "07:00-01:00"
+        },
+        "full_address": "Viale del Lavoro, 25 Verona tel: 045 581462",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "52.00",
+        "regione": "veneto",
+        "provincia": "verona",
+        "slug": "verona-fiera",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/verona/verona-fiera",
+        "page_coordinates": [
+          10.978846,
+          45.411496
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Verona Fiera**\n---\n**ID:** 52\n\n### Address\nViale del Lavoro, 25 Verona tel: 045 581462, Verona (verona)\n\n### Contacts\n**Phone:** 045 581462\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/verona/verona-fiera](https://www.mcdonalds.it/ristorante/veneto/verona/verona-fiera)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-01:00 |\n| **Tuesday** | 07:00-01:00 |\n| **Wednesday** | 07:00-01:00 |\n| **Thursday** | 07:00-01:00 |\n| **Friday** | 07:00-05:00 |\n| **Saturday** | 07:00-05:00 |\n| **Sunday** | 07:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.863187,
+          45.432557
+        ]
+      },
+      "properties": {
+        "id": 79,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Padova Ovest",
+        "addr:city": "Padova",
+        "addr:street": "Corso Australia KM 0+678",
+        "branch": "Padova Ovest",
+        "contact:phone": "049 604554",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/padova/padova-ovest",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "10:30-00:00",
+          "Thursday": "10:30-00:00",
+          "Friday": "10:30-01:00",
+          "Saturday": "10:30-01:00",
+          "Sunday": "10:30-00:00"
+        },
+        "full_address": "Corso Australia KM 0+678 Padova tel: 049 604554",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "79.00",
+        "regione": "veneto",
+        "provincia": "padova",
+        "slug": "padova-ovest",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/padova/padova-ovest",
+        "page_coordinates": [
+          11.863187,
+          45.432557
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Padova Ovest**\n---\n**ID:** 79\n\n### Address\nCorso Australia KM 0+678 Padova tel: 049 604554, Padova (padova)\n\n### Contacts\n**Phone:** 049 604554\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/padova/padova-ovest](https://www.mcdonalds.it/ristorante/veneto/padova/padova-ovest)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-00:00 |\n| **Tuesday** | 10:30-00:00 |\n| **Wednesday** | 10:30-00:00 |\n| **Thursday** | 10:30-00:00 |\n| **Friday** | 10:30-01:00 |\n| **Saturday** | 10:30-01:00 |\n| **Sunday** | 10:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.429529,
+          45.493659
+        ]
+      },
+      "properties": {
+        "id": 86,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Montecchio Drive",
+        "addr:city": "Montecchio Maggiore",
+        "addr:street": "Viale Milano, 6",
+        "branch": "Montecchio Drive",
+        "contact:phone": "0444 493599",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/vicenza/montecchio-drive",
+        "opening_hours": {
+          "Monday": "07:00-02:00",
+          "Tuesday": "07:00-02:00",
+          "Wednesday": "07:00-02:00",
+          "Thursday": "07:00-02:00",
+          "Friday": "07:00-02:00",
+          "Saturday": "07:00-02:00",
+          "Sunday": "07:00-02:00"
+        },
+        "full_address": "Viale Milano, 6 Vicenza tel: 0444 493599",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "86.00",
+        "regione": "veneto",
+        "provincia": "vicenza",
+        "slug": "montecchio-drive",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/vicenza/montecchio-drive",
+        "page_coordinates": [
+          11.429529,
+          45.493659
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Montecchio Drive**\n---\n**ID:** 86\n\n### Address\nViale Milano, 6 Vicenza tel: 0444 493599, Montecchio Maggiore (vicenza)\n\n### Contacts\n**Phone:** 0444 493599\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/vicenza/montecchio-drive](https://www.mcdonalds.it/ristorante/veneto/vicenza/montecchio-drive)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-02:00 |\n| **Tuesday** | 07:00-02:00 |\n| **Wednesday** | 07:00-02:00 |\n| **Thursday** | 07:00-02:00 |\n| **Friday** | 07:00-02:00 |\n| **Saturday** | 07:00-02:00 |\n| **Sunday** | 07:00-02:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.397997,
+          45.719944
+        ]
+      },
+      "properties": {
+        "id": 100,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Schio Drive",
+        "addr:city": "Schio",
+        "addr:street": "Via Lazio 2",
+        "branch": "Schio Drive",
+        "contact:phone": "0445 500031",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/vicenza/schio-drive",
+        "opening_hours": {
+          "Monday": "07:00-02:00",
+          "Tuesday": "07:00-02:00",
+          "Wednesday": "07:00-02:00",
+          "Thursday": "07:00-02:00",
+          "Friday": "07:00-02:00",
+          "Saturday": "07:00-02:00",
+          "Sunday": "07:00-02:00"
+        },
+        "full_address": "Via Lazio 2 Vicenza tel: 0445 500031",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "100.00",
+        "regione": "veneto",
+        "provincia": "vicenza",
+        "slug": "schio-drive",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/vicenza/schio-drive",
+        "page_coordinates": [
+          11.397997,
+          45.719944
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Schio Drive**\n---\n**ID:** 100\n\n### Address\nVia Lazio 2 Vicenza tel: 0445 500031, Schio (vicenza)\n\n### Contacts\n**Phone:** 0445 500031\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/vicenza/schio-drive](https://www.mcdonalds.it/ristorante/veneto/vicenza/schio-drive)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-02:00 |\n| **Tuesday** | 07:00-02:00 |\n| **Wednesday** | 07:00-02:00 |\n| **Thursday** | 07:00-02:00 |\n| **Friday** | 07:00-02:00 |\n| **Saturday** | 07:00-02:00 |\n| **Sunday** | 07:00-02:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.326367,
+          45.890846
+        ]
+      },
+      "properties": {
+        "id": 109,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "San Vendemiano - Conegliano",
+        "addr:city": "Conegliano",
+        "addr:street": "Viale Venezia",
+        "branch": "San Vendemiano - Conegliano",
+        "contact:phone": "0438 403305",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/treviso/san-vendemiano-conegliano",
+        "opening_hours": {
+          "Monday": "07:30-00:00",
+          "Tuesday": "07:30-00:00",
+          "Wednesday": "07:30-00:00",
+          "Thursday": "07:30-00:00",
+          "Friday": "07:30-02:00",
+          "Saturday": "07:30-02:00",
+          "Sunday": "07:30-01:00"
+        },
+        "full_address": "Viale Venezia Treviso tel: 0438 403305",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "109.00",
+        "regione": "veneto",
+        "provincia": "treviso",
+        "slug": "san-vendemiano-conegliano",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/treviso/san-vendemiano-conegliano",
+        "page_coordinates": [
+          12.326367,
+          45.890846
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**San Vendemiano - Conegliano**\n---\n**ID:** 109\n\n### Address\nViale Venezia Treviso tel: 0438 403305, Conegliano (treviso)\n\n### Contacts\n**Phone:** 0438 403305\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/treviso/san-vendemiano-conegliano](https://www.mcdonalds.it/ristorante/veneto/treviso/san-vendemiano-conegliano)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:30-00:00 |\n| **Tuesday** | 07:30-00:00 |\n| **Wednesday** | 07:30-00:00 |\n| **Thursday** | 07:30-00:00 |\n| **Friday** | 07:30-02:00 |\n| **Saturday** | 07:30-02:00 |\n| **Sunday** | 07:30-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.926172,
+          45.68387
+        ]
+      },
+      "properties": {
+        "id": 134,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Castelfranco Veneto",
+        "addr:city": "Castelfranco Veneto",
+        "addr:street": "Via Circonvallazione Ovest, 2",
+        "branch": "Castelfranco Veneto",
+        "contact:phone": "0423 420088",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/treviso/castelfranco-veneto",
+        "opening_hours": {
+          "Monday": "09:00-23:00",
+          "Tuesday": "09:00-23:00",
+          "Wednesday": "09:00-23:00",
+          "Thursday": "09:00-23:00",
+          "Friday": "09:00-23:00",
+          "Saturday": "09:00-23:00",
+          "Sunday": "09:00-23:00"
+        },
+        "full_address": "Via Circonvallazione Ovest, 2 Treviso tel: 0423 420088",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "134.00",
+        "regione": "veneto",
+        "provincia": "treviso",
+        "slug": "castelfranco-veneto",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/treviso/castelfranco-veneto",
+        "page_coordinates": [
+          11.926172,
+          45.68387
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "Take Away",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Castelfranco Veneto**\n---\n**ID:** 134\n\n### Address\nVia Circonvallazione Ovest, 2 Treviso tel: 0423 420088, Castelfranco Veneto (treviso)\n\n### Contacts\n**Phone:** 0423 420088\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/treviso/castelfranco-veneto](https://www.mcdonalds.it/ristorante/veneto/treviso/castelfranco-veneto)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 09:00-23:00 |\n| **Tuesday** | 09:00-23:00 |\n| **Wednesday** | 09:00-23:00 |\n| **Thursday** | 09:00-23:00 |\n| **Friday** | 09:00-23:00 |\n| **Saturday** | 09:00-23:00 |\n| **Sunday** | 09:00-23:00 |\n\n### Services\nMcDrive® • Take Away • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.906779,
+          45.40996
+        ]
+      },
+      "properties": {
+        "id": 173,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Padova Via Venezia",
+        "addr:city": "Padova",
+        "addr:street": "via Venezia, 92",
+        "branch": "Padova Via Venezia",
+        "contact:phone": "049 7801703",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/padova/padova-via-venezia",
+        "opening_hours": {
+          "Monday": "10:30-01:00",
+          "Tuesday": "10:30-01:00",
+          "Wednesday": "10:30-01:00",
+          "Thursday": "10:30-01:00",
+          "Friday": "10:30-01:00",
+          "Saturday": "10:30-01:00",
+          "Sunday": "10:30-01:00"
+        },
+        "full_address": "via Venezia, 92 Padova tel: 049 7801703",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "173.00",
+        "regione": "veneto",
+        "provincia": "padova",
+        "slug": "padova-via-venezia",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/padova/padova-via-venezia",
+        "page_coordinates": [
+          11.906779,
+          45.40996
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Padova Via Venezia**\n---\n**ID:** 173\n\n### Address\nvia Venezia, 92 Padova tel: 049 7801703, Padova (padova)\n\n### Contacts\n**Phone:** 049 7801703\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/padova/padova-via-venezia](https://www.mcdonalds.it/ristorante/veneto/padova/padova-via-venezia)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-01:00 |\n| **Tuesday** | 10:30-01:00 |\n| **Wednesday** | 10:30-01:00 |\n| **Thursday** | 10:30-01:00 |\n| **Friday** | 10:30-01:00 |\n| **Saturday** | 10:30-01:00 |\n| **Sunday** | 10:30-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.854937,
+          45.377776
+        ]
+      },
+      "properties": {
+        "id": 177,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Albignasego PD",
+        "addr:city": "Albignasego",
+        "addr:street": "Via Verga, 1",
+        "branch": "Albignasego PD",
+        "contact:phone": "049 691060",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/padova/albignasego-pd",
+        "opening_hours": {
+          "Monday": "10:30-21:00",
+          "Tuesday": "10:30-21:00",
+          "Wednesday": "10:30-21:00",
+          "Thursday": "10:30-21:00",
+          "Friday": "10:30-21:00",
+          "Saturday": "10:30-21:00",
+          "Sunday": "10:30-21:00"
+        },
+        "full_address": "Via Verga, 1 Padova tel: 049 691060",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "177.00",
+        "regione": "veneto",
+        "provincia": "padova",
+        "slug": "albignasego-pd",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/padova/albignasego-pd",
+        "page_coordinates": [
+          11.854937,
+          45.377776
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Albignasego PD**\n---\n**ID:** 177\n\n### Address\nVia Verga, 1 Padova tel: 049 691060, Albignasego (padova)\n\n### Contacts\n**Phone:** 049 691060\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/padova/albignasego-pd](https://www.mcdonalds.it/ristorante/veneto/padova/albignasego-pd)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-21:00 |\n| **Tuesday** | 10:30-21:00 |\n| **Wednesday** | 10:30-21:00 |\n| **Thursday** | 10:30-21:00 |\n| **Friday** | 10:30-21:00 |\n| **Saturday** | 10:30-21:00 |\n| **Sunday** | 10:30-21:00 |\n\n### Services\nTake Away • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.256791,
+          45.185365
+        ]
+      },
+      "properties": {
+        "id": 179,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Legnago",
+        "addr:city": "San Pietro Di Legnago",
+        "addr:street": "via Europa 37/38 ang. via DAntona",
+        "branch": "Legnago",
+        "contact:phone": "0442 603859",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/verona/legnago",
+        "opening_hours": {
+          "Monday": "07:30-00:00",
+          "Tuesday": "07:30-00:00",
+          "Wednesday": "07:30-00:00",
+          "Thursday": "07:30-00:00",
+          "Friday": "07:30-00:00",
+          "Saturday": "06:00-00:00",
+          "Sunday": "06:00-00:00"
+        },
+        "full_address": "via Europa 37/38 ang. via DAntona Verona tel: 0442 603859",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "179.00",
+        "regione": "veneto",
+        "provincia": "verona",
+        "slug": "legnago",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/verona/legnago",
+        "page_coordinates": [
+          11.256791,
+          45.185365
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Legnago**\n---\n**ID:** 179\n\n### Address\nvia Europa 37/38 ang. via DAntona Verona tel: 0442 603859, San Pietro Di Legnago (verona)\n\n### Contacts\n**Phone:** 0442 603859\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/verona/legnago](https://www.mcdonalds.it/ristorante/veneto/verona/legnago)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:30-00:00 |\n| **Tuesday** | 07:30-00:00 |\n| **Wednesday** | 07:30-00:00 |\n| **Thursday** | 07:30-00:00 |\n| **Friday** | 07:30-00:00 |\n| **Saturday** | 06:00-00:00 |\n| **Sunday** | 06:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.634694,
+          45.505682
+        ]
+      },
+      "properties": {
+        "id": 194,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Jesolo",
+        "addr:city": "Jesolo",
+        "addr:street": "via Aldo Policek, 6",
+        "branch": "Jesolo",
+        "contact:phone": "0421 381439",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/venezia/jesolo",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-03:00",
+          "Saturday": "07:00-04:00",
+          "Sunday": "07:00-02:00"
+        },
+        "full_address": "via Aldo Policek, 6 Venezia tel: 0421 381439",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "194.00",
+        "regione": "veneto",
+        "provincia": "venezia",
+        "slug": "jesolo",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/venezia/jesolo",
+        "page_coordinates": [
+          12.634694,
+          45.505682
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Jesolo**\n---\n**ID:** 194\n\n### Address\nvia Aldo Policek, 6 Venezia tel: 0421 381439, Jesolo (venezia)\n\n### Contacts\n**Phone:** 0421 381439\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/venezia/jesolo](https://www.mcdonalds.it/ristorante/veneto/venezia/jesolo)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-00:00 |\n| **Tuesday** | 07:00-00:00 |\n| **Wednesday** | 07:00-00:00 |\n| **Thursday** | 07:00-00:00 |\n| **Friday** | 07:00-03:00 |\n| **Saturday** | 07:00-04:00 |\n| **Sunday** | 07:00-02:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.82056,
+          45.792707
+        ]
+      },
+      "properties": {
+        "id": 218,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Portogruaro Retail Park",
+        "addr:city": "Portogruaro",
+        "addr:street": "Via Prati Guori, 29",
+        "branch": "Portogruaro Retail Park",
+        "contact:phone": "0421 1953171",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/venezia/portogruaro-retail-park",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-01:00",
+          "Thursday": "07:00-01:00",
+          "Friday": "07:00-02:00",
+          "Saturday": "07:00-03:00",
+          "Sunday": "07:00-01:00"
+        },
+        "full_address": "Via Prati Guori, 29 Venezia tel: 0421 1953171",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "218.00",
+        "regione": "veneto",
+        "provincia": "venezia",
+        "slug": "portogruaro-retail-park",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/venezia/portogruaro-retail-park",
+        "page_coordinates": [
+          12.82056,
+          45.792707
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Portogruaro Retail Park**\n---\n**ID:** 218\n\n### Address\nVia Prati Guori, 29 Venezia tel: 0421 1953171, Portogruaro (venezia)\n\n### Contacts\n**Phone:** 0421 1953171\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/venezia/portogruaro-retail-park](https://www.mcdonalds.it/ristorante/veneto/venezia/portogruaro-retail-park)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-01:00 |\n| **Tuesday** | 07:00-01:00 |\n| **Wednesday** | 07:00-01:00 |\n| **Thursday** | 07:00-01:00 |\n| **Friday** | 07:00-02:00 |\n| **Saturday** | 07:00-03:00 |\n| **Sunday** | 07:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.506551,
+          45.533563
+        ]
+      },
+      "properties": {
+        "id": 229,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Vicenza Mall",
+        "addr:city": "Vicenza",
+        "addr:street": "Strada Padana verso Verona, 81",
+        "branch": "Vicenza Mall",
+        "contact:phone": "0444 912663",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/vicenza/vicenza-mall",
+        "opening_hours": {
+          "Monday": "08:00-22:00",
+          "Tuesday": "08:00-22:00",
+          "Wednesday": "08:00-22:00",
+          "Thursday": "08:00-22:00",
+          "Friday": "08:00-22:00",
+          "Saturday": "08:00-22:00",
+          "Sunday": "08:00-22:00"
+        },
+        "full_address": "Strada Padana verso Padova Vicenza tel: 0444 912663",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "273.00",
+        "regione": "veneto",
+        "provincia": "vicenza",
+        "slug": "vicenza-mall",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/vicenza/vicenza-mall",
+        "page_coordinates": [
+          11.59592,
+          45.528808
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Vicenza Mall**\n---\n**ID:** 229\n\n### Address\nStrada Padana verso Padova Vicenza tel: 0444 912663, Vicenza (vicenza)\n\n### Contacts\n**Phone:** 0444 912663\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/vicenza/vicenza-mall](https://www.mcdonalds.it/ristorante/veneto/vicenza/vicenza-mall)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-22:00 |\n| **Tuesday** | 08:00-22:00 |\n| **Wednesday** | 08:00-22:00 |\n| **Thursday** | 08:00-22:00 |\n| **Friday** | 08:00-22:00 |\n| **Saturday** | 08:00-22:00 |\n| **Sunday** | 08:00-22:00 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.229147,
+          45.518931
+        ]
+      },
+      "properties": {
+        "id": 264,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Mestre Terraglio",
+        "addr:city": "Mestre",
+        "addr:street": "Via Pionara 21",
+        "branch": "Mestre Terraglio",
+        "contact:phone": "041 942087",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/venezia/mestre-terraglio",
+        "opening_hours": {
+          "Monday": "08:00-00:00",
+          "Tuesday": "08:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-01:00",
+          "Saturday": "07:00-01:00",
+          "Sunday": "07:00-00:00"
+        },
+        "full_address": "Via Pionara 21 Venezia tel: 041 942087",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "264.00",
+        "regione": "veneto",
+        "provincia": "venezia",
+        "slug": "mestre-terraglio",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/venezia/mestre-terraglio",
+        "page_coordinates": [
+          12.229147,
+          45.518931
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Mestre Terraglio**\n---\n**ID:** 264\n\n### Address\nVia Pionara 21 Venezia tel: 041 942087, Mestre (venezia)\n\n### Contacts\n**Phone:** 041 942087\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/venezia/mestre-terraglio](https://www.mcdonalds.it/ristorante/veneto/venezia/mestre-terraglio)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-00:00 |\n| **Tuesday** | 08:00-00:00 |\n| **Wednesday** | 07:00-00:00 |\n| **Thursday** | 07:00-00:00 |\n| **Friday** | 07:00-01:00 |\n| **Saturday** | 07:00-01:00 |\n| **Sunday** | 07:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.751775,
+          45.746094
+        ]
+      },
+      "properties": {
+        "id": 271,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Bassano",
+        "addr:city": "Bassano Del Grappa",
+        "addr:street": "Via Capitel Vecchio, 74",
+        "branch": "Bassano",
+        "contact:phone": "0424 568243",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/vicenza/bassano",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-00:00",
+          "Saturday": "07:00-00:00",
+          "Sunday": "07:00-00:00"
+        },
+        "full_address": "Via Capitel Vecchio, 74 Vicenza tel: 0424 568243",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "271.00",
+        "regione": "veneto",
+        "provincia": "vicenza",
+        "slug": "bassano",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/vicenza/bassano",
+        "page_coordinates": [
+          11.751775,
+          45.746094
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Bassano**\n---\n**ID:** 271\n\n### Address\nVia Capitel Vecchio, 74 Vicenza tel: 0424 568243, Bassano Del Grappa (vicenza)\n\n### Contacts\n**Phone:** 0424 568243\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/vicenza/bassano](https://www.mcdonalds.it/ristorante/veneto/vicenza/bassano)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-00:00 |\n| **Tuesday** | 07:00-00:00 |\n| **Wednesday** | 07:00-00:00 |\n| **Thursday** | 07:00-00:00 |\n| **Friday** | 07:00-00:00 |\n| **Saturday** | 07:00-00:00 |\n| **Sunday** | 07:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.59592,
+          45.528808
+        ]
+      },
+      "properties": {
+        "id": 273,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Vicenza Mall",
+        "addr:city": "Vicenza",
+        "addr:street": "Strada Padana verso Padova",
+        "branch": "Vicenza Mall",
+        "contact:phone": "0444 912663",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/vicenza/vicenza-mall",
+        "opening_hours": {
+          "Monday": "08:00-22:00",
+          "Tuesday": "08:00-22:00",
+          "Wednesday": "08:00-22:00",
+          "Thursday": "08:00-22:00",
+          "Friday": "08:00-22:00",
+          "Saturday": "08:00-22:00",
+          "Sunday": "08:00-22:00"
+        },
+        "full_address": "Strada Padana verso Padova Vicenza tel: 0444 912663",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "273.00",
+        "regione": "veneto",
+        "provincia": "vicenza",
+        "slug": "vicenza-mall",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/vicenza/vicenza-mall",
+        "page_coordinates": [
+          11.59592,
+          45.528808
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Vicenza Mall**\n---\n**ID:** 273\n\n### Address\nStrada Padana verso Padova Vicenza tel: 0444 912663, Vicenza (vicenza)\n\n### Contacts\n**Phone:** 0444 912663\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/vicenza/vicenza-mall](https://www.mcdonalds.it/ristorante/veneto/vicenza/vicenza-mall)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-22:00 |\n| **Tuesday** | 08:00-22:00 |\n| **Wednesday** | 08:00-22:00 |\n| **Thursday** | 08:00-22:00 |\n| **Friday** | 08:00-22:00 |\n| **Saturday** | 08:00-22:00 |\n| **Sunday** | 08:00-22:00 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.893332,
+          45.437057
+        ]
+      },
+      "properties": {
+        "id": 278,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Padova Guido Reni",
+        "addr:city": "Padova",
+        "addr:street": "Via Ponte Vigodarzere, 2",
+        "branch": "Padova Guido Reni",
+        "contact:phone": "049 8649227",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/padova/padova-guido-reni",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-00:00",
+          "Saturday": "07:00-00:00",
+          "Sunday": "07:00-00:00"
+        },
+        "full_address": "Via Ponte Vigodarzere, 2 Padova tel: 049 8649227",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "278.00",
+        "regione": "veneto",
+        "provincia": "padova",
+        "slug": "padova-guido-reni",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/padova/padova-guido-reni",
+        "page_coordinates": [
+          11.893332,
+          45.437057
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Padova Guido Reni**\n---\n**ID:** 278\n\n### Address\nVia Ponte Vigodarzere, 2 Padova tel: 049 8649227, Padova (padova)\n\n### Contacts\n**Phone:** 049 8649227\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/padova/padova-guido-reni](https://www.mcdonalds.it/ristorante/veneto/padova/padova-guido-reni)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-00:00 |\n| **Tuesday** | 07:00-00:00 |\n| **Wednesday** | 07:00-00:00 |\n| **Thursday** | 07:00-00:00 |\n| **Friday** | 07:00-00:00 |\n| **Saturday** | 07:00-00:00 |\n| **Sunday** | 07:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.248648,
+          45.690533
+        ]
+      },
+      "properties": {
+        "id": 284,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Treviso Repubblica",
+        "addr:city": "Treviso",
+        "addr:street": "Viale della Repubblica 273",
+        "branch": "Treviso Repubblica",
+        "contact:phone": "0422 308931",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/treviso/treviso-repubblica",
+        "opening_hours": {
+          "Monday": "07:00-02:00",
+          "Tuesday": "07:00-02:00",
+          "Wednesday": "07:00-02:00",
+          "Thursday": "07:00-02:00",
+          "Friday": "07:00-07:00",
+          "Saturday": "07:00-07:00",
+          "Sunday": "07:00-02:00"
+        },
+        "full_address": "Viale della Repubblica 273 Treviso tel: 0422 308931",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "284.00",
+        "regione": "veneto",
+        "provincia": "treviso",
+        "slug": "treviso-repubblica",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/treviso/treviso-repubblica",
+        "page_coordinates": [
+          12.248648,
+          45.690533
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Treviso Repubblica**\n---\n**ID:** 284\n\n### Address\nViale della Repubblica 273 Treviso tel: 0422 308931, Treviso (treviso)\n\n### Contacts\n**Phone:** 0422 308931\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/treviso/treviso-repubblica](https://www.mcdonalds.it/ristorante/veneto/treviso/treviso-repubblica)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-02:00 |\n| **Tuesday** | 07:00-02:00 |\n| **Wednesday** | 07:00-02:00 |\n| **Thursday** | 07:00-02:00 |\n| **Friday** | 07:00-07:00 |\n| **Saturday** | 07:00-07:00 |\n| **Sunday** | 07:00-02:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.59414,
+          45.645332
+        ]
+      },
+      "properties": {
+        "id": 300,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "San Donà di Piave Drive",
+        "addr:city": "San Dona Di Piave",
+        "addr:street": "Via Martiri delle Foibe",
+        "branch": "San Donà di Piave Drive",
+        "contact:phone": "0421 321232",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/venezia/san-dona-di-piave-drive",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-01:00",
+          "Thursday": "07:00-01:00",
+          "Friday": "07:00-02:00",
+          "Saturday": "07:00-04:00",
+          "Sunday": "07:00-02:00"
+        },
+        "full_address": "Via Martiri delle Foibe Venezia tel: 0421 321232",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "300.00",
+        "regione": "veneto",
+        "provincia": "venezia",
+        "slug": "san-dona-di-piave-drive",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/venezia/san-dona-di-piave-drive",
+        "page_coordinates": [
+          12.59414,
+          45.645332
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**San Donà di Piave Drive**\n---\n**ID:** 300\n\n### Address\nVia Martiri delle Foibe Venezia tel: 0421 321232, San Dona Di Piave (venezia)\n\n### Contacts\n**Phone:** 0421 321232\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/venezia/san-dona-di-piave-drive](https://www.mcdonalds.it/ristorante/veneto/venezia/san-dona-di-piave-drive)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-01:00 |\n| **Tuesday** | 07:00-01:00 |\n| **Wednesday** | 07:00-01:00 |\n| **Thursday** | 07:00-01:00 |\n| **Friday** | 07:00-02:00 |\n| **Saturday** | 07:00-04:00 |\n| **Sunday** | 07:00-02:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.778517,
+          45.431309
+        ]
+      },
+      "properties": {
+        "id": 321,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Rubano",
+        "addr:city": "Rubano",
+        "addr:street": "Via Pria Fosca, 2",
+        "branch": "Rubano",
+        "contact:phone": "049 8976171",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/padova/rubano",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-00:00",
+          "Saturday": "07:00-00:00",
+          "Sunday": "07:00-00:00"
+        },
+        "full_address": "Via Pria Fosca, 2 Padova tel: 049 8976171",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "321.00",
+        "regione": "veneto",
+        "provincia": "padova",
+        "slug": "rubano",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/padova/rubano",
+        "page_coordinates": [
+          11.778517,
+          45.431309
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Rubano**\n---\n**ID:** 321\n\n### Address\nVia Pria Fosca, 2 Padova tel: 049 8976171, Rubano (padova)\n\n### Contacts\n**Phone:** 049 8976171\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/padova/rubano](https://www.mcdonalds.it/ristorante/veneto/padova/rubano)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-00:00 |\n| **Tuesday** | 07:00-00:00 |\n| **Wednesday** | 07:00-00:00 |\n| **Thursday** | 07:00-00:00 |\n| **Friday** | 07:00-00:00 |\n| **Saturday** | 07:00-00:00 |\n| **Sunday** | 07:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.275483,
+          45.18785
+        ]
+      },
+      "properties": {
+        "id": 336,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Chioggia",
+        "addr:city": "Chioggia",
+        "addr:street": "Strada Statale Romea, 101",
+        "branch": "Chioggia",
+        "contact:phone": "041 5541126",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/venezia/chioggia",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-21:00",
+          "Thursday": "10:30-01:00",
+          "Friday": "07:00-02:00",
+          "Saturday": "07:00-03:00",
+          "Sunday": "07:00-01:00"
+        },
+        "full_address": "Strada Statale Romea, 101 Venezia tel: 041 5541126",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "336.00",
+        "regione": "veneto",
+        "provincia": "venezia",
+        "slug": "chioggia",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/venezia/chioggia",
+        "page_coordinates": [
+          12.275483,
+          45.18785
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Chioggia**\n---\n**ID:** 336\n\n### Address\nStrada Statale Romea, 101 Venezia tel: 041 5541126, Chioggia (venezia)\n\n### Contacts\n**Phone:** 041 5541126\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/venezia/chioggia](https://www.mcdonalds.it/ristorante/veneto/venezia/chioggia)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-01:00 |\n| **Tuesday** | 07:00-01:00 |\n| **Wednesday** | 07:00-21:00 |\n| **Thursday** | 10:30-01:00 |\n| **Friday** | 07:00-02:00 |\n| **Saturday** | 07:00-03:00 |\n| **Sunday** | 07:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.020028,
+          45.392808
+        ]
+      },
+      "properties": {
+        "id": 353,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "San Giovanni Lupatoto Drive",
+        "addr:city": "San Giovanni Lupatoto",
+        "addr:street": "via Cà Nova Zampieri, 28",
+        "branch": "San Giovanni Lupatoto Drive",
+        "contact:phone": "045 8221056",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/verona/san-giovanni-lupatoto-drive",
+        "opening_hours": {
+          "Monday": "07:30-00:00",
+          "Tuesday": "07:30-00:00",
+          "Wednesday": "07:30-00:00",
+          "Thursday": "07:30-00:00",
+          "Friday": "07:30-00:00",
+          "Saturday": "07:30-00:00",
+          "Sunday": "07:30-00:00"
+        },
+        "full_address": "via Cà Nova Zampieri, 28 Verona tel: 045 8221056",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "353.00",
+        "regione": "veneto",
+        "provincia": "verona",
+        "slug": "san-giovanni-lupatoto-drive",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/verona/san-giovanni-lupatoto-drive",
+        "page_coordinates": [
+          11.020028,
+          45.392808
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**San Giovanni Lupatoto Drive**\n---\n**ID:** 353\n\n### Address\nvia Cà Nova Zampieri, 28 Verona tel: 045 8221056, San Giovanni Lupatoto (verona)\n\n### Contacts\n**Phone:** 045 8221056\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/verona/san-giovanni-lupatoto-drive](https://www.mcdonalds.it/ristorante/veneto/verona/san-giovanni-lupatoto-drive)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:30-00:00 |\n| **Tuesday** | 07:30-00:00 |\n| **Wednesday** | 07:30-00:00 |\n| **Thursday** | 07:30-00:00 |\n| **Friday** | 07:30-00:00 |\n| **Saturday** | 07:30-00:00 |\n| **Sunday** | 07:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.226824,
+          45.509981
+        ]
+      },
+      "properties": {
+        "id": 356,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Mestre Tosatto Mall",
+        "addr:city": "Mestre",
+        "addr:street": "Via Don Tosatto. 22 c/o C.C. Porte di Mestre",
+        "branch": "Mestre Tosatto Mall",
+        "contact:phone": "041 8124092",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/venezia/mestre-tosatto-mall",
+        "opening_hours": {
+          "Monday": "08:30-22:00",
+          "Tuesday": "08:30-22:00",
+          "Wednesday": "08:30-22:00",
+          "Thursday": "08:30-22:00",
+          "Friday": "08:30-23:00",
+          "Saturday": "08:30-23:00",
+          "Sunday": "08:30-22:00"
+        },
+        "full_address": "Via Don Tosatto. 22 c/o C.C. Porte di Mestre Venezia tel: 041 8124092",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "356.00",
+        "regione": "veneto",
+        "provincia": "venezia",
+        "slug": "mestre-tosatto-mall",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/venezia/mestre-tosatto-mall",
+        "page_coordinates": [
+          12.226824,
+          45.509981
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Mestre Tosatto Mall**\n---\n**ID:** 356\n\n### Address\nVia Don Tosatto. 22 c/o C.C. Porte di Mestre Venezia tel: 041 8124092, Mestre (venezia)\n\n### Contacts\n**Phone:** 041 8124092\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/venezia/mestre-tosatto-mall](https://www.mcdonalds.it/ristorante/veneto/venezia/mestre-tosatto-mall)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:30-22:00 |\n| **Tuesday** | 08:30-22:00 |\n| **Wednesday** | 08:30-22:00 |\n| **Thursday** | 08:30-22:00 |\n| **Friday** | 08:30-23:00 |\n| **Saturday** | 08:30-23:00 |\n| **Sunday** | 08:30-22:00 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.213006,
+          45.458187
+        ]
+      },
+      "properties": {
+        "id": 363,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Marghera Mall",
+        "addr:city": "Marghera",
+        "addr:street": "Via Arduino",
+        "branch": "Marghera Mall",
+        "contact:phone": "041 8124123",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/venezia/marghera-mall",
+        "opening_hours": {
+          "Monday": "10:30-22:00",
+          "Tuesday": "10:30-22:00",
+          "Wednesday": "10:30-22:00",
+          "Thursday": "10:30-22:00",
+          "Friday": "10:30-22:00",
+          "Saturday": "10:30-22:00",
+          "Sunday": "10:30-22:00"
+        },
+        "full_address": "Via Arduino Venezia tel: 041 8124123",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "363.00",
+        "regione": "veneto",
+        "provincia": "venezia",
+        "slug": "marghera-mall",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/venezia/marghera-mall",
+        "page_coordinates": [
+          12.213006,
+          45.458187
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Marghera Mall**\n---\n**ID:** 363\n\n### Address\nVia Arduino Venezia tel: 041 8124123, Marghera (venezia)\n\n### Contacts\n**Phone:** 041 8124123\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/venezia/marghera-mall](https://www.mcdonalds.it/ristorante/veneto/venezia/marghera-mall)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-22:00 |\n| **Tuesday** | 10:30-22:00 |\n| **Wednesday** | 10:30-22:00 |\n| **Thursday** | 10:30-22:00 |\n| **Friday** | 10:30-22:00 |\n| **Saturday** | 10:30-22:00 |\n| **Sunday** | 10:30-22:00 |\n\n### Services\nMcCafé® • Take Away • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.625479,
+          45.50933
+        ]
+      },
+      "properties": {
+        "id": 378,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Torri di Quartesolo",
+        "addr:city": "Torri Di Quartesolo",
+        "addr:street": "Via Pola 20",
+        "branch": "Torri di Quartesolo",
+        "contact:phone": "0444 267020",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/vicenza/torri-di-quartesolo",
+        "opening_hours": {
+          "Monday": "08:00-21:00",
+          "Tuesday": "08:00-21:00",
+          "Wednesday": "08:00-21:00",
+          "Thursday": "08:00-21:00",
+          "Friday": "08:00-21:00",
+          "Saturday": "08:00-21:00",
+          "Sunday": "08:00-21:00"
+        },
+        "full_address": "Via Pola 20 Vicenza tel: 0444 267020",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "378.00",
+        "regione": "veneto",
+        "provincia": "vicenza",
+        "slug": "torri-di-quartesolo",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/vicenza/torri-di-quartesolo",
+        "page_coordinates": [
+          11.625479,
+          45.50933
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Torri di Quartesolo**\n---\n**ID:** 378\n\n### Address\nVia Pola 20 Vicenza tel: 0444 267020, Torri Di Quartesolo (vicenza)\n\n### Contacts\n**Phone:** 0444 267020\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/vicenza/torri-di-quartesolo](https://www.mcdonalds.it/ristorante/veneto/vicenza/torri-di-quartesolo)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-21:00 |\n| **Tuesday** | 08:00-21:00 |\n| **Wednesday** | 08:00-21:00 |\n| **Thursday** | 08:00-21:00 |\n| **Friday** | 08:00-21:00 |\n| **Saturday** | 08:00-21:00 |\n| **Sunday** | 08:00-21:00 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.232806,
+          45.482293
+        ]
+      },
+      "properties": {
+        "id": 402,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Mestre Stazione",
+        "addr:city": "Mestre",
+        "addr:street": "Piazzale Favretti, 38",
+        "branch": "Mestre Stazione",
+        "contact:phone": "041 929464",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/venezia/mestre-stazione",
+        "opening_hours": {
+          "Monday": "09:00-22:30",
+          "Tuesday": "09:00-22:30",
+          "Wednesday": "09:00-22:30",
+          "Thursday": "09:00-22:30",
+          "Friday": "09:00-22:30",
+          "Saturday": "09:00-22:30",
+          "Sunday": "09:00-22:30"
+        },
+        "full_address": "Piazzale Favretti, 38 Venezia tel: 041 929464",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "402.00",
+        "regione": "veneto",
+        "provincia": "venezia",
+        "slug": "mestre-stazione",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/venezia/mestre-stazione",
+        "page_coordinates": [
+          12.232806,
+          45.482293
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Ordina in App",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Mestre Stazione**\n---\n**ID:** 402\n\n### Address\nPiazzale Favretti, 38 Venezia tel: 041 929464, Mestre (venezia)\n\n### Contacts\n**Phone:** 041 929464\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/venezia/mestre-stazione](https://www.mcdonalds.it/ristorante/veneto/venezia/mestre-stazione)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 09:00-22:30 |\n| **Tuesday** | 09:00-22:30 |\n| **Wednesday** | 09:00-22:30 |\n| **Thursday** | 09:00-22:30 |\n| **Friday** | 09:00-22:30 |\n| **Saturday** | 09:00-22:30 |\n| **Sunday** | 09:00-22:30 |\n\n### Services\nTake Away • Ordina in App • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.87937,
+          45.416969
+        ]
+      },
+      "properties": {
+        "id": 416,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Padova",
+        "addr:city": "Padova",
+        "addr:street": "Piazza Stazione Ferroviaria",
+        "branch": "Padova",
+        "contact:phone": "049 654930",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/padova/padova",
+        "opening_hours": {
+          "Monday": "07:00-22:00",
+          "Tuesday": "07:00-22:00",
+          "Wednesday": "07:00-22:00",
+          "Thursday": "07:00-22:00",
+          "Friday": "07:00-22:00",
+          "Saturday": "07:00-22:00",
+          "Sunday": "07:00-22:00"
+        },
+        "full_address": "Piazza Stazione Ferroviaria Padova tel: 049 654930",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "416.00",
+        "regione": "veneto",
+        "provincia": "padova",
+        "slug": "padova",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/padova/padova",
+        "page_coordinates": [
+          11.87937,
+          45.416969
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Padova**\n---\n**ID:** 416\n\n### Address\nPiazza Stazione Ferroviaria Padova tel: 049 654930, Padova (padova)\n\n### Contacts\n**Phone:** 049 654930\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/padova/padova](https://www.mcdonalds.it/ristorante/veneto/padova/padova)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-22:00 |\n| **Tuesday** | 07:00-22:00 |\n| **Wednesday** | 07:00-22:00 |\n| **Thursday** | 07:00-22:00 |\n| **Friday** | 07:00-22:00 |\n| **Saturday** | 07:00-22:00 |\n| **Sunday** | 07:00-22:00 |\n\n### Services\nMcCafé® • Take Away • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.990806,
+          45.437269
+        ]
+      },
+      "properties": {
+        "id": 423,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Verona Porta Nuova",
+        "addr:city": "Verona",
+        "addr:street": "Corso Di Porta Nuova, 14",
+        "branch": "Verona Porta Nuova",
+        "contact:phone": "045 597422",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/verona/verona-porta-nuova",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-01:00",
+          "Thursday": "07:00-01:00",
+          "Friday": "07:00-03:00",
+          "Saturday": "07:00-03:00",
+          "Sunday": "07:00-01:00"
+        },
+        "full_address": "Corso Di Porta Nuova, 14 Verona tel: 045 597422",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "423.00",
+        "regione": "veneto",
+        "provincia": "verona",
+        "slug": "verona-porta-nuova",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/verona/verona-porta-nuova",
+        "page_coordinates": [
+          10.990806,
+          45.437269
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Verona Porta Nuova**\n---\n**ID:** 423\n\n### Address\nCorso Di Porta Nuova, 14 Verona tel: 045 597422, Verona (verona)\n\n### Contacts\n**Phone:** 045 597422\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/verona/verona-porta-nuova](https://www.mcdonalds.it/ristorante/veneto/verona/verona-porta-nuova)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-01:00 |\n| **Tuesday** | 07:00-01:00 |\n| **Wednesday** | 07:00-01:00 |\n| **Thursday** | 07:00-01:00 |\n| **Friday** | 07:00-03:00 |\n| **Saturday** | 07:00-03:00 |\n| **Sunday** | 07:00-01:00 |\n\n### Services\nMcCafé® • Take Away • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.305177,
+          45.547181
+        ]
+      },
+      "properties": {
+        "id": 450,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Marcon Drive",
+        "addr:city": "Marcon",
+        "addr:street": "Via Mattei",
+        "branch": "Marcon Drive",
+        "contact:phone": "041 5952477",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/venezia/marcon-drive",
+        "opening_hours": {
+          "Monday": "08:00-00:00",
+          "Tuesday": "08:00-00:00",
+          "Wednesday": "08:00-00:00",
+          "Thursday": "08:00-00:00",
+          "Friday": "08:00-00:00",
+          "Saturday": "08:00-00:00",
+          "Sunday": "08:00-00:00"
+        },
+        "full_address": "Via Mattei Venezia tel: 041 5952477",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "450.00",
+        "regione": "veneto",
+        "provincia": "venezia",
+        "slug": "marcon-drive",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/venezia/marcon-drive",
+        "page_coordinates": [
+          12.305177,
+          45.547181
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Marcon Drive**\n---\n**ID:** 450\n\n### Address\nVia Mattei Venezia tel: 041 5952477, Marcon (venezia)\n\n### Contacts\n**Phone:** 041 5952477\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/venezia/marcon-drive](https://www.mcdonalds.it/ristorante/veneto/venezia/marcon-drive)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-00:00 |\n| **Tuesday** | 08:00-00:00 |\n| **Wednesday** | 08:00-00:00 |\n| **Thursday** | 08:00-00:00 |\n| **Friday** | 08:00-00:00 |\n| **Saturday** | 08:00-00:00 |\n| **Sunday** | 08:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.334278,
+          45.441275
+        ]
+      },
+      "properties": {
+        "id": 453,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Venezia Strada Nuova",
+        "addr:city": "Venezia",
+        "addr:street": "Str. Nuova, 3947",
+        "branch": "Venezia Strada Nuova",
+        "contact:phone": "041 5222969",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/venezia/venezia-strada-nuova",
+        "opening_hours": {
+          "Monday": "08:00-23:00",
+          "Tuesday": "08:00-23:00",
+          "Wednesday": "08:00-23:00",
+          "Thursday": "08:00-23:00",
+          "Friday": "08:00-00:00",
+          "Saturday": "08:00-00:00",
+          "Sunday": "08:00-23:00"
+        },
+        "full_address": "Str. Nuova, 3947 Venezia tel: 041 5222969",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "453.00",
+        "regione": "veneto",
+        "provincia": "venezia",
+        "slug": "venezia-strada-nuova",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/venezia/venezia-strada-nuova",
+        "page_coordinates": [
+          12.334278,
+          45.441275
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Venezia Strada Nuova**\n---\n**ID:** 453\n\n### Address\nStr. Nuova, 3947 Venezia tel: 041 5222969, Venezia (venezia)\n\n### Contacts\n**Phone:** 041 5222969\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/venezia/venezia-strada-nuova](https://www.mcdonalds.it/ristorante/veneto/venezia/venezia-strada-nuova)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-23:00 |\n| **Tuesday** | 08:00-23:00 |\n| **Wednesday** | 08:00-23:00 |\n| **Thursday** | 08:00-23:00 |\n| **Friday** | 08:00-00:00 |\n| **Saturday** | 08:00-00:00 |\n| **Sunday** | 08:00-23:00 |\n\n### Services\nTake Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.241482,
+          45.483177
+        ]
+      },
+      "properties": {
+        "id": 496,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Mestre Corso del Popolo",
+        "addr:city": "Mestre",
+        "addr:street": "Corso del Popolo, 223",
+        "branch": "Mestre Corso del Popolo",
+        "contact:phone": "041 8124196",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/venezia/mestre-corso-del-popolo",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-01:00",
+          "Thursday": "07:00-01:00",
+          "Friday": "07:00-03:00",
+          "Saturday": "07:00-03:00",
+          "Sunday": "07:00-01:00"
+        },
+        "full_address": "Corso del Popolo, 223 Venezia tel: 041 8124196",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "496.00",
+        "regione": "veneto",
+        "provincia": "venezia",
+        "slug": "mestre-corso-del-popolo",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/venezia/mestre-corso-del-popolo",
+        "page_coordinates": [
+          12.241482,
+          45.483177
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Mestre Corso del Popolo**\n---\n**ID:** 496\n\n### Address\nCorso del Popolo, 223 Venezia tel: 041 8124196, Mestre (venezia)\n\n### Contacts\n**Phone:** 041 8124196\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/venezia/mestre-corso-del-popolo](https://www.mcdonalds.it/ristorante/veneto/venezia/mestre-corso-del-popolo)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-01:00 |\n| **Tuesday** | 07:00-01:00 |\n| **Wednesday** | 07:00-01:00 |\n| **Thursday** | 07:00-01:00 |\n| **Friday** | 07:00-03:00 |\n| **Saturday** | 07:00-03:00 |\n| **Sunday** | 07:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.310495,
+          45.650032
+        ]
+      },
+      "properties": {
+        "id": 517,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Silea",
+        "addr:city": "Silea",
+        "addr:street": "Via Giovanni Sartorelli. 2",
+        "branch": "Silea",
+        "contact:phone": "0422 1883430",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/treviso/silea",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-01:00",
+          "Thursday": "07:00-01:00",
+          "Friday": "07:00-03:00",
+          "Saturday": "07:00-07:00",
+          "Sunday": "07:00-01:00"
+        },
+        "full_address": "Via Giovanni Sartorelli. 2 Treviso tel: 0422 1883430",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "517.00",
+        "regione": "veneto",
+        "provincia": "treviso",
+        "slug": "silea",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/treviso/silea",
+        "page_coordinates": [
+          12.310495,
+          45.650032
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Silea**\n---\n**ID:** 517\n\n### Address\nVia Giovanni Sartorelli. 2 Treviso tel: 0422 1883430, Silea (treviso)\n\n### Contacts\n**Phone:** 0422 1883430\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/treviso/silea](https://www.mcdonalds.it/ristorante/veneto/treviso/silea)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-01:00 |\n| **Tuesday** | 07:00-01:00 |\n| **Wednesday** | 07:00-01:00 |\n| **Thursday** | 07:00-01:00 |\n| **Friday** | 07:00-03:00 |\n| **Saturday** | 07:00-07:00 |\n| **Sunday** | 07:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.235552,
+          46.158163
+        ]
+      },
+      "properties": {
+        "id": 530,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Belluno",
+        "addr:city": "Belluno",
+        "addr:street": "via Tiziano Vecellio, Belluno",
+        "branch": "Belluno",
+        "contact:phone": "0437 072565",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/belluno/belluno",
+        "opening_hours": {
+          "Monday": "07:30-00:00",
+          "Tuesday": "07:30-00:00",
+          "Wednesday": "07:30-00:00",
+          "Thursday": "07:30-00:00",
+          "Friday": "07:30-02:00",
+          "Saturday": "07:30-02:00",
+          "Sunday": "07:30-01:00"
+        },
+        "full_address": "via Tiziano Vecellio, Belluno Belluno tel: 0437 072565",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "530.00",
+        "regione": "veneto",
+        "provincia": "belluno",
+        "slug": "belluno",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/belluno/belluno",
+        "page_coordinates": [
+          12.235552,
+          46.158163
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Belluno**\n---\n**ID:** 530\n\n### Address\nvia Tiziano Vecellio, Belluno Belluno tel: 0437 072565, Belluno (belluno)\n\n### Contacts\n**Phone:** 0437 072565\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/belluno/belluno](https://www.mcdonalds.it/ristorante/veneto/belluno/belluno)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:30-00:00 |\n| **Tuesday** | 07:30-00:00 |\n| **Wednesday** | 07:30-00:00 |\n| **Thursday** | 07:30-00:00 |\n| **Friday** | 07:30-02:00 |\n| **Saturday** | 07:30-02:00 |\n| **Sunday** | 07:30-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.01212,
+          45.813756
+        ]
+      },
+      "properties": {
+        "id": 535,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Cornuda",
+        "addr:city": "Cornuda",
+        "addr:street": "via dellIndustria. 1",
+        "branch": "Cornuda",
+        "contact:phone": "0423 802791",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/treviso/cornuda",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-00:00",
+          "Saturday": "07:00-00:00",
+          "Sunday": "07:00-00:00"
+        },
+        "full_address": "via dellIndustria. 1 Treviso tel: 0423 802791",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "535.00",
+        "regione": "veneto",
+        "provincia": "treviso",
+        "slug": "cornuda",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/treviso/cornuda",
+        "page_coordinates": [
+          12.01212,
+          45.813756
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Cornuda**\n---\n**ID:** 535\n\n### Address\nvia dellIndustria. 1 Treviso tel: 0423 802791, Cornuda (treviso)\n\n### Contacts\n**Phone:** 0423 802791\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/treviso/cornuda](https://www.mcdonalds.it/ristorante/veneto/treviso/cornuda)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-00:00 |\n| **Tuesday** | 07:00-00:00 |\n| **Wednesday** | 07:00-00:00 |\n| **Thursday** | 07:00-00:00 |\n| **Friday** | 07:00-00:00 |\n| **Saturday** | 07:00-00:00 |\n| **Sunday** | 07:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.95921,
+          45.466203
+        ]
+      },
+      "properties": {
+        "id": 546,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Verona Via Preare",
+        "addr:city": "Verona",
+        "addr:street": "Via Preare. 52",
+        "branch": "Verona Via Preare",
+        "contact:phone": "045 2094990",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/verona/verona-via-preare",
+        "opening_hours": {
+          "Monday": "07:30-01:00",
+          "Tuesday": "07:30-01:00",
+          "Wednesday": "07:30-01:00",
+          "Thursday": "07:30-01:00",
+          "Friday": "07:30-02:00",
+          "Saturday": "07:30-02:00",
+          "Sunday": "07:30-01:00"
+        },
+        "full_address": "Via Preare. 52 Verona tel: 045 2094990",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "546.00",
+        "regione": "veneto",
+        "provincia": "verona",
+        "slug": "verona-via-preare",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/verona/verona-via-preare",
+        "page_coordinates": [
+          10.95921,
+          45.466203
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Verona Via Preare**\n---\n**ID:** 546\n\n### Address\nVia Preare. 52 Verona tel: 045 2094990, Verona (verona)\n\n### Contacts\n**Phone:** 045 2094990\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/verona/verona-via-preare](https://www.mcdonalds.it/ristorante/veneto/verona/verona-via-preare)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:30-01:00 |\n| **Tuesday** | 07:30-01:00 |\n| **Wednesday** | 07:30-01:00 |\n| **Thursday** | 07:30-01:00 |\n| **Friday** | 07:30-02:00 |\n| **Saturday** | 07:30-02:00 |\n| **Sunday** | 07:30-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.903347,
+          45.38957
+        ]
+      },
+      "properties": {
+        "id": 548,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Dossobuono",
+        "addr:city": "Dossobuono",
+        "addr:street": "Via Borgo Bello. 29",
+        "branch": "Dossobuono",
+        "contact:phone": "045 2095035",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/verona/dossobuono",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-01:00",
+          "Thursday": "07:00-01:00",
+          "Friday": "07:00-07:00",
+          "Saturday": "07:00-07:00",
+          "Sunday": "07:00-01:00"
+        },
+        "full_address": "Via Borgo Bello. 29 Verona tel: 045 2095035",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "548.00",
+        "regione": "veneto",
+        "provincia": "verona",
+        "slug": "dossobuono",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/verona/dossobuono",
+        "page_coordinates": [
+          10.903347,
+          45.38957
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Dossobuono**\n---\n**ID:** 548\n\n### Address\nVia Borgo Bello. 29 Verona tel: 045 2095035, Dossobuono (verona)\n\n### Contacts\n**Phone:** 045 2095035\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/verona/dossobuono](https://www.mcdonalds.it/ristorante/veneto/verona/dossobuono)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-01:00 |\n| **Tuesday** | 07:00-01:00 |\n| **Wednesday** | 07:00-01:00 |\n| **Thursday** | 07:00-01:00 |\n| **Friday** | 07:00-07:00 |\n| **Saturday** | 07:00-07:00 |\n| **Sunday** | 07:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.977149,
+          45.406861
+        ]
+      },
+      "properties": {
+        "id": 571,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Verona Adige Mall",
+        "addr:city": "Verona",
+        "addr:street": "Viale delle Nazioni.1",
+        "branch": "Verona Adige Mall",
+        "contact:phone": "045 2095134",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/verona/verona-adige-mall",
+        "opening_hours": {
+          "Monday": "09:00-22:00",
+          "Tuesday": "09:00-22:00",
+          "Wednesday": "09:00-22:00",
+          "Thursday": "09:00-22:00",
+          "Friday": "09:00-22:00",
+          "Saturday": "09:00-22:00",
+          "Sunday": "09:00-22:00"
+        },
+        "full_address": "Viale delle Nazioni.1 Verona tel: 045 2095134",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "571.00",
+        "regione": "veneto",
+        "provincia": "verona",
+        "slug": "verona-adige-mall",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/verona/verona-adige-mall",
+        "page_coordinates": [
+          10.977149,
+          45.406861
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Verona Adige Mall**\n---\n**ID:** 571\n\n### Address\nViale delle Nazioni.1 Verona tel: 045 2095134, Verona (verona)\n\n### Contacts\n**Phone:** 045 2095134\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/verona/verona-adige-mall](https://www.mcdonalds.it/ristorante/veneto/verona/verona-adige-mall)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 09:00-22:00 |\n| **Tuesday** | 09:00-22:00 |\n| **Wednesday** | 09:00-22:00 |\n| **Thursday** | 09:00-22:00 |\n| **Friday** | 09:00-22:00 |\n| **Saturday** | 09:00-22:00 |\n| **Sunday** | 09:00-22:00 |\n\n### Services\nMcCafé® • Take Away • Ordina in App • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.748118,
+          45.230136
+        ]
+      },
+      "properties": {
+        "id": 581,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Monselice",
+        "addr:city": "Monselice",
+        "addr:street": "Via Magellano. 2",
+        "branch": "Monselice",
+        "contact:phone": "0429 1933110",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/padova/monselice",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-01:00",
+          "Thursday": "07:00-01:00",
+          "Friday": "07:00-03:00",
+          "Saturday": "07:00-03:00",
+          "Sunday": "07:00-01:00"
+        },
+        "full_address": "Via Magellano. 2 Padova tel: 0429 1933110",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "581.00",
+        "regione": "veneto",
+        "provincia": "padova",
+        "slug": "monselice",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/padova/monselice",
+        "page_coordinates": [
+          11.748118,
+          45.230136
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Monselice**\n---\n**ID:** 581\n\n### Address\nVia Magellano. 2 Padova tel: 0429 1933110, Monselice (padova)\n\n### Contacts\n**Phone:** 0429 1933110\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/padova/monselice](https://www.mcdonalds.it/ristorante/veneto/padova/monselice)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-01:00 |\n| **Tuesday** | 07:00-01:00 |\n| **Wednesday** | 07:00-01:00 |\n| **Thursday** | 07:00-01:00 |\n| **Friday** | 07:00-03:00 |\n| **Saturday** | 07:00-03:00 |\n| **Sunday** | 07:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.48241,
+          45.696616
+        ]
+      },
+      "properties": {
+        "id": 602,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Thiene Drive",
+        "addr:city": "Thiene",
+        "addr:street": "via Meucci. 3",
+        "branch": "Thiene Drive",
+        "contact:phone": "0445 1992983",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/vicenza/thiene-drive",
+        "opening_hours": {
+          "Monday": "07:00-02:00",
+          "Tuesday": "07:00-02:00",
+          "Wednesday": "07:00-02:00",
+          "Thursday": "07:00-02:00",
+          "Friday": "07:00-02:00",
+          "Saturday": "07:00-02:00",
+          "Sunday": "07:00-02:00"
+        },
+        "full_address": "via Meucci. 3 Vicenza tel: 0445 1992983",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "602.00",
+        "regione": "veneto",
+        "provincia": "vicenza",
+        "slug": "thiene-drive",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/vicenza/thiene-drive",
+        "page_coordinates": [
+          11.48241,
+          45.696616
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Thiene Drive**\n---\n**ID:** 602\n\n### Address\nvia Meucci. 3 Vicenza tel: 0445 1992983, Thiene (vicenza)\n\n### Contacts\n**Phone:** 0445 1992983\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/vicenza/thiene-drive](https://www.mcdonalds.it/ristorante/veneto/vicenza/thiene-drive)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-02:00 |\n| **Tuesday** | 07:00-02:00 |\n| **Wednesday** | 07:00-02:00 |\n| **Thursday** | 07:00-02:00 |\n| **Friday** | 07:00-02:00 |\n| **Saturday** | 07:00-02:00 |\n| **Sunday** | 07:00-02:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.247715,
+          45.405546
+        ]
+      },
+      "properties": {
+        "id": 608,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "San Bonifacio Drive",
+        "addr:city": "San Bonifacio",
+        "addr:street": "Via Crosaron. 14",
+        "branch": "San Bonifacio Drive",
+        "contact:phone": "045 2095217",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/verona/san-bonifacio-drive",
+        "opening_hours": {
+          "Monday": "07:00-01:30",
+          "Tuesday": "07:00-01:30",
+          "Wednesday": "07:00-01:30",
+          "Thursday": "07:00-01:30",
+          "Friday": "06:00-06:00",
+          "Saturday": "07:00-06:00",
+          "Sunday": "07:00-01:30"
+        },
+        "full_address": "Via Crosaron. 14 Verona tel: 045 2095217",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "608.00",
+        "regione": "veneto",
+        "provincia": "verona",
+        "slug": "san-bonifacio-drive",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/verona/san-bonifacio-drive",
+        "page_coordinates": [
+          11.247715,
+          45.405546
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**San Bonifacio Drive**\n---\n**ID:** 608\n\n### Address\nVia Crosaron. 14 Verona tel: 045 2095217, San Bonifacio (verona)\n\n### Contacts\n**Phone:** 045 2095217\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/verona/san-bonifacio-drive](https://www.mcdonalds.it/ristorante/veneto/verona/san-bonifacio-drive)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-01:30 |\n| **Tuesday** | 07:00-01:30 |\n| **Wednesday** | 07:00-01:30 |\n| **Thursday** | 07:00-01:30 |\n| **Friday** | 06:00-06:00 |\n| **Saturday** | 07:00-06:00 |\n| **Sunday** | 07:00-01:30 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.863527,
+          45.446296
+        ]
+      },
+      "properties": {
+        "id": 628,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Bussolengo",
+        "addr:city": "Bussolengo",
+        "addr:street": "Strada Padana Superior. 16",
+        "branch": "Bussolengo",
+        "contact:phone": "0452095236",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/verona/bussolengo",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-02:00",
+          "Saturday": "07:00-02:00",
+          "Sunday": "07:00-00:00"
+        },
+        "full_address": "Strada Padana Superior. 16 Verona tel: 0452095236",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "628.00",
+        "regione": "veneto",
+        "provincia": "verona",
+        "slug": "bussolengo",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/verona/bussolengo",
+        "page_coordinates": [
+          10.863527,
+          45.446296
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Bussolengo**\n---\n**ID:** 628\n\n### Address\nStrada Padana Superior. 16 Verona tel: 0452095236, Bussolengo (verona)\n\n### Contacts\n**Phone:** 0452095236\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/verona/bussolengo](https://www.mcdonalds.it/ristorante/veneto/verona/bussolengo)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-00:00 |\n| **Tuesday** | 07:00-00:00 |\n| **Wednesday** | 07:00-00:00 |\n| **Thursday** | 07:00-00:00 |\n| **Friday** | 07:00-02:00 |\n| **Saturday** | 07:00-02:00 |\n| **Sunday** | 07:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.178724,
+          45.488241
+        ]
+      },
+      "properties": {
+        "id": 639,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Spinea",
+        "addr:city": "Spinea",
+        "addr:street": "via Palladio",
+        "branch": "Spinea",
+        "contact:phone": "0418124765",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/venezia/spinea",
+        "opening_hours": {
+          "Monday": "08:00-00:00",
+          "Tuesday": "08:00-00:00",
+          "Wednesday": "08:00-00:00",
+          "Thursday": "08:00-00:00",
+          "Friday": "08:00-00:00",
+          "Saturday": "08:00-00:00",
+          "Sunday": "08:00-00:00"
+        },
+        "full_address": "via Palladio Venezia tel: 0418124765",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "639.00",
+        "regione": "veneto",
+        "provincia": "venezia",
+        "slug": "spinea",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/venezia/spinea",
+        "page_coordinates": [
+          12.178724,
+          45.488241
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Spinea**\n---\n**ID:** 639\n\n### Address\nvia Palladio Venezia tel: 0418124765, Spinea (venezia)\n\n### Contacts\n**Phone:** 0418124765\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/venezia/spinea](https://www.mcdonalds.it/ristorante/veneto/venezia/spinea)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-00:00 |\n| **Tuesday** | 08:00-00:00 |\n| **Wednesday** | 08:00-00:00 |\n| **Thursday** | 08:00-00:00 |\n| **Friday** | 08:00-00:00 |\n| **Saturday** | 08:00-00:00 |\n| **Sunday** | 08:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.887324,
+          45.803988
+        ]
+      },
+      "properties": {
+        "id": 642,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Fossalta di Portogruaro Ads Fratta Sud",
+        "addr:city": "Fossalta Di Portogruaro",
+        "addr:street": "Autostrada A4 Torino Trieste km 456",
+        "branch": "Fossalta di Portogruaro Ads Fratta Sud",
+        "contact:phone": "04211546084",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/venezia/fossalta-di-portogruaro-ads-fratta-sud",
+        "opening_hours": {
+          "Monday": "10:00-22:00",
+          "Tuesday": "10:00-22:00",
+          "Wednesday": "10:00-22:00",
+          "Thursday": "10:00-22:00",
+          "Friday": "10:00-23:00",
+          "Saturday": "10:00-23:00",
+          "Sunday": "10:00-23:00"
+        },
+        "full_address": "Autostrada A4 Torino Trieste km 456 Venezia tel: 04211546084",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "642.00",
+        "regione": "veneto",
+        "provincia": "venezia",
+        "slug": "fossalta-di-portogruaro-ads-fratta-sud",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/venezia/fossalta-di-portogruaro-ads-fratta-sud",
+        "page_coordinates": [
+          12.887324,
+          45.803988
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Fossalta di Portogruaro Ads Fratta Sud**\n---\n**ID:** 642\n\n### Address\nAutostrada A4 Torino Trieste km 456 Venezia tel: 04211546084, Fossalta Di Portogruaro (venezia)\n\n### Contacts\n**Phone:** 04211546084\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/venezia/fossalta-di-portogruaro-ads-fratta-sud](https://www.mcdonalds.it/ristorante/veneto/venezia/fossalta-di-portogruaro-ads-fratta-sud)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:00-22:00 |\n| **Tuesday** | 10:00-22:00 |\n| **Wednesday** | 10:00-22:00 |\n| **Thursday** | 10:00-22:00 |\n| **Friday** | 10:00-23:00 |\n| **Saturday** | 10:00-23:00 |\n| **Sunday** | 10:00-23:00 |\n\n### Services\nTake Away • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.105782,
+          45.421941
+        ]
+      },
+      "properties": {
+        "id": 648,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "San Martino Buon Albergo",
+        "addr:city": "San Martino Buon Albergo",
+        "addr:street": "Via Alcide De Gasperi. 5",
+        "branch": "San Martino Buon Albergo",
+        "contact:phone": "0452095530",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/verona/san-martino-buon-albergo",
+        "opening_hours": {
+          "Monday": "07:30-01:00",
+          "Tuesday": "07:30-01:00",
+          "Wednesday": "07:30-01:00",
+          "Thursday": "07:30-01:00",
+          "Friday": "07:30-04:00",
+          "Saturday": "07:30-04:00",
+          "Sunday": "07:30-01:00"
+        },
+        "full_address": "Via Alcide De Gasperi. 5 Verona tel: 0452095530",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "648.00",
+        "regione": "veneto",
+        "provincia": "verona",
+        "slug": "san-martino-buon-albergo",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/verona/san-martino-buon-albergo",
+        "page_coordinates": [
+          11.105782,
+          45.421941
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**San Martino Buon Albergo**\n---\n**ID:** 648\n\n### Address\nVia Alcide De Gasperi. 5 Verona tel: 0452095530, San Martino Buon Albergo (verona)\n\n### Contacts\n**Phone:** 0452095530\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/verona/san-martino-buon-albergo](https://www.mcdonalds.it/ristorante/veneto/verona/san-martino-buon-albergo)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:30-01:00 |\n| **Tuesday** | 07:30-01:00 |\n| **Wednesday** | 07:30-01:00 |\n| **Thursday** | 07:30-01:00 |\n| **Friday** | 07:30-04:00 |\n| **Saturday** | 07:30-04:00 |\n| **Sunday** | 07:30-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.07104,
+          45.579044
+        ]
+      },
+      "properties": {
+        "id": 665,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Trebaseleghe",
+        "addr:city": "Trebaseleghe",
+        "addr:street": "Via Malcanton. 35/H",
+        "branch": "Trebaseleghe",
+        "contact:phone": "049 541 7744",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/padova/trebaseleghe",
+        "opening_hours": {
+          "Monday": "08:00-00:00",
+          "Tuesday": "08:00-00:00",
+          "Wednesday": "08:00-00:00",
+          "Thursday": "08:00-00:00",
+          "Friday": "08:00-00:00",
+          "Saturday": "08:00-00:00",
+          "Sunday": "08:00-00:00"
+        },
+        "full_address": "Via Malcanton. 35/H Padova tel: 049 541 7744",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "665.00",
+        "regione": "veneto",
+        "provincia": "padova",
+        "slug": "trebaseleghe",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/padova/trebaseleghe",
+        "page_coordinates": [
+          12.07104,
+          45.579044
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Trebaseleghe**\n---\n**ID:** 665\n\n### Address\nVia Malcanton. 35/H Padova tel: 049 541 7744, Trebaseleghe (padova)\n\n### Contacts\n**Phone:** 049 541 7744\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/padova/trebaseleghe](https://www.mcdonalds.it/ristorante/veneto/padova/trebaseleghe)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-00:00 |\n| **Tuesday** | 08:00-00:00 |\n| **Wednesday** | 08:00-00:00 |\n| **Thursday** | 08:00-00:00 |\n| **Friday** | 08:00-00:00 |\n| **Saturday** | 08:00-00:00 |\n| **Sunday** | 08:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.711863,
+          45.438824
+        ]
+      },
+      "properties": {
+        "id": 725,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Peschiera del Garda Drive",
+        "addr:city": "Peschiera Del Garda",
+        "addr:street": "Via Venezia. 88",
+        "branch": "Peschiera del Garda Drive",
+        "contact:phone": "045 2528866",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/verona/peschiera-del-garda-drive",
+        "opening_hours": {
+          "Monday": "07:00-02:00",
+          "Tuesday": "07:00-02:00",
+          "Wednesday": "07:00-02:00",
+          "Thursday": "07:00-02:00",
+          "Friday": "07:00-04:00",
+          "Saturday": "07:00-04:00",
+          "Sunday": "07:00-02:00"
+        },
+        "full_address": "Via Venezia. 88 Verona tel: 045 2528866",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "725.00",
+        "regione": "veneto",
+        "provincia": "verona",
+        "slug": "peschiera-del-garda-drive",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/verona/peschiera-del-garda-drive",
+        "page_coordinates": [
+          10.711863,
+          45.438824
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Peschiera del Garda Drive**\n---\n**ID:** 725\n\n### Address\nVia Venezia. 88 Verona tel: 045 2528866, Peschiera Del Garda (verona)\n\n### Contacts\n**Phone:** 045 2528866\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/verona/peschiera-del-garda-drive](https://www.mcdonalds.it/ristorante/veneto/verona/peschiera-del-garda-drive)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-02:00 |\n| **Tuesday** | 07:00-02:00 |\n| **Wednesday** | 07:00-02:00 |\n| **Thursday** | 07:00-02:00 |\n| **Friday** | 07:00-04:00 |\n| **Saturday** | 07:00-04:00 |\n| **Sunday** | 07:00-02:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.867106,
+          45.418937
+        ]
+      },
+      "properties": {
+        "id": 735,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Padova Sarpi",
+        "addr:city": "Padova",
+        "addr:street": "Via Paolo Sarpi. 78",
+        "branch": "Padova Sarpi",
+        "contact:phone": "049 5415325",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/padova/padova-sarpi",
+        "opening_hours": {
+          "Monday": "08:00-00:00",
+          "Tuesday": "08:00-00:00",
+          "Wednesday": "08:00-00:00",
+          "Thursday": "08:00-00:00",
+          "Friday": "08:00-00:00",
+          "Saturday": "08:00-00:00",
+          "Sunday": "08:00-00:00"
+        },
+        "full_address": "Via Paolo Sarpi. 78 Padova tel: 049 5415325",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "735.00",
+        "regione": "veneto",
+        "provincia": "padova",
+        "slug": "padova-sarpi",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/padova/padova-sarpi",
+        "page_coordinates": [
+          11.867106,
+          45.418937
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Padova Sarpi**\n---\n**ID:** 735\n\n### Address\nVia Paolo Sarpi. 78 Padova tel: 049 5415325, Padova (padova)\n\n### Contacts\n**Phone:** 049 5415325\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/padova/padova-sarpi](https://www.mcdonalds.it/ristorante/veneto/padova/padova-sarpi)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-00:00 |\n| **Tuesday** | 08:00-00:00 |\n| **Wednesday** | 08:00-00:00 |\n| **Thursday** | 08:00-00:00 |\n| **Friday** | 08:00-00:00 |\n| **Saturday** | 08:00-00:00 |\n| **Sunday** | 08:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.093474,
+          45.758439
+        ]
+      },
+      "properties": {
+        "id": 759,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Volpago del Montello",
+        "addr:city": "Volpago Del Montello",
+        "addr:street": "Via Feltrina Sud. 10",
+        "branch": "Volpago del Montello",
+        "contact:phone": "04231815753",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/treviso/volpago-del-montello",
+        "opening_hours": {
+          "Monday": "08:00-23:00",
+          "Tuesday": "08:00-23:00",
+          "Wednesday": "08:00-23:00",
+          "Thursday": "08:00-23:00",
+          "Friday": "08:00-00:00",
+          "Saturday": "08:00-00:00",
+          "Sunday": "08:00-00:00"
+        },
+        "full_address": "Via Feltrina Sud. 10 Treviso tel: 04231815753",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "759.00",
+        "regione": "veneto",
+        "provincia": "treviso",
+        "slug": "volpago-del-montello",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/treviso/volpago-del-montello",
+        "page_coordinates": [
+          12.093474,
+          45.758439
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Volpago del Montello**\n---\n**ID:** 759\n\n### Address\nVia Feltrina Sud. 10 Treviso tel: 04231815753, Volpago Del Montello (treviso)\n\n### Contacts\n**Phone:** 04231815753\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/treviso/volpago-del-montello](https://www.mcdonalds.it/ristorante/veneto/treviso/volpago-del-montello)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-23:00 |\n| **Tuesday** | 08:00-23:00 |\n| **Wednesday** | 08:00-23:00 |\n| **Thursday** | 08:00-23:00 |\n| **Friday** | 08:00-00:00 |\n| **Saturday** | 08:00-00:00 |\n| **Sunday** | 08:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.922753,
+          45.540577
+        ]
+      },
+      "properties": {
+        "id": 760,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "San Giorgio delle Pertiche",
+        "addr:city": "San Giorgio Delle Pertiche",
+        "addr:street": "Via Caselle. 2",
+        "branch": "San Giorgio delle Pertiche",
+        "contact:phone": "0495419242",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/padova/san-giorgio-delle-pertiche",
+        "opening_hours": {
+          "Monday": "08:00-00:00",
+          "Tuesday": "08:00-00:00",
+          "Wednesday": "08:00-00:00",
+          "Thursday": "08:00-00:00",
+          "Friday": "08:00-00:00",
+          "Saturday": "08:00-00:00",
+          "Sunday": "08:00-00:00"
+        },
+        "full_address": "Via Caselle. 2 Padova tel: 0495419242",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "760.00",
+        "regione": "veneto",
+        "provincia": "padova",
+        "slug": "san-giorgio-delle-pertiche",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/padova/san-giorgio-delle-pertiche",
+        "page_coordinates": [
+          11.922753,
+          45.540577
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**San Giorgio delle Pertiche**\n---\n**ID:** 760\n\n### Address\nVia Caselle. 2 Padova tel: 0495419242, San Giorgio Delle Pertiche (padova)\n\n### Contacts\n**Phone:** 0495419242\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/padova/san-giorgio-delle-pertiche](https://www.mcdonalds.it/ristorante/veneto/padova/san-giorgio-delle-pertiche)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-00:00 |\n| **Tuesday** | 08:00-00:00 |\n| **Wednesday** | 08:00-00:00 |\n| **Thursday** | 08:00-00:00 |\n| **Friday** | 08:00-00:00 |\n| **Saturday** | 08:00-00:00 |\n| **Sunday** | 08:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.027737,
+          45.301279
+        ]
+      },
+      "properties": {
+        "id": 782,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Piove di Sacco",
+        "addr:city": "Piove Di Sacco",
+        "addr:street": "Via Borgo Padova. 1",
+        "branch": "Piove di Sacco",
+        "contact:phone": "049 2140497",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/padova/piove-di-sacco",
+        "opening_hours": {
+          "Monday": "08:00-00:30",
+          "Tuesday": "08:00-00:30",
+          "Wednesday": "08:00-00:30",
+          "Thursday": "08:00-00:30",
+          "Friday": "08:00-02:00",
+          "Saturday": "08:00-03:00",
+          "Sunday": "08:00-02:00"
+        },
+        "full_address": "Via Borgo Padova. 1 Padova tel: 049 2140497",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "782.00",
+        "regione": "veneto",
+        "provincia": "padova",
+        "slug": "piove-di-sacco",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/padova/piove-di-sacco",
+        "page_coordinates": [
+          12.027737,
+          45.301279
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Piove di Sacco**\n---\n**ID:** 782\n\n### Address\nVia Borgo Padova. 1 Padova tel: 049 2140497, Piove Di Sacco (padova)\n\n### Contacts\n**Phone:** 049 2140497\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/padova/piove-di-sacco](https://www.mcdonalds.it/ristorante/veneto/padova/piove-di-sacco)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-00:30 |\n| **Tuesday** | 08:00-00:30 |\n| **Wednesday** | 08:00-00:30 |\n| **Thursday** | 08:00-00:30 |\n| **Friday** | 08:00-02:00 |\n| **Saturday** | 08:00-03:00 |\n| **Sunday** | 08:00-02:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.774819,
+          45.651234
+        ]
+      },
+      "properties": {
+        "id": 981,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Cittadella Galilei",
+        "addr:city": "Cittadella",
+        "addr:street": "Via Brigata Granatieri di Sardegna 6",
+        "branch": "Cittadella Galilei",
+        "contact:phone": "049 0980724",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/padova/cittadella-galilei",
+        "opening_hours": {
+          "Monday": "07:30-01:00",
+          "Tuesday": "07:30-01:00",
+          "Wednesday": "07:30-01:00",
+          "Thursday": "07:30-01:00",
+          "Friday": "07:30-04:00",
+          "Saturday": "07:30-04:00",
+          "Sunday": "07:30-01:00"
+        },
+        "full_address": "Via Brigata Granatieri di Sardegna 6 Padova tel: 049 0980724",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "981.00",
+        "regione": "veneto",
+        "provincia": "padova",
+        "slug": "cittadella-galilei",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/padova/cittadella-galilei",
+        "page_coordinates": [
+          11.774819,
+          45.651234
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Cittadella Galilei**\n---\n**ID:** 981\n\n### Address\nVia Brigata Granatieri di Sardegna 6 Padova tel: 049 0980724, Cittadella (padova)\n\n### Contacts\n**Phone:** 049 0980724\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/padova/cittadella-galilei](https://www.mcdonalds.it/ristorante/veneto/padova/cittadella-galilei)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:30-01:00 |\n| **Tuesday** | 07:30-01:00 |\n| **Wednesday** | 07:30-01:00 |\n| **Thursday** | 07:30-01:00 |\n| **Friday** | 07:30-04:00 |\n| **Saturday** | 07:30-04:00 |\n| **Sunday** | 07:30-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.965666,
+          45.384675
+        ]
+      },
+      "properties": {
+        "id": 1000,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Saonara",
+        "addr:city": "Saonara",
+        "addr:street": "Via Mazzini",
+        "branch": "Saonara",
+        "contact:phone": "0490970053",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/padova/saonara",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "10:30-00:00",
+          "Thursday": "10:30-00:00",
+          "Friday": "10:30-00:00",
+          "Saturday": "10:30-00:00",
+          "Sunday": "10:30-00:00"
+        },
+        "full_address": "Via Mazzini Padova tel: 0490970053",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1000.00",
+        "regione": "veneto",
+        "provincia": "padova",
+        "slug": "saonara",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/padova/saonara",
+        "page_coordinates": [
+          11.965666,
+          45.384675
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Saonara**\n---\n**ID:** 1000\n\n### Address\nVia Mazzini Padova tel: 0490970053, Saonara (padova)\n\n### Contacts\n**Phone:** 0490970053\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/padova/saonara](https://www.mcdonalds.it/ristorante/veneto/padova/saonara)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-00:00 |\n| **Tuesday** | 10:30-00:00 |\n| **Wednesday** | 10:30-00:00 |\n| **Thursday** | 10:30-00:00 |\n| **Friday** | 10:30-00:00 |\n| **Saturday** | 10:30-00:00 |\n| **Sunday** | 10:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.881022,
+          45.417298
+        ]
+      },
+      "properties": {
+        "id": 1013,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Padova Stazione DL",
+        "addr:city": "Padova",
+        "addr:street": "piazzale della stazione",
+        "branch": "Padova Stazione DL",
+        "contact:phone": "0490965732",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/padova/padova-stazione-dl",
+        "opening_hours": {
+          "Monday": "09:00-23:00",
+          "Tuesday": "09:00-23:00",
+          "Wednesday": "09:00-23:00",
+          "Thursday": "09:00-23:00",
+          "Friday": "09:00-23:00",
+          "Saturday": "09:00-23:00",
+          "Sunday": "09:00-23:00"
+        },
+        "full_address": "piazzale della stazione Padova tel: 0490965732",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1013.00",
+        "regione": "veneto",
+        "provincia": "padova",
+        "slug": "padova-stazione-dl",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/padova/padova-stazione-dl",
+        "page_coordinates": [
+          11.881022,
+          45.417298
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Padova Stazione DL**\n---\n**ID:** 1013\n\n### Address\npiazzale della stazione Padova tel: 0490965732, Padova (padova)\n\n### Contacts\n**Phone:** 0490965732\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/padova/padova-stazione-dl](https://www.mcdonalds.it/ristorante/veneto/padova/padova-stazione-dl)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 09:00-23:00 |\n| **Tuesday** | 09:00-23:00 |\n| **Wednesday** | 09:00-23:00 |\n| **Thursday** | 09:00-23:00 |\n| **Friday** | 09:00-23:00 |\n| **Saturday** | 09:00-23:00 |\n| **Sunday** | 09:00-23:00 |\n\n### Services\nTake Away • Ordina in App • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.655414,
+          45.223216
+        ]
+      },
+      "properties": {
+        "id": 1033,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Este",
+        "addr:city": "Este",
+        "addr:street": "via Gambina 26H",
+        "branch": "Este",
+        "contact:phone": "0429 1700613",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/padova/este",
+        "opening_hours": {
+          "Monday": "08:00-00:00",
+          "Tuesday": "08:00-00:00",
+          "Wednesday": "08:00-00:00",
+          "Thursday": "08:00-00:00",
+          "Friday": "08:00-03:00",
+          "Saturday": "08:00-03:00",
+          "Sunday": "08:00-00:00"
+        },
+        "full_address": "via Gambina 26H Padova tel: 0429 1700613",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1033.00",
+        "regione": "veneto",
+        "provincia": "padova",
+        "slug": "este",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/padova/este",
+        "page_coordinates": [
+          11.655414,
+          45.223216
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Este**\n---\n**ID:** 1033\n\n### Address\nvia Gambina 26H Padova tel: 0429 1700613, Este (padova)\n\n### Contacts\n**Phone:** 0429 1700613\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/padova/este](https://www.mcdonalds.it/ristorante/veneto/padova/este)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-00:00 |\n| **Tuesday** | 08:00-00:00 |\n| **Wednesday** | 08:00-00:00 |\n| **Thursday** | 08:00-00:00 |\n| **Friday** | 08:00-03:00 |\n| **Saturday** | 08:00-03:00 |\n| **Sunday** | 08:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.345907,
+          45.512632
+        ]
+      },
+      "properties": {
+        "id": 1043,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Arzignano",
+        "addr:city": "Arzignano",
+        "addr:street": "via dellindustria",
+        "branch": "Arzignano",
+        "contact:phone": "0444 1152431",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/vicenza/arzignano",
+        "opening_hours": {
+          "Monday": "07:00-02:00",
+          "Tuesday": "07:00-02:00",
+          "Wednesday": "07:00-02:00",
+          "Thursday": "07:00-02:00",
+          "Friday": "07:00-07:00",
+          "Saturday": "07:00-07:00",
+          "Sunday": "07:00-02:00"
+        },
+        "full_address": "via dellindustria Vicenza tel: 0444 1152431",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1043.00",
+        "regione": "veneto",
+        "provincia": "vicenza",
+        "slug": "arzignano",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/vicenza/arzignano",
+        "page_coordinates": [
+          11.345907,
+          45.512632
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Arzignano**\n---\n**ID:** 1043\n\n### Address\nvia dellindustria Vicenza tel: 0444 1152431, Arzignano (vicenza)\n\n### Contacts\n**Phone:** 0444 1152431\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/vicenza/arzignano](https://www.mcdonalds.it/ristorante/veneto/vicenza/arzignano)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-02:00 |\n| **Tuesday** | 07:00-02:00 |\n| **Wednesday** | 07:00-02:00 |\n| **Thursday** | 07:00-02:00 |\n| **Friday** | 07:00-07:00 |\n| **Saturday** | 07:00-07:00 |\n| **Sunday** | 07:00-02:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.515244,
+          45.092943
+        ]
+      },
+      "properties": {
+        "id": 1064,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Badia Polesine",
+        "addr:city": "Badia Polesine",
+        "addr:street": "via dellindustria",
+        "branch": "Badia Polesine",
+        "contact:phone": "0425 1541867",
+        "contact:website": "https://www.mcdonalds.it/ristorante/veneto/rovigo/badia-polesine",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-01:00",
+          "Thursday": "07:00-01:00",
+          "Friday": "07:00-03:00",
+          "Saturday": "07:00-03:00",
+          "Sunday": "07:00-01:00"
+        },
+        "full_address": "via dellindustria Rovigo tel: 0425 1541867",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1064.00",
+        "regione": "veneto",
+        "provincia": "rovigo",
+        "slug": "badia-polesine",
+        "detail_url": "https://www.mcdonalds.it/ristorante/veneto/rovigo/badia-polesine",
+        "page_coordinates": [
+          11.515244,
+          45.092943
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Badia Polesine**\n---\n**ID:** 1064\n\n### Address\nvia dellindustria Rovigo tel: 0425 1541867, Badia Polesine (rovigo)\n\n### Contacts\n**Phone:** 0425 1541867\n**Website:** [https://www.mcdonalds.it/ristorante/veneto/rovigo/badia-polesine](https://www.mcdonalds.it/ristorante/veneto/rovigo/badia-polesine)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-01:00 |\n| **Tuesday** | 07:00-01:00 |\n| **Wednesday** | 07:00-01:00 |\n| **Thursday** | 07:00-01:00 |\n| **Friday** | 07:00-03:00 |\n| **Saturday** | 07:00-03:00 |\n| **Sunday** | 07:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Wi-fi"
+      }
+    }
+  ]
+}

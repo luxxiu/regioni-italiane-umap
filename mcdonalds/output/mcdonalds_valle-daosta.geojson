@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.345728,
+          45.739844
+        ]
+      },
+      "properties": {
+        "id": 447,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Aosta",
+        "addr:city": "Aosta",
+        "addr:street": "Corso Ivrea 138",
+        "branch": "Aosta",
+        "contact:phone": "0165 231236",
+        "contact:website": "https://www.mcdonalds.it/ristorante/valle-daosta/aosta/aosta",
+        "opening_hours": {
+          "Monday": "08:00-23:00",
+          "Tuesday": "08:00-23:00",
+          "Wednesday": "08:00-23:00",
+          "Thursday": "08:00-23:00",
+          "Friday": "08:00-23:00",
+          "Saturday": "08:00-23:00",
+          "Sunday": "08:00-23:00"
+        },
+        "full_address": "Corso Ivrea 138 Aosta tel: 0165 231236",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "447.00",
+        "regione": "valle-daosta",
+        "provincia": "aosta",
+        "slug": "aosta",
+        "detail_url": "https://www.mcdonalds.it/ristorante/valle-daosta/aosta/aosta",
+        "page_coordinates": [
+          7.345728,
+          45.739844
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Aosta**\n---\n**ID:** 447\n\n### Address\nCorso Ivrea 138 Aosta tel: 0165 231236, Aosta (aosta)\n\n### Contacts\n**Phone:** 0165 231236\n**Website:** [https://www.mcdonalds.it/ristorante/valle-daosta/aosta/aosta](https://www.mcdonalds.it/ristorante/valle-daosta/aosta/aosta)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-23:00 |\n| **Tuesday** | 08:00-23:00 |\n| **Wednesday** | 08:00-23:00 |\n| **Thursday** | 08:00-23:00 |\n| **Friday** | 08:00-23:00 |\n| **Saturday** | 08:00-23:00 |\n| **Sunday** | 08:00-23:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    }
+  ]
+}

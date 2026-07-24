@@ -1,0 +1,861 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.777837,
+          43.818664
+        ]
+      },
+      "properties": {
+        "id": 31,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "San Remo",
+        "addr:city": "Sanremo",
+        "addr:street": "Piazza Colombo, 17",
+        "branch": "San Remo",
+        "contact:phone": "0184 872613",
+        "contact:website": "https://www.mcdonalds.it/ristorante/liguria/imperia/san-remo",
+        "opening_hours": {
+          "Monday": "10:00-00:00",
+          "Tuesday": "10:00-00:00",
+          "Wednesday": "10:00-21:00",
+          "Thursday": "10:00-00:00",
+          "Friday": "10:00-01:00",
+          "Saturday": "10:00-01:00",
+          "Sunday": "10:00-00:00"
+        },
+        "full_address": "Piazza Colombo, 17 Imperia tel: 0184 872613",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "31.00",
+        "regione": "liguria",
+        "provincia": "imperia",
+        "slug": "san-remo",
+        "detail_url": "https://www.mcdonalds.it/ristorante/liguria/imperia/san-remo",
+        "page_coordinates": [
+          7.777837,
+          43.818664
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**San Remo**\n---\n**ID:** 31\n\n### Address\nPiazza Colombo, 17 Imperia tel: 0184 872613, Sanremo (imperia)\n\n### Contacts\n**Phone:** 0184 872613\n**Website:** [https://www.mcdonalds.it/ristorante/liguria/imperia/san-remo](https://www.mcdonalds.it/ristorante/liguria/imperia/san-remo)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:00-00:00 |\n| **Tuesday** | 10:00-00:00 |\n| **Wednesday** | 10:00-21:00 |\n| **Thursday** | 10:00-00:00 |\n| **Friday** | 10:00-01:00 |\n| **Saturday** | 10:00-01:00 |\n| **Sunday** | 10:00-00:00 |\n\n### Services\nTake Away • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.90882,
+          44.410375
+        ]
+      },
+      "properties": {
+        "id": 38,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Genova Traghetti",
+        "addr:city": "Genova",
+        "addr:street": "Via Calata della Chiappella",
+        "branch": "Genova Traghetti",
+        "contact:phone": "010 0921218",
+        "contact:website": "https://www.mcdonalds.it/ristorante/liguria/genova/genova-traghetti",
+        "opening_hours": {
+          "Monday": "11:30-20:30",
+          "Tuesday": "11:30-20:30",
+          "Wednesday": "11:30-20:30",
+          "Thursday": "11:30-20:30",
+          "Friday": "11:30-21:00",
+          "Saturday": "11:30-21:00",
+          "Sunday": "11:30-20:30"
+        },
+        "full_address": "Via Calata della Chiappella Genova tel: 010 0921218",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "38.00",
+        "regione": "liguria",
+        "provincia": "genova",
+        "slug": "genova-traghetti",
+        "detail_url": "https://www.mcdonalds.it/ristorante/liguria/genova/genova-traghetti",
+        "page_coordinates": [
+          8.90882,
+          44.410375
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Genova Traghetti**\n---\n**ID:** 38\n\n### Address\nVia Calata della Chiappella Genova tel: 010 0921218, Genova (genova)\n\n### Contacts\n**Phone:** 010 0921218\n**Website:** [https://www.mcdonalds.it/ristorante/liguria/genova/genova-traghetti](https://www.mcdonalds.it/ristorante/liguria/genova/genova-traghetti)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 11:30-20:30 |\n| **Tuesday** | 11:30-20:30 |\n| **Wednesday** | 11:30-20:30 |\n| **Thursday** | 11:30-20:30 |\n| **Friday** | 11:30-21:00 |\n| **Saturday** | 11:30-21:00 |\n| **Sunday** | 11:30-20:30 |\n\n### Services\nTake Away • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.621366,
+          43.788577
+        ]
+      },
+      "properties": {
+        "id": 65,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Ventimiglia",
+        "addr:city": "Ventimiglia",
+        "addr:street": "Corso Genova",
+        "branch": "Ventimiglia",
+        "contact:phone": "0184 1753164",
+        "contact:website": "https://www.mcdonalds.it/ristorante/liguria/imperia/ventimiglia",
+        "opening_hours": {
+          "Monday": "10:00-00:00",
+          "Tuesday": "10:00-00:00",
+          "Wednesday": "10:00-21:00",
+          "Thursday": "10:00-00:00",
+          "Friday": "10:00-00:00",
+          "Saturday": "10:00-00:00",
+          "Sunday": "10:00-00:00"
+        },
+        "full_address": "Corso Genova Imperia tel: 0184 1753164",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "65.00",
+        "regione": "liguria",
+        "provincia": "imperia",
+        "slug": "ventimiglia",
+        "detail_url": "https://www.mcdonalds.it/ristorante/liguria/imperia/ventimiglia",
+        "page_coordinates": [
+          7.621366,
+          43.788577
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Ventimiglia**\n---\n**ID:** 65\n\n### Address\nCorso Genova Imperia tel: 0184 1753164, Ventimiglia (imperia)\n\n### Contacts\n**Phone:** 0184 1753164\n**Website:** [https://www.mcdonalds.it/ristorante/liguria/imperia/ventimiglia](https://www.mcdonalds.it/ristorante/liguria/imperia/ventimiglia)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:00-00:00 |\n| **Tuesday** | 10:00-00:00 |\n| **Wednesday** | 10:00-21:00 |\n| **Thursday** | 10:00-00:00 |\n| **Friday** | 10:00-00:00 |\n| **Saturday** | 10:00-00:00 |\n| **Sunday** | 10:00-00:00 |\n\n### Services\nMcDrive® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.963764,
+          44.104973
+        ]
+      },
+      "properties": {
+        "id": 178,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Sarzana",
+        "addr:city": "Sarzana",
+        "addr:street": "Variante Aurelia, 49",
+        "branch": "Sarzana",
+        "contact:phone": "0187 627370",
+        "contact:website": "https://www.mcdonalds.it/ristorante/liguria/la-spezia/sarzana",
+        "opening_hours": {
+          "Monday": "11:00-00:00",
+          "Tuesday": "11:00-00:00",
+          "Wednesday": "11:00-00:00",
+          "Thursday": "11:00-00:00",
+          "Friday": "11:00-00:00",
+          "Saturday": "11:00-00:00",
+          "Sunday": "11:00-00:00"
+        },
+        "full_address": "Variante Aurelia, 49 La Spezia tel: 0187 627370",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "178.00",
+        "regione": "liguria",
+        "provincia": "la-spezia",
+        "slug": "sarzana",
+        "detail_url": "https://www.mcdonalds.it/ristorante/liguria/la-spezia/sarzana",
+        "page_coordinates": [
+          9.963764,
+          44.104973
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Sarzana**\n---\n**ID:** 178\n\n### Address\nVariante Aurelia, 49 La Spezia tel: 0187 627370, Sarzana (la-spezia)\n\n### Contacts\n**Phone:** 0187 627370\n**Website:** [https://www.mcdonalds.it/ristorante/liguria/la-spezia/sarzana](https://www.mcdonalds.it/ristorante/liguria/la-spezia/sarzana)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 11:00-00:00 |\n| **Tuesday** | 11:00-00:00 |\n| **Wednesday** | 11:00-00:00 |\n| **Thursday** | 11:00-00:00 |\n| **Friday** | 11:00-00:00 |\n| **Saturday** | 11:00-00:00 |\n| **Sunday** | 11:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.832756,
+          44.118837
+        ]
+      },
+      "properties": {
+        "id": 275,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "La Spezia Terrazze",
+        "addr:city": "La Spezia",
+        "addr:street": "via Fontevivo",
+        "branch": "La Spezia Terrazze",
+        "contact:phone": "018 7447937",
+        "contact:website": "https://www.mcdonalds.it/ristorante/liguria/la-spezia/la-spezia-terrazze",
+        "opening_hours": {
+          "Monday": "08:30-23:00",
+          "Tuesday": "08:30-23:00",
+          "Wednesday": "08:30-23:00",
+          "Thursday": "08:30-23:00",
+          "Friday": "08:30-23:00",
+          "Saturday": "08:30-23:00",
+          "Sunday": "08:30-23:00"
+        },
+        "full_address": "via Fontevivo La Spezia tel: 018 7447937",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "275.00",
+        "regione": "liguria",
+        "provincia": "la-spezia",
+        "slug": "la-spezia-terrazze",
+        "detail_url": "https://www.mcdonalds.it/ristorante/liguria/la-spezia/la-spezia-terrazze",
+        "page_coordinates": [
+          9.832756,
+          44.118837
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**La Spezia Terrazze**\n---\n**ID:** 275\n\n### Address\nvia Fontevivo La Spezia tel: 018 7447937, La Spezia (la-spezia)\n\n### Contacts\n**Phone:** 018 7447937\n**Website:** [https://www.mcdonalds.it/ristorante/liguria/la-spezia/la-spezia-terrazze](https://www.mcdonalds.it/ristorante/liguria/la-spezia/la-spezia-terrazze)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:30-23:00 |\n| **Tuesday** | 08:30-23:00 |\n| **Wednesday** | 08:30-23:00 |\n| **Thursday** | 08:30-23:00 |\n| **Friday** | 08:30-23:00 |\n| **Saturday** | 08:30-23:00 |\n| **Sunday** | 08:30-23:00 |\n\n### Services\nMcCafé® • Take Away • Ordina in App • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.928562,
+          44.411271
+        ]
+      },
+      "properties": {
+        "id": 313,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Genova Brignole",
+        "addr:city": "Genova",
+        "addr:street": "Via  di Sottoripa, 127",
+        "branch": "Genova Brignole",
+        "contact:phone": "010 7982273",
+        "contact:website": "https://www.mcdonalds.it/ristorante/liguria/genova/genova-brignole",
+        "opening_hours": {
+          "Monday": "11:00-21:00",
+          "Tuesday": "11:00-21:00",
+          "Wednesday": "11:00-21:00",
+          "Thursday": "11:00-21:00",
+          "Friday": "11:00-22:00",
+          "Saturday": "11:00-22:00",
+          "Sunday": "11:00-21:00"
+        },
+        "full_address": "Via Venti Settembre 1 Genova tel: 010 7982273",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "376.00",
+        "regione": "liguria",
+        "provincia": "genova",
+        "slug": "genova-brignole",
+        "detail_url": "https://www.mcdonalds.it/ristorante/liguria/genova/genova-brignole",
+        "page_coordinates": [
+          8.944276,
+          44.40489
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Genova Brignole**\n---\n**ID:** 313\n\n### Address\nVia Venti Settembre 1 Genova tel: 010 7982273, Genova (genova)\n\n### Contacts\n**Phone:** 010 7982273\n**Website:** [https://www.mcdonalds.it/ristorante/liguria/genova/genova-brignole](https://www.mcdonalds.it/ristorante/liguria/genova/genova-brignole)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 11:00-21:00 |\n| **Tuesday** | 11:00-21:00 |\n| **Wednesday** | 11:00-21:00 |\n| **Thursday** | 11:00-21:00 |\n| **Friday** | 11:00-22:00 |\n| **Saturday** | 11:00-22:00 |\n| **Sunday** | 11:00-21:00 |\n\n### Services\nTake Away • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.463506,
+          44.299402
+        ]
+      },
+      "properties": {
+        "id": 322,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Savona",
+        "addr:city": "Savona",
+        "addr:street": "via Stalingrado, 94",
+        "branch": "Savona",
+        "contact:phone": "019 861100",
+        "contact:website": "https://www.mcdonalds.it/ristorante/liguria/savona/savona",
+        "opening_hours": {
+          "Monday": "07:30-23:00",
+          "Tuesday": "07:30-23:00",
+          "Wednesday": "07:30-19:00",
+          "Thursday": "18:00-23:00",
+          "Friday": "11:00-00:00",
+          "Saturday": "07:30-00:00",
+          "Sunday": "07:30-23:00"
+        },
+        "full_address": "via Stalingrado, 94 Savona tel: 019 861100",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "322.00",
+        "regione": "liguria",
+        "provincia": "savona",
+        "slug": "savona",
+        "detail_url": "https://www.mcdonalds.it/ristorante/liguria/savona/savona",
+        "page_coordinates": [
+          8.463506,
+          44.299402
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Savona**\n---\n**ID:** 322\n\n### Address\nvia Stalingrado, 94 Savona tel: 019 861100, Savona (savona)\n\n### Contacts\n**Phone:** 019 861100\n**Website:** [https://www.mcdonalds.it/ristorante/liguria/savona/savona](https://www.mcdonalds.it/ristorante/liguria/savona/savona)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:30-23:00 |\n| **Tuesday** | 07:30-23:00 |\n| **Wednesday** | 07:30-19:00 |\n| **Thursday** | 18:00-23:00 |\n| **Friday** | 11:00-00:00 |\n| **Saturday** | 07:30-00:00 |\n| **Sunday** | 07:30-23:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.87998,
+          44.413583
+        ]
+      },
+      "properties": {
+        "id": 352,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Genova Fiumara",
+        "addr:city": "Genova",
+        "addr:street": "via Paolo Mantovani 17",
+        "branch": "Genova Fiumara",
+        "contact:phone": "010 7533244",
+        "contact:website": "https://www.mcdonalds.it/ristorante/liguria/genova/genova-fiumara",
+        "opening_hours": {
+          "Monday": "12:00-23:00",
+          "Tuesday": "12:00-23:00",
+          "Wednesday": "12:00-23:00",
+          "Thursday": "12:00-23:00",
+          "Friday": "12:00-23:00",
+          "Saturday": "12:00-24:00",
+          "Sunday": "12:00-23:00"
+        },
+        "full_address": "via Paolo Mantovani 17 Genova tel: 010 7533244",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "352.00",
+        "regione": "liguria",
+        "provincia": "genova",
+        "slug": "genova-fiumara",
+        "detail_url": "https://www.mcdonalds.it/ristorante/liguria/genova/genova-fiumara",
+        "page_coordinates": [
+          8.87998,
+          44.413583
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Genova Fiumara**\n---\n**ID:** 352\n\n### Address\nvia Paolo Mantovani 17 Genova tel: 010 7533244, Genova (genova)\n\n### Contacts\n**Phone:** 010 7533244\n**Website:** [https://www.mcdonalds.it/ristorante/liguria/genova/genova-fiumara](https://www.mcdonalds.it/ristorante/liguria/genova/genova-fiumara)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 12:00-23:00 |\n| **Tuesday** | 12:00-23:00 |\n| **Wednesday** | 12:00-23:00 |\n| **Thursday** | 12:00-23:00 |\n| **Friday** | 12:00-23:00 |\n| **Saturday** | 12:00-24:00 |\n| **Sunday** | 12:00-23:00 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.936689,
+          44.406745
+        ]
+      },
+      "properties": {
+        "id": 375,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Genova Brignole",
+        "addr:city": "Genova",
+        "addr:street": "Via Venti Settembre 205",
+        "branch": "Genova Brignole",
+        "contact:phone": "010 7982273",
+        "contact:website": "https://www.mcdonalds.it/ristorante/liguria/genova/genova-brignole",
+        "opening_hours": {
+          "Monday": "11:00-21:00",
+          "Tuesday": "11:00-21:00",
+          "Wednesday": "11:00-21:00",
+          "Thursday": "11:00-21:00",
+          "Friday": "11:00-22:00",
+          "Saturday": "11:00-22:00",
+          "Sunday": "11:00-21:00"
+        },
+        "full_address": "Via Venti Settembre 1 Genova tel: 010 7982273",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "376.00",
+        "regione": "liguria",
+        "provincia": "genova",
+        "slug": "genova-brignole",
+        "detail_url": "https://www.mcdonalds.it/ristorante/liguria/genova/genova-brignole",
+        "page_coordinates": [
+          8.944276,
+          44.40489
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Genova Brignole**\n---\n**ID:** 375\n\n### Address\nVia Venti Settembre 1 Genova tel: 010 7982273, Genova (genova)\n\n### Contacts\n**Phone:** 010 7982273\n**Website:** [https://www.mcdonalds.it/ristorante/liguria/genova/genova-brignole](https://www.mcdonalds.it/ristorante/liguria/genova/genova-brignole)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 11:00-21:00 |\n| **Tuesday** | 11:00-21:00 |\n| **Wednesday** | 11:00-21:00 |\n| **Thursday** | 11:00-21:00 |\n| **Friday** | 11:00-22:00 |\n| **Saturday** | 11:00-22:00 |\n| **Sunday** | 11:00-21:00 |\n\n### Services\nTake Away • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.944276,
+          44.40489
+        ]
+      },
+      "properties": {
+        "id": 376,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Genova Brignole",
+        "addr:city": "Genova",
+        "addr:street": "Via Venti Settembre 1",
+        "branch": "Genova Brignole",
+        "contact:phone": "010 7982273",
+        "contact:website": "https://www.mcdonalds.it/ristorante/liguria/genova/genova-brignole",
+        "opening_hours": {
+          "Monday": "11:00-21:00",
+          "Tuesday": "11:00-21:00",
+          "Wednesday": "11:00-21:00",
+          "Thursday": "11:00-21:00",
+          "Friday": "11:00-22:00",
+          "Saturday": "11:00-22:00",
+          "Sunday": "11:00-21:00"
+        },
+        "full_address": "Via Venti Settembre 1 Genova tel: 010 7982273",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "376.00",
+        "regione": "liguria",
+        "provincia": "genova",
+        "slug": "genova-brignole",
+        "detail_url": "https://www.mcdonalds.it/ristorante/liguria/genova/genova-brignole",
+        "page_coordinates": [
+          8.944276,
+          44.40489
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Genova Brignole**\n---\n**ID:** 376\n\n### Address\nVia Venti Settembre 1 Genova tel: 010 7982273, Genova (genova)\n\n### Contacts\n**Phone:** 010 7982273\n**Website:** [https://www.mcdonalds.it/ristorante/liguria/genova/genova-brignole](https://www.mcdonalds.it/ristorante/liguria/genova/genova-brignole)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 11:00-21:00 |\n| **Tuesday** | 11:00-21:00 |\n| **Wednesday** | 11:00-21:00 |\n| **Thursday** | 11:00-21:00 |\n| **Friday** | 11:00-22:00 |\n| **Saturday** | 11:00-22:00 |\n| **Sunday** | 11:00-21:00 |\n\n### Services\nTake Away • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.029869,
+          43.885516
+        ]
+      },
+      "properties": {
+        "id": 579,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Imperia Drive",
+        "addr:city": "Imperia",
+        "addr:street": "Lungomare Vespucci",
+        "branch": "Imperia Drive",
+        "contact:phone": "0183 832015",
+        "contact:website": "https://www.mcdonalds.it/ristorante/liguria/imperia/imperia-drive",
+        "opening_hours": {
+          "Monday": "07:30-23:00",
+          "Tuesday": "07:30-23:00",
+          "Wednesday": "07:30-19:00",
+          "Thursday": "18:00-00:00",
+          "Friday": "11:00-23:00",
+          "Saturday": "07:30-23:00",
+          "Sunday": "07:30-23:00"
+        },
+        "full_address": "Lungomare Vespucci Imperia tel: 0183 832015",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "579.00",
+        "regione": "liguria",
+        "provincia": "imperia",
+        "slug": "imperia-drive",
+        "detail_url": "https://www.mcdonalds.it/ristorante/liguria/imperia/imperia-drive",
+        "page_coordinates": [
+          8.029869,
+          43.885516
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Imperia Drive**\n---\n**ID:** 579\n\n### Address\nLungomare Vespucci Imperia tel: 0183 832015, Imperia (imperia)\n\n### Contacts\n**Phone:** 0183 832015\n**Website:** [https://www.mcdonalds.it/ristorante/liguria/imperia/imperia-drive](https://www.mcdonalds.it/ristorante/liguria/imperia/imperia-drive)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:30-23:00 |\n| **Tuesday** | 07:30-23:00 |\n| **Wednesday** | 07:30-19:00 |\n| **Thursday** | 18:00-00:00 |\n| **Friday** | 11:00-23:00 |\n| **Saturday** | 07:30-23:00 |\n| **Sunday** | 07:30-23:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.921612,
+          44.416857
+        ]
+      },
+      "properties": {
+        "id": 727,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Genova Piazza Principe Stazione",
+        "addr:city": "Genova",
+        "addr:street": "Piazza Acquaverde",
+        "branch": "Genova Piazza Principe Stazione",
+        "contact:phone": "010 0922631",
+        "contact:website": "https://www.mcdonalds.it/ristorante/liguria/genova/genova-piazza-principe-stazione",
+        "opening_hours": {
+          "Monday": "08:00-00:00",
+          "Tuesday": "08:00-00:00",
+          "Wednesday": "08:00-00:00",
+          "Thursday": "08:00-00:00",
+          "Friday": "08:00-00:00",
+          "Saturday": "08:00-00:00",
+          "Sunday": "08:00-00:00"
+        },
+        "full_address": "Piazza Acquaverde Genova tel: 010 0922631",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "727.00",
+        "regione": "liguria",
+        "provincia": "genova",
+        "slug": "genova-piazza-principe-stazione",
+        "detail_url": "https://www.mcdonalds.it/ristorante/liguria/genova/genova-piazza-principe-stazione",
+        "page_coordinates": [
+          8.921612,
+          44.416857
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Genova Piazza Principe Stazione**\n---\n**ID:** 727\n\n### Address\nPiazza Acquaverde Genova tel: 010 0922631, Genova (genova)\n\n### Contacts\n**Phone:** 010 0922631\n**Website:** [https://www.mcdonalds.it/ristorante/liguria/genova/genova-piazza-principe-stazione](https://www.mcdonalds.it/ristorante/liguria/genova/genova-piazza-principe-stazione)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-00:00 |\n| **Tuesday** | 08:00-00:00 |\n| **Wednesday** | 08:00-00:00 |\n| **Thursday** | 08:00-00:00 |\n| **Friday** | 08:00-00:00 |\n| **Saturday** | 08:00-00:00 |\n| **Sunday** | 08:00-00:00 |\n\n### Services\nTake Away • Ordina in App • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.207065,
+          44.05242
+        ]
+      },
+      "properties": {
+        "id": 737,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Albenga",
+        "addr:city": "Albenga",
+        "addr:street": "Regione Cavallo. 2",
+        "branch": "Albenga",
+        "contact:phone": "0182 1904912",
+        "contact:website": "https://www.mcdonalds.it/ristorante/liguria/savona/albenga",
+        "opening_hours": {
+          "Monday": "07:30-00:00",
+          "Tuesday": "07:30-00:00",
+          "Wednesday": "07:30-19:00",
+          "Thursday": "18:00-00:00",
+          "Friday": "11:00-00:00",
+          "Saturday": "07:30-00:00",
+          "Sunday": "07:30-00:00"
+        },
+        "full_address": "Regione Cavallo. 2 Savona tel: 0182 1904912",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "737.00",
+        "regione": "liguria",
+        "provincia": "savona",
+        "slug": "albenga",
+        "detail_url": "https://www.mcdonalds.it/ristorante/liguria/savona/albenga",
+        "page_coordinates": [
+          8.207065,
+          44.05242
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Albenga**\n---\n**ID:** 737\n\n### Address\nRegione Cavallo. 2 Savona tel: 0182 1904912, Albenga (savona)\n\n### Contacts\n**Phone:** 0182 1904912\n**Website:** [https://www.mcdonalds.it/ristorante/liguria/savona/albenga](https://www.mcdonalds.it/ristorante/liguria/savona/albenga)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:30-00:00 |\n| **Tuesday** | 07:30-00:00 |\n| **Wednesday** | 07:30-19:00 |\n| **Thursday** | 18:00-00:00 |\n| **Friday** | 11:00-00:00 |\n| **Saturday** | 07:30-00:00 |\n| **Sunday** | 07:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.813372,
+          44.11132
+        ]
+      },
+      "properties": {
+        "id": 950,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "La Spezia Stazione",
+        "addr:city": "La Spezia",
+        "addr:street": "Piazzale Medaglie dOro",
+        "branch": "La Spezia Stazione",
+        "contact:phone": "018 71354852",
+        "contact:website": "https://www.mcdonalds.it/ristorante/liguria/la-spezia/la-spezia-stazione",
+        "opening_hours": {
+          "Monday": "09:00-00:00",
+          "Tuesday": "09:00-00:00",
+          "Wednesday": "09:00-00:00",
+          "Thursday": "09:00-00:00",
+          "Friday": "09:00-00:00",
+          "Saturday": "09:00-00:00",
+          "Sunday": "09:00-00:00"
+        },
+        "full_address": "Piazzale Medaglie dOro La Spezia tel: 018 71354852",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "950.00",
+        "regione": "liguria",
+        "provincia": "la-spezia",
+        "slug": "la-spezia-stazione",
+        "detail_url": "https://www.mcdonalds.it/ristorante/liguria/la-spezia/la-spezia-stazione",
+        "page_coordinates": [
+          9.813372,
+          44.11132
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**La Spezia Stazione**\n---\n**ID:** 950\n\n### Address\nPiazzale Medaglie dOro La Spezia tel: 018 71354852, La Spezia (la-spezia)\n\n### Contacts\n**Phone:** 018 71354852\n**Website:** [https://www.mcdonalds.it/ristorante/liguria/la-spezia/la-spezia-stazione](https://www.mcdonalds.it/ristorante/liguria/la-spezia/la-spezia-stazione)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 09:00-00:00 |\n| **Tuesday** | 09:00-00:00 |\n| **Wednesday** | 09:00-00:00 |\n| **Thursday** | 09:00-00:00 |\n| **Friday** | 09:00-00:00 |\n| **Saturday** | 09:00-00:00 |\n| **Sunday** | 09:00-00:00 |\n\n### Services\nTake Away • Ordina in App • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.847645,
+          44.112005
+        ]
+      },
+      "properties": {
+        "id": 952,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "La Spezia San Bartolomeo",
+        "addr:city": "La Spezia",
+        "addr:street": "Viale San Bartolomeo ang. Via della Pianta",
+        "branch": "La Spezia San Bartolomeo",
+        "contact:phone": "018 71476056",
+        "contact:website": "https://www.mcdonalds.it/ristorante/liguria/la-spezia/la-spezia-san-bartolomeo",
+        "opening_hours": {
+          "Monday": "11:00-00:00",
+          "Tuesday": "11:00-00:00",
+          "Wednesday": "11:00-00:00",
+          "Thursday": "11:00-00:00",
+          "Friday": "11:00-00:00",
+          "Saturday": "11:00-00:00",
+          "Sunday": "11:00-00:00"
+        },
+        "full_address": "Viale San Bartolomeo ang. Via della Pianta La Spezia tel: 018 71476056",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "952.00",
+        "regione": "liguria",
+        "provincia": "la-spezia",
+        "slug": "la-spezia-san-bartolomeo",
+        "detail_url": "https://www.mcdonalds.it/ristorante/liguria/la-spezia/la-spezia-san-bartolomeo",
+        "page_coordinates": [
+          9.847645,
+          44.112005
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**La Spezia San Bartolomeo**\n---\n**ID:** 952\n\n### Address\nViale San Bartolomeo ang. Via della Pianta La Spezia tel: 018 71476056, La Spezia (la-spezia)\n\n### Contacts\n**Phone:** 018 71476056\n**Website:** [https://www.mcdonalds.it/ristorante/liguria/la-spezia/la-spezia-san-bartolomeo](https://www.mcdonalds.it/ristorante/liguria/la-spezia/la-spezia-san-bartolomeo)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 11:00-00:00 |\n| **Tuesday** | 11:00-00:00 |\n| **Wednesday** | 11:00-00:00 |\n| **Thursday** | 11:00-00:00 |\n| **Friday** | 11:00-00:00 |\n| **Saturday** | 11:00-00:00 |\n| **Sunday** | 11:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    }
+  ]
+}

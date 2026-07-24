@@ -1,0 +1,1100 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.16463,
+          39.244929
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Quartucciu",
+        "addr:city": "Quartucciu",
+        "addr:street": "Via Delle Serre",
+        "branch": "Quartucciu",
+        "contact:phone": "070 880087",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/quartucciu",
+        "opening_hours": {
+          "Monday": "10:30-23:00",
+          "Tuesday": "10:30-23:00",
+          "Wednesday": "10:30-23:00",
+          "Thursday": "10:30-23:00",
+          "Friday": "10:30-23:00",
+          "Saturday": "10:30-23:00",
+          "Sunday": "10:30-23:00"
+        },
+        "full_address": "Via Delle Serre Cagliari tel: 070 880087",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "10.00",
+        "regione": "sardegna",
+        "provincia": "cagliari",
+        "slug": "quartucciu",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/quartucciu",
+        "page_coordinates": [
+          9.16463,
+          39.244929
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Quartucciu**\n---\n**ID:** 10\n\n### Address\nVia Delle Serre Cagliari tel: 070 880087, Quartucciu (cagliari)\n\n### Contacts\n**Phone:** 070 880087\n**Website:** [https://www.mcdonalds.it/ristorante/sardegna/cagliari/quartucciu](https://www.mcdonalds.it/ristorante/sardegna/cagliari/quartucciu)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-23:00 |\n| **Tuesday** | 10:30-23:00 |\n| **Wednesday** | 10:30-23:00 |\n| **Thursday** | 10:30-23:00 |\n| **Friday** | 10:30-23:00 |\n| **Saturday** | 10:30-23:00 |\n| **Sunday** | 10:30-23:00 |\n\n### Services\nMcCafé® • Take Away • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.588012,
+          39.91237
+        ]
+      },
+      "properties": {
+        "id": 29,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Oristano",
+        "addr:city": "Oristano",
+        "addr:street": "Via Cagliari 45",
+        "branch": "Oristano",
+        "contact:phone": "0783 217075",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/oristano/oristano",
+        "opening_hours": {
+          "Monday": "08:00-00:00",
+          "Tuesday": "08:00-00:00",
+          "Wednesday": "08:00-00:00",
+          "Thursday": "08:00-00:00",
+          "Friday": "08:00-00:00",
+          "Saturday": "08:00-00:00",
+          "Sunday": "08:00-00:00"
+        },
+        "full_address": "Via Cagliari 45 Oristano tel: 0783 217075",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "29.00",
+        "regione": "sardegna",
+        "provincia": "oristano",
+        "slug": "oristano",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/oristano/oristano",
+        "page_coordinates": [
+          8.588012,
+          39.91237
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Oristano**\n---\n**ID:** 29\n\n### Address\nVia Cagliari 45 Oristano tel: 0783 217075, Oristano (oristano)\n\n### Contacts\n**Phone:** 0783 217075\n**Website:** [https://www.mcdonalds.it/ristorante/sardegna/oristano/oristano](https://www.mcdonalds.it/ristorante/sardegna/oristano/oristano)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-00:00 |\n| **Tuesday** | 08:00-00:00 |\n| **Wednesday** | 08:00-00:00 |\n| **Thursday** | 08:00-00:00 |\n| **Friday** | 08:00-00:00 |\n| **Saturday** | 08:00-00:00 |\n| **Sunday** | 08:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.120201,
+          39.227839
+        ]
+      },
+      "properties": {
+        "id": 84,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Cagliari Bacaredda",
+        "addr:city": "Cagliari",
+        "addr:street": "Via Bacaredda 97",
+        "branch": "Cagliari Bacaredda",
+        "contact:phone": "070 4525660",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-bacaredda",
+        "opening_hours": {
+          "Monday": "11:00-00:00",
+          "Tuesday": "11:00-00:00",
+          "Wednesday": "11:00-00:00",
+          "Thursday": "11:00-00:00",
+          "Friday": "11:00-00:00",
+          "Saturday": "11:00-00:00",
+          "Sunday": "11:00-00:00"
+        },
+        "full_address": "Via Bacaredda 97 Cagliari tel: 070 4525660",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "84.00",
+        "regione": "sardegna",
+        "provincia": "cagliari",
+        "slug": "cagliari-bacaredda",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-bacaredda",
+        "page_coordinates": [
+          9.120201,
+          39.227839
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Cagliari Bacaredda**\n---\n**ID:** 84\n\n### Address\nVia Bacaredda 97 Cagliari tel: 070 4525660, Cagliari (cagliari)\n\n### Contacts\n**Phone:** 070 4525660\n**Website:** [https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-bacaredda](https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-bacaredda)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 11:00-00:00 |\n| **Tuesday** | 11:00-00:00 |\n| **Wednesday** | 11:00-00:00 |\n| **Thursday** | 11:00-00:00 |\n| **Friday** | 11:00-00:00 |\n| **Saturday** | 11:00-00:00 |\n| **Sunday** | 11:00-00:00 |\n\n### Services\nMcDrive® • Take Away • Servizio al tavolo • Ordina in App • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.092278,
+          39.231347
+        ]
+      },
+      "properties": {
+        "id": 388,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Cagliari S. Simone",
+        "addr:city": "Cagliari",
+        "addr:street": "Via Simone, 60",
+        "branch": "Cagliari S. Simone",
+        "contact:phone": "070 276162",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-s-simone",
+        "full_address": "Via Simone, 60 Cagliari tel: 070 276162",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "388.00",
+        "regione": "sardegna",
+        "provincia": "cagliari",
+        "slug": "cagliari-s-simone",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-s-simone",
+        "page_coordinates": [
+          9.092278,
+          39.231347
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Cagliari S. Simone**\n---\n**ID:** 388\n\n### Address\nVia Simone, 60 Cagliari tel: 070 276162, Cagliari (cagliari)\n\n### Contacts\n**Phone:** 070 276162\n**Website:** [https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-s-simone](https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-s-simone)\n\n### Services\nMcCafé® • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.522651,
+          40.909367
+        ]
+      },
+      "properties": {
+        "id": 390,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Olbia",
+        "addr:city": "Olbia",
+        "addr:street": "Via Cesare Pavese",
+        "branch": "Olbia",
+        "contact:phone": "0789 69104",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/olbia-tempio/olbia",
+        "opening_hours": {
+          "Monday": "08:00-21:00",
+          "Tuesday": "08:00-21:00",
+          "Wednesday": "08:00-21:00",
+          "Thursday": "08:00-21:00",
+          "Friday": "08:00-21:00",
+          "Saturday": "08:00-21:00",
+          "Sunday": "08:00-21:00"
+        },
+        "full_address": "Via Cesare Pavese Olbia-Tempio tel: 0789 69104",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "390.00",
+        "regione": "sardegna",
+        "provincia": "olbia-tempio",
+        "slug": "olbia",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/olbia-tempio/olbia",
+        "page_coordinates": [
+          9.522651,
+          40.909367
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Olbia**\n---\n**ID:** 390\n\n### Address\nVia Cesare Pavese Olbia-Tempio tel: 0789 69104, Olbia (olbia-tempio)\n\n### Contacts\n**Phone:** 0789 69104\n**Website:** [https://www.mcdonalds.it/ristorante/sardegna/olbia-tempio/olbia](https://www.mcdonalds.it/ristorante/sardegna/olbia-tempio/olbia)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-21:00 |\n| **Tuesday** | 08:00-21:00 |\n| **Wednesday** | 08:00-21:00 |\n| **Thursday** | 08:00-21:00 |\n| **Friday** | 08:00-21:00 |\n| **Saturday** | 08:00-21:00 |\n| **Sunday** | 08:00-21:00 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.535044,
+          40.737885
+        ]
+      },
+      "properties": {
+        "id": 405,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Sassari",
+        "addr:city": "Sassari",
+        "addr:street": "C.C. rinascente    Viale Porto Torres",
+        "branch": "Sassari",
+        "contact:phone": "079 2633040",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/sassari/sassari",
+        "full_address": "C.C. rinascente Viale Porto Torres Sassari tel: 079 2633040",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "405.00",
+        "regione": "sardegna",
+        "provincia": "sassari",
+        "slug": "sassari",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/sassari/sassari",
+        "page_coordinates": [
+          8.535044,
+          40.737885
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Sassari**\n---\n**ID:** 405\n\n### Address\nC.C. rinascente Viale Porto Torres Sassari tel: 079 2633040, Sassari (sassari)\n\n### Contacts\n**Phone:** 079 2633040\n**Website:** [https://www.mcdonalds.it/ristorante/sardegna/sassari/sassari](https://www.mcdonalds.it/ristorante/sardegna/sassari/sassari)\n\n### Services\nMcCafé® • Take Away • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.112611,
+          39.250556
+        ]
+      },
+      "properties": {
+        "id": 508,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Cagliari Peretti",
+        "addr:city": "Cagliari",
+        "addr:street": "via Peretti",
+        "branch": "Cagliari Peretti",
+        "contact:phone": "070 3293930",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-peretti",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "10:30-00:00",
+          "Thursday": "10:30-00:00",
+          "Friday": "10:30-00:00",
+          "Saturday": "10:30-00:00",
+          "Sunday": "10:30-00:00"
+        },
+        "full_address": "via Peretti Cagliari tel: 070 3293930",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "508.00",
+        "regione": "sardegna",
+        "provincia": "cagliari",
+        "slug": "cagliari-peretti",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-peretti",
+        "page_coordinates": [
+          9.112611,
+          39.250556
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Cagliari Peretti**\n---\n**ID:** 508\n\n### Address\nvia Peretti Cagliari tel: 070 3293930, Cagliari (cagliari)\n\n### Contacts\n**Phone:** 070 3293930\n**Website:** [https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-peretti](https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-peretti)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-00:00 |\n| **Tuesday** | 10:30-00:00 |\n| **Wednesday** | 10:30-00:00 |\n| **Thursday** | 10:30-00:00 |\n| **Friday** | 10:30-00:00 |\n| **Saturday** | 10:30-00:00 |\n| **Sunday** | 10:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.067591,
+          39.291172
+        ]
+      },
+      "properties": {
+        "id": 509,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Sestu",
+        "addr:city": "Sestu",
+        "addr:street": "Ex SS 131",
+        "branch": "Sestu",
+        "contact:phone": "070 3293913",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/sestu",
+        "opening_hours": {
+          "Monday": "06:30-00:00",
+          "Tuesday": "06:30-00:00",
+          "Wednesday": "06:30-00:00",
+          "Thursday": "06:30-00:00",
+          "Friday": "06:30-00:00",
+          "Saturday": "06:30-00:00",
+          "Sunday": "06:30-00:00"
+        },
+        "full_address": "Ex SS 131 Cagliari tel: 070 3293913",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "509.00",
+        "regione": "sardegna",
+        "provincia": "cagliari",
+        "slug": "sestu",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/sestu",
+        "page_coordinates": [
+          9.067591,
+          39.291172
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Sestu**\n---\n**ID:** 509\n\n### Address\nEx SS 131 Cagliari tel: 070 3293913, Sestu (cagliari)\n\n### Contacts\n**Phone:** 070 3293913\n**Website:** [https://www.mcdonalds.it/ristorante/sardegna/cagliari/sestu](https://www.mcdonalds.it/ristorante/sardegna/cagliari/sestu)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 06:30-00:00 |\n| **Tuesday** | 06:30-00:00 |\n| **Wednesday** | 06:30-00:00 |\n| **Thursday** | 06:30-00:00 |\n| **Friday** | 06:30-00:00 |\n| **Saturday** | 06:30-00:00 |\n| **Sunday** | 06:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.216539,
+          39.229188
+        ]
+      },
+      "properties": {
+        "id": 531,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Quartu SantElena Poetto",
+        "addr:city": "Quartu Santelena",
+        "addr:street": "Viale Lungomare del Golfo",
+        "branch": "Quartu SantElena Poetto",
+        "contact:phone": "070 3293996",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/quartu-santelena-poetto",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "10:30-00:00",
+          "Thursday": "10:30-00:00",
+          "Friday": "10:30-00:00",
+          "Saturday": "10:30-00:00",
+          "Sunday": "10:30-00:00"
+        },
+        "full_address": "Viale Lungomare del Golfo Cagliari tel: 070 3293996",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "531.00",
+        "regione": "sardegna",
+        "provincia": "cagliari",
+        "slug": "quartu-santelena-poetto",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/quartu-santelena-poetto",
+        "page_coordinates": [
+          9.216539,
+          39.229188
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Quartu SantElena Poetto**\n---\n**ID:** 531\n\n### Address\nViale Lungomare del Golfo Cagliari tel: 070 3293996, Quartu Santelena (cagliari)\n\n### Contacts\n**Phone:** 070 3293996\n**Website:** [https://www.mcdonalds.it/ristorante/sardegna/cagliari/quartu-santelena-poetto](https://www.mcdonalds.it/ristorante/sardegna/cagliari/quartu-santelena-poetto)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-00:00 |\n| **Tuesday** | 10:30-00:00 |\n| **Wednesday** | 10:30-00:00 |\n| **Thursday** | 10:30-00:00 |\n| **Friday** | 10:30-00:00 |\n| **Saturday** | 10:30-00:00 |\n| **Sunday** | 10:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.305981,
+          40.322281
+        ]
+      },
+      "properties": {
+        "id": 541,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Nuoro",
+        "addr:city": "Nuoro",
+        "addr:street": "Via Don Giovanni Bosco, Nuoro",
+        "branch": "Nuoro",
+        "contact:phone": "078 4093314",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/nuoro/nuoro",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-00:00",
+          "Saturday": "07:00-00:00",
+          "Sunday": "07:00-00:00"
+        },
+        "full_address": "Via Don Giovanni Bosco, Nuoro Nuoro tel: 078 4093314",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "541.00",
+        "regione": "sardegna",
+        "provincia": "nuoro",
+        "slug": "nuoro",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/nuoro/nuoro",
+        "page_coordinates": [
+          9.305981,
+          40.322281
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Nuoro**\n---\n**ID:** 541\n\n### Address\nVia Don Giovanni Bosco, Nuoro Nuoro tel: 078 4093314, Nuoro (nuoro)\n\n### Contacts\n**Phone:** 078 4093314\n**Website:** [https://www.mcdonalds.it/ristorante/sardegna/nuoro/nuoro](https://www.mcdonalds.it/ristorante/sardegna/nuoro/nuoro)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-00:00 |\n| **Tuesday** | 07:00-00:00 |\n| **Wednesday** | 07:00-00:00 |\n| **Thursday** | 07:00-00:00 |\n| **Friday** | 07:00-00:00 |\n| **Saturday** | 07:00-00:00 |\n| **Sunday** | 07:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.51147,
+          39.169015
+        ]
+      },
+      "properties": {
+        "id": 575,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Carbonia Drive",
+        "addr:city": "Carbonia",
+        "addr:street": "via della Stazione",
+        "branch": "Carbonia Drive",
+        "contact:phone": "0781 052369",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/sud-sardegna/carbonia-drive",
+        "opening_hours": {
+          "Monday": "08:00-23:00",
+          "Tuesday": "08:00-23:00",
+          "Wednesday": "08:00-19:30",
+          "Thursday": "17:00-23:00",
+          "Friday": "08:00-00:00",
+          "Saturday": "08:00-00:00",
+          "Sunday": "17:00-00:00"
+        },
+        "full_address": "via della Stazione Sud Sardegna tel: 0781 052369",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "575.00",
+        "regione": "sardegna",
+        "provincia": "sud-sardegna",
+        "slug": "carbonia-drive",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/sud-sardegna/carbonia-drive",
+        "page_coordinates": [
+          8.51147,
+          39.169015
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Carbonia Drive**\n---\n**ID:** 575\n\n### Address\nvia della Stazione Sud Sardegna tel: 0781 052369, Carbonia (sud-sardegna)\n\n### Contacts\n**Phone:** 0781 052369\n**Website:** [https://www.mcdonalds.it/ristorante/sardegna/sud-sardegna/carbonia-drive](https://www.mcdonalds.it/ristorante/sardegna/sud-sardegna/carbonia-drive)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-23:00 |\n| **Tuesday** | 08:00-23:00 |\n| **Wednesday** | 08:00-19:30 |\n| **Thursday** | 17:00-23:00 |\n| **Friday** | 08:00-00:00 |\n| **Saturday** | 08:00-00:00 |\n| **Sunday** | 17:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.510237,
+          40.930795
+        ]
+      },
+      "properties": {
+        "id": 599,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Olbia Indonesia",
+        "addr:city": "Olbia",
+        "addr:street": "via Indonesia snc",
+        "branch": "Olbia Indonesia",
+        "contact:phone": "0789 072922",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/olbia-tempio/olbia-indonesia",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-00:00",
+          "Saturday": "07:00-00:00",
+          "Sunday": "07:00-00:00"
+        },
+        "full_address": "via Indonesia snc Olbia-Tempio tel: 0789 072922",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "599.00",
+        "regione": "sardegna",
+        "provincia": "olbia-tempio",
+        "slug": "olbia-indonesia",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/olbia-tempio/olbia-indonesia",
+        "page_coordinates": [
+          9.510237,
+          40.930795
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Olbia Indonesia**\n---\n**ID:** 599\n\n### Address\nvia Indonesia snc Olbia-Tempio tel: 0789 072922, Olbia (olbia-tempio)\n\n### Contacts\n**Phone:** 0789 072922\n**Website:** [https://www.mcdonalds.it/ristorante/sardegna/olbia-tempio/olbia-indonesia](https://www.mcdonalds.it/ristorante/sardegna/olbia-tempio/olbia-indonesia)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-00:00 |\n| **Tuesday** | 07:00-00:00 |\n| **Wednesday** | 07:00-00:00 |\n| **Thursday** | 07:00-00:00 |\n| **Friday** | 07:00-00:00 |\n| **Saturday** | 07:00-00:00 |\n| **Sunday** | 07:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.061043,
+          39.253487
+        ]
+      },
+      "properties": {
+        "id": 643,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Cagliari Aeroporto",
+        "addr:city": "Elmas",
+        "addr:street": "Via dei Trasvolatori",
+        "branch": "Cagliari Aeroporto",
+        "contact:phone": "0703322888",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-aeroporto",
+        "opening_hours": {
+          "Monday": "09:00-22:00",
+          "Tuesday": "09:00-22:00",
+          "Wednesday": "09:00-22:00",
+          "Thursday": "09:00-22:00",
+          "Friday": "09:00-22:00",
+          "Saturday": "09:00-22:00",
+          "Sunday": "09:00-22:00"
+        },
+        "full_address": "Via dei Trasvolatori Cagliari tel: 0703322888",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "643.00",
+        "regione": "sardegna",
+        "provincia": "cagliari",
+        "slug": "cagliari-aeroporto",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-aeroporto",
+        "page_coordinates": [
+          9.061043,
+          39.253487
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Cagliari Aeroporto**\n---\n**ID:** 643\n\n### Address\nVia dei Trasvolatori Cagliari tel: 0703322888, Elmas (cagliari)\n\n### Contacts\n**Phone:** 0703322888\n**Website:** [https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-aeroporto](https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-aeroporto)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 09:00-22:00 |\n| **Tuesday** | 09:00-22:00 |\n| **Wednesday** | 09:00-22:00 |\n| **Thursday** | 09:00-22:00 |\n| **Friday** | 09:00-22:00 |\n| **Saturday** | 09:00-22:00 |\n| **Sunday** | 09:00-22:00 |\n\n### Services\nTake Away • Ordina in App • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.113488,
+          39.216675
+        ]
+      },
+      "properties": {
+        "id": 645,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Cagliari Via Giovanni Maria Dettori",
+        "addr:city": "Cagliari",
+        "addr:street": "cagliari via giovanni maria dettori",
+        "branch": "Cagliari Via Giovanni Maria Dettori",
+        "contact:phone": "070 3294424",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-via-giovanni-maria-dettori",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-00:00",
+          "Saturday": "07:00-03:00",
+          "Sunday": "07:00-00:00"
+        },
+        "full_address": "cagliari via giovanni maria dettori Cagliari tel: 070 3294424",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "645.00",
+        "regione": "sardegna",
+        "provincia": "cagliari",
+        "slug": "cagliari-via-giovanni-maria-dettori",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-via-giovanni-maria-dettori",
+        "page_coordinates": [
+          9.113488,
+          39.216675
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Cagliari Via Giovanni Maria Dettori**\n---\n**ID:** 645\n\n### Address\ncagliari via giovanni maria dettori Cagliari tel: 070 3294424, Cagliari (cagliari)\n\n### Contacts\n**Phone:** 070 3294424\n**Website:** [https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-via-giovanni-maria-dettori](https://www.mcdonalds.it/ristorante/sardegna/cagliari/cagliari-via-giovanni-maria-dettori)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-00:00 |\n| **Tuesday** | 07:00-00:00 |\n| **Wednesday** | 07:00-00:00 |\n| **Thursday** | 07:00-00:00 |\n| **Friday** | 07:00-00:00 |\n| **Saturday** | 07:00-03:00 |\n| **Sunday** | 07:00-00:00 |\n\n### Services\nMcCafé® • Take Away • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.549735,
+          40.72822
+        ]
+      },
+      "properties": {
+        "id": 669,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Sassari via Predda Niedda",
+        "addr:city": "Sassari",
+        "addr:street": "Via Predda Niedda",
+        "branch": "Sassari via Predda Niedda",
+        "contact:phone": "0794112008",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/sassari/sassari-via-predda-niedda",
+        "opening_hours": {
+          "Monday": "07:30-00:00",
+          "Tuesday": "07:30-00:00",
+          "Wednesday": "07:30-00:00",
+          "Thursday": "16:00-00:00",
+          "Friday": "07:30-00:00",
+          "Saturday": "07:30-00:00",
+          "Sunday": "07:30-00:00"
+        },
+        "full_address": "Via Predda Niedda Sassari tel: 0794112008",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "669.00",
+        "regione": "sardegna",
+        "provincia": "sassari",
+        "slug": "sassari-via-predda-niedda",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/sassari/sassari-via-predda-niedda",
+        "page_coordinates": [
+          8.549735,
+          40.72822
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Sassari via Predda Niedda**\n---\n**ID:** 669\n\n### Address\nVia Predda Niedda Sassari tel: 0794112008, Sassari (sassari)\n\n### Contacts\n**Phone:** 0794112008\n**Website:** [https://www.mcdonalds.it/ristorante/sardegna/sassari/sassari-via-predda-niedda](https://www.mcdonalds.it/ristorante/sardegna/sassari/sassari-via-predda-niedda)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:30-00:00 |\n| **Tuesday** | 07:30-00:00 |\n| **Wednesday** | 07:30-00:00 |\n| **Thursday** | 16:00-00:00 |\n| **Friday** | 07:30-00:00 |\n| **Saturday** | 07:30-00:00 |\n| **Sunday** | 07:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.495622,
+          40.955122
+        ]
+      },
+      "properties": {
+        "id": 707,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Olbia Aldo Moro",
+        "addr:city": "Olbia",
+        "addr:street": "via Nicosia 18",
+        "branch": "Olbia Aldo Moro",
+        "contact:phone": "3455299677",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/olbia-tempio/olbia-aldo-moro",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-00:00",
+          "Saturday": "07:00-00:00",
+          "Sunday": "07:00-00:00"
+        },
+        "full_address": "via Nicosia 18 Olbia-Tempio tel: 3455299677",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "707.00",
+        "regione": "sardegna",
+        "provincia": "olbia-tempio",
+        "slug": "olbia-aldo-moro",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/olbia-tempio/olbia-aldo-moro",
+        "page_coordinates": [
+          9.495622,
+          40.955122
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Olbia Aldo Moro**\n---\n**ID:** 707\n\n### Address\nvia Nicosia 18 Olbia-Tempio tel: 3455299677, Olbia (olbia-tempio)\n\n### Contacts\n**Phone:** 3455299677\n**Website:** [https://www.mcdonalds.it/ristorante/sardegna/olbia-tempio/olbia-aldo-moro](https://www.mcdonalds.it/ristorante/sardegna/olbia-tempio/olbia-aldo-moro)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-00:00 |\n| **Tuesday** | 07:00-00:00 |\n| **Wednesday** | 07:00-00:00 |\n| **Thursday** | 07:00-00:00 |\n| **Friday** | 07:00-00:00 |\n| **Saturday** | 07:00-00:00 |\n| **Sunday** | 07:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.398892,
+          40.829288
+        ]
+      },
+      "properties": {
+        "id": 763,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Porto Torres",
+        "addr:city": "Porto Torres",
+        "addr:street": "Via dellIndustria",
+        "branch": "Porto Torres",
+        "contact:phone": "0794142107",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/sassari/porto-torres",
+        "opening_hours": {
+          "Monday": "08:00-23:00",
+          "Tuesday": "08:00-23:00",
+          "Wednesday": "08:00-23:00",
+          "Thursday": "08:00-23:00",
+          "Friday": "08:00-23:00",
+          "Saturday": "08:00-00:00",
+          "Sunday": "08:00-00:00"
+        },
+        "full_address": "Via dellIndustria Sassari tel: 0794142107",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "763.00",
+        "regione": "sardegna",
+        "provincia": "sassari",
+        "slug": "porto-torres",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/sassari/porto-torres",
+        "page_coordinates": [
+          8.398892,
+          40.829288
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Porto Torres**\n---\n**ID:** 763\n\n### Address\nVia dellIndustria Sassari tel: 0794142107, Porto Torres (sassari)\n\n### Contacts\n**Phone:** 0794142107\n**Website:** [https://www.mcdonalds.it/ristorante/sardegna/sassari/porto-torres](https://www.mcdonalds.it/ristorante/sardegna/sassari/porto-torres)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-23:00 |\n| **Tuesday** | 08:00-23:00 |\n| **Wednesday** | 08:00-23:00 |\n| **Thursday** | 08:00-23:00 |\n| **Friday** | 08:00-23:00 |\n| **Saturday** | 08:00-00:00 |\n| **Sunday** | 08:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.180994,
+          39.275975
+        ]
+      },
+      "properties": {
+        "id": 964,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Settimo San Pietro",
+        "addr:city": "Settimo San Pietro",
+        "addr:street": "Strada Provinciale 15",
+        "branch": "Settimo San Pietro",
+        "contact:phone": "0700950792",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/settimo-san-pietro",
+        "opening_hours": {
+          "Monday": "10:30-23:00",
+          "Tuesday": "10:30-23:00",
+          "Wednesday": "10:30-23:00",
+          "Thursday": "10:30-23:00",
+          "Friday": "10:30-23:00",
+          "Saturday": "10:30-23:00",
+          "Sunday": "10:30-23:00"
+        },
+        "full_address": "Strada Provinciale 15 Cagliari tel: 0700950792",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "964.00",
+        "regione": "sardegna",
+        "provincia": "cagliari",
+        "slug": "settimo-san-pietro",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/cagliari/settimo-san-pietro",
+        "page_coordinates": [
+          9.180994,
+          39.275975
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Settimo San Pietro**\n---\n**ID:** 964\n\n### Address\nStrada Provinciale 15 Cagliari tel: 0700950792, Settimo San Pietro (cagliari)\n\n### Contacts\n**Phone:** 0700950792\n**Website:** [https://www.mcdonalds.it/ristorante/sardegna/cagliari/settimo-san-pietro](https://www.mcdonalds.it/ristorante/sardegna/cagliari/settimo-san-pietro)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-23:00 |\n| **Tuesday** | 10:30-23:00 |\n| **Wednesday** | 10:30-23:00 |\n| **Thursday** | 10:30-23:00 |\n| **Friday** | 10:30-23:00 |\n| **Saturday** | 10:30-23:00 |\n| **Sunday** | 10:30-23:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.598487,
+          39.890291
+        ]
+      },
+      "properties": {
+        "id": 1022,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Oristano Via Dublino",
+        "addr:city": "Oristano",
+        "addr:street": "Via Dublino",
+        "branch": "Oristano Via Dublino",
+        "contact:phone": "0783020457",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sardegna/oristano/oristano-via-dublino",
+        "opening_hours": {
+          "Monday": "07:30-00:00",
+          "Tuesday": "07:30-00:00",
+          "Wednesday": "07:30-00:00",
+          "Thursday": "07:30-00:00",
+          "Friday": "07:30-00:00",
+          "Saturday": "07:30-00:00",
+          "Sunday": "07:30-00:00"
+        },
+        "full_address": "Via Dublino Oristano tel: 0783020457",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1022.00",
+        "regione": "sardegna",
+        "provincia": "oristano",
+        "slug": "oristano-via-dublino",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sardegna/oristano/oristano-via-dublino",
+        "page_coordinates": [
+          8.598487,
+          39.890291
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Oristano Via Dublino**\n---\n**ID:** 1022\n\n### Address\nVia Dublino Oristano tel: 0783020457, Oristano (oristano)\n\n### Contacts\n**Phone:** 0783020457\n**Website:** [https://www.mcdonalds.it/ristorante/sardegna/oristano/oristano-via-dublino](https://www.mcdonalds.it/ristorante/sardegna/oristano/oristano-via-dublino)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:30-00:00 |\n| **Tuesday** | 07:30-00:00 |\n| **Wednesday** | 07:30-00:00 |\n| **Thursday** | 07:30-00:00 |\n| **Friday** | 07:30-00:00 |\n| **Saturday** | 07:30-00:00 |\n| **Sunday** | 07:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    }
+  ]
+}

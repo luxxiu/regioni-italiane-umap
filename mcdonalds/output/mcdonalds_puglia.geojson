@@ -1,0 +1,1889 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.829598,
+          41.09919
+        ]
+      },
+      "properties": {
+        "id": 51,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Bari Santa Caterina",
+        "addr:city": "Bari",
+        "addr:street": "via Caterina, 17",
+        "branch": "Bari Santa Caterina",
+        "contact:phone": "080 5052181",
+        "contact:website": "https://www.mcdonalds.it/ristorante/puglia/bari/bari-santa-caterina",
+        "opening_hours": {
+          "Monday": "08:00-01:00",
+          "Tuesday": "08:00-01:00",
+          "Wednesday": "08:00-01:00",
+          "Thursday": "08:00-01:00",
+          "Friday": "08:00-01:00",
+          "Saturday": "08:00-01:00",
+          "Sunday": "08:00-01:00"
+        },
+        "full_address": "via Caterina, 17 Bari tel: 080 5052181",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "51.00",
+        "regione": "puglia",
+        "provincia": "bari",
+        "slug": "bari-santa-caterina",
+        "detail_url": "https://www.mcdonalds.it/ristorante/puglia/bari/bari-santa-caterina",
+        "page_coordinates": [
+          16.829598,
+          41.09919
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Bari Santa Caterina**\n---\n**ID:** 51\n\n### Address\nvia Caterina, 17 Bari tel: 080 5052181, Bari (bari)\n\n### Contacts\n**Phone:** 080 5052181\n**Website:** [https://www.mcdonalds.it/ristorante/puglia/bari/bari-santa-caterina](https://www.mcdonalds.it/ristorante/puglia/bari/bari-santa-caterina)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-01:00 |\n| **Tuesday** | 08:00-01:00 |\n| **Wednesday** | 08:00-01:00 |\n| **Thursday** | 08:00-01:00 |\n| **Friday** | 08:00-01:00 |\n| **Saturday** | 08:00-01:00 |\n| **Sunday** | 08:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.925748,
+          40.965738
+        ]
+      },
+      "properties": {
+        "id": 88,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Bari Casamassima",
+        "addr:city": "Casamassima",
+        "addr:street": "Via Noicattaro, 2",
+        "branch": "Bari Casamassima",
+        "contact:phone": "080 4578229",
+        "contact:website": "https://www.mcdonalds.it/ristorante/puglia/bari/bari-casamassima",
+        "opening_hours": {
+          "Monday": "08:00-01:00",
+          "Tuesday": "08:00-01:00",
+          "Wednesday": "08:00-01:00",
+          "Thursday": "08:00-01:00",
+          "Friday": "08:00-01:00",
+          "Saturday": "08:00-02:00",
+          "Sunday": "08:00-01:00"
+        },
+        "full_address": "Via Noicattaro, 2 Bari tel: 080 4578229",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "88.00",
+        "regione": "puglia",
+        "provincia": "bari",
+        "slug": "bari-casamassima",
+        "detail_url": "https://www.mcdonalds.it/ristorante/puglia/bari/bari-casamassima",
+        "page_coordinates": [
+          16.925748,
+          40.965738
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Bari Casamassima**\n---\n**ID:** 88\n\n### Address\nVia Noicattaro, 2 Bari tel: 080 4578229, Casamassima (bari)\n\n### Contacts\n**Phone:** 080 4578229\n**Website:** [https://www.mcdonalds.it/ristorante/puglia/bari/bari-casamassima](https://www.mcdonalds.it/ristorante/puglia/bari/bari-casamassima)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-01:00 |\n| **Tuesday** | 08:00-01:00 |\n| **Wednesday** | 08:00-01:00 |\n| **Thursday** | 08:00-01:00 |\n| **Friday** | 08:00-01:00 |\n| **Saturday** | 08:00-02:00 |\n| **Sunday** | 08:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.490189,
+          41.244519
+        ]
+      },
+      "properties": {
+        "id": 98,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Bisceglie",
+        "addr:city": "Bisceglie",
+        "addr:street": "Via Bovio 312",
+        "branch": "Bisceglie",
+        "contact:phone": "0802257701",
+        "contact:website": "https://www.mcdonalds.it/ristorante/puglia/barletta-andria-trani/bisceglie",
+        "opening_hours": {
+          "Monday": "12:00-02:00",
+          "Tuesday": "12:00-02:00",
+          "Wednesday": "12:00-02:00",
+          "Thursday": "12:00-02:00",
+          "Friday": "12:00-04:00",
+          "Saturday": "12:00-06:00",
+          "Sunday": "12:00-02:00"
+        },
+        "full_address": "Via Bovio 312 Barletta-Andria-Trani tel: 0802257701",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "98.00",
+        "regione": "puglia",
+        "provincia": "barletta-andria-trani",
+        "slug": "bisceglie",
+        "detail_url": "https://www.mcdonalds.it/ristorante/puglia/barletta-andria-trani/bisceglie",
+        "page_coordinates": [
+          16.490189,
+          41.244519
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Bisceglie**\n---\n**ID:** 98\n\n### Address\nVia Bovio 312 Barletta-Andria-Trani tel: 0802257701, Bisceglie (barletta-andria-trani)\n\n### Contacts\n**Phone:** 0802257701\n**Website:** [https://www.mcdonalds.it/ristorante/puglia/barletta-andria-trani/bisceglie](https://www.mcdonalds.it/ristorante/puglia/barletta-andria-trani/bisceglie)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 12:00-02:00 |\n| **Tuesday** | 12:00-02:00 |\n| **Wednesday** | 12:00-02:00 |\n| **Thursday** | 12:00-02:00 |\n| **Friday** | 12:00-04:00 |\n| **Saturday** | 12:00-06:00 |\n| **Sunday** | 12:00-02:00 |\n\n### Services\nTake Away • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.838436,
+          40.580094
+        ]
+      },
+      "properties": {
+        "id": 137,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Mesagne",
+        "addr:city": "Mesagne",
+        "addr:street": "Centro commerciale Appia Antica",
+        "branch": "Mesagne",
+        "contact:phone": "0831 779224",
+        "contact:website": "https://www.mcdonalds.it/ristorante/puglia/brindisi/mesagne",
+        "opening_hours": {
+          "Monday": "09:00-21:00",
+          "Tuesday": "09:00-21:00",
+          "Wednesday": "09:00-21:00",
+          "Thursday": "09:00-21:00",
+          "Friday": "09:00-21:00",
+          "Saturday": "09:00-21:00",
+          "Sunday": "09:00-21:00"
+        },
+        "full_address": "Centro commerciale Appia Antica Brindisi tel: 0831 779224",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "137.00",
+        "regione": "puglia",
+        "provincia": "brindisi",
+        "slug": "mesagne",
+        "detail_url": "https://www.mcdonalds.it/ristorante/puglia/brindisi/mesagne",
+        "page_coordinates": [
+          17.838436,
+          40.580094
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Mesagne**\n---\n**ID:** 137\n\n### Address\nCentro commerciale Appia Antica Brindisi tel: 0831 779224, Mesagne (brindisi)\n\n### Contacts\n**Phone:** 0831 779224\n**Website:** [https://www.mcdonalds.it/ristorante/puglia/brindisi/mesagne](https://www.mcdonalds.it/ristorante/puglia/brindisi/mesagne)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 09:00-21:00 |\n| **Tuesday** | 09:00-21:00 |\n| **Wednesday** | 09:00-21:00 |\n| **Thursday** | 09:00-21:00 |\n| **Friday** | 09:00-21:00 |\n| **Saturday** | 09:00-21:00 |\n| **Sunday** | 09:00-21:00 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.895948,
+          41.088928
+        ]
+      },
+      "properties": {
+        "id": 187,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Bari Mungivacca",
+        "addr:city": "Bari",
+        "addr:street": "via Caduti del Lavoro 2 Loc. Mungivacca",
+        "branch": "Bari Mungivacca",
+        "contact:phone": "080 5484840",
+        "contact:website": "https://www.mcdonalds.it/ristorante/puglia/bari/bari-mungivacca",
+        "opening_hours": {
+          "Monday": "08:00-01:00",
+          "Tuesday": "08:00-01:00",
+          "Wednesday": "08:00-01:00",
+          "Thursday": "08:00-01:00",
+          "Friday": "08:00-01:00",
+          "Saturday": "08:00-01:00",
+          "Sunday": "08:00-01:00"
+        },
+        "full_address": "via Caduti del Lavoro 2 Loc. Mungivacca Bari tel: 080 5484840",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "187.00",
+        "regione": "puglia",
+        "provincia": "bari",
+        "slug": "bari-mungivacca",
+        "detail_url": "https://www.mcdonalds.it/ristorante/puglia/bari/bari-mungivacca",
+        "page_coordinates": [
+          16.895948,
+          41.088928
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Bari Mungivacca**\n---\n**ID:** 187\n\n### Address\nvia Caduti del Lavoro 2 Loc. Mungivacca Bari tel: 080 5484840, Bari (bari)\n\n### Contacts\n**Phone:** 080 5484840\n**Website:** [https://www.mcdonalds.it/ristorante/puglia/bari/bari-mungivacca](https://www.mcdonalds.it/ristorante/puglia/bari/bari-mungivacca)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-01:00 |\n| **Tuesday** | 08:00-01:00 |\n| **Wednesday** | 08:00-01:00 |\n| **Thursday** | 08:00-01:00 |\n| **Friday** | 08:00-01:00 |\n| **Saturday** | 08:00-01:00 |\n| **Sunday** | 08:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5564,
+          41.205314
+        ]
+      },
+      "properties": {
+        "id": 213,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Molfetta",
+        "addr:city": "Molfetta",
+        "addr:street": "Via Adriano Olivetti",
+        "branch": "Molfetta",
+        "contact:phone": "080 2257517",
+        "contact:website": "https://www.mcdonalds.it/ristorante/puglia/bari/molfetta",
+        "opening_hours": {
+          "Monday": "07:30-00:00",
+          "Tuesday": "07:30-00:00",
+          "Wednesday": "07:30-00:00",
+          "Thursday": "07:30-00:00",
+          "Friday": "07:30-00:00",
+          "Saturday": "07:30-00:00",
+          "Sunday": "07:30-00:00"
+        },
+        "full_address": "Via Adriano Olivetti Bari tel: 080 2257517",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "213.00",
+        "regione": "puglia",
+        "provincia": "bari",
+        "slug": "molfetta",
+        "detail_url": "https://www.mcdonalds.it/ristorante/puglia/bari/molfetta",
+        "page_coordinates": [
+          16.5564,
+          41.205314
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Molfetta**\n---\n**ID:** 213\n\n### Address\nVia Adriano Olivetti Bari tel: 080 2257517, Molfetta (bari)\n\n### Contacts\n**Phone:** 080 2257517\n**Website:** [https://www.mcdonalds.it/ristorante/puglia/bari/molfetta](https://www.mcdonalds.it/ristorante/puglia/bari/molfetta)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:30-00:00 |\n| **Tuesday** | 07:30-00:00 |\n| **Wednesday** | 07:30-00:00 |\n| **Thursday** | 07:30-00:00 |\n| **Friday** | 07:30-00:00 |\n| **Saturday** | 07:30-00:00 |\n| **Sunday** | 07:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.147265,
+          40.375585
+        ]
+      },
+      "properties": {
+        "id": 291,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Lecce Surbo",
+        "addr:city": "Surbo",
+        "addr:street": "via Rosanna Benzi",
+        "branch": "Lecce Surbo",
+        "contact:phone": "0832 302870",
+        "contact:website": "https://www.mcdonalds.it/ristorante/puglia/lecce/lecce-surbo",
+        "opening_hours": {
+          "Monday": "07:30-00:00",
+          "Tuesday": "07:30-00:00",
+          "Wednesday": "07:30-00:00",
+          "Thursday": "07:30-00:00",
+          "Friday": "07:30-01:30",
+          "Saturday": "07:30-02:00",
+          "Sunday": "07:30-00:00"
+        },
+        "full_address": "via Rosanna Benzi Lecce tel: 0832 302870",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "291.00",
+        "regione": "puglia",
+        "provincia": "lecce",
+        "slug": "lecce-surbo",
+        "detail_url": "https://www.mcdonalds.it/ristorante/puglia/lecce/lecce-surbo",
+        "page_coordinates": [
+          18.147265,
+          40.375585
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Lecce Surbo**\n---\n**ID:** 291\n\n### Address\nvia Rosanna Benzi Lecce tel: 0832 302870, Surbo (lecce)\n\n### Contacts\n**Phone:** 0832 302870\n**Website:** [https://www.mcdonalds.it/ristorante/puglia/lecce/lecce-surbo](https://www.mcdonalds.it/ristorante/puglia/lecce/lecce-surbo)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:30-00:00 |\n| **Tuesday** | 07:30-00:00 |\n| **Wednesday** | 07:30-00:00 |\n| **Thursday** | 07:30-00:00 |\n| **Friday** | 07:30-01:30 |\n| **Saturday** | 07:30-02:00 |\n| **Sunday** | 07:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.822174,
+          41.124575
+        ]
+      },
+      "properties": {
+        "id": 311,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Bari Tangenziale",
+        "addr:city": "Bari",
+        "addr:street": "viale Europa, 3",
+        "branch": "Bari Tangenziale",
+        "contact:phone": "080 5343026",
+        "contact:website": "https://www.mcdonalds.it/ristorante/puglia/bari/bari-tangenziale",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-01:00",
+          "Thursday": "07:00-01:00",
+          "Friday": "07:00-01:00",
+          "Saturday": "07:00-01:00",
+          "Sunday": "07:00-01:00"
+        },
+        "full_address": "viale Europa, 3 Bari tel: 080 5343026",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "311.00",
+        "regione": "puglia",
+        "provincia": "bari",
+        "slug": "bari-tangenziale",
+        "detail_url": "https://www.mcdonalds.it/ristorante/puglia/bari/bari-tangenziale",
+        "page_coordinates": [
+          16.822174,
+          41.124575
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Bari Tangenziale**\n---\n**ID:** 311\n\n### Address\nviale Europa, 3 Bari tel: 080 5343026, Bari (bari)\n\n### Contacts\n**Phone:** 080 5343026\n**Website:** [https://www.mcdonalds.it/ristorante/puglia/bari/bari-tangenziale](https://www.mcdonalds.it/ristorante/puglia/bari/bari-tangenziale)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-01:00 |\n| **Tuesday** | 07:00-01:00 |\n| **Wednesday** | 07:00-01:00 |\n| **Thursday** | 07:00-01:00 |\n| **Friday** | 07:00-01:00 |\n| **Saturday** | 07:00-01:00 |\n| **Sunday** | 07:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.543935,
+          41.44468
+        ]
+      },
+      "properties": {
+        "id": 457,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Foggia Mall",
+        "addr:city": "Foggia",
+        "addr:street": "Viale  Degli Aviatori",
+        "branch": "Foggia Mall",
+        "contact:phone": "0881 272013",
+        "contact:website": "https://www.mcdonalds.it/ristorante/puglia/foggia/foggia-mall",
+        "opening_hours": {
+          "Monday": "10:00-23:00",
+          "Tuesday": "10:00-23:00",
+          "Wednesday": "10:00-23:00",
+          "Thursday": "10:00-23:00",
+          "Friday": "10:00-23:00",
+          "Saturday": "10:00-23:30",
+          "Sunday": "10:00-23:30"
+        },
+        "full_address": "Centro Commerciale GrandaPulia Foggia tel: 0881 272013",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "565.00",
+        "regione": "puglia",
+        "provincia": "foggia",
+        "slug": "foggia-mall",
+        "detail_url": "https://www.mcdonalds.it/ristorante/puglia/foggia/foggia-mall",
+        "page_coordinates": [
+          15.652884,
+          41.41549
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Foggia Mall**\n---\n**ID:** 457\n\n### Address\nCentro Commerciale GrandaPulia Foggia tel: 0881 272013, Foggia (foggia)\n\n### Contacts\n**Phone:** 0881 272013\n**Website:** [https://www.mcdonalds.it/ristorante/puglia/foggia/foggia-mall](https://www.mcdonalds.it/ristorante/puglia/foggia/foggia-mall)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:00-23:00 |\n| **Tuesday** | 10:00-23:00 |\n| **Wednesday** | 10:00-23:00 |\n| **Thursday** | 10:00-23:00 |\n| **Friday** | 10:00-23:00 |\n| **Saturday** | 10:00-23:30 |\n| **Sunday** | 10:00-23:30 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.87002,
+          41.11914
+        ]
+      },
+      "properties": {
+        "id": 462,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Bari Sparano",
+        "addr:city": "Bari",
+        "addr:street": "Via Sparano 155",
+        "branch": "Bari Sparano",
+        "contact:phone": "080 5283038",
+        "contact:website": "https://www.mcdonalds.it/ristorante/puglia/bari/bari-sparano",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-01:00",
+          "Thursday": "07:00-01:00",
+          "Friday": "07:00-01:00",
+          "Saturday": "07:00-02:00",
+          "Sunday": "07:00-01:00"
+        },
+        "full_address": "Via Sparano 155 Bari tel: 080 5283038",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "462.00",
+        "regione": "puglia",
+        "provincia": "bari",
+        "slug": "bari-sparano",
+        "detail_url": "https://www.mcdonalds.it/ristorante/puglia/bari/bari-sparano",
+        "page_coordinates": [
+          16.87002,
+          41.11914
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Bari Sparano**\n---\n**ID:** 462\n\n### Address\nVia Sparano 155 Bari tel: 080 5283038, Bari (bari)\n\n### Contacts\n**Phone:** 080 5283038\n**Website:** [https://www.mcdonalds.it/ristorante/puglia/bari/bari-sparano](https://www.mcdonalds.it/ristorante/puglia/bari/bari-sparano)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-01:00 |\n| **Tuesday** | 07:00-01:00 |\n| **Wednesday** | 07:00-01:00 |\n| **Thursday** | 07:00-01:00 |\n| **Friday** | 07:00-01:00 |\n| **Saturday** | 07:00-02:00 |\n| **Sunday** | 07:00-01:00 |\n\n### Services\nMcCafé® • Take Away • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.299525,
+          40.461256
+        ]
+      },
+      "properties": {
+        "id": 491,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Taranto Porte dello Jonio",
+        "addr:city": "Taranto",
+        "addr:street": "Via Consiglio 115",
+        "branch": "Taranto Porte dello Jonio",
+        "contact:phone": "099 7707190",
+        "contact:website": "https://www.mcdonalds.it/ristorante/puglia/taranto/taranto-porte-dello-jonio",
+        "opening_hours": {
+          "Monday": "09:00-21:00",
+          "Tuesday": "09:00-21:00",
+          "Wednesday": "09:00-21:00",
+          "Thursday": "09:00-21:00",
+          "Friday": "09:00-21:00",
+          "Saturday": "09:00-21:00",
+          "Sunday": "09:00-21:00"
+        },
+        "full_address": "Via Consiglio 115 Taranto tel: 099 7707190",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "491.00",
+        "regione": "puglia",
+        "provincia": "taranto",
+        "slug": "taranto-porte-dello-jonio",
+        "detail_url": "https://www.mcdonalds.it/ristorante/puglia/taranto/taranto-porte-dello-jonio",
+        "page_coordinates": [
+          17.299525,
+          40.461256
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Taranto Porte dello Jonio**\n---\n**ID:** 491\n\n### Address\nVia Consiglio 115 Taranto tel: 099 7707190, Taranto (taranto)\n\n### Contacts\n**Phone:** 099 7707190\n**Website:** [https://www.mcdonalds.it/ristorante/puglia/taranto/taranto-porte-dello-jonio](https://www.mcdonalds.it/ristorante/puglia/taranto/taranto-porte-dello-jonio)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 09:00-21:00 |\n| **Tuesday** | 09:00-21:00 |\n| **Wednesday** | 09:00-21:00 |\n| **Thursday** | 09:00-21:00 |\n| **Friday** | 09:00-21:00 |\n| **Saturday** | 09:00-21:00 |\n| **Sunday** | 09:00-21:00 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.257141,
+          41.320304
+        ]
+      },
+      "properties": {
+        "id": 502,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Barletta",
+        "addr:city": "Barletta",
+        "addr:street": "via Foggia, 42",
+        "branch": "Barletta",
+        "contact:phone": "0883 202791",
+        "contact:website": "https://www.mcdonalds.it/ristorante/puglia/barletta-andria-trani/barletta",
+        "opening_hours": {
+          "Monday": "08:00-00:00",
+          "Tuesday": "08:00-00:00",
+          "Wednesday": "08:00-00:00",
+          "Thursday": "08:00-00:00",
+          "Friday": "08:00-00:00",
+          "Saturday": "08:00-00:00",
+          "Sunday": "08:00-00:00"
+        },
+        "full_address": "via Foggia, 42 Barletta-Andria-Trani tel: 0883 202791",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "502.00",
+        "regione": "puglia",
+        "provincia": "barletta-andria-trani",
+        "slug": "barletta",
+        "detail_url": "https://www.mcdonalds.it/ristorante/puglia/barletta-andria-trani/barletta",
+        "page_coordinates": [
+          16.257141,
+          41.320304
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Barletta**\n---\n**ID:** 502\n\n### Address\nvia Foggia, 42 Barletta-Andria-Trani tel: 0883 202791, Barletta (barletta-andria-trani)\n\n### Contacts\n**Phone:** 0883 202791\n**Website:** [https://www.mcdonalds.it/ristorante/puglia/barletta-andria-trani/barletta](https://www.mcdonalds.it/ristorante/puglia/barletta-andria-trani/barletta)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-00:00 |\n| **Tuesday** | 08:00-00:00 |\n| **Wednesday** | 08:00-00:00 |\n| **Thursday** | 08:00-00:00 |\n| **Friday** | 08:00-00:00 |\n| **Saturday** | 08:00-00:00 |\n| **Sunday** | 08:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.652884,
+          41.41549
+        ]
+      },
+      "properties": {
+        "id": 565,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Foggia Mall",
+        "addr:city": "Foggia",
+        "addr:street": "Centro Commerciale GrandaPulia",
+        "branch": "Foggia Mall",
+        "contact:phone": "0881 272013",
+        "contact:website": "https://www.mcdonalds.it/ristorante/puglia/foggia/foggia-mall",
+        "opening_hours": {
+          "Monday": "10:00-23:00",
+          "Tuesday": "10:00-23:00",
+          "Wednesday": "10:00-23:00",
+          "Thursday": "10:00-23:00",
+          "Friday": "10:00-23:00",
+          "Saturday": "10:00-23:30",
+          "Sunday": "10:00-23:30"
+        },
+        "full_address": "Centro Commerciale GrandaPulia Foggia tel: 0881 272013",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "565.00",
+        "regione": "puglia",
+        "provincia": "foggia",
+        "slug": "foggia-mall",
+        "detail_url": "https://www.mcdonalds.it/ristorante/puglia/foggia/foggia-mall",
+        "page_coordinates": [
+          15.652884,
+          41.41549
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Foggia Mall**\n---\n**ID:** 565\n\n### Address\nCentro Commerciale GrandaPulia Foggia tel: 0881 272013, Foggia (foggia)\n\n### Contacts\n**Phone:** 0881 272013\n**Website:** [https://www.mcdonalds.it/ristorante/puglia/foggia/foggia-mall](https://www.mcdonalds.it/ristorante/puglia/foggia/foggia-mall)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:00-23:00 |\n| **Tuesday** | 10:00-23:00 |\n| **Wednesday** | 10:00-23:00 |\n| **Thursday** | 10:00-23:00 |\n| **Friday** | 10:00-23:00 |\n| **Saturday** | 10:00-23:30 |\n| **Sunday** | 10:00-23:30 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.916001,
+          40.623167
+        ]
+      },
+      "properties": {
+        "id": 570,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Brindisi",
+        "addr:city": "Brindisi",
+        "addr:street": "Viale Caduti di via Fani",
+        "branch": "Brindisi",
+        "contact:phone": "0831 082794",
+        "contact:website": "https://www.mcdonalds.it/ristorante/puglia/brindisi/brindisi",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-00:00",
+          "Saturday": "07:00-00:00",
+          "Sunday": "07:00-00:00"
+        },
+        "full_address": "Viale Caduti di via Fani Brindisi tel: 0831 082794",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "570.00",
+        "regione": "puglia",
+        "provincia": "brindisi",
+        "slug": "brindisi",
+        "detail_url": "https://www.mcdonalds.it/ristorante/puglia/brindisi/brindisi",
+        "page_coordinates": [
+          17.916001,
+          40.623167
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Brindisi**\n---\n**ID:** 570\n\n### Address\nViale Caduti di via Fani Brindisi tel: 0831 082794, Brindisi (brindisi)\n\n### Contacts\n**Phone:** 0831 082794\n**Website:** [https://www.mcdonalds.it/ristorante/puglia/brindisi/brindisi](https://www.mcdonalds.it/ristorante/puglia/brindisi/brindisi)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-00:00 |\n| **Tuesday** | 07:00-00:00 |\n| **Wednesday** | 07:00-00:00 |\n| **Thursday** | 07:00-00:00 |\n| **Friday** | 07:00-00:00 |\n| **Saturday** | 07:00-00:00 |\n| **Sunday** | 07:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.56962,
+          41.448704
+        ]
+      },
+      "properties": {
+        "id": 583,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Foggia Mezzogiorno",
+        "addr:city": "Foggia",
+        "addr:street": "Corso del Mezzogiorno",
+        "branch": "Foggia Mezzogiorno",
+        "contact:phone": "0881 272000",
+        "contact:website": "https://www.mcdonalds.it/ristorante/puglia/foggia/foggia-mezzogiorno",
+        "opening_hours": {
+          "Monday": "07:30-01:00",
+          "Tuesday": "07:30-01:00",
+          "Wednesday": "07:30-01:00",
+          "Thursday": "07:30-01:00",
+          "Friday": "07:30-01:00",
+          "Saturday": "07:30-01:00",
+          "Sunday": "07:30-01:00"
+        },
+        "full_address": "Corso del Mezzogiorno Foggia tel: 0881 272000",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "583.00",
+        "regione": "puglia",
+        "provincia": "foggia",
+        "slug": "foggia-mezzogiorno",
+        "detail_url": "https://www.mcdonalds.it/ristorante/puglia/foggia/foggia-mezzogiorno",
+        "page_coordinates": [
+          15.56962,
+          41.448704
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Foggia Mezzogiorno**\n---\n**ID:** 583\n\n### Address\nCorso del Mezzogiorno Foggia tel: 0881 272000, Foggia (foggia)\n\n### Contacts\n**Phone:** 0881 272000\n**Website:** [https://www.mcdonalds.it/ristorante/puglia/foggia/foggia-mezzogiorno](https://www.mcdonalds.it/ristorante/puglia/foggia/foggia-mezzogiorno)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:30-01:00 |\n| **Tuesday** | 07:30-01:00 |\n| **Wednesday** | 07:30-01:00 |\n| **Thursday** | 07:30-01:00 |\n| **Friday** | 07:30-01:00 |\n| **Saturday** | 07:30-01:00 |\n| **Sunday** | 07:30-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.871817,
+          41.126058
+        ]
+      },
+      "properties": {
+        "id": 631,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Bari Corso Vittorio Emanuele",
+        "addr:city": "Bari",
+        "addr:street": "Corso Vittorio Emanuele",
+        "branch": "Bari Corso Vittorio Emanuele",
+        "contact:phone": "080 2257995",
+        "contact:website": "https://www.mcdonalds.it/ristorante/puglia/bari/bari-corso-vittorio-emanuele",
+        "opening_hours": {
+          "Monday": "07:00-02:00",
+          "Tuesday": "07:00-02:00",
+          "Wednesday": "07:00-02:00",
+          "Thursday": "07:00-02:00",
+          "Friday": "07:00-04:00",
+          "Saturday": "07:00-04:00",
+          "Sunday": "07:00-04:00"
+        },
+        "full_address": "Corso Vittorio Emanuele Bari tel: 080 2257995",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "631.00",
+        "regione": "puglia",
+        "provincia": "bari",
+        "slug": "bari-corso-vittorio-emanuele",
+        "detail_url": "https://www.mcdonalds.it/ristorante/puglia/bari/bari-corso-vittorio-emanuele",
+        "page_coordinates": [
+          16.871817,
+          41.126058
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Bari Corso Vittorio Emanuele**\n---\n**ID:** 631\n\n### Address\nCorso Vittorio Emanuele Bari tel: 080 2257995, Bari (bari)\n\n### Contacts\n**Phone:** 080 2257995\n**Website:** [https://www.mcdonalds.it/ristorante/puglia/bari/bari-corso-vittorio-emanuele](https://www.mcdonalds.it/ristorante/puglia/bari/bari-corso-vittorio-emanuele)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-02:00 |\n| **Tuesday** | 07:00-02:00 |\n| **Wednesday** | 07:00-02:00 |\n| **Thursday** | 07:00-02:00 |\n| **Friday** | 07:00-04:00 |\n| **Saturday** | 07:00-04:00 |\n| **Sunday** | 07:00-04:00 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.906667,
+          41.266524
+        ]
+      },
+      "properties": {
+        "id": 633,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Cerignola Via Nizza",
+        "addr:city": "Cerignola",
+        "addr:street": "Via Nizza",
+        "branch": "Cerignola Via Nizza",
+        "contact:phone": "0885252264",
+        "contact:website": "https://www.mcdonalds.it/ristorante/puglia/foggia/cerignola-via-nizza",
+        "opening_hours": {
+          "Monday": "10:30-01:00",
+          "Tuesday": "10:30-01:00",
+          "Wednesday": "10:30-01:00",
+          "Thursday": "10:30-01:00",
+          "Friday": "10:30-01:00",
+          "Saturday": "10:30-01:00",
+          "Sunday": "10:30-01:00"
+        },
+        "full_address": "Via Nizza Foggia tel: 0885252264",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "633.00",
+        "regione": "puglia",
+        "provincia": "foggia",
+        "slug": "cerignola-via-nizza",
+        "detail_url": "https://www.mcdonalds.it/ristorante/puglia/foggia/cerignola-via-nizza",
+        "page_coordinates": [
+          15.906667,
+          41.266524
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Cerignola Via Nizza**\n---\n**ID:** 633\n\n### Address\nVia Nizza Foggia tel: 0885252264, Cerignola (foggia)\n\n### Contacts\n**Phone:** 0885252264\n**Website:** [https://www.mcdonalds.it/ristorante/puglia/foggia/cerignola-via-nizza](https://www.mcdonalds.it/ristorante/puglia/foggia/cerignola-via-nizza)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-01:00 |\n| **Tuesday** | 10:30-01:00 |\n| **Wednesday** | 10:30-01:00 |\n| **Thursday** | 10:30-01:00 |\n| **Friday** | 10:30-01:00 |\n| **Saturday** | 10:30-01:00 |\n| **Sunday** | 10:30-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.763701,
+          41.134296
+        ]
+      },
+      "properties": {
+        "id": 644,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Bari Aeroporto",
+        "addr:city": "Bari",
+        "addr:street": "Viale Enzo Ferrari",
+        "branch": "Bari Aeroporto",
+        "contact:phone": "0808890360",
+        "contact:website": "https://www.mcdonalds.it/ristorante/puglia/bari/bari-aeroporto",
+        "opening_hours": {
+          "Monday": "08:30-23:00",
+          "Tuesday": "08:30-23:00",
+          "Wednesday": "08:30-23:00",
+          "Thursday": "08:30-23:00",
+          "Friday": "08:30-23:00",
+          "Saturday": "08:30-23:00",
+          "Sunday": "08:30-23:00"
+        },
+        "full_address": "Viale Enzo Ferrari Bari tel: 0808890360",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "644.00",
+        "regione": "puglia",
+        "provincia": "bari",
+        "slug": "bari-aeroporto",
+        "detail_url": "https://www.mcdonalds.it/ristorante/puglia/bari/bari-aeroporto",
+        "page_coordinates": [
+          16.763701,
+          41.134296
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Bari Aeroporto**\n---\n**ID:** 644\n\n### Address\nViale Enzo Ferrari Bari tel: 0808890360, Bari (bari)\n\n### Contacts\n**Phone:** 0808890360\n**Website:** [https://www.mcdonalds.it/ristorante/puglia/bari/bari-aeroporto](https://www.mcdonalds.it/ristorante/puglia/bari/bari-aeroporto)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:30-23:00 |\n| **Tuesday** | 08:30-23:00 |\n| **Wednesday** | 08:30-23:00 |\n| **Thursday** | 08:30-23:00 |\n| **Friday** | 08:30-23:00 |\n| **Saturday** | 08:30-23:00 |\n| **Sunday** | 08:30-23:00 |\n\n### Services\nTake Away • Servizio al tavolo • Ordina in App • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.176898,
+          40.35372
+        ]
+      },
+      "properties": {
+        "id": 654,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Lecce Trinchese",
+        "addr:city": "Lecce",
+        "addr:street": "Via Salvatore Trinchese",
+        "branch": "Lecce Trinchese",
+        "contact:phone": "0832072029",
+        "contact:website": "https://www.mcdonalds.it/ristorante/puglia/lecce/lecce-trinchese",
+        "opening_hours": {
+          "Monday": "07:00-03:00",
+          "Tuesday": "07:00-03:00",
+          "Wednesday": "07:00-03:00",
+          "Thursday": "12:00-03:00",
+          "Friday": "07:00-04:00",
+          "Saturday": "07:00-05:00",
+          "Sunday": "07:00-03:00"
+        },
+        "full_address": "Via Salvatore Trinchese Lecce tel: 0832072029",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "654.00",
+        "regione": "puglia",
+        "provincia": "lecce",
+        "slug": "lecce-trinchese",
+        "detail_url": "https://www.mcdonalds.it/ristorante/puglia/lecce/lecce-trinchese",
+        "page_coordinates": [
+          18.176898,
+          40.35372
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Lecce Trinchese**\n---\n**ID:** 654\n\n### Address\nVia Salvatore Trinchese Lecce tel: 0832072029, Lecce (lecce)\n\n### Contacts\n**Phone:** 0832072029\n**Website:** [https://www.mcdonalds.it/ristorante/puglia/lecce/lecce-trinchese](https://www.mcdonalds.it/ristorante/puglia/lecce/lecce-trinchese)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-03:00 |\n| **Tuesday** | 07:00-03:00 |\n| **Wednesday** | 07:00-03:00 |\n| **Thursday** | 12:00-03:00 |\n| **Friday** | 07:00-04:00 |\n| **Saturday** | 07:00-05:00 |\n| **Sunday** | 07:00-03:00 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.862844,
+          41.090017
+        ]
+      },
+      "properties": {
+        "id": 701,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Bari Poggiofranco",
+        "addr:city": "Bari",
+        "addr:street": "Uscita 11 Tangenziale di Bari",
+        "branch": "Bari Poggiofranco",
+        "contact:phone": "0802258110",
+        "contact:website": "https://www.mcdonalds.it/ristorante/puglia/bari/bari-poggiofranco",
+        "opening_hours": {
+          "Monday": "08:00-00:00",
+          "Tuesday": "08:00-00:00",
+          "Wednesday": "08:00-00:00",
+          "Thursday": "08:00-00:00",
+          "Friday": "08:00-00:00",
+          "Saturday": "08:00-00:00",
+          "Sunday": "08:00-00:00"
+        },
+        "full_address": "Uscita 11 Tangenziale di Bari Bari tel: 0802258110",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "701.00",
+        "regione": "puglia",
+        "provincia": "bari",
+        "slug": "bari-poggiofranco",
+        "detail_url": "https://www.mcdonalds.it/ristorante/puglia/bari/bari-poggiofranco",
+        "page_coordinates": [
+          16.862844,
+          41.090017
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Bari Poggiofranco**\n---\n**ID:** 701\n\n### Address\nUscita 11 Tangenziale di Bari Bari tel: 0802258110, Bari (bari)\n\n### Contacts\n**Phone:** 0802258110\n**Website:** [https://www.mcdonalds.it/ristorante/puglia/bari/bari-poggiofranco](https://www.mcdonalds.it/ristorante/puglia/bari/bari-poggiofranco)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-00:00 |\n| **Tuesday** | 08:00-00:00 |\n| **Wednesday** | 08:00-00:00 |\n| **Thursday** | 08:00-00:00 |\n| **Friday** | 08:00-00:00 |\n| **Saturday** | 08:00-00:00 |\n| **Sunday** | 08:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.94624,
+          41.082995
+        ]
+      },
+      "properties": {
+        "id": 711,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "BariBlu",
+        "addr:city": "Triggiano",
+        "addr:street": "CC BariBlu - Triggiano",
+        "branch": "BariBlu",
+        "contact:phone": "0802258111",
+        "contact:website": "https://www.mcdonalds.it/ristorante/puglia/bari/bariblu",
+        "opening_hours": {
+          "Monday": "08:00-01:00",
+          "Tuesday": "08:00-01:00",
+          "Wednesday": "08:00-01:00",
+          "Thursday": "08:00-01:00",
+          "Friday": "08:00-01:00",
+          "Saturday": "09:00-01:00",
+          "Sunday": "09:00-01:00"
+        },
+        "full_address": "CC BariBlu - Triggiano Bari tel: 0802258111",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "711.00",
+        "regione": "puglia",
+        "provincia": "bari",
+        "slug": "bariblu",
+        "detail_url": "https://www.mcdonalds.it/ristorante/puglia/bari/bariblu",
+        "page_coordinates": [
+          16.94624,
+          41.082995
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**BariBlu**\n---\n**ID:** 711\n\n### Address\nCC BariBlu - Triggiano Bari tel: 0802258111, Triggiano (bari)\n\n### Contacts\n**Phone:** 0802258111\n**Website:** [https://www.mcdonalds.it/ristorante/puglia/bari/bariblu](https://www.mcdonalds.it/ristorante/puglia/bari/bariblu)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-01:00 |\n| **Tuesday** | 08:00-01:00 |\n| **Wednesday** | 08:00-01:00 |\n| **Thursday** | 08:00-01:00 |\n| **Friday** | 08:00-01:00 |\n| **Saturday** | 09:00-01:00 |\n| **Sunday** | 09:00-01:00 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.358026,
+          40.842643
+        ]
+      },
+      "properties": {
+        "id": 720,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Fasano",
+        "addr:city": "Fasano Di Brindisi",
+        "addr:street": "Via Roma. 327",
+        "branch": "Fasano",
+        "contact:phone": "080 6927277",
+        "contact:website": "https://www.mcdonalds.it/ristorante/puglia/brindisi/fasano",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-01:00",
+          "Thursday": "07:00-01:00",
+          "Friday": "07:00-01:00",
+          "Saturday": "07:00-01:00",
+          "Sunday": "07:00-01:00"
+        },
+        "full_address": "Via Roma. 327 Brindisi tel: 080 6927277",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "720.00",
+        "regione": "puglia",
+        "provincia": "brindisi",
+        "slug": "fasano",
+        "detail_url": "https://www.mcdonalds.it/ristorante/puglia/brindisi/fasano",
+        "page_coordinates": [
+          17.358026,
+          40.842643
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Fasano**\n---\n**ID:** 720\n\n### Address\nVia Roma. 327 Brindisi tel: 080 6927277, Fasano Di Brindisi (brindisi)\n\n### Contacts\n**Phone:** 080 6927277\n**Website:** [https://www.mcdonalds.it/ristorante/puglia/brindisi/fasano](https://www.mcdonalds.it/ristorante/puglia/brindisi/fasano)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-01:00 |\n| **Tuesday** | 07:00-01:00 |\n| **Wednesday** | 07:00-01:00 |\n| **Thursday** | 07:00-01:00 |\n| **Friday** | 07:00-01:00 |\n| **Saturday** | 07:00-01:00 |\n| **Sunday** | 07:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.282321,
+          40.958558
+        ]
+      },
+      "properties": {
+        "id": 740,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Monopoli Aldo Moro",
+        "addr:city": "Monopoli",
+        "addr:street": "Via Aldo Moro",
+        "branch": "Monopoli Aldo Moro",
+        "contact:phone": "0808501602",
+        "contact:website": "https://www.mcdonalds.it/ristorante/puglia/bari/monopoli-aldo-moro",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-00:00",
+          "Saturday": "07:00-00:00",
+          "Sunday": "07:00-00:00"
+        },
+        "full_address": "Via Aldo Moro Bari tel: 0808501602",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "740.00",
+        "regione": "puglia",
+        "provincia": "bari",
+        "slug": "monopoli-aldo-moro",
+        "detail_url": "https://www.mcdonalds.it/ristorante/puglia/bari/monopoli-aldo-moro",
+        "page_coordinates": [
+          17.282321,
+          40.958558
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Monopoli Aldo Moro**\n---\n**ID:** 740\n\n### Address\nVia Aldo Moro Bari tel: 0808501602, Monopoli (bari)\n\n### Contacts\n**Phone:** 0808501602\n**Website:** [https://www.mcdonalds.it/ristorante/puglia/bari/monopoli-aldo-moro](https://www.mcdonalds.it/ristorante/puglia/bari/monopoli-aldo-moro)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-00:00 |\n| **Tuesday** | 07:00-00:00 |\n| **Wednesday** | 07:00-00:00 |\n| **Thursday** | 07:00-00:00 |\n| **Friday** | 07:00-00:00 |\n| **Saturday** | 07:00-00:00 |\n| **Sunday** | 07:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.11103,
+          40.583641
+        ]
+      },
+      "properties": {
+        "id": 986,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Massafra Appia",
+        "addr:city": "Massafra",
+        "addr:street": "SS 7 Appia",
+        "branch": "Massafra Appia",
+        "contact:phone": "0992218388",
+        "contact:website": "https://www.mcdonalds.it/ristorante/puglia/taranto/massafra-appia",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "06:00-00:00",
+          "Saturday": "06:00-00:00",
+          "Sunday": "06:00-00:00"
+        },
+        "full_address": "SS 7 Appia Taranto tel: 0992218388",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "986.00",
+        "regione": "puglia",
+        "provincia": "taranto",
+        "slug": "massafra-appia",
+        "detail_url": "https://www.mcdonalds.it/ristorante/puglia/taranto/massafra-appia",
+        "page_coordinates": [
+          17.11103,
+          40.583641
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Massafra Appia**\n---\n**ID:** 986\n\n### Address\nSS 7 Appia Taranto tel: 0992218388, Massafra (taranto)\n\n### Contacts\n**Phone:** 0992218388\n**Website:** [https://www.mcdonalds.it/ristorante/puglia/taranto/massafra-appia](https://www.mcdonalds.it/ristorante/puglia/taranto/massafra-appia)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-00:00 |\n| **Tuesday** | 07:00-00:00 |\n| **Wednesday** | 07:00-00:00 |\n| **Thursday** | 07:00-00:00 |\n| **Friday** | 06:00-00:00 |\n| **Saturday** | 06:00-00:00 |\n| **Sunday** | 06:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.823674,
+          41.131998
+        ]
+      },
+      "properties": {
+        "id": 1001,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Bari Via Napoli",
+        "addr:city": "Bari",
+        "addr:street": "Via Napoli snc",
+        "branch": "Bari Via Napoli",
+        "contact:phone": "0802100422",
+        "contact:website": "https://www.mcdonalds.it/ristorante/puglia/bari/bari-via-napoli",
+        "opening_hours": {
+          "Monday": "08:00-01:00",
+          "Tuesday": "08:00-01:00",
+          "Wednesday": "08:00-01:00",
+          "Thursday": "08:00-01:00",
+          "Friday": "08:00-01:00",
+          "Saturday": "08:00-01:00",
+          "Sunday": "08:00-01:00"
+        },
+        "full_address": "Via Napoli snc Bari tel: 0802100422",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1001.00",
+        "regione": "puglia",
+        "provincia": "bari",
+        "slug": "bari-via-napoli",
+        "detail_url": "https://www.mcdonalds.it/ristorante/puglia/bari/bari-via-napoli",
+        "page_coordinates": [
+          16.823674,
+          41.131998
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Bari Via Napoli**\n---\n**ID:** 1001\n\n### Address\nVia Napoli snc Bari tel: 0802100422, Bari (bari)\n\n### Contacts\n**Phone:** 0802100422\n**Website:** [https://www.mcdonalds.it/ristorante/puglia/bari/bari-via-napoli](https://www.mcdonalds.it/ristorante/puglia/bari/bari-via-napoli)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-01:00 |\n| **Tuesday** | 08:00-01:00 |\n| **Wednesday** | 08:00-01:00 |\n| **Thursday** | 08:00-01:00 |\n| **Friday** | 08:00-01:00 |\n| **Saturday** | 08:00-01:00 |\n| **Sunday** | 08:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.29151,
+          41.317999
+        ]
+      },
+      "properties": {
+        "id": 1004,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Barletta via Trani",
+        "addr:city": "Barletta",
+        "addr:street": "Via Trani 8-8/A",
+        "branch": "Barletta via Trani",
+        "contact:phone": "08831710758",
+        "contact:website": "https://www.mcdonalds.it/ristorante/puglia/barletta-andria-trani/barletta-via-trani",
+        "opening_hours": {
+          "Monday": "10:30-01:00",
+          "Tuesday": "10:30-01:00",
+          "Wednesday": "10:30-01:00",
+          "Thursday": "10:30-01:00",
+          "Friday": "10:30-01:00",
+          "Saturday": "10:30-01:00",
+          "Sunday": "10:30-01:00"
+        },
+        "full_address": "Via Trani 8-8/A Barletta-Andria-Trani tel: 08831710758",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1004.00",
+        "regione": "puglia",
+        "provincia": "barletta-andria-trani",
+        "slug": "barletta-via-trani",
+        "detail_url": "https://www.mcdonalds.it/ristorante/puglia/barletta-andria-trani/barletta-via-trani",
+        "page_coordinates": [
+          16.29151,
+          41.317999
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Barletta via Trani**\n---\n**ID:** 1004\n\n### Address\nVia Trani 8-8/A Barletta-Andria-Trani tel: 08831710758, Barletta (barletta-andria-trani)\n\n### Contacts\n**Phone:** 08831710758\n**Website:** [https://www.mcdonalds.it/ristorante/puglia/barletta-andria-trani/barletta-via-trani](https://www.mcdonalds.it/ristorante/puglia/barletta-andria-trani/barletta-via-trani)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-01:00 |\n| **Tuesday** | 10:30-01:00 |\n| **Wednesday** | 10:30-01:00 |\n| **Thursday** | 10:30-01:00 |\n| **Friday** | 10:30-01:00 |\n| **Saturday** | 10:30-01:00 |\n| **Sunday** | 10:30-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.288546,
+          40.459288
+        ]
+      },
+      "properties": {
+        "id": 1010,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Taranto Consiglio Drive",
+        "addr:city": "Taranto",
+        "addr:street": "via consiglio",
+        "branch": "Taranto Consiglio Drive",
+        "contact:phone": "0992212536",
+        "contact:website": "https://www.mcdonalds.it/ristorante/puglia/taranto/taranto-consiglio-drive",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-00:00",
+          "Saturday": "07:00-00:00",
+          "Sunday": "07:00-00:00"
+        },
+        "full_address": "via consiglio Taranto tel: 0992212536",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1010.00",
+        "regione": "puglia",
+        "provincia": "taranto",
+        "slug": "taranto-consiglio-drive",
+        "detail_url": "https://www.mcdonalds.it/ristorante/puglia/taranto/taranto-consiglio-drive",
+        "page_coordinates": [
+          17.288546,
+          40.459288
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Taranto Consiglio Drive**\n---\n**ID:** 1010\n\n### Address\nvia consiglio Taranto tel: 0992212536, Taranto (taranto)\n\n### Contacts\n**Phone:** 0992212536\n**Website:** [https://www.mcdonalds.it/ristorante/puglia/taranto/taranto-consiglio-drive](https://www.mcdonalds.it/ristorante/puglia/taranto/taranto-consiglio-drive)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-00:00 |\n| **Tuesday** | 07:00-00:00 |\n| **Wednesday** | 07:00-00:00 |\n| **Thursday** | 07:00-00:00 |\n| **Friday** | 07:00-00:00 |\n| **Saturday** | 07:00-00:00 |\n| **Sunday** | 07:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.339238,
+          40.696709
+        ]
+      },
+      "properties": {
+        "id": 1018,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Martina Franca",
+        "addr:city": "Martina Franca",
+        "addr:street": "Via Madonna Piccola 60",
+        "branch": "Martina Franca",
+        "contact:phone": "0802051244",
+        "contact:website": "https://www.mcdonalds.it/ristorante/puglia/taranto/martina-franca",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-00:00",
+          "Saturday": "07:00-00:00",
+          "Sunday": "07:00-00:00"
+        },
+        "full_address": "Via Madonna Piccola 60 Taranto tel: 0802051244",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1018.00",
+        "regione": "puglia",
+        "provincia": "taranto",
+        "slug": "martina-franca",
+        "detail_url": "https://www.mcdonalds.it/ristorante/puglia/taranto/martina-franca",
+        "page_coordinates": [
+          17.339238,
+          40.696709
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Martina Franca**\n---\n**ID:** 1018\n\n### Address\nVia Madonna Piccola 60 Taranto tel: 0802051244, Martina Franca (taranto)\n\n### Contacts\n**Phone:** 0802051244\n**Website:** [https://www.mcdonalds.it/ristorante/puglia/taranto/martina-franca](https://www.mcdonalds.it/ristorante/puglia/taranto/martina-franca)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-00:00 |\n| **Tuesday** | 07:00-00:00 |\n| **Wednesday** | 07:00-00:00 |\n| **Thursday** | 07:00-00:00 |\n| **Friday** | 07:00-00:00 |\n| **Saturday** | 07:00-00:00 |\n| **Sunday** | 07:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.155736,
+          40.360904
+        ]
+      },
+      "properties": {
+        "id": 1026,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Lecce Via Taranto",
+        "addr:city": "Lecce",
+        "addr:street": "VIA TARANTO",
+        "branch": "Lecce Via Taranto",
+        "contact:phone": "0832 1523881",
+        "contact:website": "https://www.mcdonalds.it/ristorante/puglia/lecce/lecce-via-taranto",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-00:00",
+          "Saturday": "07:00-00:00",
+          "Sunday": "07:00-00:00"
+        },
+        "full_address": "VIA TARANTO Lecce tel: 0832 1523881",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1026.00",
+        "regione": "puglia",
+        "provincia": "lecce",
+        "slug": "lecce-via-taranto",
+        "detail_url": "https://www.mcdonalds.it/ristorante/puglia/lecce/lecce-via-taranto",
+        "page_coordinates": [
+          18.155736,
+          40.360904
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Lecce Via Taranto**\n---\n**ID:** 1026\n\n### Address\nVIA TARANTO Lecce tel: 0832 1523881, Lecce (lecce)\n\n### Contacts\n**Phone:** 0832 1523881\n**Website:** [https://www.mcdonalds.it/ristorante/puglia/lecce/lecce-via-taranto](https://www.mcdonalds.it/ristorante/puglia/lecce/lecce-via-taranto)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-00:00 |\n| **Tuesday** | 07:00-00:00 |\n| **Wednesday** | 07:00-00:00 |\n| **Thursday** | 07:00-00:00 |\n| **Friday** | 07:00-00:00 |\n| **Saturday** | 07:00-00:00 |\n| **Sunday** | 07:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.168503,
+          40.181162
+        ]
+      },
+      "properties": {
+        "id": 1039,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "GALATINA",
+        "addr:city": "Galatina",
+        "addr:street": "VIA LECCE",
+        "branch": "GALATINA",
+        "contact:phone": "0836 1900833",
+        "contact:website": "https://www.mcdonalds.it/ristorante/puglia/lecce/galatina",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-00:00",
+          "Saturday": "07:00-00:00",
+          "Sunday": "07:00-00:00"
+        },
+        "full_address": "VIA LECCE Lecce tel: 0836 1900833",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1039.00",
+        "regione": "puglia",
+        "provincia": "lecce",
+        "slug": "galatina",
+        "detail_url": "https://www.mcdonalds.it/ristorante/puglia/lecce/galatina",
+        "page_coordinates": [
+          18.168503,
+          40.181162
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**GALATINA**\n---\n**ID:** 1039\n\n### Address\nVIA LECCE Lecce tel: 0836 1900833, Galatina (lecce)\n\n### Contacts\n**Phone:** 0836 1900833\n**Website:** [https://www.mcdonalds.it/ristorante/puglia/lecce/galatina](https://www.mcdonalds.it/ristorante/puglia/lecce/galatina)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-00:00 |\n| **Tuesday** | 07:00-00:00 |\n| **Wednesday** | 07:00-00:00 |\n| **Thursday** | 07:00-00:00 |\n| **Friday** | 07:00-00:00 |\n| **Saturday** | 07:00-00:00 |\n| **Sunday** | 07:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.315595,
+          41.24059
+        ]
+      },
+      "properties": {
+        "id": 1058,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Andria Via Trani",
+        "addr:city": "Andria",
+        "addr:street": "SP1 km 8.600",
+        "branch": "Andria Via Trani",
+        "contact:phone": "0883 1710727",
+        "contact:website": "https://www.mcdonalds.it/ristorante/puglia/barletta-andria-trani/andria-via-trani",
+        "opening_hours": {
+          "Monday": "10:30-01:00",
+          "Tuesday": "10:30-01:00",
+          "Wednesday": "10:30-01:00",
+          "Thursday": "10:30-01:00",
+          "Friday": "10:30-01:00",
+          "Saturday": "10:30-01:00",
+          "Sunday": "10:30-01:00"
+        },
+        "full_address": "SP1 km 8.600 Barletta-Andria-Trani tel: 0883 1710727",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1058.00",
+        "regione": "puglia",
+        "provincia": "barletta-andria-trani",
+        "slug": "andria-via-trani",
+        "detail_url": "https://www.mcdonalds.it/ristorante/puglia/barletta-andria-trani/andria-via-trani",
+        "page_coordinates": [
+          16.315595,
+          41.24059
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Andria Via Trani**\n---\n**ID:** 1058\n\n### Address\nSP1 km 8.600 Barletta-Andria-Trani tel: 0883 1710727, Andria (barletta-andria-trani)\n\n### Contacts\n**Phone:** 0883 1710727\n**Website:** [https://www.mcdonalds.it/ristorante/puglia/barletta-andria-trani/andria-via-trani](https://www.mcdonalds.it/ristorante/puglia/barletta-andria-trani/andria-via-trani)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-01:00 |\n| **Tuesday** | 10:30-01:00 |\n| **Wednesday** | 10:30-01:00 |\n| **Thursday** | 10:30-01:00 |\n| **Friday** | 10:30-01:00 |\n| **Saturday** | 10:30-01:00 |\n| **Sunday** | 10:30-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.280909,
+          40.520502
+        ]
+      },
+      "properties": {
+        "id": 1060,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Taranto v.le del Turismo",
+        "addr:city": "Taranto",
+        "addr:street": "Viale del Turismo",
+        "branch": "Taranto v.le del Turismo",
+        "contact:phone": "099 2214225",
+        "contact:website": "https://www.mcdonalds.it/ristorante/puglia/taranto/taranto-vle-del-turismo",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-01:00",
+          "Thursday": "07:00-01:00",
+          "Friday": "07:00-01:00",
+          "Saturday": "07:00-01:00",
+          "Sunday": "07:00-01:00"
+        },
+        "full_address": "Viale del Turismo Taranto tel: 099 2214225",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1060.00",
+        "regione": "puglia",
+        "provincia": "taranto",
+        "slug": "taranto-vle-del-turismo",
+        "detail_url": "https://www.mcdonalds.it/ristorante/puglia/taranto/taranto-vle-del-turismo",
+        "page_coordinates": [
+          17.280909,
+          40.520502
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Taranto v.le del Turismo**\n---\n**ID:** 1060\n\n### Address\nViale del Turismo Taranto tel: 099 2214225, Taranto (taranto)\n\n### Contacts\n**Phone:** 099 2214225\n**Website:** [https://www.mcdonalds.it/ristorante/puglia/taranto/taranto-vle-del-turismo](https://www.mcdonalds.it/ristorante/puglia/taranto/taranto-vle-del-turismo)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-01:00 |\n| **Tuesday** | 07:00-01:00 |\n| **Wednesday** | 07:00-01:00 |\n| **Thursday** | 07:00-01:00 |\n| **Friday** | 07:00-01:00 |\n| **Saturday** | 07:00-01:00 |\n| **Sunday** | 07:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    }
+  ]
+}

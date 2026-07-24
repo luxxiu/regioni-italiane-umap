@@ -1,0 +1,3229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.354298,
+          40.932192
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Afragola",
+        "addr:city": "Afragola",
+        "addr:street": "Via Santa Maria La Nova",
+        "branch": "Afragola",
+        "contact:phone": "081 8607185",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/napoli/afragola",
+        "opening_hours": {
+          "Monday": "08:30-23:00",
+          "Tuesday": "08:30-23:00",
+          "Wednesday": "08:30-23:00",
+          "Thursday": "08:30-23:00",
+          "Friday": "08:30-23:00",
+          "Saturday": "08:30-00:00",
+          "Sunday": "08:30-00:00"
+        },
+        "full_address": "Via Santa Maria La Nova Napoli tel: 081 8607185",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "9.00",
+        "regione": "campania",
+        "provincia": "napoli",
+        "slug": "afragola",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/napoli/afragola",
+        "page_coordinates": [
+          14.354298,
+          40.932192
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Afragola**\n---\n**ID:** 9\n\n### Address\nVia Santa Maria La Nova Napoli tel: 081 8607185, Afragola (napoli)\n\n### Contacts\n**Phone:** 081 8607185\n**Website:** [https://www.mcdonalds.it/ristorante/campania/napoli/afragola](https://www.mcdonalds.it/ristorante/campania/napoli/afragola)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:30-23:00 |\n| **Tuesday** | 08:30-23:00 |\n| **Wednesday** | 08:30-23:00 |\n| **Thursday** | 08:30-23:00 |\n| **Friday** | 08:30-23:00 |\n| **Saturday** | 08:30-00:00 |\n| **Sunday** | 08:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.19529,
+          40.826798
+        ]
+      },
+      "properties": {
+        "id": 58,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Napoli Stadio Fuorigrotta",
+        "addr:city": "Napoli",
+        "addr:street": "Via Gonzaga 15",
+        "branch": "Napoli Stadio Fuorigrotta",
+        "contact:phone": "081 6107007",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/napoli/napoli-stadio-fuorigrotta",
+        "opening_hours": {
+          "Monday": "08:00-05:00",
+          "Tuesday": "08:00-05:00",
+          "Wednesday": "08:00-05:00",
+          "Thursday": "08:00-05:00",
+          "Friday": "08:00-07:59",
+          "Saturday": "08:00-07:59",
+          "Sunday": "08:00-05:00"
+        },
+        "full_address": "Via Gonzaga 15 Napoli tel: 081 6107007",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "58.00",
+        "regione": "campania",
+        "provincia": "napoli",
+        "slug": "napoli-stadio-fuorigrotta",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/napoli/napoli-stadio-fuorigrotta",
+        "page_coordinates": [
+          14.19529,
+          40.826798
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Napoli Stadio Fuorigrotta**\n---\n**ID:** 58\n\n### Address\nVia Gonzaga 15 Napoli tel: 081 6107007, Napoli (napoli)\n\n### Contacts\n**Phone:** 081 6107007\n**Website:** [https://www.mcdonalds.it/ristorante/campania/napoli/napoli-stadio-fuorigrotta](https://www.mcdonalds.it/ristorante/campania/napoli/napoli-stadio-fuorigrotta)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-05:00 |\n| **Tuesday** | 08:00-05:00 |\n| **Wednesday** | 08:00-05:00 |\n| **Thursday** | 08:00-05:00 |\n| **Friday** | 08:00-07:59 |\n| **Saturday** | 08:00-07:59 |\n| **Sunday** | 08:00-05:00 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.748509,
+          40.911464
+        ]
+      },
+      "properties": {
+        "id": 80,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Mercogliano",
+        "addr:city": "Mercogliano",
+        "addr:street": "Via Santangelo",
+        "branch": "Mercogliano",
+        "contact:phone": "0825 685435",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/avellino/mercogliano",
+        "opening_hours": {
+          "Monday": "10:30-23:00",
+          "Tuesday": "10:30-23:00",
+          "Wednesday": "10:30-23:00",
+          "Thursday": "10:30-23:00",
+          "Friday": "10:30-23:30",
+          "Saturday": "10:30-00:30",
+          "Sunday": "10:30-00:30"
+        },
+        "full_address": "Via Santangelo Avellino tel: 0825 685435",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "80.00",
+        "regione": "campania",
+        "provincia": "avellino",
+        "slug": "mercogliano",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/avellino/mercogliano",
+        "page_coordinates": [
+          14.748509,
+          40.911464
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Mercogliano**\n---\n**ID:** 80\n\n### Address\nVia Santangelo Avellino tel: 0825 685435, Mercogliano (avellino)\n\n### Contacts\n**Phone:** 0825 685435\n**Website:** [https://www.mcdonalds.it/ristorante/campania/avellino/mercogliano](https://www.mcdonalds.it/ristorante/campania/avellino/mercogliano)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-23:00 |\n| **Tuesday** | 10:30-23:00 |\n| **Wednesday** | 10:30-23:00 |\n| **Thursday** | 10:30-23:00 |\n| **Friday** | 10:30-23:30 |\n| **Saturday** | 10:30-00:30 |\n| **Sunday** | 10:30-00:30 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.173298,
+          40.968084
+        ]
+      },
+      "properties": {
+        "id": 142,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Trentola Ducenta - Aversa",
+        "addr:city": "Trentola",
+        "addr:street": "Centro commerciale Jambo1",
+        "branch": "Trentola Ducenta - Aversa",
+        "contact:phone": "081 5036881",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/caserta/trentola-ducenta-aversa",
+        "opening_hours": {
+          "Monday": "08:30-00:00",
+          "Tuesday": "08:30-00:00",
+          "Wednesday": "08:30-00:00",
+          "Thursday": "08:30-00:30",
+          "Friday": "08:30-00:30",
+          "Saturday": "08:30-00:30",
+          "Sunday": "08:30-00:30"
+        },
+        "full_address": "Centro commerciale Jambo1 Caserta tel: 081 5036881",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "142.00",
+        "regione": "campania",
+        "provincia": "caserta",
+        "slug": "trentola-ducenta-aversa",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/caserta/trentola-ducenta-aversa",
+        "page_coordinates": [
+          14.173298,
+          40.968084
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Trentola Ducenta - Aversa**\n---\n**ID:** 142\n\n### Address\nCentro commerciale Jambo1 Caserta tel: 081 5036881, Trentola (caserta)\n\n### Contacts\n**Phone:** 081 5036881\n**Website:** [https://www.mcdonalds.it/ristorante/campania/caserta/trentola-ducenta-aversa](https://www.mcdonalds.it/ristorante/campania/caserta/trentola-ducenta-aversa)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:30-00:00 |\n| **Tuesday** | 08:30-00:00 |\n| **Wednesday** | 08:30-00:00 |\n| **Thursday** | 08:30-00:30 |\n| **Friday** | 08:30-00:30 |\n| **Saturday** | 08:30-00:30 |\n| **Sunday** | 08:30-00:30 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.20308,
+          40.91658
+        ]
+      },
+      "properties": {
+        "id": 143,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Villaricca",
+        "addr:city": "Villaricca",
+        "addr:street": "Corso Europa 16",
+        "branch": "Villaricca",
+        "contact:phone": "081 5068601",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/napoli/villaricca",
+        "opening_hours": {
+          "Monday": "08:00-00:30",
+          "Tuesday": "08:00-00:00",
+          "Wednesday": "00:00-00:30",
+          "Thursday": "08:00-02:00",
+          "Friday": "08:00-02:00",
+          "Saturday": "08:00-02:00",
+          "Sunday": "08:00-02:00"
+        },
+        "full_address": "Corso Europa 16 Napoli tel: 081 5068601",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "143.00",
+        "regione": "campania",
+        "provincia": "napoli",
+        "slug": "villaricca",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/napoli/villaricca",
+        "page_coordinates": [
+          14.20308,
+          40.91658
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Villaricca**\n---\n**ID:** 143\n\n### Address\nCorso Europa 16 Napoli tel: 081 5068601, Villaricca (napoli)\n\n### Contacts\n**Phone:** 081 5068601\n**Website:** [https://www.mcdonalds.it/ristorante/campania/napoli/villaricca](https://www.mcdonalds.it/ristorante/campania/napoli/villaricca)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-00:30 |\n| **Tuesday** | 08:00-00:00 |\n| **Wednesday** | 00:00-00:30 |\n| **Thursday** | 08:00-02:00 |\n| **Friday** | 08:00-02:00 |\n| **Saturday** | 08:00-02:00 |\n| **Sunday** | 08:00-02:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.148024,
+          40.933953
+        ]
+      },
+      "properties": {
+        "id": 160,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Afragola",
+        "addr:city": "Giugliano In Campania",
+        "addr:street": "Via Santa Maria a Cubito",
+        "branch": "Afragola",
+        "contact:phone": "081 8607185",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/napoli/afragola",
+        "opening_hours": {
+          "Monday": "08:30-23:00",
+          "Tuesday": "08:30-23:00",
+          "Wednesday": "08:30-23:00",
+          "Thursday": "08:30-23:00",
+          "Friday": "08:30-23:00",
+          "Saturday": "08:30-00:00",
+          "Sunday": "08:30-00:00"
+        },
+        "full_address": "Via Santa Maria La Nova Napoli tel: 081 8607185",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "9.00",
+        "regione": "campania",
+        "provincia": "napoli",
+        "slug": "afragola",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/napoli/afragola",
+        "page_coordinates": [
+          14.354298,
+          40.932192
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Afragola**\n---\n**ID:** 160\n\n### Address\nVia Santa Maria La Nova Napoli tel: 081 8607185, Giugliano In Campania (napoli)\n\n### Contacts\n**Phone:** 081 8607185\n**Website:** [https://www.mcdonalds.it/ristorante/campania/napoli/afragola](https://www.mcdonalds.it/ristorante/campania/napoli/afragola)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:30-23:00 |\n| **Tuesday** | 08:30-23:00 |\n| **Wednesday** | 08:30-23:00 |\n| **Thursday** | 08:30-23:00 |\n| **Friday** | 08:30-23:00 |\n| **Saturday** | 08:30-00:00 |\n| **Sunday** | 08:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.271816,
+          41.081005
+        ]
+      },
+      "properties": {
+        "id": 166,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "San Prisco",
+        "addr:city": "San Prisco",
+        "addr:street": "Strada Statale Appia, 60",
+        "branch": "San Prisco",
+        "contact:phone": "0823 589271",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/caserta/san-prisco",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-02:00",
+          "Thursday": "07:00-01:00",
+          "Friday": "07:00-01:00",
+          "Saturday": "07:00-01:00",
+          "Sunday": "07:00-01:00"
+        },
+        "full_address": "Strada Statale Appia, 60 Caserta tel: 0823 589271",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "166.00",
+        "regione": "campania",
+        "provincia": "caserta",
+        "slug": "san-prisco",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/caserta/san-prisco",
+        "page_coordinates": [
+          14.271816,
+          41.081005
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**San Prisco**\n---\n**ID:** 166\n\n### Address\nStrada Statale Appia, 60 Caserta tel: 0823 589271, San Prisco (caserta)\n\n### Contacts\n**Phone:** 0823 589271\n**Website:** [https://www.mcdonalds.it/ristorante/campania/caserta/san-prisco](https://www.mcdonalds.it/ristorante/campania/caserta/san-prisco)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-01:00 |\n| **Tuesday** | 07:00-01:00 |\n| **Wednesday** | 07:00-02:00 |\n| **Thursday** | 07:00-01:00 |\n| **Friday** | 07:00-01:00 |\n| **Saturday** | 07:00-01:00 |\n| **Sunday** | 07:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.487217,
+          40.949474
+        ]
+      },
+      "properties": {
+        "id": 169,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Nola",
+        "addr:city": "Nola",
+        "addr:street": "C.C. Il vulcano buono - Via Boscofangone snc",
+        "branch": "Nola",
+        "contact:phone": "081 8269029",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/napoli/nola",
+        "opening_hours": {
+          "Monday": "09:00-23:00",
+          "Tuesday": "09:00-23:00",
+          "Wednesday": "09:00-23:00",
+          "Thursday": "09:00-23:00",
+          "Friday": "09:00-23:00",
+          "Saturday": "09:00-00:00",
+          "Sunday": "09:00-00:00"
+        },
+        "full_address": "C.C. Il vulcano buono - Via Boscofangone snc Napoli tel: 081 8269029",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "169.00",
+        "regione": "campania",
+        "provincia": "napoli",
+        "slug": "nola",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/napoli/nola",
+        "page_coordinates": [
+          14.487217,
+          40.949474
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Nola**\n---\n**ID:** 169\n\n### Address\nC.C. Il vulcano buono - Via Boscofangone snc Napoli tel: 081 8269029, Nola (napoli)\n\n### Contacts\n**Phone:** 081 8269029\n**Website:** [https://www.mcdonalds.it/ristorante/campania/napoli/nola](https://www.mcdonalds.it/ristorante/campania/napoli/nola)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 09:00-23:00 |\n| **Tuesday** | 09:00-23:00 |\n| **Wednesday** | 09:00-23:00 |\n| **Thursday** | 09:00-23:00 |\n| **Friday** | 09:00-23:00 |\n| **Saturday** | 09:00-00:00 |\n| **Sunday** | 09:00-00:00 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.268567,
+          40.852975
+        ]
+      },
+      "properties": {
+        "id": 191,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Napoli P.zza Garibaldi",
+        "addr:city": "Napoli",
+        "addr:street": "Piazza Garibaldi, 39",
+        "branch": "Napoli P.zza Garibaldi",
+        "contact:phone": "081 5636259",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/napoli/napoli-pzza-garibaldi",
+        "opening_hours": {
+          "Monday": "07:00-02:00",
+          "Tuesday": "07:00-02:00",
+          "Wednesday": "07:00-02:00",
+          "Thursday": "07:00-02:00",
+          "Friday": "07:00-04:00",
+          "Saturday": "07:00-06:00",
+          "Sunday": "07:00-04:00"
+        },
+        "full_address": "Piazza Garibaldi, 39 Napoli tel: 081 5636259",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "191.00",
+        "regione": "campania",
+        "provincia": "napoli",
+        "slug": "napoli-pzza-garibaldi",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/napoli/napoli-pzza-garibaldi",
+        "page_coordinates": [
+          14.268567,
+          40.852975
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Napoli P.zza Garibaldi**\n---\n**ID:** 191\n\n### Address\nPiazza Garibaldi, 39 Napoli tel: 081 5636259, Napoli (napoli)\n\n### Contacts\n**Phone:** 081 5636259\n**Website:** [https://www.mcdonalds.it/ristorante/campania/napoli/napoli-pzza-garibaldi](https://www.mcdonalds.it/ristorante/campania/napoli/napoli-pzza-garibaldi)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-02:00 |\n| **Tuesday** | 07:00-02:00 |\n| **Wednesday** | 07:00-02:00 |\n| **Thursday** | 07:00-02:00 |\n| **Friday** | 07:00-04:00 |\n| **Saturday** | 07:00-06:00 |\n| **Sunday** | 07:00-04:00 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.328952,
+          41.003754
+        ]
+      },
+      "properties": {
+        "id": 192,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Marcianise",
+        "addr:city": "Marcianise",
+        "addr:street": "centro commerciale campania",
+        "branch": "Marcianise",
+        "contact:phone": "0823 609278",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/caserta/marcianise",
+        "opening_hours": {
+          "Monday": "10:00-00:00",
+          "Tuesday": "10:00-00:00",
+          "Wednesday": "10:00-00:00",
+          "Thursday": "10:00-00:00",
+          "Friday": "10:00-00:00",
+          "Saturday": "10:00-00:00",
+          "Sunday": "10:00-00:00"
+        },
+        "full_address": "centro commerciale campania Caserta tel: 0823 609278",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "192.00",
+        "regione": "campania",
+        "provincia": "caserta",
+        "slug": "marcianise",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/caserta/marcianise",
+        "page_coordinates": [
+          14.328952,
+          41.003754
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Marcianise**\n---\n**ID:** 192\n\n### Address\ncentro commerciale campania Caserta tel: 0823 609278, Marcianise (caserta)\n\n### Contacts\n**Phone:** 0823 609278\n**Website:** [https://www.mcdonalds.it/ristorante/campania/caserta/marcianise](https://www.mcdonalds.it/ristorante/campania/caserta/marcianise)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:00-00:00 |\n| **Tuesday** | 10:00-00:00 |\n| **Wednesday** | 10:00-00:00 |\n| **Thursday** | 10:00-00:00 |\n| **Friday** | 10:00-00:00 |\n| **Saturday** | 10:00-00:00 |\n| **Sunday** | 10:00-00:00 |\n\n### Services\nMcCafé® • Take Away • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.224899,
+          41.015366
+        ]
+      },
+      "properties": {
+        "id": 211,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Teverola",
+        "addr:city": "Teverola",
+        "addr:street": "Centro Commerciale Vulcano Buono, Boscofangone",
+        "branch": "Teverola",
+        "contact:phone": "081 8914579",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/caserta/teverola",
+        "opening_hours": {
+          "Monday": "09:00-23:00",
+          "Tuesday": "09:00-23:00",
+          "Wednesday": "09:00-23:00",
+          "Thursday": "09:00-23:00",
+          "Friday": "09:00-23:00",
+          "Saturday": "09:00-00:30",
+          "Sunday": "09:00-00:00"
+        },
+        "full_address": "Centro Commerciale Vulcano Buono, Boscofangone Caserta tel: 081 8914579",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "211.00",
+        "regione": "campania",
+        "provincia": "caserta",
+        "slug": "teverola",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/caserta/teverola",
+        "page_coordinates": [
+          14.224899,
+          41.015366
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Teverola**\n---\n**ID:** 211\n\n### Address\nCentro Commerciale Vulcano Buono, Boscofangone Caserta tel: 081 8914579, Teverola (caserta)\n\n### Contacts\n**Phone:** 081 8914579\n**Website:** [https://www.mcdonalds.it/ristorante/campania/caserta/teverola](https://www.mcdonalds.it/ristorante/campania/caserta/teverola)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 09:00-23:00 |\n| **Tuesday** | 09:00-23:00 |\n| **Wednesday** | 09:00-23:00 |\n| **Thursday** | 09:00-23:00 |\n| **Friday** | 09:00-23:00 |\n| **Saturday** | 09:00-00:30 |\n| **Sunday** | 09:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.990459,
+          40.559572
+        ]
+      },
+      "properties": {
+        "id": 272,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Eboli",
+        "addr:city": "Eboli",
+        "addr:street": "Strada Statale 18",
+        "branch": "Eboli",
+        "contact:phone": "0828 347493",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/salerno/eboli",
+        "opening_hours": {
+          "Monday": "10:30-23:00",
+          "Tuesday": "10:30-23:00",
+          "Wednesday": "10:30-23:00",
+          "Thursday": "10:30-23:00",
+          "Friday": "10:30-23:00",
+          "Saturday": "10:30-23:00",
+          "Sunday": "17:30-23:00"
+        },
+        "full_address": "Strada Statale 18 Salerno tel: 0828 347493",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "272.00",
+        "regione": "campania",
+        "provincia": "salerno",
+        "slug": "eboli",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/salerno/eboli",
+        "page_coordinates": [
+          14.990459,
+          40.559572
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Eboli**\n---\n**ID:** 272\n\n### Address\nStrada Statale 18 Salerno tel: 0828 347493, Eboli (salerno)\n\n### Contacts\n**Phone:** 0828 347493\n**Website:** [https://www.mcdonalds.it/ristorante/campania/salerno/eboli](https://www.mcdonalds.it/ristorante/campania/salerno/eboli)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-23:00 |\n| **Tuesday** | 10:30-23:00 |\n| **Wednesday** | 10:30-23:00 |\n| **Thursday** | 10:30-23:00 |\n| **Friday** | 10:30-23:00 |\n| **Saturday** | 10:30-23:00 |\n| **Sunday** | 17:30-23:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.31047,
+          40.898165
+        ]
+      },
+      "properties": {
+        "id": 281,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Casoria",
+        "addr:city": "Casoria",
+        "addr:street": "via San Salvatore",
+        "branch": "Casoria",
+        "contact:phone": "0817597807",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/napoli/casoria",
+        "opening_hours": {
+          "Monday": "09:00-23:00",
+          "Tuesday": "09:30-23:00",
+          "Wednesday": "09:30-23:00",
+          "Thursday": "09:30-23:00",
+          "Friday": "09:30-01:00",
+          "Saturday": "09:30-01:00",
+          "Sunday": "09:30-01:00"
+        },
+        "full_address": "via San Salvatore Napoli tel: 0817597807",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "281.00",
+        "regione": "campania",
+        "provincia": "napoli",
+        "slug": "casoria",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/napoli/casoria",
+        "page_coordinates": [
+          14.31047,
+          40.898165
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Casoria**\n---\n**ID:** 281\n\n### Address\nvia San Salvatore Napoli tel: 0817597807, Casoria (napoli)\n\n### Contacts\n**Phone:** 0817597807\n**Website:** [https://www.mcdonalds.it/ristorante/campania/napoli/casoria](https://www.mcdonalds.it/ristorante/campania/napoli/casoria)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 09:00-23:00 |\n| **Tuesday** | 09:30-23:00 |\n| **Wednesday** | 09:30-23:00 |\n| **Thursday** | 09:30-23:00 |\n| **Friday** | 09:30-01:00 |\n| **Saturday** | 09:30-01:00 |\n| **Sunday** | 09:30-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.502863,
+          40.740597
+        ]
+      },
+      "properties": {
+        "id": 289,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Pompei Mall",
+        "addr:city": "Pompei",
+        "addr:street": "via campo daviazione snc",
+        "branch": "Pompei Mall",
+        "contact:phone": "081 8500965",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/napoli/pompei-mall",
+        "opening_hours": {
+          "Monday": "09:00-23:00",
+          "Tuesday": "09:00-23:00",
+          "Wednesday": "09:00-23:00",
+          "Thursday": "09:00-23:00",
+          "Friday": "00:00-23:00",
+          "Saturday": "09:00-00:00",
+          "Sunday": "09:00-00:00"
+        },
+        "full_address": "via campo daviazione snc Napoli tel: 081 8500965",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "289.00",
+        "regione": "campania",
+        "provincia": "napoli",
+        "slug": "pompei-mall",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/napoli/pompei-mall",
+        "page_coordinates": [
+          14.502863,
+          40.740597
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Pompei Mall**\n---\n**ID:** 289\n\n### Address\nvia campo daviazione snc Napoli tel: 081 8500965, Pompei (napoli)\n\n### Contacts\n**Phone:** 081 8500965\n**Website:** [https://www.mcdonalds.it/ristorante/campania/napoli/pompei-mall](https://www.mcdonalds.it/ristorante/campania/napoli/pompei-mall)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 09:00-23:00 |\n| **Tuesday** | 09:00-23:00 |\n| **Wednesday** | 09:00-23:00 |\n| **Thursday** | 09:00-23:00 |\n| **Friday** | 00:00-23:00 |\n| **Saturday** | 09:00-00:00 |\n| **Sunday** | 09:00-00:00 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.282191,
+          40.87812
+        ]
+      },
+      "properties": {
+        "id": 320,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Napoli Aeroporto",
+        "addr:city": "Napoli",
+        "addr:street": "Viale Fulco Ruffo di Calabria",
+        "branch": "Napoli Aeroporto",
+        "contact:phone": "08119029448",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/napoli/napoli-aeroporto",
+        "opening_hours": {
+          "Monday": "06:30-21:00",
+          "Tuesday": "06:30-21:00",
+          "Wednesday": "06:30-21:00",
+          "Thursday": "06:30-21:00",
+          "Friday": "06:30-21:00",
+          "Saturday": "06:30-21:00",
+          "Sunday": "06:30-21:00"
+        },
+        "full_address": "Viale Fulco Ruffo di Calabria Napoli tel: 08119029448",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "320.00",
+        "regione": "campania",
+        "provincia": "napoli",
+        "slug": "napoli-aeroporto",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/napoli/napoli-aeroporto",
+        "page_coordinates": [
+          14.282191,
+          40.87812
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Play Land"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Napoli Aeroporto**\n---\n**ID:** 320\n\n### Address\nViale Fulco Ruffo di Calabria Napoli tel: 08119029448, Napoli (napoli)\n\n### Contacts\n**Phone:** 08119029448\n**Website:** [https://www.mcdonalds.it/ristorante/campania/napoli/napoli-aeroporto](https://www.mcdonalds.it/ristorante/campania/napoli/napoli-aeroporto)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 06:30-21:00 |\n| **Tuesday** | 06:30-21:00 |\n| **Wednesday** | 06:30-21:00 |\n| **Thursday** | 06:30-21:00 |\n| **Friday** | 06:30-21:00 |\n| **Saturday** | 06:30-21:00 |\n| **Sunday** | 06:30-21:00 |\n\n### Services\nTake Away • Play Land"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.372808,
+          41.024833
+        ]
+      },
+      "properties": {
+        "id": 339,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Maddaloni Drive",
+        "addr:city": "Maddaloni",
+        "addr:street": "via delle Forche Caudine",
+        "branch": "Maddaloni Drive",
+        "contact:phone": "0823 1303050",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/caserta/maddaloni-drive",
+        "opening_hours": {
+          "Monday": "07:00-03:00",
+          "Tuesday": "07:00-03:00",
+          "Wednesday": "07:00-18:00",
+          "Thursday": "07:00-03:00",
+          "Friday": "07:00-03:00",
+          "Saturday": "07:00-03:00",
+          "Sunday": "07:00-03:00"
+        },
+        "full_address": "via delle Forche Caudine Caserta tel: 0823 1303050",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "339.00",
+        "regione": "campania",
+        "provincia": "caserta",
+        "slug": "maddaloni-drive",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/caserta/maddaloni-drive",
+        "page_coordinates": [
+          14.372808,
+          41.024833
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Maddaloni Drive**\n---\n**ID:** 339\n\n### Address\nvia delle Forche Caudine Caserta tel: 0823 1303050, Maddaloni (caserta)\n\n### Contacts\n**Phone:** 0823 1303050\n**Website:** [https://www.mcdonalds.it/ristorante/campania/caserta/maddaloni-drive](https://www.mcdonalds.it/ristorante/campania/caserta/maddaloni-drive)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-03:00 |\n| **Tuesday** | 07:00-03:00 |\n| **Wednesday** | 07:00-18:00 |\n| **Thursday** | 07:00-03:00 |\n| **Friday** | 07:00-03:00 |\n| **Saturday** | 07:00-03:00 |\n| **Sunday** | 07:00-03:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.311374,
+          40.850036
+        ]
+      },
+      "properties": {
+        "id": 343,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Napoli Argine",
+        "addr:city": "Napoli",
+        "addr:street": "via Argine, 380",
+        "branch": "Napoli Argine",
+        "contact:phone": "081 5591219",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/napoli/napoli-argine",
+        "opening_hours": {
+          "Monday": "09:00-22:00",
+          "Tuesday": "09:00-22:00",
+          "Wednesday": "09:00-22:00",
+          "Thursday": "09:00-22:00",
+          "Friday": "09:00-22:00",
+          "Saturday": "09:00-23:00",
+          "Sunday": "09:00-23:00"
+        },
+        "full_address": "via Argine, 380 Napoli tel: 081 5591219",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "343.00",
+        "regione": "campania",
+        "provincia": "napoli",
+        "slug": "napoli-argine",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/napoli/napoli-argine",
+        "page_coordinates": [
+          14.311374,
+          40.850036
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Napoli Argine**\n---\n**ID:** 343\n\n### Address\nvia Argine, 380 Napoli tel: 081 5591219, Napoli (napoli)\n\n### Contacts\n**Phone:** 081 5591219\n**Website:** [https://www.mcdonalds.it/ristorante/campania/napoli/napoli-argine](https://www.mcdonalds.it/ristorante/campania/napoli/napoli-argine)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 09:00-22:00 |\n| **Tuesday** | 09:00-22:00 |\n| **Wednesday** | 09:00-22:00 |\n| **Thursday** | 09:00-22:00 |\n| **Friday** | 09:00-22:00 |\n| **Saturday** | 09:00-23:00 |\n| **Sunday** | 09:00-23:00 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.90729,
+          40.635624
+        ]
+      },
+      "properties": {
+        "id": 362,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Pontecagnano Mall",
+        "addr:city": "Pontecagnano",
+        "addr:street": "via Antonio Pacinotti",
+        "branch": "Pontecagnano Mall",
+        "contact:phone": "089 3123589",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/salerno/pontecagnano-mall",
+        "opening_hours": {
+          "Monday": "10:00-22:00",
+          "Tuesday": "10:00-22:00",
+          "Wednesday": "10:00-22:00",
+          "Thursday": "09:00-22:00",
+          "Friday": "10:00-22:00",
+          "Saturday": "10:00-23:00",
+          "Sunday": "10:00-23:00"
+        },
+        "full_address": "via Antonio Pacinotti Salerno tel: 089 3123589",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "362.00",
+        "regione": "campania",
+        "provincia": "salerno",
+        "slug": "pontecagnano-mall",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/salerno/pontecagnano-mall",
+        "page_coordinates": [
+          14.90729,
+          40.635624
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Pontecagnano Mall**\n---\n**ID:** 362\n\n### Address\nvia Antonio Pacinotti Salerno tel: 089 3123589, Pontecagnano (salerno)\n\n### Contacts\n**Phone:** 089 3123589\n**Website:** [https://www.mcdonalds.it/ristorante/campania/salerno/pontecagnano-mall](https://www.mcdonalds.it/ristorante/campania/salerno/pontecagnano-mall)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:00-22:00 |\n| **Tuesday** | 10:00-22:00 |\n| **Wednesday** | 10:00-22:00 |\n| **Thursday** | 09:00-22:00 |\n| **Friday** | 10:00-22:00 |\n| **Saturday** | 10:00-23:00 |\n| **Sunday** | 10:00-23:00 |\n\n### Services\nMcCafé® • Take Away • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.49869,
+          40.749293
+        ]
+      },
+      "properties": {
+        "id": 427,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Pompei",
+        "addr:city": "Pompei",
+        "addr:street": "Via Roma, 33",
+        "branch": "Pompei",
+        "contact:phone": "081 8561983",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/napoli/pompei",
+        "opening_hours": {
+          "Monday": "07:30-01:00",
+          "Tuesday": "07:30-01:00",
+          "Wednesday": "07:30-01:00",
+          "Thursday": "07:30-01:00",
+          "Friday": "07:30-01:00",
+          "Saturday": "07:30-02:00",
+          "Sunday": "07:30-01:00"
+        },
+        "full_address": "Via Roma, 33 Napoli tel: 081 8561983",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "427.00",
+        "regione": "campania",
+        "provincia": "napoli",
+        "slug": "pompei",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/napoli/pompei",
+        "page_coordinates": [
+          14.49869,
+          40.749293
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Pompei**\n---\n**ID:** 427\n\n### Address\nVia Roma, 33 Napoli tel: 081 8561983, Pompei (napoli)\n\n### Contacts\n**Phone:** 081 8561983\n**Website:** [https://www.mcdonalds.it/ristorante/campania/napoli/pompei](https://www.mcdonalds.it/ristorante/campania/napoli/pompei)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:30-01:00 |\n| **Tuesday** | 07:30-01:00 |\n| **Wednesday** | 07:30-01:00 |\n| **Thursday** | 07:30-01:00 |\n| **Friday** | 07:30-01:00 |\n| **Saturday** | 07:30-02:00 |\n| **Sunday** | 07:30-01:00 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.799801,
+          40.659312
+        ]
+      },
+      "properties": {
+        "id": 476,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Salerno Mercatello",
+        "addr:city": "Mercatello Di Salerno",
+        "addr:street": "Via Trento",
+        "branch": "Salerno Mercatello",
+        "contact:phone": "089 522291",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/salerno/salerno-mercatello",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "10:30-00:00",
+          "Thursday": "10:30-00:00",
+          "Friday": "10:30-00:00",
+          "Saturday": "10:30-00:00",
+          "Sunday": "10:30-00:00"
+        },
+        "full_address": "Via Trento Salerno tel: 089 522291",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "476.00",
+        "regione": "campania",
+        "provincia": "salerno",
+        "slug": "salerno-mercatello",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/salerno/salerno-mercatello",
+        "page_coordinates": [
+          14.799801,
+          40.659312
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Salerno Mercatello**\n---\n**ID:** 476\n\n### Address\nVia Trento Salerno tel: 089 522291, Mercatello Di Salerno (salerno)\n\n### Contacts\n**Phone:** 089 522291\n**Website:** [https://www.mcdonalds.it/ristorante/campania/salerno/salerno-mercatello](https://www.mcdonalds.it/ristorante/campania/salerno/salerno-mercatello)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-00:00 |\n| **Tuesday** | 10:30-00:00 |\n| **Wednesday** | 10:30-00:00 |\n| **Thursday** | 10:30-00:00 |\n| **Friday** | 10:30-00:00 |\n| **Saturday** | 10:30-00:00 |\n| **Sunday** | 10:30-00:00 |\n\n### Services\nMcDrive® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.279627,
+          40.872856
+        ]
+      },
+      "properties": {
+        "id": 490,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Napoli Doganella",
+        "addr:city": "Napoli",
+        "addr:street": "Via Tangenziale",
+        "branch": "Napoli Doganella",
+        "contact:phone": "081 5993395",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/napoli/napoli-doganella",
+        "opening_hours": {
+          "Monday": "08:00-00:00",
+          "Tuesday": "08:00-00:00",
+          "Wednesday": "08:30-00:00",
+          "Thursday": "08:30-00:00",
+          "Friday": "08:00-01:00",
+          "Saturday": "08:30-02:00",
+          "Sunday": "08:00-02:00"
+        },
+        "full_address": "Via Tangenziale Napoli tel: 081 5993395",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "490.00",
+        "regione": "campania",
+        "provincia": "napoli",
+        "slug": "napoli-doganella",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/napoli/napoli-doganella",
+        "page_coordinates": [
+          14.279627,
+          40.872856
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Napoli Doganella**\n---\n**ID:** 490\n\n### Address\nVia Tangenziale Napoli tel: 081 5993395, Napoli (napoli)\n\n### Contacts\n**Phone:** 081 5993395\n**Website:** [https://www.mcdonalds.it/ristorante/campania/napoli/napoli-doganella](https://www.mcdonalds.it/ristorante/campania/napoli/napoli-doganella)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-00:00 |\n| **Tuesday** | 08:00-00:00 |\n| **Wednesday** | 08:30-00:00 |\n| **Thursday** | 08:30-00:00 |\n| **Friday** | 08:00-01:00 |\n| **Saturday** | 08:30-02:00 |\n| **Sunday** | 08:00-02:00 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.471292,
+          40.753342
+        ]
+      },
+      "properties": {
+        "id": 515,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Torre Annunziata Retail Park",
+        "addr:city": "Torre Annunziata",
+        "addr:street": "via Comunale Traversa Andolfi snc",
+        "branch": "Torre Annunziata Retail Park",
+        "contact:phone": "081 0014732",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/napoli/torre-annunziata-retail-park",
+        "opening_hours": {
+          "Monday": "07:00-04:00",
+          "Tuesday": "07:00-04:00",
+          "Wednesday": "07:00-04:00",
+          "Thursday": "07:00-04:00",
+          "Friday": "07:00-04:00",
+          "Saturday": "07:00-04:00",
+          "Sunday": "07:00-04:00"
+        },
+        "full_address": "via Comunale Traversa Andolfi snc Napoli tel: 081 0014732",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "515.00",
+        "regione": "campania",
+        "provincia": "napoli",
+        "slug": "torre-annunziata-retail-park",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/napoli/torre-annunziata-retail-park",
+        "page_coordinates": [
+          14.471292,
+          40.753342
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Torre Annunziata Retail Park**\n---\n**ID:** 515\n\n### Address\nvia Comunale Traversa Andolfi snc Napoli tel: 081 0014732, Torre Annunziata (napoli)\n\n### Contacts\n**Phone:** 081 0014732\n**Website:** [https://www.mcdonalds.it/ristorante/campania/napoli/torre-annunziata-retail-park](https://www.mcdonalds.it/ristorante/campania/napoli/torre-annunziata-retail-park)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-04:00 |\n| **Tuesday** | 07:00-04:00 |\n| **Wednesday** | 07:00-04:00 |\n| **Thursday** | 07:00-04:00 |\n| **Friday** | 07:00-04:00 |\n| **Saturday** | 07:00-04:00 |\n| **Sunday** | 07:00-04:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.229285,
+          40.843323
+        ]
+      },
+      "properties": {
+        "id": 552,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Napoli Vomero",
+        "addr:city": "Napoli",
+        "addr:street": "via Merliani. 38",
+        "branch": "Napoli Vomero",
+        "contact:phone": "081 3721413",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/napoli/napoli-vomero",
+        "opening_hours": {
+          "Monday": "07:30-01:00",
+          "Tuesday": "07:30-01:00",
+          "Wednesday": "07:30-01:00",
+          "Thursday": "07:30-01:00",
+          "Friday": "07:30-05:00",
+          "Saturday": "07:30-05:00",
+          "Sunday": "07:30-05:00"
+        },
+        "full_address": "via Merliani. 38 Napoli tel: 081 3721413",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "552.00",
+        "regione": "campania",
+        "provincia": "napoli",
+        "slug": "napoli-vomero",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/napoli/napoli-vomero",
+        "page_coordinates": [
+          14.229285,
+          40.843323
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Napoli Vomero**\n---\n**ID:** 552\n\n### Address\nvia Merliani. 38 Napoli tel: 081 3721413, Napoli (napoli)\n\n### Contacts\n**Phone:** 081 3721413\n**Website:** [https://www.mcdonalds.it/ristorante/campania/napoli/napoli-vomero](https://www.mcdonalds.it/ristorante/campania/napoli/napoli-vomero)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:30-01:00 |\n| **Tuesday** | 07:30-01:00 |\n| **Wednesday** | 07:30-01:00 |\n| **Thursday** | 07:30-01:00 |\n| **Friday** | 07:30-05:00 |\n| **Saturday** | 07:30-05:00 |\n| **Sunday** | 07:30-05:00 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.248688,
+          40.838394
+        ]
+      },
+      "properties": {
+        "id": 561,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Napoli Galleria Umberto",
+        "addr:city": "Napoli",
+        "addr:street": "Galleria Umberto I° n° 72.73.74.75",
+        "branch": "Napoli Galleria Umberto",
+        "contact:phone": "081 0017508",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/napoli/napoli-galleria-umberto",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-00:00",
+          "Saturday": "07:00-02:00",
+          "Sunday": "07:00-01:00"
+        },
+        "full_address": "Galleria Umberto I° n° 72.73.74.75 Napoli tel: 081 0017508",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "561.00",
+        "regione": "campania",
+        "provincia": "napoli",
+        "slug": "napoli-galleria-umberto",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/napoli/napoli-galleria-umberto",
+        "page_coordinates": [
+          14.248688,
+          40.838394
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Napoli Galleria Umberto**\n---\n**ID:** 561\n\n### Address\nGalleria Umberto I° n° 72.73.74.75 Napoli tel: 081 0017508, Napoli (napoli)\n\n### Contacts\n**Phone:** 081 0017508\n**Website:** [https://www.mcdonalds.it/ristorante/campania/napoli/napoli-galleria-umberto](https://www.mcdonalds.it/ristorante/campania/napoli/napoli-galleria-umberto)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-00:00 |\n| **Tuesday** | 07:00-00:00 |\n| **Wednesday** | 07:00-00:00 |\n| **Thursday** | 07:00-00:00 |\n| **Friday** | 07:00-00:00 |\n| **Saturday** | 07:00-02:00 |\n| **Sunday** | 07:00-01:00 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.357843,
+          40.90242
+        ]
+      },
+      "properties": {
+        "id": 585,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Pomigliano dArco",
+        "addr:city": "Pomigliano Darco",
+        "addr:street": "Via Nazionale delle Puglie snc",
+        "branch": "Pomigliano dArco",
+        "contact:phone": "081 18527477",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/napoli/pomigliano-darco",
+        "opening_hours": {
+          "Monday": "08:00-00:30",
+          "Tuesday": "08:00-00:30",
+          "Wednesday": "08:00-00:30",
+          "Thursday": "08:00-01:00",
+          "Friday": "08:00-01:00",
+          "Saturday": "08:00-02:00",
+          "Sunday": "08:00-02:00"
+        },
+        "full_address": "Via Nazionale delle Puglie snc Napoli tel: 081 18527477",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "585.00",
+        "regione": "campania",
+        "provincia": "napoli",
+        "slug": "pomigliano-darco",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/napoli/pomigliano-darco",
+        "page_coordinates": [
+          14.357843,
+          40.90242
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Pomigliano dArco**\n---\n**ID:** 585\n\n### Address\nVia Nazionale delle Puglie snc Napoli tel: 081 18527477, Pomigliano Darco (napoli)\n\n### Contacts\n**Phone:** 081 18527477\n**Website:** [https://www.mcdonalds.it/ristorante/campania/napoli/pomigliano-darco](https://www.mcdonalds.it/ristorante/campania/napoli/pomigliano-darco)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-00:30 |\n| **Tuesday** | 08:00-00:30 |\n| **Wednesday** | 08:00-00:30 |\n| **Thursday** | 08:00-01:00 |\n| **Friday** | 08:00-01:00 |\n| **Saturday** | 08:00-02:00 |\n| **Sunday** | 08:00-02:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.113431,
+          40.87933
+        ]
+      },
+      "properties": {
+        "id": 587,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Quarto Mall",
+        "addr:city": "Quarto",
+        "addr:street": "Via Masullo - c/o CC Quarto Nuovo",
+        "branch": "Quarto Mall",
+        "contact:phone": "081 0012019",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/napoli/quarto-mall",
+        "opening_hours": {
+          "Monday": "09:00-22:00",
+          "Tuesday": "09:00-22:00",
+          "Wednesday": "09:00-22:00",
+          "Thursday": "09:00-22:00",
+          "Friday": "09:00-22:30",
+          "Saturday": "09:00-23:00",
+          "Sunday": "09:00-23:00"
+        },
+        "full_address": "Via Masullo - c/o CC Quarto Nuovo Napoli tel: 081 0012019",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "587.00",
+        "regione": "campania",
+        "provincia": "napoli",
+        "slug": "quarto-mall",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/napoli/quarto-mall",
+        "page_coordinates": [
+          14.113431,
+          40.87933
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Quarto Mall**\n---\n**ID:** 587\n\n### Address\nVia Masullo - c/o CC Quarto Nuovo Napoli tel: 081 0012019, Quarto (napoli)\n\n### Contacts\n**Phone:** 081 0012019\n**Website:** [https://www.mcdonalds.it/ristorante/campania/napoli/quarto-mall](https://www.mcdonalds.it/ristorante/campania/napoli/quarto-mall)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 09:00-22:00 |\n| **Tuesday** | 09:00-22:00 |\n| **Wednesday** | 09:00-22:00 |\n| **Thursday** | 09:00-22:00 |\n| **Friday** | 09:00-22:30 |\n| **Saturday** | 09:00-23:00 |\n| **Sunday** | 09:00-23:00 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.756751,
+          40.678714
+        ]
+      },
+      "properties": {
+        "id": 620,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Salerno Via Roma",
+        "addr:city": "Salerno",
+        "addr:street": "via Roma",
+        "branch": "Salerno Via Roma",
+        "contact:phone": "089 3123256",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/salerno/salerno-via-roma",
+        "opening_hours": {
+          "Monday": "11:00-23:00",
+          "Tuesday": "10:00-23:00",
+          "Wednesday": "10:00-23:00",
+          "Thursday": "10:00-23:00",
+          "Friday": "10:00-23:00",
+          "Saturday": "10:00-23:00",
+          "Sunday": "10:00-23:00"
+        },
+        "full_address": "via Roma Salerno tel: 089 3123256",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "620.00",
+        "regione": "campania",
+        "provincia": "salerno",
+        "slug": "salerno-via-roma",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/salerno/salerno-via-roma",
+        "page_coordinates": [
+          14.756751,
+          40.678714
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Salerno Via Roma**\n---\n**ID:** 620\n\n### Address\nvia Roma Salerno tel: 089 3123256, Salerno (salerno)\n\n### Contacts\n**Phone:** 089 3123256\n**Website:** [https://www.mcdonalds.it/ristorante/campania/salerno/salerno-via-roma](https://www.mcdonalds.it/ristorante/campania/salerno/salerno-via-roma)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 11:00-23:00 |\n| **Tuesday** | 10:00-23:00 |\n| **Wednesday** | 10:00-23:00 |\n| **Thursday** | 10:00-23:00 |\n| **Friday** | 10:00-23:00 |\n| **Saturday** | 10:00-23:00 |\n| **Sunday** | 10:00-23:00 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.255439,
+          40.887603
+        ]
+      },
+      "properties": {
+        "id": 622,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Napoli Miano",
+        "addr:city": "Napoli",
+        "addr:street": "Piazza Madonna dellArco - c/o CC La Birreria",
+        "branch": "Napoli Miano",
+        "contact:phone": "08118576146",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/napoli/napoli-miano",
+        "opening_hours": {
+          "Monday": "08:00-01:00",
+          "Tuesday": "08:00-01:00",
+          "Wednesday": "08:00-01:00",
+          "Thursday": "08:00-01:00",
+          "Friday": "08:00-01:00",
+          "Saturday": "08:00-01:00",
+          "Sunday": "08:00-02:00"
+        },
+        "full_address": "Piazza Madonna dellArco - c/o CC La Birreria Napoli tel: 08118576146",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "622.00",
+        "regione": "campania",
+        "provincia": "napoli",
+        "slug": "napoli-miano",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/napoli/napoli-miano",
+        "page_coordinates": [
+          14.255439,
+          40.887603
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Napoli Miano**\n---\n**ID:** 622\n\n### Address\nPiazza Madonna dellArco - c/o CC La Birreria Napoli tel: 08118576146, Napoli (napoli)\n\n### Contacts\n**Phone:** 08118576146\n**Website:** [https://www.mcdonalds.it/ristorante/campania/napoli/napoli-miano](https://www.mcdonalds.it/ristorante/campania/napoli/napoli-miano)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-01:00 |\n| **Tuesday** | 08:00-01:00 |\n| **Wednesday** | 08:00-01:00 |\n| **Thursday** | 08:00-01:00 |\n| **Friday** | 08:00-01:00 |\n| **Saturday** | 08:00-01:00 |\n| **Sunday** | 08:00-02:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.797016,
+          41.126699
+        ]
+      },
+      "properties": {
+        "id": 636,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Benevento via Nenni 2",
+        "addr:city": "Benevento",
+        "addr:street": "Via Pietro Nenni",
+        "branch": "Benevento via Nenni 2",
+        "contact:phone": "0824032758",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/benevento/benevento-via-nenni-2",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "10:30-00:00",
+          "Thursday": "10:30-00:00",
+          "Friday": "10:30-01:00",
+          "Saturday": "10:30-01:00",
+          "Sunday": "17:00-01:00"
+        },
+        "full_address": "Via Pietro Nenni Benevento tel: 0824032758",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "636.00",
+        "regione": "campania",
+        "provincia": "benevento",
+        "slug": "benevento-via-nenni-2",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/benevento/benevento-via-nenni-2",
+        "page_coordinates": [
+          14.797016,
+          41.126699
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Benevento via Nenni 2**\n---\n**ID:** 636\n\n### Address\nVia Pietro Nenni Benevento tel: 0824032758, Benevento (benevento)\n\n### Contacts\n**Phone:** 0824032758\n**Website:** [https://www.mcdonalds.it/ristorante/campania/benevento/benevento-via-nenni-2](https://www.mcdonalds.it/ristorante/campania/benevento/benevento-via-nenni-2)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-00:00 |\n| **Tuesday** | 10:30-00:00 |\n| **Wednesday** | 10:30-00:00 |\n| **Thursday** | 10:30-00:00 |\n| **Friday** | 10:30-01:00 |\n| **Saturday** | 10:30-01:00 |\n| **Sunday** | 17:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.789747,
+          40.757785
+        ]
+      },
+      "properties": {
+        "id": 653,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Fisciano Retail Park",
+        "addr:city": "Fisciano",
+        "addr:street": "Via Adamo Fortunato snc",
+        "branch": "Fisciano Retail Park",
+        "contact:phone": "0893122069",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/salerno/fisciano-retail-park",
+        "opening_hours": {
+          "Monday": "07:30-00:00",
+          "Tuesday": "07:30-00:00",
+          "Wednesday": "07:30-00:00",
+          "Thursday": "07:30-00:00",
+          "Friday": "07:30-00:00",
+          "Saturday": "07:30-00:00",
+          "Sunday": "07:30-00:00"
+        },
+        "full_address": "Via Adamo Fortunato snc Salerno tel: 0893122069",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "653.00",
+        "regione": "campania",
+        "provincia": "salerno",
+        "slug": "fisciano-retail-park",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/salerno/fisciano-retail-park",
+        "page_coordinates": [
+          14.789747,
+          40.757785
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Fisciano Retail Park**\n---\n**ID:** 653\n\n### Address\nVia Adamo Fortunato snc Salerno tel: 0893122069, Fisciano (salerno)\n\n### Contacts\n**Phone:** 0893122069\n**Website:** [https://www.mcdonalds.it/ristorante/campania/salerno/fisciano-retail-park](https://www.mcdonalds.it/ristorante/campania/salerno/fisciano-retail-park)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:30-00:00 |\n| **Tuesday** | 07:30-00:00 |\n| **Wednesday** | 07:30-00:00 |\n| **Thursday** | 07:30-00:00 |\n| **Friday** | 07:30-00:00 |\n| **Saturday** | 07:30-00:00 |\n| **Sunday** | 07:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.25202,
+          40.840341
+        ]
+      },
+      "properties": {
+        "id": 663,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Napoli Via Medina",
+        "addr:city": "Napoli",
+        "addr:street": "Via Medina/ang. Piazza Municipio",
+        "branch": "Napoli Via Medina",
+        "contact:phone": "0810012091",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/napoli/napoli-via-medina",
+        "opening_hours": {
+          "Monday": "17:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-00:00",
+          "Saturday": "07:00-01:00",
+          "Sunday": "07:00-01:00"
+        },
+        "full_address": "Via Medina/ang. Piazza Municipio Napoli tel: 0810012091",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "663.00",
+        "regione": "campania",
+        "provincia": "napoli",
+        "slug": "napoli-via-medina",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/napoli/napoli-via-medina",
+        "page_coordinates": [
+          14.25202,
+          40.840341
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Napoli Via Medina**\n---\n**ID:** 663\n\n### Address\nVia Medina/ang. Piazza Municipio Napoli tel: 0810012091, Napoli (napoli)\n\n### Contacts\n**Phone:** 0810012091\n**Website:** [https://www.mcdonalds.it/ristorante/campania/napoli/napoli-via-medina](https://www.mcdonalds.it/ristorante/campania/napoli/napoli-via-medina)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 17:00-00:00 |\n| **Tuesday** | 07:00-00:00 |\n| **Wednesday** | 07:00-00:00 |\n| **Thursday** | 07:00-00:00 |\n| **Friday** | 07:00-00:00 |\n| **Saturday** | 07:00-01:00 |\n| **Sunday** | 07:00-01:00 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.271945,
+          40.853276
+        ]
+      },
+      "properties": {
+        "id": 685,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Napoli Stazione Centrale",
+        "addr:city": "Napoli",
+        "addr:street": "Stazione centrale Napoli",
+        "branch": "Napoli Stazione Centrale",
+        "contact:phone": "0810012010",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/napoli/napoli-stazione-centrale",
+        "opening_hours": {
+          "Monday": "10:30-23:00",
+          "Tuesday": "10:30-23:00",
+          "Wednesday": "10:30-23:00",
+          "Thursday": "10:30-23:00",
+          "Friday": "10:30-23:00",
+          "Saturday": "10:30-23:00",
+          "Sunday": "10:30-23:00"
+        },
+        "full_address": "Stazione centrale Napoli Napoli tel: 0810012010",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "685.00",
+        "regione": "campania",
+        "provincia": "napoli",
+        "slug": "napoli-stazione-centrale",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/napoli/napoli-stazione-centrale",
+        "page_coordinates": [
+          14.271945,
+          40.853276
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Napoli Stazione Centrale**\n---\n**ID:** 685\n\n### Address\nStazione centrale Napoli Napoli tel: 0810012010, Napoli (napoli)\n\n### Contacts\n**Phone:** 0810012010\n**Website:** [https://www.mcdonalds.it/ristorante/campania/napoli/napoli-stazione-centrale](https://www.mcdonalds.it/ristorante/campania/napoli/napoli-stazione-centrale)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-23:00 |\n| **Tuesday** | 10:30-23:00 |\n| **Wednesday** | 10:30-23:00 |\n| **Thursday** | 10:30-23:00 |\n| **Friday** | 10:30-23:00 |\n| **Saturday** | 10:30-23:00 |\n| **Sunday** | 10:30-23:00 |\n\n### Services\nMcCafé® • Take Away • Ordina in App • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.283466,
+          40.89928
+        ]
+      },
+      "properties": {
+        "id": 690,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Casavatore",
+        "addr:city": "Casavatore",
+        "addr:street": "Via Roberto Bracco 5/7",
+        "branch": "Casavatore",
+        "contact:phone": "0810012005",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/napoli/casavatore",
+        "opening_hours": {
+          "Monday": "08:00-00:00",
+          "Tuesday": "08:00-00:00",
+          "Wednesday": "08:00-00:00",
+          "Thursday": "08:00-00:00",
+          "Friday": "08:00-01:00",
+          "Saturday": "08:00-03:00",
+          "Sunday": "08:00-01:00"
+        },
+        "full_address": "Via Roberto Bracco 5/7 Napoli tel: 0810012005",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "690.00",
+        "regione": "campania",
+        "provincia": "napoli",
+        "slug": "casavatore",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/napoli/casavatore",
+        "page_coordinates": [
+          14.283466,
+          40.89928
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Casavatore**\n---\n**ID:** 690\n\n### Address\nVia Roberto Bracco 5/7 Napoli tel: 0810012005, Casavatore (napoli)\n\n### Contacts\n**Phone:** 0810012005\n**Website:** [https://www.mcdonalds.it/ristorante/campania/napoli/casavatore](https://www.mcdonalds.it/ristorante/campania/napoli/casavatore)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-00:00 |\n| **Tuesday** | 08:00-00:00 |\n| **Wednesday** | 08:00-00:00 |\n| **Thursday** | 08:00-00:00 |\n| **Friday** | 08:00-01:00 |\n| **Saturday** | 08:00-03:00 |\n| **Sunday** | 08:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.350261,
+          41.077207
+        ]
+      },
+      "properties": {
+        "id": 691,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Caserta via S.Augusto",
+        "addr:city": "Caserta",
+        "addr:street": "Via S.Augusto",
+        "branch": "Caserta via S.Augusto",
+        "contact:phone": "08231250830",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/caserta/caserta-via-saugusto",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-01:00",
+          "Thursday": "07:00-07:00",
+          "Friday": "07:00-01:00",
+          "Saturday": "07:00-03:00",
+          "Sunday": "08:00-01:00"
+        },
+        "full_address": "Via S.Augusto Caserta tel: 08231250830",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "691.00",
+        "regione": "campania",
+        "provincia": "caserta",
+        "slug": "caserta-via-saugusto",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/caserta/caserta-via-saugusto",
+        "page_coordinates": [
+          14.350261,
+          41.077207
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Caserta via S.Augusto**\n---\n**ID:** 691\n\n### Address\nVia S.Augusto Caserta tel: 08231250830, Caserta (caserta)\n\n### Contacts\n**Phone:** 08231250830\n**Website:** [https://www.mcdonalds.it/ristorante/campania/caserta/caserta-via-saugusto](https://www.mcdonalds.it/ristorante/campania/caserta/caserta-via-saugusto)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-00:00 |\n| **Tuesday** | 07:00-00:00 |\n| **Wednesday** | 07:00-01:00 |\n| **Thursday** | 07:00-07:00 |\n| **Friday** | 07:00-01:00 |\n| **Saturday** | 07:00-03:00 |\n| **Sunday** | 08:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.396673,
+          40.884928
+        ]
+      },
+      "properties": {
+        "id": 696,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "S. Anastasia",
+        "addr:city": "Santanastasia",
+        "addr:street": "Via Pomigliano",
+        "branch": "S. Anastasia",
+        "contact:phone": "0810012711",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/napoli/s-anastasia",
+        "opening_hours": {
+          "Monday": "08:00-01:00",
+          "Tuesday": "08:00-01:00",
+          "Wednesday": "08:00-01:00",
+          "Thursday": "08:00-01:00",
+          "Friday": "08:00-04:00",
+          "Saturday": "08:00-04:00",
+          "Sunday": "08:00-03:00"
+        },
+        "full_address": "Via Pomigliano Napoli tel: 0810012711",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "696.00",
+        "regione": "campania",
+        "provincia": "napoli",
+        "slug": "s-anastasia",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/napoli/s-anastasia",
+        "page_coordinates": [
+          14.396673,
+          40.884928
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**S. Anastasia**\n---\n**ID:** 696\n\n### Address\nVia Pomigliano Napoli tel: 0810012711, Santanastasia (napoli)\n\n### Contacts\n**Phone:** 0810012711\n**Website:** [https://www.mcdonalds.it/ristorante/campania/napoli/s-anastasia](https://www.mcdonalds.it/ristorante/campania/napoli/s-anastasia)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-01:00 |\n| **Tuesday** | 08:00-01:00 |\n| **Wednesday** | 08:00-01:00 |\n| **Thursday** | 08:00-01:00 |\n| **Friday** | 08:00-04:00 |\n| **Saturday** | 08:00-04:00 |\n| **Sunday** | 08:00-03:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.973844,
+          40.603474
+        ]
+      },
+      "properties": {
+        "id": 699,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Battipaglia",
+        "addr:city": "Battipaglia",
+        "addr:street": "Strada Statale 18 Tirrena Inferiore",
+        "branch": "Battipaglia",
+        "contact:phone": "0828052984",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/salerno/battipaglia",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "10:30-00:00",
+          "Thursday": "10:30-00:00",
+          "Friday": "10:30-00:00",
+          "Saturday": "10:30-00:00",
+          "Sunday": "10:30-00:00"
+        },
+        "full_address": "Strada Statale 18 Tirrena Inferiore Salerno tel: 0828052984",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "699.00",
+        "regione": "campania",
+        "provincia": "salerno",
+        "slug": "battipaglia",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/salerno/battipaglia",
+        "page_coordinates": [
+          14.973844,
+          40.603474
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Battipaglia**\n---\n**ID:** 699\n\n### Address\nStrada Statale 18 Tirrena Inferiore Salerno tel: 0828052984, Battipaglia (salerno)\n\n### Contacts\n**Phone:** 0828052984\n**Website:** [https://www.mcdonalds.it/ristorante/campania/salerno/battipaglia](https://www.mcdonalds.it/ristorante/campania/salerno/battipaglia)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-00:00 |\n| **Tuesday** | 10:30-00:00 |\n| **Wednesday** | 10:30-00:00 |\n| **Thursday** | 10:30-00:00 |\n| **Friday** | 10:30-00:00 |\n| **Saturday** | 10:30-00:00 |\n| **Sunday** | 10:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.096662,
+          41.306324
+        ]
+      },
+      "properties": {
+        "id": 734,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Caianello",
+        "addr:city": "Caianello",
+        "addr:street": "SP85",
+        "branch": "Caianello",
+        "contact:phone": "08231297809",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/caserta/caianello",
+        "opening_hours": {
+          "Monday": "08:00-01:00",
+          "Tuesday": "08:00-01:00",
+          "Wednesday": "08:00-01:00",
+          "Thursday": "08:00-01:00",
+          "Friday": "08:00-01:00",
+          "Saturday": "08:00-01:00",
+          "Sunday": "08:00-01:00"
+        },
+        "full_address": "SP85 Caserta tel: 08231297809",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "734.00",
+        "regione": "campania",
+        "provincia": "caserta",
+        "slug": "caianello",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/caserta/caianello",
+        "page_coordinates": [
+          14.096662,
+          41.306324
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Caianello**\n---\n**ID:** 734\n\n### Address\nSP85 Caserta tel: 08231297809, Caianello (caserta)\n\n### Contacts\n**Phone:** 08231297809\n**Website:** [https://www.mcdonalds.it/ristorante/campania/caserta/caianello](https://www.mcdonalds.it/ristorante/campania/caserta/caianello)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-01:00 |\n| **Tuesday** | 08:00-01:00 |\n| **Wednesday** | 08:00-01:00 |\n| **Thursday** | 08:00-01:00 |\n| **Friday** | 08:00-01:00 |\n| **Saturday** | 08:00-01:00 |\n| **Sunday** | 08:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.319112,
+          41.043369
+        ]
+      },
+      "properties": {
+        "id": 739,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Capodrise",
+        "addr:city": "Capodrise",
+        "addr:street": "Via Retella",
+        "branch": "Capodrise",
+        "contact:phone": "0823 1259775",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/caserta/capodrise",
+        "opening_hours": {
+          "Monday": "07:00-03:00",
+          "Tuesday": "07:00-03:00",
+          "Wednesday": "07:00-03:00",
+          "Thursday": "07:00-03:00",
+          "Friday": "07:00-03:00",
+          "Saturday": "07:00-03:00",
+          "Sunday": "07:00-03:00"
+        },
+        "full_address": "Via Retella Caserta tel: 0823 1259775",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "739.00",
+        "regione": "campania",
+        "provincia": "caserta",
+        "slug": "capodrise",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/caserta/capodrise",
+        "page_coordinates": [
+          14.319112,
+          41.043369
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Capodrise**\n---\n**ID:** 739\n\n### Address\nVia Retella Caserta tel: 0823 1259775, Capodrise (caserta)\n\n### Contacts\n**Phone:** 0823 1259775\n**Website:** [https://www.mcdonalds.it/ristorante/campania/caserta/capodrise](https://www.mcdonalds.it/ristorante/campania/caserta/capodrise)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-03:00 |\n| **Tuesday** | 07:00-03:00 |\n| **Wednesday** | 07:00-03:00 |\n| **Thursday** | 07:00-03:00 |\n| **Friday** | 07:00-03:00 |\n| **Saturday** | 07:00-03:00 |\n| **Sunday** | 07:00-03:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.326686,
+          41.018667
+        ]
+      },
+      "properties": {
+        "id": 744,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Marcianise Uscita A1",
+        "addr:city": "Marcianise",
+        "addr:street": "Vico Via Provinciale 87",
+        "branch": "Marcianise Uscita A1",
+        "contact:phone": "08231327904",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/caserta/marcianise-uscita-a1",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-01:00",
+          "Saturday": "07:00-01:00",
+          "Sunday": "07:00-01:00"
+        },
+        "full_address": "Vico Via Provinciale 87 Caserta tel: 08231327904",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "744.00",
+        "regione": "campania",
+        "provincia": "caserta",
+        "slug": "marcianise-uscita-a1",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/caserta/marcianise-uscita-a1",
+        "page_coordinates": [
+          14.326686,
+          41.018667
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Marcianise Uscita A1**\n---\n**ID:** 744\n\n### Address\nVico Via Provinciale 87 Caserta tel: 08231327904, Marcianise (caserta)\n\n### Contacts\n**Phone:** 08231327904\n**Website:** [https://www.mcdonalds.it/ristorante/campania/caserta/marcianise-uscita-a1](https://www.mcdonalds.it/ristorante/campania/caserta/marcianise-uscita-a1)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-00:00 |\n| **Tuesday** | 07:00-00:00 |\n| **Wednesday** | 07:00-00:00 |\n| **Thursday** | 07:00-00:00 |\n| **Friday** | 07:00-01:00 |\n| **Saturday** | 07:00-01:00 |\n| **Sunday** | 07:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.777608,
+          41.116744
+        ]
+      },
+      "properties": {
+        "id": 765,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Benevento Stadio",
+        "addr:city": "Benevento",
+        "addr:street": "Via Saverio Casselli",
+        "branch": "Benevento Stadio",
+        "contact:phone": "0824 1521817",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/benevento/benevento-stadio",
+        "opening_hours": {
+          "Monday": "07:30-00:00",
+          "Tuesday": "07:30-00:00",
+          "Wednesday": "07:30-00:00",
+          "Thursday": "17:00-00:00",
+          "Friday": "07:30-00:00",
+          "Saturday": "07:30-00:00",
+          "Sunday": "17:00-00:00"
+        },
+        "full_address": "Via Saverio Casselli Benevento tel: 0824 1521817",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "765.00",
+        "regione": "campania",
+        "provincia": "benevento",
+        "slug": "benevento-stadio",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/benevento/benevento-stadio",
+        "page_coordinates": [
+          14.777608,
+          41.116744
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Benevento Stadio**\n---\n**ID:** 765\n\n### Address\nVia Saverio Casselli Benevento tel: 0824 1521817, Benevento (benevento)\n\n### Contacts\n**Phone:** 0824 1521817\n**Website:** [https://www.mcdonalds.it/ristorante/campania/benevento/benevento-stadio](https://www.mcdonalds.it/ristorante/campania/benevento/benevento-stadio)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:30-00:00 |\n| **Tuesday** | 07:30-00:00 |\n| **Wednesday** | 07:30-00:00 |\n| **Thursday** | 17:00-00:00 |\n| **Friday** | 07:30-00:00 |\n| **Saturday** | 07:30-00:00 |\n| **Sunday** | 17:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.533551,
+          40.937599
+        ]
+      },
+      "properties": {
+        "id": 767,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Nola SS7bis",
+        "addr:city": "Nola",
+        "addr:street": "SS 7 bis n 338",
+        "branch": "Nola SS7bis",
+        "contact:phone": "081 18241558",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/napoli/nola-ss7bis",
+        "opening_hours": {
+          "Monday": "07:30-01:00",
+          "Tuesday": "07:30-01:00",
+          "Wednesday": "07:30-01:00",
+          "Thursday": "07:30-01:00",
+          "Friday": "07:30-01:00",
+          "Saturday": "07:30-01:00",
+          "Sunday": "07:30-01:00"
+        },
+        "full_address": "SS 7 bis n 338 Napoli tel: 081 18241558",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "767.00",
+        "regione": "campania",
+        "provincia": "napoli",
+        "slug": "nola-ss7bis",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/napoli/nola-ss7bis",
+        "page_coordinates": [
+          14.533551,
+          40.937599
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Nola SS7bis**\n---\n**ID:** 767\n\n### Address\nSS 7 bis n 338 Napoli tel: 081 18241558, Nola (napoli)\n\n### Contacts\n**Phone:** 081 18241558\n**Website:** [https://www.mcdonalds.it/ristorante/campania/napoli/nola-ss7bis](https://www.mcdonalds.it/ristorante/campania/napoli/nola-ss7bis)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:30-01:00 |\n| **Tuesday** | 07:30-01:00 |\n| **Wednesday** | 07:30-01:00 |\n| **Thursday** | 07:30-01:00 |\n| **Friday** | 07:30-01:00 |\n| **Saturday** | 07:30-01:00 |\n| **Sunday** | 07:30-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.779894,
+          40.916165
+        ]
+      },
+      "properties": {
+        "id": 771,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Avellino Autostazione",
+        "addr:city": "Avellino",
+        "addr:street": "Via Francesco Fariello snc",
+        "branch": "Avellino Autostazione",
+        "contact:phone": "0825 1503138",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/avellino/avellino-autostazione",
+        "opening_hours": {
+          "Monday": "07:00-02:00",
+          "Tuesday": "07:00-02:00",
+          "Wednesday": "07:00-02:00",
+          "Thursday": "07:00-02:00",
+          "Friday": "07:00-06:30",
+          "Saturday": "06:30-23:30",
+          "Sunday": "06:30-02:00"
+        },
+        "full_address": "Via Francesco Fariello snc Avellino tel: 0825 1503138",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "771.00",
+        "regione": "campania",
+        "provincia": "avellino",
+        "slug": "avellino-autostazione",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/avellino/avellino-autostazione",
+        "page_coordinates": [
+          14.779894,
+          40.916165
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Avellino Autostazione**\n---\n**ID:** 771\n\n### Address\nVia Francesco Fariello snc Avellino tel: 0825 1503138, Avellino (avellino)\n\n### Contacts\n**Phone:** 0825 1503138\n**Website:** [https://www.mcdonalds.it/ristorante/campania/avellino/avellino-autostazione](https://www.mcdonalds.it/ristorante/campania/avellino/avellino-autostazione)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-02:00 |\n| **Tuesday** | 07:00-02:00 |\n| **Wednesday** | 07:00-02:00 |\n| **Thursday** | 07:00-02:00 |\n| **Friday** | 07:00-06:30 |\n| **Saturday** | 06:30-23:30 |\n| **Sunday** | 06:30-02:00 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.613831,
+          40.36769
+        ]
+      },
+      "properties": {
+        "id": 783,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Sala Consilina",
+        "addr:city": "Sala Consilina",
+        "addr:street": "Via Fontanelle Snc",
+        "branch": "Sala Consilina",
+        "contact:phone": "0975 1902466",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/salerno/sala-consilina",
+        "opening_hours": {
+          "Monday": "07:30-01:00",
+          "Tuesday": "07:30-01:00",
+          "Wednesday": "07:30-01:00",
+          "Thursday": "07:30-01:00",
+          "Friday": "07:30-03:00",
+          "Saturday": "07:30-03:00",
+          "Sunday": "07:30-01:00"
+        },
+        "full_address": "Via Fontanelle Snc Salerno tel: 0975 1902466",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "783.00",
+        "regione": "campania",
+        "provincia": "salerno",
+        "slug": "sala-consilina",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/salerno/sala-consilina",
+        "page_coordinates": [
+          15.613831,
+          40.36769
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Sala Consilina**\n---\n**ID:** 783\n\n### Address\nVia Fontanelle Snc Salerno tel: 0975 1902466, Sala Consilina (salerno)\n\n### Contacts\n**Phone:** 0975 1902466\n**Website:** [https://www.mcdonalds.it/ristorante/campania/salerno/sala-consilina](https://www.mcdonalds.it/ristorante/campania/salerno/sala-consilina)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:30-01:00 |\n| **Tuesday** | 07:30-01:00 |\n| **Wednesday** | 07:30-01:00 |\n| **Thursday** | 07:30-01:00 |\n| **Friday** | 07:30-03:00 |\n| **Saturday** | 07:30-03:00 |\n| **Sunday** | 07:30-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.295855,
+          40.932551
+        ]
+      },
+      "properties": {
+        "id": 784,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Cardito",
+        "addr:city": "Cardito",
+        "addr:street": "Via Enrico Fermi",
+        "branch": "Cardito",
+        "contact:phone": "081 18020718",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/napoli/cardito",
+        "opening_hours": {
+          "Monday": "08:00-00:30",
+          "Tuesday": "08:00-00:30",
+          "Wednesday": "08:00-00:30",
+          "Thursday": "08:00-00:30",
+          "Friday": "08:00-02:00",
+          "Saturday": "08:00-02:00",
+          "Sunday": "08:00-02:00"
+        },
+        "full_address": "Via Enrico Fermi Napoli tel: 081 18020718",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "784.00",
+        "regione": "campania",
+        "provincia": "napoli",
+        "slug": "cardito",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/napoli/cardito",
+        "page_coordinates": [
+          14.295855,
+          40.932551
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Cardito**\n---\n**ID:** 784\n\n### Address\nVia Enrico Fermi Napoli tel: 081 18020718, Cardito (napoli)\n\n### Contacts\n**Phone:** 081 18020718\n**Website:** [https://www.mcdonalds.it/ristorante/campania/napoli/cardito](https://www.mcdonalds.it/ristorante/campania/napoli/cardito)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-00:30 |\n| **Tuesday** | 08:00-00:30 |\n| **Wednesday** | 08:00-00:30 |\n| **Thursday** | 08:00-00:30 |\n| **Friday** | 08:00-02:00 |\n| **Saturday** | 08:00-02:00 |\n| **Sunday** | 08:00-02:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.083623,
+          40.889929
+        ]
+      },
+      "properties": {
+        "id": 951,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Licola",
+        "addr:city": "Giugliano In Campania",
+        "addr:street": "Via S. Nullo 105",
+        "branch": "Licola",
+        "contact:phone": "081 17782772",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/napoli/licola",
+        "opening_hours": {
+          "Monday": "08:00-00:00",
+          "Tuesday": "08:00-00:00",
+          "Wednesday": "08:00-00:00",
+          "Thursday": "08:00-00:00",
+          "Friday": "08:00-00:00",
+          "Saturday": "08:00-00:00",
+          "Sunday": "08:00-00:00"
+        },
+        "full_address": "Via S. Nullo 105 Napoli tel: 081 17782772",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "951.00",
+        "regione": "campania",
+        "provincia": "napoli",
+        "slug": "licola",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/napoli/licola",
+        "page_coordinates": [
+          14.083623,
+          40.889929
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Licola**\n---\n**ID:** 951\n\n### Address\nVia S. Nullo 105 Napoli tel: 081 17782772, Giugliano In Campania (napoli)\n\n### Contacts\n**Phone:** 081 17782772\n**Website:** [https://www.mcdonalds.it/ristorante/campania/napoli/licola](https://www.mcdonalds.it/ristorante/campania/napoli/licola)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-00:00 |\n| **Tuesday** | 08:00-00:00 |\n| **Wednesday** | 08:00-00:00 |\n| **Thursday** | 08:00-00:00 |\n| **Friday** | 08:00-00:00 |\n| **Saturday** | 08:00-00:00 |\n| **Sunday** | 08:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.326654,
+          40.894534
+        ]
+      },
+      "properties": {
+        "id": 967,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Casoria Via Nazionale delle Puglie",
+        "addr:city": "Casoria",
+        "addr:street": "Via Nazionale delle Puglie /Via Ventotene",
+        "branch": "Casoria Via Nazionale delle Puglie",
+        "contact:phone": "08117762330",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/napoli/casoria-via-nazionale-delle-puglie",
+        "opening_hours": {
+          "Monday": "08:00-01:00",
+          "Tuesday": "08:00-01:00",
+          "Wednesday": "08:00-01:00",
+          "Thursday": "08:00-01:00",
+          "Friday": "08:00-02:00",
+          "Saturday": "08:00-02:00",
+          "Sunday": "08:00-02:00"
+        },
+        "full_address": "Via Nazionale delle Puglie /Via Ventotene Napoli tel: 08117762330",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "967.00",
+        "regione": "campania",
+        "provincia": "napoli",
+        "slug": "casoria-via-nazionale-delle-puglie",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/napoli/casoria-via-nazionale-delle-puglie",
+        "page_coordinates": [
+          14.326654,
+          40.894534
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Casoria Via Nazionale delle Puglie**\n---\n**ID:** 967\n\n### Address\nVia Nazionale delle Puglie /Via Ventotene Napoli tel: 08117762330, Casoria (napoli)\n\n### Contacts\n**Phone:** 08117762330\n**Website:** [https://www.mcdonalds.it/ristorante/campania/napoli/casoria-via-nazionale-delle-puglie](https://www.mcdonalds.it/ristorante/campania/napoli/casoria-via-nazionale-delle-puglie)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-01:00 |\n| **Tuesday** | 08:00-01:00 |\n| **Wednesday** | 08:00-01:00 |\n| **Thursday** | 08:00-01:00 |\n| **Friday** | 08:00-02:00 |\n| **Saturday** | 08:00-02:00 |\n| **Sunday** | 08:00-02:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.224244,
+          40.981265
+        ]
+      },
+      "properties": {
+        "id": 980,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Carinaro",
+        "addr:city": "Carinaro",
+        "addr:street": "Via San Salvatore",
+        "branch": "Carinaro",
+        "contact:phone": "0811 8024135",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/caserta/carinaro",
+        "opening_hours": {
+          "Monday": "08:00-00:30",
+          "Tuesday": "08:00-00:30",
+          "Wednesday": "08:00-00:30",
+          "Thursday": "08:00-00:30",
+          "Friday": "08:00-02:00",
+          "Saturday": "08:00-02:00",
+          "Sunday": "08:00-02:00"
+        },
+        "full_address": "Via San Salvatore Caserta tel: 0811 8024135",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "980.00",
+        "regione": "campania",
+        "provincia": "caserta",
+        "slug": "carinaro",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/caserta/carinaro",
+        "page_coordinates": [
+          14.224244,
+          40.981265
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Carinaro**\n---\n**ID:** 980\n\n### Address\nVia San Salvatore Caserta tel: 0811 8024135, Carinaro (caserta)\n\n### Contacts\n**Phone:** 0811 8024135\n**Website:** [https://www.mcdonalds.it/ristorante/campania/caserta/carinaro](https://www.mcdonalds.it/ristorante/campania/caserta/carinaro)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-00:30 |\n| **Tuesday** | 08:00-00:30 |\n| **Wednesday** | 08:00-00:30 |\n| **Thursday** | 08:00-00:30 |\n| **Friday** | 08:00-02:00 |\n| **Saturday** | 08:00-02:00 |\n| **Sunday** | 08:00-02:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.18724,
+          41.000146
+        ]
+      },
+      "properties": {
+        "id": 995,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Frignano",
+        "addr:city": "Frignano",
+        "addr:street": "Via Massimo Troisi (Incrocio con Corso Italia)",
+        "branch": "Frignano",
+        "contact:phone": "08117675378",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/caserta/frignano",
+        "opening_hours": {
+          "Monday": "08:00-00:30",
+          "Tuesday": "08:00-00:30",
+          "Wednesday": "08:00-00:30",
+          "Thursday": "08:00-00:30",
+          "Friday": "08:00-02:00",
+          "Saturday": "08:00-02:00",
+          "Sunday": "08:00-02:00"
+        },
+        "full_address": "Via Massimo Troisi (Incrocio con Corso Italia) Caserta tel: 08117675378",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "995.00",
+        "regione": "campania",
+        "provincia": "caserta",
+        "slug": "frignano",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/caserta/frignano",
+        "page_coordinates": [
+          14.18724,
+          41.000146
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Frignano**\n---\n**ID:** 995\n\n### Address\nVia Massimo Troisi (Incrocio con Corso Italia) Caserta tel: 08117675378, Frignano (caserta)\n\n### Contacts\n**Phone:** 08117675378\n**Website:** [https://www.mcdonalds.it/ristorante/campania/caserta/frignano](https://www.mcdonalds.it/ristorante/campania/caserta/frignano)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-00:30 |\n| **Tuesday** | 08:00-00:30 |\n| **Wednesday** | 08:00-00:30 |\n| **Thursday** | 08:00-00:30 |\n| **Friday** | 08:00-02:00 |\n| **Saturday** | 08:00-02:00 |\n| **Sunday** | 08:00-02:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.861001,
+          40.648306
+        ]
+      },
+      "properties": {
+        "id": 1017,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Salerno Retail Park",
+        "addr:city": "Salerno",
+        "addr:street": "SS18 -Località Fuorni",
+        "branch": "Salerno Retail Park",
+        "contact:phone": "0892854006",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/salerno/salerno-retail-park",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "10:30-00:00",
+          "Thursday": "10:30-00:00",
+          "Friday": "10:30-00:00",
+          "Saturday": "10:30-00:00",
+          "Sunday": "10:30-00:00"
+        },
+        "full_address": "SS18 -Località Fuorni Salerno tel: 0892854006",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1017.00",
+        "regione": "campania",
+        "provincia": "salerno",
+        "slug": "salerno-retail-park",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/salerno/salerno-retail-park",
+        "page_coordinates": [
+          14.861001,
+          40.648306
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Salerno Retail Park**\n---\n**ID:** 1017\n\n### Address\nSS18 -Località Fuorni Salerno tel: 0892854006, Salerno (salerno)\n\n### Contacts\n**Phone:** 0892854006\n**Website:** [https://www.mcdonalds.it/ristorante/campania/salerno/salerno-retail-park](https://www.mcdonalds.it/ristorante/campania/salerno/salerno-retail-park)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-00:00 |\n| **Tuesday** | 10:30-00:00 |\n| **Wednesday** | 10:30-00:00 |\n| **Thursday** | 10:30-00:00 |\n| **Friday** | 10:30-00:00 |\n| **Saturday** | 10:30-00:00 |\n| **Sunday** | 10:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.689217,
+          40.72975
+        ]
+      },
+      "properties": {
+        "id": 1042,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Nocera Superiore Camerelle",
+        "addr:city": "Nocera Superiore",
+        "addr:street": "Via Nazionale - Località Camerelle",
+        "branch": "Nocera Superiore Camerelle",
+        "contact:phone": "08117675387",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/salerno/nocera-superiore-camerelle",
+        "opening_hours": {
+          "Monday": "08:00-01:00",
+          "Tuesday": "08:00-01:00",
+          "Wednesday": "08:00-01:00",
+          "Thursday": "08:00-01:00",
+          "Friday": "08:00-01:00",
+          "Saturday": "08:00-01:00",
+          "Sunday": "08:00-01:00"
+        },
+        "full_address": "Via Nazionale - Località Camerelle Salerno tel: 08117675387",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1042.00",
+        "regione": "campania",
+        "provincia": "salerno",
+        "slug": "nocera-superiore-camerelle",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/salerno/nocera-superiore-camerelle",
+        "page_coordinates": [
+          14.689217,
+          40.72975
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Nocera Superiore Camerelle**\n---\n**ID:** 1042\n\n### Address\nVia Nazionale - Località Camerelle Salerno tel: 08117675387, Nocera Superiore (salerno)\n\n### Contacts\n**Phone:** 08117675387\n**Website:** [https://www.mcdonalds.it/ristorante/campania/salerno/nocera-superiore-camerelle](https://www.mcdonalds.it/ristorante/campania/salerno/nocera-superiore-camerelle)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-01:00 |\n| **Tuesday** | 08:00-01:00 |\n| **Wednesday** | 08:00-01:00 |\n| **Thursday** | 08:00-01:00 |\n| **Friday** | 08:00-01:00 |\n| **Saturday** | 08:00-01:00 |\n| **Sunday** | 08:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.292206,
+          40.91971
+        ]
+      },
+      "properties": {
+        "id": 1047,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Casoria Via Sannitica",
+        "addr:city": "Casoria",
+        "addr:street": "Via Sannitica",
+        "branch": "Casoria Via Sannitica",
+        "contact:phone": "081 17564761",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/napoli/casoria-via-sannitica",
+        "opening_hours": {
+          "Monday": "07:30-00:30",
+          "Tuesday": "07:30-00:30",
+          "Wednesday": "07:30-00:30",
+          "Thursday": "07:30-02:00",
+          "Friday": "07:30-02:00",
+          "Saturday": "07:30-02:00",
+          "Sunday": "07:30-02:00"
+        },
+        "full_address": "Via Sannitica Napoli tel: 081 17564761",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1047.00",
+        "regione": "campania",
+        "provincia": "napoli",
+        "slug": "casoria-via-sannitica",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/napoli/casoria-via-sannitica",
+        "page_coordinates": [
+          14.292206,
+          40.91971
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Casoria Via Sannitica**\n---\n**ID:** 1047\n\n### Address\nVia Sannitica Napoli tel: 081 17564761, Casoria (napoli)\n\n### Contacts\n**Phone:** 081 17564761\n**Website:** [https://www.mcdonalds.it/ristorante/campania/napoli/casoria-via-sannitica](https://www.mcdonalds.it/ristorante/campania/napoli/casoria-via-sannitica)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:30-00:30 |\n| **Tuesday** | 07:30-00:30 |\n| **Wednesday** | 07:30-00:30 |\n| **Thursday** | 07:30-02:00 |\n| **Friday** | 07:30-02:00 |\n| **Saturday** | 07:30-02:00 |\n| **Sunday** | 07:30-02:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.201196,
+          41.116786
+        ]
+      },
+      "properties": {
+        "id": 1053,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Capua",
+        "addr:city": "Capua",
+        "addr:street": "Via Fuori Porta Roma",
+        "branch": "Capua",
+        "contact:phone": "0823 1251052",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/caserta/capua",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-01:00",
+          "Thursday": "08:00-04:00",
+          "Friday": "07:00-01:00",
+          "Saturday": "07:00-01:00",
+          "Sunday": "07:00-01:00"
+        },
+        "full_address": "Via Fuori Porta Roma Caserta tel: 0823 1251052",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1053.00",
+        "regione": "campania",
+        "provincia": "caserta",
+        "slug": "capua",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/caserta/capua",
+        "page_coordinates": [
+          14.201196,
+          41.116786
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Capua**\n---\n**ID:** 1053\n\n### Address\nVia Fuori Porta Roma Caserta tel: 0823 1251052, Capua (caserta)\n\n### Contacts\n**Phone:** 0823 1251052\n**Website:** [https://www.mcdonalds.it/ristorante/campania/caserta/capua](https://www.mcdonalds.it/ristorante/campania/caserta/capua)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-01:00 |\n| **Tuesday** | 07:00-01:00 |\n| **Wednesday** | 07:00-01:00 |\n| **Thursday** | 08:00-04:00 |\n| **Friday** | 07:00-01:00 |\n| **Saturday** | 07:00-01:00 |\n| **Sunday** | 07:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.600319,
+          40.748035
+        ]
+      },
+      "properties": {
+        "id": 1055,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Pagani - Via De Gasperi",
+        "addr:city": "Pagani",
+        "addr:street": "via De Gasperi",
+        "branch": "Pagani - Via De Gasperi",
+        "contact:phone": "081 17558512",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/salerno/pagani-via-de-gasperi",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-01:00",
+          "Thursday": "07:00-01:00",
+          "Friday": "07:00-02:00",
+          "Saturday": "07:00-02:00",
+          "Sunday": "07:00-01:00"
+        },
+        "full_address": "via De Gasperi Salerno tel: 081 17558512",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1055.00",
+        "regione": "campania",
+        "provincia": "salerno",
+        "slug": "pagani-via-de-gasperi",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/salerno/pagani-via-de-gasperi",
+        "page_coordinates": [
+          14.600319,
+          40.748035
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Pagani - Via De Gasperi**\n---\n**ID:** 1055\n\n### Address\nvia De Gasperi Salerno tel: 081 17558512, Pagani (salerno)\n\n### Contacts\n**Phone:** 081 17558512\n**Website:** [https://www.mcdonalds.it/ristorante/campania/salerno/pagani-via-de-gasperi](https://www.mcdonalds.it/ristorante/campania/salerno/pagani-via-de-gasperi)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-01:00 |\n| **Tuesday** | 07:00-01:00 |\n| **Wednesday** | 07:00-01:00 |\n| **Thursday** | 07:00-01:00 |\n| **Friday** | 07:00-02:00 |\n| **Saturday** | 07:00-02:00 |\n| **Sunday** | 07:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.772295,
+          40.675315
+        ]
+      },
+      "properties": {
+        "id": 1070,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Salerno Stazione",
+        "addr:city": "Salerno",
+        "addr:street": "Piazza Vittorio Veneto 1",
+        "branch": "Salerno Stazione",
+        "contact:phone": "0892853219",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/salerno/salerno-stazione",
+        "opening_hours": {
+          "Monday": "11:00-22:00",
+          "Tuesday": "11:00-22:00",
+          "Wednesday": "11:00-22:00",
+          "Thursday": "11:00-22:00",
+          "Friday": "11:00-22:00",
+          "Saturday": "11:00-22:00",
+          "Sunday": "11:00-22:00"
+        },
+        "full_address": "Piazza Vittorio Veneto 1 Salerno tel: 0892853219",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1070.00",
+        "regione": "campania",
+        "provincia": "salerno",
+        "slug": "salerno-stazione",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/salerno/salerno-stazione",
+        "page_coordinates": [
+          14.772295,
+          40.675315
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Salerno Stazione**\n---\n**ID:** 1070\n\n### Address\nPiazza Vittorio Veneto 1 Salerno tel: 0892853219, Salerno (salerno)\n\n### Contacts\n**Phone:** 0892853219\n**Website:** [https://www.mcdonalds.it/ristorante/campania/salerno/salerno-stazione](https://www.mcdonalds.it/ristorante/campania/salerno/salerno-stazione)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 11:00-22:00 |\n| **Tuesday** | 11:00-22:00 |\n| **Wednesday** | 11:00-22:00 |\n| **Thursday** | 11:00-22:00 |\n| **Friday** | 11:00-22:00 |\n| **Saturday** | 11:00-22:00 |\n| **Sunday** | 11:00-22:00 |\n\n### Services\nTake Away • Ordina in App • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.621154,
+          41.054634
+        ]
+      },
+      "properties": {
+        "id": 1080,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Montesarchio",
+        "addr:city": "Montesarchio",
+        "addr:street": "Via Annunziata Vecchia",
+        "branch": "Montesarchio",
+        "contact:phone": "0824 1501251",
+        "contact:website": "https://www.mcdonalds.it/ristorante/campania/benevento/montesarchio",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-00:00",
+          "Saturday": "07:00-00:00",
+          "Sunday": "07:00-00:00"
+        },
+        "full_address": "Via Annunziata Vecchia Benevento tel: 0824 1501251",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1080.00",
+        "regione": "campania",
+        "provincia": "benevento",
+        "slug": "montesarchio",
+        "detail_url": "https://www.mcdonalds.it/ristorante/campania/benevento/montesarchio",
+        "page_coordinates": [
+          14.621154,
+          41.054634
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Montesarchio**\n---\n**ID:** 1080\n\n### Address\nVia Annunziata Vecchia Benevento tel: 0824 1501251, Montesarchio (benevento)\n\n### Contacts\n**Phone:** 0824 1501251\n**Website:** [https://www.mcdonalds.it/ristorante/campania/benevento/montesarchio](https://www.mcdonalds.it/ristorante/campania/benevento/montesarchio)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-00:00 |\n| **Tuesday** | 07:00-00:00 |\n| **Wednesday** | 07:00-00:00 |\n| **Thursday** | 07:00-00:00 |\n| **Friday** | 07:00-00:00 |\n| **Saturday** | 07:00-00:00 |\n| **Sunday** | 07:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    }
+  ]
+}

@@ -1,0 +1,829 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.663329,
+          45.973199
+        ]
+      },
+      "properties": {
+        "id": 25,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Pordenone",
+        "addr:city": "Pordenone",
+        "addr:street": "Viale Venezia, 119",
+        "branch": "Pordenone",
+        "contact:phone": "0434 012707",
+        "contact:website": "https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/pordenone/pordenone",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-01:00",
+          "Thursday": "07:00-01:00",
+          "Friday": "07:00-02:30",
+          "Saturday": "07:00-03:00",
+          "Sunday": "07:00-01:00"
+        },
+        "full_address": "Viale Venezia, 119 Pordenone tel: 0434 012707",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "25.00",
+        "regione": "friuli-venezia-giulia",
+        "provincia": "pordenone",
+        "slug": "pordenone",
+        "detail_url": "https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/pordenone/pordenone",
+        "page_coordinates": [
+          12.663329,
+          45.973199
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Pordenone**\n---\n**ID:** 25\n\n### Address\nViale Venezia, 119 Pordenone tel: 0434 012707, Pordenone (pordenone)\n\n### Contacts\n**Phone:** 0434 012707\n**Website:** [https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/pordenone/pordenone](https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/pordenone/pordenone)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-01:00 |\n| **Tuesday** | 07:00-01:00 |\n| **Wednesday** | 07:00-01:00 |\n| **Thursday** | 07:00-01:00 |\n| **Friday** | 07:00-02:30 |\n| **Saturday** | 07:00-03:00 |\n| **Sunday** | 07:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.226763,
+          46.122235
+        ]
+      },
+      "properties": {
+        "id": 138,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Tavagnacco",
+        "addr:city": "Tavagnacco",
+        "addr:street": "Centro Commerciale Friuli",
+        "branch": "Tavagnacco",
+        "contact:phone": "0432 572999",
+        "contact:website": "https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/udine/tavagnacco",
+        "opening_hours": {
+          "Monday": "10:00-23:00",
+          "Tuesday": "10:00-23:00",
+          "Wednesday": "10:00-23:00",
+          "Thursday": "10:00-23:00",
+          "Friday": "10:00-23:00",
+          "Saturday": "10:00-23:00",
+          "Sunday": "10:00-23:00"
+        },
+        "full_address": "Centro Commerciale Friuli Udine tel: 0432 572999",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "138.00",
+        "regione": "friuli-venezia-giulia",
+        "provincia": "udine",
+        "slug": "tavagnacco",
+        "detail_url": "https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/udine/tavagnacco",
+        "page_coordinates": [
+          13.226763,
+          46.122235
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Tavagnacco**\n---\n**ID:** 138\n\n### Address\nCentro Commerciale Friuli Udine tel: 0432 572999, Tavagnacco (udine)\n\n### Contacts\n**Phone:** 0432 572999\n**Website:** [https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/udine/tavagnacco](https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/udine/tavagnacco)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:00-23:00 |\n| **Tuesday** | 10:00-23:00 |\n| **Wednesday** | 10:00-23:00 |\n| **Thursday** | 10:00-23:00 |\n| **Friday** | 10:00-23:00 |\n| **Saturday** | 10:00-23:00 |\n| **Sunday** | 10:00-23:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.182158,
+          46.084784
+        ]
+      },
+      "properties": {
+        "id": 167,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Udine Città Fiera",
+        "addr:city": "Torreano Di Martignacco",
+        "addr:street": "Via Cotonificio 22",
+        "branch": "Udine Città Fiera",
+        "contact:phone": "0432 543020",
+        "contact:website": "https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/udine/udine-citta-fiera",
+        "opening_hours": {
+          "Monday": "10:30-21:30",
+          "Tuesday": "10:30-21:30",
+          "Wednesday": "10:30-21:30",
+          "Thursday": "10:30-21:30",
+          "Friday": "10:30-22:30",
+          "Saturday": "10:30-22:30",
+          "Sunday": "10:30-21:30"
+        },
+        "full_address": "Via Cotonificio 22 Udine tel: 0432 543020",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "167.00",
+        "regione": "friuli-venezia-giulia",
+        "provincia": "udine",
+        "slug": "udine-citta-fiera",
+        "detail_url": "https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/udine/udine-citta-fiera",
+        "page_coordinates": [
+          13.182158,
+          46.084784
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Udine Città Fiera**\n---\n**ID:** 167\n\n### Address\nVia Cotonificio 22 Udine tel: 0432 543020, Torreano Di Martignacco (udine)\n\n### Contacts\n**Phone:** 0432 543020\n**Website:** [https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/udine/udine-citta-fiera](https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/udine/udine-citta-fiera)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-21:30 |\n| **Tuesday** | 10:30-21:30 |\n| **Wednesday** | 10:30-21:30 |\n| **Thursday** | 10:30-21:30 |\n| **Friday** | 10:30-22:30 |\n| **Saturday** | 10:30-22:30 |\n| **Sunday** | 10:30-21:30 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.721784,
+          45.944718
+        ]
+      },
+      "properties": {
+        "id": 253,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Fiume Veneto",
+        "addr:city": "Fiume Veneto",
+        "addr:street": "via Maestri del Lavoro 49",
+        "branch": "Fiume Veneto",
+        "contact:phone": "0434 561619",
+        "contact:website": "https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/pordenone/fiume-veneto",
+        "opening_hours": {
+          "Monday": "09:00-01:00",
+          "Tuesday": "09:00-01:00",
+          "Wednesday": "09:00-01:00",
+          "Thursday": "09:00-01:00",
+          "Friday": "09:00-02:30",
+          "Saturday": "09:00-03:30",
+          "Sunday": "09:00-01:00"
+        },
+        "full_address": "via Maestri del Lavoro 49 Pordenone tel: 0434 561619",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "253.00",
+        "regione": "friuli-venezia-giulia",
+        "provincia": "pordenone",
+        "slug": "fiume-veneto",
+        "detail_url": "https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/pordenone/fiume-veneto",
+        "page_coordinates": [
+          12.721784,
+          45.944718
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Fiume Veneto**\n---\n**ID:** 253\n\n### Address\nvia Maestri del Lavoro 49 Pordenone tel: 0434 561619, Fiume Veneto (pordenone)\n\n### Contacts\n**Phone:** 0434 561619\n**Website:** [https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/pordenone/fiume-veneto](https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/pordenone/fiume-veneto)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 09:00-01:00 |\n| **Tuesday** | 09:00-01:00 |\n| **Wednesday** | 09:00-01:00 |\n| **Thursday** | 09:00-01:00 |\n| **Friday** | 09:00-02:30 |\n| **Saturday** | 09:00-03:30 |\n| **Sunday** | 09:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.429606,
+          45.86437
+        ]
+      },
+      "properties": {
+        "id": 307,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Villesse Mall",
+        "addr:city": "Villesse",
+        "addr:street": "Località Maranuz",
+        "branch": "Villesse Mall",
+        "contact:phone": "0481 502254",
+        "contact:website": "https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/gorizia/villesse-mall",
+        "opening_hours": {
+          "Monday": "10:30-22:00",
+          "Tuesday": "10:30-22:00",
+          "Wednesday": "10:30-22:00",
+          "Thursday": "10:30-22:00",
+          "Friday": "10:30-22:00",
+          "Saturday": "10:00-22:30",
+          "Sunday": "10:00-22:30"
+        },
+        "full_address": "Località Maranuz Gorizia tel: 0481 502254",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "307.00",
+        "regione": "friuli-venezia-giulia",
+        "provincia": "gorizia",
+        "slug": "villesse-mall",
+        "detail_url": "https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/gorizia/villesse-mall",
+        "page_coordinates": [
+          13.429606,
+          45.86437
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Villesse Mall**\n---\n**ID:** 307\n\n### Address\nLocalità Maranuz Gorizia tel: 0481 502254, Villesse (gorizia)\n\n### Contacts\n**Phone:** 0481 502254\n**Website:** [https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/gorizia/villesse-mall](https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/gorizia/villesse-mall)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-22:00 |\n| **Tuesday** | 10:30-22:00 |\n| **Wednesday** | 10:30-22:00 |\n| **Thursday** | 10:30-22:00 |\n| **Friday** | 10:30-22:00 |\n| **Saturday** | 10:00-22:30 |\n| **Sunday** | 10:00-22:30 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.514289,
+          45.817151
+        ]
+      },
+      "properties": {
+        "id": 327,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Monfalcone",
+        "addr:city": "Monfalcone",
+        "addr:street": "via Pocar 1",
+        "branch": "Monfalcone",
+        "contact:phone": "0481 412950",
+        "contact:website": "https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/gorizia/monfalcone",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-00:00",
+          "Saturday": "07:00-00:00",
+          "Sunday": "07:00-00:00"
+        },
+        "full_address": "via Pocar 1 Gorizia tel: 0481 412950",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "327.00",
+        "regione": "friuli-venezia-giulia",
+        "provincia": "gorizia",
+        "slug": "monfalcone",
+        "detail_url": "https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/gorizia/monfalcone",
+        "page_coordinates": [
+          13.514289,
+          45.817151
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Monfalcone**\n---\n**ID:** 327\n\n### Address\nvia Pocar 1 Gorizia tel: 0481 412950, Monfalcone (gorizia)\n\n### Contacts\n**Phone:** 0481 412950\n**Website:** [https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/gorizia/monfalcone](https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/gorizia/monfalcone)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-00:00 |\n| **Tuesday** | 07:00-00:00 |\n| **Wednesday** | 07:00-00:00 |\n| **Thursday** | 07:00-00:00 |\n| **Friday** | 07:00-00:00 |\n| **Saturday** | 07:00-00:00 |\n| **Sunday** | 07:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.77686,
+          45.64931
+        ]
+      },
+      "properties": {
+        "id": 514,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Trieste Goldoni",
+        "addr:city": "Trieste",
+        "addr:street": "Piazza Carlo Goldoni, 1",
+        "branch": "Trieste Goldoni",
+        "contact:phone": "040 4612714",
+        "contact:website": "https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/trieste/trieste-goldoni",
+        "opening_hours": {
+          "Monday": "08:00-00:00",
+          "Tuesday": "08:00-00:00",
+          "Wednesday": "08:00-00:00",
+          "Thursday": "08:00-00:00",
+          "Friday": "08:00-01:00",
+          "Saturday": "08:00-01:00",
+          "Sunday": "08:00-00:00"
+        },
+        "full_address": "Piazza Carlo Goldoni, 1 Trieste tel: 040 4612714",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "514.00",
+        "regione": "friuli-venezia-giulia",
+        "provincia": "trieste",
+        "slug": "trieste-goldoni",
+        "detail_url": "https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/trieste/trieste-goldoni",
+        "page_coordinates": [
+          13.77686,
+          45.64931
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Trieste Goldoni**\n---\n**ID:** 514\n\n### Address\nPiazza Carlo Goldoni, 1 Trieste tel: 040 4612714, Trieste (trieste)\n\n### Contacts\n**Phone:** 040 4612714\n**Website:** [https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/trieste/trieste-goldoni](https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/trieste/trieste-goldoni)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-00:00 |\n| **Tuesday** | 08:00-00:00 |\n| **Wednesday** | 08:00-00:00 |\n| **Thursday** | 08:00-00:00 |\n| **Friday** | 08:00-01:00 |\n| **Saturday** | 08:00-01:00 |\n| **Sunday** | 08:00-00:00 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.21698,
+          46.065874
+        ]
+      },
+      "properties": {
+        "id": 562,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Udine Faula Mall",
+        "addr:city": "Udine",
+        "addr:street": "Piazzale Rita Levi Montalcini n. 1/1",
+        "branch": "Udine Faula Mall",
+        "contact:phone": "0432 016207",
+        "contact:website": "https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/udine/udine-faula-mall",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-00:00",
+          "Saturday": "07:00-00:00",
+          "Sunday": "07:00-00:00"
+        },
+        "full_address": "Piazzale Rita Levi Montalcini n. 1/1 Udine tel: 0432 016207",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "562.00",
+        "regione": "friuli-venezia-giulia",
+        "provincia": "udine",
+        "slug": "udine-faula-mall",
+        "detail_url": "https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/udine/udine-faula-mall",
+        "page_coordinates": [
+          13.21698,
+          46.065874
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Udine Faula Mall**\n---\n**ID:** 562\n\n### Address\nPiazzale Rita Levi Montalcini n. 1/1 Udine tel: 0432 016207, Udine (udine)\n\n### Contacts\n**Phone:** 0432 016207\n**Website:** [https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/udine/udine-faula-mall](https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/udine/udine-faula-mall)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-00:00 |\n| **Tuesday** | 07:00-00:00 |\n| **Wednesday** | 07:00-00:00 |\n| **Thursday** | 07:00-00:00 |\n| **Friday** | 07:00-00:00 |\n| **Saturday** | 07:00-00:00 |\n| **Sunday** | 07:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.249892,
+          46.045584
+        ]
+      },
+      "properties": {
+        "id": 629,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Udine Palmanova",
+        "addr:city": "Udine",
+        "addr:street": "viale Palmanova. 195",
+        "branch": "Udine Palmanova",
+        "contact:phone": "043 2016241",
+        "contact:website": "https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/udine/udine-palmanova",
+        "opening_hours": {
+          "Monday": "07:30-23:00",
+          "Tuesday": "07:30-23:00",
+          "Wednesday": "07:30-23:00",
+          "Thursday": "07:30-23:00",
+          "Friday": "07:30-23:00",
+          "Saturday": "07:30-23:00",
+          "Sunday": "07:30-23:00"
+        },
+        "full_address": "viale Palmanova. 195 Udine tel: 043 2016241",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "629.00",
+        "regione": "friuli-venezia-giulia",
+        "provincia": "udine",
+        "slug": "udine-palmanova",
+        "detail_url": "https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/udine/udine-palmanova",
+        "page_coordinates": [
+          13.249892,
+          46.045584
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Udine Palmanova**\n---\n**ID:** 629\n\n### Address\nviale Palmanova. 195 Udine tel: 043 2016241, Udine (udine)\n\n### Contacts\n**Phone:** 043 2016241\n**Website:** [https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/udine/udine-palmanova](https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/udine/udine-palmanova)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:30-23:00 |\n| **Tuesday** | 07:30-23:00 |\n| **Wednesday** | 07:30-23:00 |\n| **Thursday** | 07:30-23:00 |\n| **Friday** | 07:30-23:00 |\n| **Saturday** | 07:30-23:00 |\n| **Sunday** | 07:30-23:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.259968,
+          45.883706
+        ]
+      },
+      "properties": {
+        "id": 634,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Gonars Nord Ads",
+        "addr:city": "Gonars",
+        "addr:street": "Autostrada A4 Torino - Trieste. km 487",
+        "branch": "Gonars Nord Ads",
+        "contact:phone": "04321801625",
+        "contact:website": "https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/udine/gonars-nord-ads",
+        "opening_hours": {
+          "Monday": "09:00-22:00",
+          "Tuesday": "09:00-22:00",
+          "Wednesday": "09:00-22:00",
+          "Thursday": "09:00-22:00",
+          "Friday": "09:00-22:00",
+          "Saturday": "09:00-22:00",
+          "Sunday": "09:00-22:00"
+        },
+        "full_address": "Autostrada A4 Torino - Trieste. km 487 Udine tel: 04321801625",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "634.00",
+        "regione": "friuli-venezia-giulia",
+        "provincia": "udine",
+        "slug": "gonars-nord-ads",
+        "detail_url": "https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/udine/gonars-nord-ads",
+        "page_coordinates": [
+          13.259968,
+          45.883706
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Gonars Nord Ads**\n---\n**ID:** 634\n\n### Address\nAutostrada A4 Torino - Trieste. km 487 Udine tel: 04321801625, Gonars (udine)\n\n### Contacts\n**Phone:** 04321801625\n**Website:** [https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/udine/gonars-nord-ads](https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/udine/gonars-nord-ads)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 09:00-22:00 |\n| **Tuesday** | 09:00-22:00 |\n| **Wednesday** | 09:00-22:00 |\n| **Thursday** | 09:00-22:00 |\n| **Friday** | 09:00-22:00 |\n| **Saturday** | 09:00-22:00 |\n| **Sunday** | 09:00-22:00 |\n\n### Services\nTake Away • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.818926,
+          45.61717
+        ]
+      },
+      "properties": {
+        "id": 638,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Trieste Flavia",
+        "addr:city": "Trieste",
+        "addr:street": "Trieste via Flavia",
+        "branch": "Trieste Flavia",
+        "contact:phone": "0404612808",
+        "contact:website": "https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/trieste/trieste-flavia",
+        "opening_hours": {
+          "Monday": "08:00-00:00",
+          "Tuesday": "08:00-00:00",
+          "Wednesday": "08:00-00:00",
+          "Thursday": "08:00-00:00",
+          "Friday": "08:00-00:00",
+          "Saturday": "08:00-00:00",
+          "Sunday": "08:00-00:00"
+        },
+        "full_address": "Trieste via Flavia Trieste tel: 0404612808",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "638.00",
+        "regione": "friuli-venezia-giulia",
+        "provincia": "trieste",
+        "slug": "trieste-flavia",
+        "detail_url": "https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/trieste/trieste-flavia",
+        "page_coordinates": [
+          13.818926,
+          45.61717
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Trieste Flavia**\n---\n**ID:** 638\n\n### Address\nTrieste via Flavia Trieste tel: 0404612808, Trieste (trieste)\n\n### Contacts\n**Phone:** 0404612808\n**Website:** [https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/trieste/trieste-flavia](https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/trieste/trieste-flavia)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-00:00 |\n| **Tuesday** | 08:00-00:00 |\n| **Wednesday** | 08:00-00:00 |\n| **Thursday** | 08:00-00:00 |\n| **Friday** | 08:00-00:00 |\n| **Saturday** | 08:00-00:00 |\n| **Sunday** | 08:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.312849,
+          45.889439
+        ]
+      },
+      "properties": {
+        "id": 987,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Bagnaria Arsa",
+        "addr:city": "Bagnaria Arsa",
+        "addr:street": "Via E. Mattei. 14",
+        "branch": "Bagnaria Arsa",
+        "contact:phone": "04321484294",
+        "contact:website": "https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/udine/bagnaria-arsa",
+        "opening_hours": {
+          "Monday": "07:00-23:00",
+          "Tuesday": "07:00-23:00",
+          "Wednesday": "07:00-23:00",
+          "Thursday": "07:00-23:00",
+          "Friday": "07:00-23:00",
+          "Saturday": "07:00-23:00",
+          "Sunday": "07:00-23:00"
+        },
+        "full_address": "Via E. Mattei. 14 Udine tel: 04321484294",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "987.00",
+        "regione": "friuli-venezia-giulia",
+        "provincia": "udine",
+        "slug": "bagnaria-arsa",
+        "detail_url": "https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/udine/bagnaria-arsa",
+        "page_coordinates": [
+          13.312849,
+          45.889439
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Bagnaria Arsa**\n---\n**ID:** 987\n\n### Address\nVia E. Mattei. 14 Udine tel: 04321484294, Bagnaria Arsa (udine)\n\n### Contacts\n**Phone:** 04321484294\n**Website:** [https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/udine/bagnaria-arsa](https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/udine/bagnaria-arsa)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-23:00 |\n| **Tuesday** | 07:00-23:00 |\n| **Wednesday** | 07:00-23:00 |\n| **Thursday** | 07:00-23:00 |\n| **Friday** | 07:00-23:00 |\n| **Saturday** | 07:00-23:00 |\n| **Sunday** | 07:00-23:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.108499,
+          46.265519
+        ]
+      },
+      "properties": {
+        "id": 1011,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Gemona del Friuli",
+        "addr:city": "Gemona Del Friuli",
+        "addr:street": "via Taboga 66",
+        "branch": "Gemona del Friuli",
+        "contact:phone": "04321484594",
+        "contact:website": "https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/udine/gemona-del-friuli",
+        "opening_hours": {
+          "Monday": "08:00-23:00",
+          "Tuesday": "08:00-23:00",
+          "Wednesday": "08:00-23:00",
+          "Thursday": "08:00-23:00",
+          "Friday": "08:00-23:00",
+          "Saturday": "08:00-23:00",
+          "Sunday": "08:00-23:00"
+        },
+        "full_address": "via Taboga 66 Udine tel: 04321484594",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1011.00",
+        "regione": "friuli-venezia-giulia",
+        "provincia": "udine",
+        "slug": "gemona-del-friuli",
+        "detail_url": "https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/udine/gemona-del-friuli",
+        "page_coordinates": [
+          13.108499,
+          46.265519
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Gemona del Friuli**\n---\n**ID:** 1011\n\n### Address\nvia Taboga 66 Udine tel: 04321484594, Gemona Del Friuli (udine)\n\n### Contacts\n**Phone:** 04321484594\n**Website:** [https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/udine/gemona-del-friuli](https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/udine/gemona-del-friuli)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-23:00 |\n| **Tuesday** | 08:00-23:00 |\n| **Wednesday** | 08:00-23:00 |\n| **Thursday** | 08:00-23:00 |\n| **Friday** | 08:00-23:00 |\n| **Saturday** | 08:00-23:00 |\n| **Sunday** | 08:00-23:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.022644,
+          45.772686
+        ]
+      },
+      "properties": {
+        "id": 1046,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Latisana",
+        "addr:city": "Latisana",
+        "addr:street": "Via tisanella",
+        "branch": "Latisana",
+        "contact:phone": "0431 1960416",
+        "contact:website": "https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/udine/latisana",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-01:00",
+          "Saturday": "07:00-02:00",
+          "Sunday": "07:00-00:00"
+        },
+        "full_address": "Via tisanella Udine tel: 0431 1960416",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1046.00",
+        "regione": "friuli-venezia-giulia",
+        "provincia": "udine",
+        "slug": "latisana",
+        "detail_url": "https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/udine/latisana",
+        "page_coordinates": [
+          13.022644,
+          45.772686
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Latisana**\n---\n**ID:** 1046\n\n### Address\nVia tisanella Udine tel: 0431 1960416, Latisana (udine)\n\n### Contacts\n**Phone:** 0431 1960416\n**Website:** [https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/udine/latisana](https://www.mcdonalds.it/ristorante/friuli-venezia-giulia/udine/latisana)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-00:00 |\n| **Tuesday** | 07:00-00:00 |\n| **Wednesday** | 07:00-00:00 |\n| **Thursday** | 07:00-00:00 |\n| **Friday** | 07:00-01:00 |\n| **Saturday** | 07:00-02:00 |\n| **Sunday** | 07:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    }
+  ]
+}

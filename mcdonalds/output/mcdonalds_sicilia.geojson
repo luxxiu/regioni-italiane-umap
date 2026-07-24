@@ -1,0 +1,2749 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.622934,
+          37.27075
+        ]
+      },
+      "properties": {
+        "id": 81,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Agrigento",
+        "addr:city": "Agrigento",
+        "addr:street": "Contrada Degli Angeli - S.S. 115 - Villaggio Mose",
+        "branch": "Agrigento",
+        "contact:phone": "0922 1756580",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/agrigento/agrigento",
+        "opening_hours": {
+          "Monday": "10:00-00:00",
+          "Tuesday": "10:00-00:00",
+          "Wednesday": "10:00-00:00",
+          "Thursday": "10:00-00:00",
+          "Friday": "10:00-00:00",
+          "Saturday": "10:00-00:00",
+          "Sunday": "10:00-00:00"
+        },
+        "full_address": "Contrada Degli Angeli - S.S. 115 - Villaggio Mose Agrigento tel: 0922 1756580",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "81.00",
+        "regione": "sicilia",
+        "provincia": "agrigento",
+        "slug": "agrigento",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/agrigento/agrigento",
+        "page_coordinates": [
+          13.622934,
+          37.27075
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Agrigento**\n---\n**ID:** 81\n\n### Address\nContrada Degli Angeli - S.S. 115 - Villaggio Mose Agrigento tel: 0922 1756580, Agrigento (agrigento)\n\n### Contacts\n**Phone:** 0922 1756580\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/agrigento/agrigento](https://www.mcdonalds.it/ristorante/sicilia/agrigento/agrigento)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:00-00:00 |\n| **Tuesday** | 10:00-00:00 |\n| **Wednesday** | 10:00-00:00 |\n| **Thursday** | 10:00-00:00 |\n| **Friday** | 10:00-00:00 |\n| **Saturday** | 10:00-00:00 |\n| **Sunday** | 10:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.040877,
+          37.491372
+        ]
+      },
+      "properties": {
+        "id": 82,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Caltanissetta",
+        "addr:city": "Caltanissetta",
+        "addr:street": "Via Leone XIII 101",
+        "branch": "Caltanissetta",
+        "contact:phone": "0934631648",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/caltanissetta/caltanissetta",
+        "opening_hours": {
+          "Monday": "10:00-02:00",
+          "Tuesday": "10:00-02:00",
+          "Wednesday": "10:00-02:00",
+          "Thursday": "10:00-02:00",
+          "Friday": "10:00-02:30",
+          "Saturday": "10:00-02:30",
+          "Sunday": "10:00-02:00"
+        },
+        "full_address": "Via Leone XIII 101 Caltanissetta tel: 0934631648",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "82.00",
+        "regione": "sicilia",
+        "provincia": "caltanissetta",
+        "slug": "caltanissetta",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/caltanissetta/caltanissetta",
+        "page_coordinates": [
+          14.040877,
+          37.491372
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Caltanissetta**\n---\n**ID:** 82\n\n### Address\nVia Leone XIII 101 Caltanissetta tel: 0934631648, Caltanissetta (caltanissetta)\n\n### Contacts\n**Phone:** 0934631648\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/caltanissetta/caltanissetta](https://www.mcdonalds.it/ristorante/sicilia/caltanissetta/caltanissetta)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:00-02:00 |\n| **Tuesday** | 10:00-02:00 |\n| **Wednesday** | 10:00-02:00 |\n| **Thursday** | 10:00-02:00 |\n| **Friday** | 10:00-02:30 |\n| **Saturday** | 10:00-02:30 |\n| **Sunday** | 10:00-02:00 |\n\n### Services\nTake Away • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.367175,
+          38.109991
+        ]
+      },
+      "properties": {
+        "id": 97,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Palermo Stazione",
+        "addr:city": "Palermo",
+        "addr:street": "Piazza Giulio Cesare",
+        "branch": "Palermo Stazione",
+        "contact:phone": "0915614229",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-stazione",
+        "opening_hours": {
+          "Monday": "08:30-23:00",
+          "Tuesday": "08:30-23:00",
+          "Wednesday": "08:30-21:30",
+          "Thursday": "08:30-23:00",
+          "Friday": "08:30-23:00",
+          "Saturday": "08:30-23:00",
+          "Sunday": "08:30-23:00"
+        },
+        "full_address": "Piazza Giulio Cesare Palermo tel: 0915614229",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "97.00",
+        "regione": "sicilia",
+        "provincia": "palermo",
+        "slug": "palermo-stazione",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-stazione",
+        "page_coordinates": [
+          13.367175,
+          38.109991
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Palermo Stazione**\n---\n**ID:** 97\n\n### Address\nPiazza Giulio Cesare Palermo tel: 0915614229, Palermo (palermo)\n\n### Contacts\n**Phone:** 0915614229\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-stazione](https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-stazione)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:30-23:00 |\n| **Tuesday** | 08:30-23:00 |\n| **Wednesday** | 08:30-21:30 |\n| **Thursday** | 08:30-23:00 |\n| **Friday** | 08:30-23:00 |\n| **Saturday** | 08:30-23:00 |\n| **Sunday** | 08:30-23:00 |\n\n### Services\nTake Away • Ordina in App • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.693555,
+          36.92994
+        ]
+      },
+      "properties": {
+        "id": 106,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Ragusa drive",
+        "addr:city": "Ragusa",
+        "addr:street": "Viale delle Americhe 135",
+        "branch": "Ragusa drive",
+        "contact:phone": "0932 258539",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/ragusa/ragusa-drive",
+        "opening_hours": {
+          "Monday": "08:30-00:00",
+          "Tuesday": "08:30-00:00",
+          "Wednesday": "08:30-00:00",
+          "Thursday": "08:30-00:00",
+          "Friday": "08:30-00:00",
+          "Saturday": "08:30-00:00",
+          "Sunday": "08:30-00:00"
+        },
+        "full_address": "Viale delle Americhe 135 Ragusa tel: 0932 258539",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "106.00",
+        "regione": "sicilia",
+        "provincia": "ragusa",
+        "slug": "ragusa-drive",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/ragusa/ragusa-drive",
+        "page_coordinates": [
+          14.693555,
+          36.92994
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Ragusa drive**\n---\n**ID:** 106\n\n### Address\nViale delle Americhe 135 Ragusa tel: 0932 258539, Ragusa (ragusa)\n\n### Contacts\n**Phone:** 0932 258539\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/ragusa/ragusa-drive](https://www.mcdonalds.it/ristorante/sicilia/ragusa/ragusa-drive)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:30-00:00 |\n| **Tuesday** | 08:30-00:00 |\n| **Wednesday** | 08:30-00:00 |\n| **Thursday** | 08:30-00:00 |\n| **Friday** | 08:30-00:00 |\n| **Saturday** | 08:30-00:00 |\n| **Sunday** | 08:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.272444,
+          37.067498
+        ]
+      },
+      "properties": {
+        "id": 116,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Siracusa Drive",
+        "addr:city": "Siracusa",
+        "addr:street": "Via Columba 43",
+        "branch": "Siracusa Drive",
+        "contact:phone": "0931468933",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/siracusa/siracusa-drive",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-01:00",
+          "Saturday": "07:00-03:00",
+          "Sunday": "08:00-01:00"
+        },
+        "full_address": "Via Columba 43 Siracusa tel: 0931468933",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "116.00",
+        "regione": "sicilia",
+        "provincia": "siracusa",
+        "slug": "siracusa-drive",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/siracusa/siracusa-drive",
+        "page_coordinates": [
+          15.272444,
+          37.067498
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Siracusa Drive**\n---\n**ID:** 116\n\n### Address\nVia Columba 43 Siracusa tel: 0931468933, Siracusa (siracusa)\n\n### Contacts\n**Phone:** 0931468933\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/siracusa/siracusa-drive](https://www.mcdonalds.it/ristorante/sicilia/siracusa/siracusa-drive)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-00:00 |\n| **Tuesday** | 07:00-00:00 |\n| **Wednesday** | 07:00-00:00 |\n| **Thursday** | 07:00-00:00 |\n| **Friday** | 07:00-01:00 |\n| **Saturday** | 07:00-03:00 |\n| **Sunday** | 08:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.141527,
+          37.621493
+        ]
+      },
+      "properties": {
+        "id": 117,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Acireale Drive",
+        "addr:city": "Acireale",
+        "addr:street": "Via Cristoforo Colombo e Via Cefalu",
+        "branch": "Acireale Drive",
+        "contact:phone": "095 7656500",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/catania/acireale-drive",
+        "opening_hours": {
+          "Monday": "10:00-00:00",
+          "Tuesday": "10:00-00:00",
+          "Wednesday": "10:00-00:00",
+          "Thursday": "10:00-00:00",
+          "Friday": "10:00-00:00",
+          "Saturday": "10:00-00:00",
+          "Sunday": "10:00-00:00"
+        },
+        "full_address": "Via Cristoforo Colombo e Via Cefalu Catania tel: 095 7656500",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "117.00",
+        "regione": "sicilia",
+        "provincia": "catania",
+        "slug": "acireale-drive",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/catania/acireale-drive",
+        "page_coordinates": [
+          15.141527,
+          37.621493
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Acireale Drive**\n---\n**ID:** 117\n\n### Address\nVia Cristoforo Colombo e Via Cefalu Catania tel: 095 7656500, Acireale (catania)\n\n### Contacts\n**Phone:** 095 7656500\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/catania/acireale-drive](https://www.mcdonalds.it/ristorante/sicilia/catania/acireale-drive)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:00-00:00 |\n| **Tuesday** | 10:00-00:00 |\n| **Wednesday** | 10:00-00:00 |\n| **Thursday** | 10:00-00:00 |\n| **Friday** | 10:00-00:00 |\n| **Saturday** | 10:00-00:00 |\n| **Sunday** | 10:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.531076,
+          38.15344
+        ]
+      },
+      "properties": {
+        "id": 126,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Messina Drive",
+        "addr:city": "Messina",
+        "addr:street": "Strada Statale 114 Contesse",
+        "branch": "Messina Drive",
+        "contact:phone": "090 622188",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/messina/messina-drive",
+        "opening_hours": {
+          "Monday": "10:00-01:00",
+          "Tuesday": "10:00-01:00",
+          "Wednesday": "10:00-01:00",
+          "Thursday": "10:00-01:00",
+          "Friday": "10:00-01:00",
+          "Saturday": "10:00-01:00",
+          "Sunday": "10:00-01:00"
+        },
+        "full_address": "Strada Statale 114 Contesse Messina tel: 090 622188",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "126.00",
+        "regione": "sicilia",
+        "provincia": "messina",
+        "slug": "messina-drive",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/messina/messina-drive",
+        "page_coordinates": [
+          15.531076,
+          38.15344
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Messina Drive**\n---\n**ID:** 126\n\n### Address\nStrada Statale 114 Contesse Messina tel: 090 622188, Messina (messina)\n\n### Contacts\n**Phone:** 090 622188\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/messina/messina-drive](https://www.mcdonalds.it/ristorante/sicilia/messina/messina-drive)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:00-01:00 |\n| **Tuesday** | 10:00-01:00 |\n| **Wednesday** | 10:00-01:00 |\n| **Thursday** | 10:00-01:00 |\n| **Friday** | 10:00-01:00 |\n| **Saturday** | 10:00-01:00 |\n| **Sunday** | 10:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.088567,
+          37.500566
+        ]
+      },
+      "properties": {
+        "id": 131,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Catania Alcalà",
+        "addr:city": "Catania",
+        "addr:street": "Via Ionica 2",
+        "branch": "Catania Alcalà",
+        "contact:phone": "095 7233123",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/catania/catania-alcala",
+        "opening_hours": {
+          "Monday": "06:00-06:00",
+          "Tuesday": "06:00-06:00",
+          "Wednesday": "06:00-06:00",
+          "Thursday": "06:00-06:00",
+          "Friday": "06:00-06:00",
+          "Saturday": "06:00-06:00",
+          "Sunday": "06:00-06:00"
+        },
+        "full_address": "Via Ionica 2 Catania tel: 095 7233123",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "131.00",
+        "regione": "sicilia",
+        "provincia": "catania",
+        "slug": "catania-alcala",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/catania/catania-alcala",
+        "page_coordinates": [
+          15.088567,
+          37.500566
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Catania Alcalà**\n---\n**ID:** 131\n\n### Address\nVia Ionica 2 Catania tel: 095 7233123, Catania (catania)\n\n### Contacts\n**Phone:** 095 7233123\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/catania/catania-alcala](https://www.mcdonalds.it/ristorante/sicilia/catania/catania-alcala)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 06:00-06:00 |\n| **Tuesday** | 06:00-06:00 |\n| **Wednesday** | 06:00-06:00 |\n| **Thursday** | 06:00-06:00 |\n| **Friday** | 06:00-06:00 |\n| **Saturday** | 06:00-06:00 |\n| **Sunday** | 06:00-06:00 |\n\n### Services\nTake Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.228479,
+          37.110705
+        ]
+      },
+      "properties": {
+        "id": 141,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Siracusa Melilli C.C. Belvedere Auchan",
+        "addr:city": "Melilli",
+        "addr:street": "Via Edoardo Garrone",
+        "branch": "Siracusa Melilli C.C. Belvedere Auchan",
+        "contact:phone": "0931 761134",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/siracusa/siracusa-melilli-cc-belvedere-auchan",
+        "opening_hours": {
+          "Monday": "08:30-21:00",
+          "Tuesday": "08:30-21:00",
+          "Wednesday": "08:30-21:00",
+          "Thursday": "08:30-21:00",
+          "Friday": "08:30-21:00",
+          "Saturday": "08:30-21:00",
+          "Sunday": "09:30-21:00"
+        },
+        "full_address": "Via Edoardo Garrone Siracusa tel: 0931 761134",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "141.00",
+        "regione": "sicilia",
+        "provincia": "siracusa",
+        "slug": "siracusa-melilli-cc-belvedere-auchan",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/siracusa/siracusa-melilli-cc-belvedere-auchan",
+        "page_coordinates": [
+          15.228479,
+          37.110705
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Siracusa Melilli C.C. Belvedere Auchan**\n---\n**ID:** 141\n\n### Address\nVia Edoardo Garrone Siracusa tel: 0931 761134, Melilli (siracusa)\n\n### Contacts\n**Phone:** 0931 761134\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/siracusa/siracusa-melilli-cc-belvedere-auchan](https://www.mcdonalds.it/ristorante/sicilia/siracusa/siracusa-melilli-cc-belvedere-auchan)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:30-21:00 |\n| **Tuesday** | 08:30-21:00 |\n| **Wednesday** | 08:30-21:00 |\n| **Thursday** | 08:30-21:00 |\n| **Friday** | 08:30-21:00 |\n| **Saturday** | 08:30-21:00 |\n| **Sunday** | 09:30-21:00 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.954178,
+          37.542111
+        ]
+      },
+      "properties": {
+        "id": 153,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Belpasso CT",
+        "addr:city": "Belpasso",
+        "addr:street": "Località Piano Tavola",
+        "branch": "Belpasso CT",
+        "contact:phone": "095 7867400",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/catania/belpasso-ct",
+        "opening_hours": {
+          "Monday": "10:00-03:00",
+          "Tuesday": "10:00-03:00",
+          "Wednesday": "10:00-03:00",
+          "Thursday": "10:00-03:00",
+          "Friday": "10:00-04:00",
+          "Saturday": "10:00-04:00",
+          "Sunday": "10:00-03:00"
+        },
+        "full_address": "Località Piano Tavola Catania tel: 095 7867400",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "153.00",
+        "regione": "sicilia",
+        "provincia": "catania",
+        "slug": "belpasso-ct",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/catania/belpasso-ct",
+        "page_coordinates": [
+          14.954178,
+          37.542111
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Belpasso CT**\n---\n**ID:** 153\n\n### Address\nLocalità Piano Tavola Catania tel: 095 7867400, Belpasso (catania)\n\n### Contacts\n**Phone:** 095 7867400\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/catania/belpasso-ct](https://www.mcdonalds.it/ristorante/sicilia/catania/belpasso-ct)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:00-03:00 |\n| **Tuesday** | 10:00-03:00 |\n| **Wednesday** | 10:00-03:00 |\n| **Thursday** | 10:00-03:00 |\n| **Friday** | 10:00-04:00 |\n| **Saturday** | 10:00-04:00 |\n| **Sunday** | 10:00-03:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.075178,
+          37.535184
+        ]
+      },
+      "properties": {
+        "id": 209,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Catania Gravina",
+        "addr:city": "Catania",
+        "addr:street": "via di Passo Gravina",
+        "branch": "Catania Gravina",
+        "contact:phone": "095 7336625",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/catania/catania-gravina",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-00:00",
+          "Saturday": "07:00-00:00",
+          "Sunday": "07:00-00:00"
+        },
+        "full_address": "via di Passo Gravina Catania tel: 095 7336625",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "209.00",
+        "regione": "sicilia",
+        "provincia": "catania",
+        "slug": "catania-gravina",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/catania/catania-gravina",
+        "page_coordinates": [
+          15.075178,
+          37.535184
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Catania Gravina**\n---\n**ID:** 209\n\n### Address\nvia di Passo Gravina Catania tel: 095 7336625, Catania (catania)\n\n### Contacts\n**Phone:** 095 7336625\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/catania/catania-gravina](https://www.mcdonalds.it/ristorante/sicilia/catania/catania-gravina)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-00:00 |\n| **Tuesday** | 07:00-00:00 |\n| **Wednesday** | 07:00-00:00 |\n| **Thursday** | 07:00-00:00 |\n| **Friday** | 07:00-00:00 |\n| **Saturday** | 07:00-00:00 |\n| **Sunday** | 07:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.103319,
+          37.583857
+        ]
+      },
+      "properties": {
+        "id": 215,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Catania S. Giovanni",
+        "addr:city": "San Giovanni La Punta",
+        "addr:street": "Viale Cristoforo Colombo, 13",
+        "branch": "Catania S. Giovanni",
+        "contact:phone": "095 7415081",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/catania/catania-s-giovanni",
+        "opening_hours": {
+          "Monday": "10:00-02:00",
+          "Tuesday": "10:00-02:00",
+          "Wednesday": "10:00-20:00",
+          "Thursday": "10:00-02:00",
+          "Friday": "10:00-02:00",
+          "Saturday": "10:00-02:00",
+          "Sunday": "10:00-02:00"
+        },
+        "full_address": "Viale Cristoforo Colombo, 13 Catania tel: 095 7415081",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "215.00",
+        "regione": "sicilia",
+        "provincia": "catania",
+        "slug": "catania-s-giovanni",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/catania/catania-s-giovanni",
+        "page_coordinates": [
+          15.103319,
+          37.583857
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Catania S. Giovanni**\n---\n**ID:** 215\n\n### Address\nViale Cristoforo Colombo, 13 Catania tel: 095 7415081, San Giovanni La Punta (catania)\n\n### Contacts\n**Phone:** 095 7415081\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/catania/catania-s-giovanni](https://www.mcdonalds.it/ristorante/sicilia/catania/catania-s-giovanni)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:00-02:00 |\n| **Tuesday** | 10:00-02:00 |\n| **Wednesday** | 10:00-20:00 |\n| **Thursday** | 10:00-02:00 |\n| **Friday** | 10:00-02:00 |\n| **Saturday** | 10:00-02:00 |\n| **Sunday** | 10:00-02:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.10792,
+          37.531242
+        ]
+      },
+      "properties": {
+        "id": 217,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Catania Ulisse",
+        "addr:city": "Catania",
+        "addr:street": "viale Ulisse 11",
+        "branch": "Catania Ulisse",
+        "contact:phone": "095 497167",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/catania/catania-ulisse",
+        "opening_hours": {
+          "Monday": "10:00-23:59",
+          "Tuesday": "07:30-23:59",
+          "Wednesday": "07:30-23:59",
+          "Thursday": "07:30-23:59",
+          "Friday": "07:30-01:00",
+          "Saturday": "07:30-01:00",
+          "Sunday": "07:30-23:59"
+        },
+        "full_address": "viale Ulisse 11 Catania tel: 095 497167",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "217.00",
+        "regione": "sicilia",
+        "provincia": "catania",
+        "slug": "catania-ulisse",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/catania/catania-ulisse",
+        "page_coordinates": [
+          15.10792,
+          37.531242
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Catania Ulisse**\n---\n**ID:** 217\n\n### Address\nviale Ulisse 11 Catania tel: 095 497167, Catania (catania)\n\n### Contacts\n**Phone:** 095 497167\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/catania/catania-ulisse](https://www.mcdonalds.it/ristorante/sicilia/catania/catania-ulisse)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:00-23:59 |\n| **Tuesday** | 07:30-23:59 |\n| **Wednesday** | 07:30-23:59 |\n| **Thursday** | 07:30-23:59 |\n| **Friday** | 07:30-01:00 |\n| **Saturday** | 07:30-01:00 |\n| **Sunday** | 07:30-23:59 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.313536,
+          38.162558
+        ]
+      },
+      "properties": {
+        "id": 230,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Palermo La Malfa",
+        "addr:city": "Palermo",
+        "addr:street": "Via Ugo la Malfa, 115",
+        "branch": "Palermo La Malfa",
+        "contact:phone": "091 583888",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-la-malfa",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "10:30-00:00",
+          "Thursday": "10:30-00:00",
+          "Friday": "10:30-00:00",
+          "Saturday": "10:30-00:00",
+          "Sunday": "10:30-00:00"
+        },
+        "full_address": "Via Ugo la Malfa, 115 Palermo tel: 091 583888",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "230.00",
+        "regione": "sicilia",
+        "provincia": "palermo",
+        "slug": "palermo-la-malfa",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-la-malfa",
+        "page_coordinates": [
+          13.313536,
+          38.162558
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Palermo La Malfa**\n---\n**ID:** 230\n\n### Address\nVia Ugo la Malfa, 115 Palermo tel: 091 583888, Palermo (palermo)\n\n### Contacts\n**Phone:** 091 583888\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-la-malfa](https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-la-malfa)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-00:00 |\n| **Tuesday** | 10:30-00:00 |\n| **Wednesday** | 10:30-00:00 |\n| **Thursday** | 10:30-00:00 |\n| **Friday** | 10:30-00:00 |\n| **Saturday** | 10:30-00:00 |\n| **Sunday** | 10:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.215969,
+          38.17212
+        ]
+      },
+      "properties": {
+        "id": 250,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Carini",
+        "addr:city": "Carini",
+        "addr:street": "via Luigi Sturzo",
+        "branch": "Carini",
+        "contact:phone": "091 583888",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/palermo/carini",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "10:30-00:00",
+          "Thursday": "10:30-00:00",
+          "Friday": "10:30-00:00",
+          "Saturday": "10:30-00:00",
+          "Sunday": "10:30-00:00"
+        },
+        "full_address": "via Luigi Sturzo Palermo tel: 091 583888",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "250.00",
+        "regione": "sicilia",
+        "provincia": "palermo",
+        "slug": "carini",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/palermo/carini",
+        "page_coordinates": [
+          13.215969,
+          38.17212
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Carini**\n---\n**ID:** 250\n\n### Address\nvia Luigi Sturzo Palermo tel: 091 583888, Carini (palermo)\n\n### Contacts\n**Phone:** 091 583888\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/palermo/carini](https://www.mcdonalds.it/ristorante/sicilia/palermo/carini)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-00:00 |\n| **Tuesday** | 10:30-00:00 |\n| **Wednesday** | 10:30-00:00 |\n| **Thursday** | 10:30-00:00 |\n| **Friday** | 10:30-00:00 |\n| **Saturday** | 10:30-00:00 |\n| **Sunday** | 10:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.811111,
+          37.66228
+        ]
+      },
+      "properties": {
+        "id": 254,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Castelvetrano",
+        "addr:city": "Castelvetrano",
+        "addr:street": "Via Dei Caduti Di Nassiriya",
+        "branch": "Castelvetrano",
+        "contact:phone": "0924 907310",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/trapani/castelvetrano",
+        "opening_hours": {
+          "Monday": "07:00-02:00",
+          "Tuesday": "07:00-02:00",
+          "Wednesday": "07:00-02:00",
+          "Thursday": "07:00-02:00",
+          "Friday": "07:00-02:00",
+          "Saturday": "07:00-02:00",
+          "Sunday": "07:00-02:00"
+        },
+        "full_address": "Via Dei Caduti Di Nassiriya Trapani tel: 0924 907310",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "254.00",
+        "regione": "sicilia",
+        "provincia": "trapani",
+        "slug": "castelvetrano",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/trapani/castelvetrano",
+        "page_coordinates": [
+          12.811111,
+          37.66228
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Castelvetrano**\n---\n**ID:** 254\n\n### Address\nVia Dei Caduti Di Nassiriya Trapani tel: 0924 907310, Castelvetrano (trapani)\n\n### Contacts\n**Phone:** 0924 907310\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/trapani/castelvetrano](https://www.mcdonalds.it/ristorante/sicilia/trapani/castelvetrano)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-02:00 |\n| **Tuesday** | 07:00-02:00 |\n| **Wednesday** | 07:00-02:00 |\n| **Thursday** | 07:00-02:00 |\n| **Friday** | 07:00-02:00 |\n| **Saturday** | 07:00-02:00 |\n| **Sunday** | 07:00-02:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.268301,
+          38.187205
+        ]
+      },
+      "properties": {
+        "id": 261,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Milazzo",
+        "addr:city": "Milazzo",
+        "addr:street": "Via Firenze snc",
+        "branch": "Milazzo",
+        "contact:phone": "090 9391574",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/messina/milazzo",
+        "opening_hours": {
+          "Monday": "10:00-02:00",
+          "Tuesday": "10:00-02:00",
+          "Wednesday": "10:00-02:00",
+          "Thursday": "07:30-02:00",
+          "Friday": "10:00-03:00",
+          "Saturday": "10:00-03:00",
+          "Sunday": "10:00-02:00"
+        },
+        "full_address": "Via Firenze snc Messina tel: 090 9391574",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "261.00",
+        "regione": "sicilia",
+        "provincia": "messina",
+        "slug": "milazzo",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/messina/milazzo",
+        "page_coordinates": [
+          15.268301,
+          38.187205
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Milazzo**\n---\n**ID:** 261\n\n### Address\nVia Firenze snc Messina tel: 090 9391574, Milazzo (messina)\n\n### Contacts\n**Phone:** 090 9391574\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/messina/milazzo](https://www.mcdonalds.it/ristorante/sicilia/messina/milazzo)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:00-02:00 |\n| **Tuesday** | 10:00-02:00 |\n| **Wednesday** | 10:00-02:00 |\n| **Thursday** | 07:30-02:00 |\n| **Friday** | 10:00-03:00 |\n| **Saturday** | 10:00-03:00 |\n| **Sunday** | 10:00-02:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.301773,
+          38.133719
+        ]
+      },
+      "properties": {
+        "id": 265,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Palermo Borgonuovo",
+        "addr:city": "Palermo",
+        "addr:street": "Via Assoro, 25b",
+        "branch": "Palermo Borgonuovo",
+        "contact:phone": "091 583888",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-borgonuovo",
+        "opening_hours": {
+          "Monday": "09:00-21:00",
+          "Tuesday": "09:00-21:00",
+          "Wednesday": "09:00-21:00",
+          "Thursday": "09:00-21:00",
+          "Friday": "09:00-21:00",
+          "Saturday": "09:00-21:00",
+          "Sunday": "09:00-21:00"
+        },
+        "full_address": "Via Assoro, 25b Palermo tel: 091 583888",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "265.00",
+        "regione": "sicilia",
+        "provincia": "palermo",
+        "slug": "palermo-borgonuovo",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-borgonuovo",
+        "page_coordinates": [
+          13.301773,
+          38.133719
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Palermo Borgonuovo**\n---\n**ID:** 265\n\n### Address\nVia Assoro, 25b Palermo tel: 091 583888, Palermo (palermo)\n\n### Contacts\n**Phone:** 091 583888\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-borgonuovo](https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-borgonuovo)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 09:00-21:00 |\n| **Tuesday** | 09:00-21:00 |\n| **Wednesday** | 09:00-21:00 |\n| **Thursday** | 09:00-21:00 |\n| **Friday** | 09:00-21:00 |\n| **Saturday** | 09:00-21:00 |\n| **Sunday** | 09:00-21:00 |\n\n### Services\nTake Away • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.008771,
+          37.484194
+        ]
+      },
+      "properties": {
+        "id": 276,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Catania Tenutella",
+        "addr:city": "Misterbianco",
+        "addr:street": "Via Zinirco",
+        "branch": "Catania Tenutella",
+        "contact:phone": "095 7493494",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/catania/catania-tenutella",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "10:30-00:00",
+          "Thursday": "10:30-00:00",
+          "Friday": "10:30-01:00",
+          "Saturday": "10:30-01:00",
+          "Sunday": "10:30-01:00"
+        },
+        "full_address": "Via Zinirco Catania tel: 095 7493494",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "276.00",
+        "regione": "sicilia",
+        "provincia": "catania",
+        "slug": "catania-tenutella",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/catania/catania-tenutella",
+        "page_coordinates": [
+          15.008771,
+          37.484194
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Catania Tenutella**\n---\n**ID:** 276\n\n### Address\nVia Zinirco Catania tel: 095 7493494, Misterbianco (catania)\n\n### Contacts\n**Phone:** 095 7493494\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/catania/catania-tenutella](https://www.mcdonalds.it/ristorante/sicilia/catania/catania-tenutella)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-00:00 |\n| **Tuesday** | 10:30-00:00 |\n| **Wednesday** | 10:30-00:00 |\n| **Thursday** | 10:30-00:00 |\n| **Friday** | 10:30-01:00 |\n| **Saturday** | 10:30-01:00 |\n| **Sunday** | 10:30-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.342104,
+          38.132206
+        ]
+      },
+      "properties": {
+        "id": 292,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Palermo Notarbartolo",
+        "addr:city": "Palermo",
+        "addr:street": "piazza Boiardo",
+        "branch": "Palermo Notarbartolo",
+        "contact:phone": "091 583888",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-notarbartolo",
+        "opening_hours": {
+          "Monday": "10:30-23:00",
+          "Tuesday": "10:30-23:00",
+          "Wednesday": "10:30-23:00",
+          "Thursday": "10:30-23:00",
+          "Friday": "10:30-23:00",
+          "Saturday": "10:30-23:00",
+          "Sunday": "17:00-23:00"
+        },
+        "full_address": "piazza Boiardo Palermo tel: 091 583888",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "292.00",
+        "regione": "sicilia",
+        "provincia": "palermo",
+        "slug": "palermo-notarbartolo",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-notarbartolo",
+        "page_coordinates": [
+          13.342104,
+          38.132206
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "Take Away",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Palermo Notarbartolo**\n---\n**ID:** 292\n\n### Address\npiazza Boiardo Palermo tel: 091 583888, Palermo (palermo)\n\n### Contacts\n**Phone:** 091 583888\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-notarbartolo](https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-notarbartolo)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-23:00 |\n| **Tuesday** | 10:30-23:00 |\n| **Wednesday** | 10:30-23:00 |\n| **Thursday** | 10:30-23:00 |\n| **Friday** | 10:30-23:00 |\n| **Saturday** | 10:30-23:00 |\n| **Sunday** | 17:00-23:00 |\n\n### Services\nTake Away • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.217231,
+          37.080764
+        ]
+      },
+      "properties": {
+        "id": 326,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Gela",
+        "addr:city": "Gela",
+        "addr:street": "Via Venezia",
+        "branch": "Gela",
+        "contact:phone": "0933 921833",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/caltanissetta/gela",
+        "opening_hours": {
+          "Monday": "10:00-00:00",
+          "Tuesday": "10:00-00:00",
+          "Wednesday": "10:00-00:00",
+          "Thursday": "10:00-00:00",
+          "Friday": "10:00-00:00",
+          "Saturday": "07:00-00:00",
+          "Sunday": "07:00-00:00"
+        },
+        "full_address": "Via Venezia Caltanissetta tel: 0933 921833",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "326.00",
+        "regione": "sicilia",
+        "provincia": "caltanissetta",
+        "slug": "gela",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/caltanissetta/gela",
+        "page_coordinates": [
+          14.217231,
+          37.080764
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Gela**\n---\n**ID:** 326\n\n### Address\nVia Venezia Caltanissetta tel: 0933 921833, Gela (caltanissetta)\n\n### Contacts\n**Phone:** 0933 921833\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/caltanissetta/gela](https://www.mcdonalds.it/ristorante/sicilia/caltanissetta/gela)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:00-00:00 |\n| **Tuesday** | 10:00-00:00 |\n| **Wednesday** | 10:00-00:00 |\n| **Thursday** | 10:00-00:00 |\n| **Friday** | 10:00-00:00 |\n| **Saturday** | 07:00-00:00 |\n| **Sunday** | 07:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.556532,
+          38.185193
+        ]
+      },
+      "properties": {
+        "id": 334,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Messina Cairoli",
+        "addr:city": "Messina",
+        "addr:street": "Via Bruno, 42",
+        "branch": "Messina Cairoli",
+        "contact:phone": "090 6512702",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/messina/messina-cairoli",
+        "opening_hours": {
+          "Monday": "10:00-03:00",
+          "Tuesday": "10:00-03:00",
+          "Wednesday": "10:00-07:00",
+          "Thursday": "07:00-07:00",
+          "Friday": "07:00-07:00",
+          "Saturday": "07:00-07:00",
+          "Sunday": "07:00-03:00"
+        },
+        "full_address": "Via Bruno, 42 Messina tel: 090 6512702",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "334.00",
+        "regione": "sicilia",
+        "provincia": "messina",
+        "slug": "messina-cairoli",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/messina/messina-cairoli",
+        "page_coordinates": [
+          15.556532,
+          38.185193
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Messina Cairoli**\n---\n**ID:** 334\n\n### Address\nVia Bruno, 42 Messina tel: 090 6512702, Messina (messina)\n\n### Contacts\n**Phone:** 090 6512702\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/messina/messina-cairoli](https://www.mcdonalds.it/ristorante/sicilia/messina/messina-cairoli)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:00-03:00 |\n| **Tuesday** | 10:00-03:00 |\n| **Wednesday** | 10:00-07:00 |\n| **Thursday** | 07:00-07:00 |\n| **Friday** | 07:00-07:00 |\n| **Saturday** | 07:00-07:00 |\n| **Sunday** | 07:00-03:00 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.050408,
+          37.47192
+        ]
+      },
+      "properties": {
+        "id": 366,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Catania Mall",
+        "addr:city": "Catania",
+        "addr:street": "via Gelso Bianco",
+        "branch": "Catania Mall",
+        "contact:phone": "095 2262054",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/catania/catania-mall",
+        "opening_hours": {
+          "Monday": "10:30-21:30",
+          "Tuesday": "10:30-21:30",
+          "Wednesday": "10:30-21:30",
+          "Thursday": "10:30-21:30",
+          "Friday": "10:30-21:30",
+          "Saturday": "10:30-22:00",
+          "Sunday": "10:30-22:00"
+        },
+        "full_address": "via Gelso Bianco Catania tel: 095 2262054",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "366.00",
+        "regione": "sicilia",
+        "provincia": "catania",
+        "slug": "catania-mall",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/catania/catania-mall",
+        "page_coordinates": [
+          15.050408,
+          37.47192
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Catania Mall**\n---\n**ID:** 366\n\n### Address\nvia Gelso Bianco Catania tel: 095 2262054, Catania (catania)\n\n### Contacts\n**Phone:** 095 2262054\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/catania/catania-mall](https://www.mcdonalds.it/ristorante/sicilia/catania/catania-mall)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-21:30 |\n| **Tuesday** | 10:30-21:30 |\n| **Wednesday** | 10:30-21:30 |\n| **Thursday** | 10:30-21:30 |\n| **Friday** | 10:30-21:30 |\n| **Saturday** | 10:30-22:00 |\n| **Sunday** | 10:30-22:00 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32884,
+          38.128067
+        ]
+      },
+      "properties": {
+        "id": 478,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Palermo Calatafimi",
+        "addr:city": "Palermo",
+        "addr:street": "Viale Regione Siciliana",
+        "branch": "Palermo Calatafimi",
+        "contact:phone": "0912742821",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-calatafimi",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "10:30-00:00",
+          "Thursday": "10:30-00:00",
+          "Friday": "10:30-00:00",
+          "Saturday": "10:30-00:00",
+          "Sunday": "10:30-00:00"
+        },
+        "full_address": "Viale Regione Siciliana sud est Palermo tel: 0912742821",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "984.00",
+        "regione": "sicilia",
+        "provincia": "palermo",
+        "slug": "palermo-calatafimi",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-calatafimi",
+        "page_coordinates": [
+          13.32922,
+          38.10201
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Palermo Calatafimi**\n---\n**ID:** 478\n\n### Address\nViale Regione Siciliana sud est Palermo tel: 0912742821, Palermo (palermo)\n\n### Contacts\n**Phone:** 0912742821\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-calatafimi](https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-calatafimi)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-00:00 |\n| **Tuesday** | 10:30-00:00 |\n| **Wednesday** | 10:30-00:00 |\n| **Thursday** | 10:30-00:00 |\n| **Friday** | 10:30-00:00 |\n| **Saturday** | 10:30-00:00 |\n| **Sunday** | 10:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.086731,
+          37.507119
+        ]
+      },
+      "properties": {
+        "id": 494,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Catania",
+        "addr:city": "Catania",
+        "addr:street": "Piazza Stesicoro 57",
+        "branch": "Catania",
+        "contact:phone": "095 7151685",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/catania/catania",
+        "opening_hours": {
+          "Monday": "07:00-06:59",
+          "Tuesday": "07:00-06:59",
+          "Wednesday": "07:00-06:59",
+          "Thursday": "07:00-06:59",
+          "Friday": "07:00-06:59",
+          "Saturday": "07:00-06:59",
+          "Sunday": "07:00-06:59"
+        },
+        "full_address": "Piazza Stesicoro 57 Catania tel: 095 7151685",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "494.00",
+        "regione": "sicilia",
+        "provincia": "catania",
+        "slug": "catania",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/catania/catania",
+        "page_coordinates": [
+          15.086731,
+          37.507119
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Catania**\n---\n**ID:** 494\n\n### Address\nPiazza Stesicoro 57 Catania tel: 095 7151685, Catania (catania)\n\n### Contacts\n**Phone:** 095 7151685\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/catania/catania](https://www.mcdonalds.it/ristorante/sicilia/catania/catania)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-06:59 |\n| **Tuesday** | 07:00-06:59 |\n| **Wednesday** | 07:00-06:59 |\n| **Thursday** | 07:00-06:59 |\n| **Friday** | 07:00-06:59 |\n| **Saturday** | 07:00-06:59 |\n| **Sunday** | 07:00-06:59 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.410792,
+          38.089981
+        ]
+      },
+      "properties": {
+        "id": 504,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Palermo Pecoraino",
+        "addr:city": "Palermo",
+        "addr:street": "via Pecoraino c/o CC Forum",
+        "branch": "Palermo Pecoraino",
+        "contact:phone": "091 583888",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-pecoraino",
+        "full_address": "via Pecoraino c/o CC Forum Palermo tel: 091 583888",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "504.00",
+        "regione": "sicilia",
+        "provincia": "palermo",
+        "slug": "palermo-pecoraino",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-pecoraino",
+        "page_coordinates": [
+          13.410792,
+          38.089981
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Servizio al tavolo",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Palermo Pecoraino**\n---\n**ID:** 504\n\n### Address\nvia Pecoraino c/o CC Forum Palermo tel: 091 583888, Palermo (palermo)\n\n### Contacts\n**Phone:** 091 583888\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-pecoraino](https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-pecoraino)\n\n### Services\nMcDrive® • McCafé® • Servizio al tavolo • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.565721,
+          38.010263
+        ]
+      },
+      "properties": {
+        "id": 511,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Trapani",
+        "addr:city": "Trapani",
+        "addr:street": "A29 direzione Trapani",
+        "branch": "Trapani",
+        "contact:phone": "0923613184",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/trapani/trapani",
+        "opening_hours": {
+          "Monday": "07:00-02:00",
+          "Tuesday": "07:00-02:00",
+          "Wednesday": "07:00-02:00",
+          "Thursday": "07:00-02:00",
+          "Friday": "07:00-02:00",
+          "Saturday": "07:00-02:00",
+          "Sunday": "07:00-02:00"
+        },
+        "full_address": "A29 direzione Trapani Trapani tel: 0923613184",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "511.00",
+        "regione": "sicilia",
+        "provincia": "trapani",
+        "slug": "trapani",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/trapani/trapani",
+        "page_coordinates": [
+          12.565721,
+          38.010263
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Trapani**\n---\n**ID:** 511\n\n### Address\nA29 direzione Trapani Trapani tel: 0923613184, Trapani (trapani)\n\n### Contacts\n**Phone:** 0923613184\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/trapani/trapani](https://www.mcdonalds.it/ristorante/sicilia/trapani/trapani)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-02:00 |\n| **Tuesday** | 07:00-02:00 |\n| **Wednesday** | 07:00-02:00 |\n| **Thursday** | 07:00-02:00 |\n| **Friday** | 07:00-02:00 |\n| **Saturday** | 07:00-02:00 |\n| **Sunday** | 07:00-02:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.298712,
+          37.552968
+        ]
+      },
+      "properties": {
+        "id": 610,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Enna",
+        "addr:city": "Enna",
+        "addr:street": "Via Libero Grassi n° 16F-16M",
+        "branch": "Enna",
+        "contact:phone": "0935 072551",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/enna/enna",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-00:00",
+          "Saturday": "07:00-00:00",
+          "Sunday": "07:00-00:00"
+        },
+        "full_address": "Via Libero Grassi n° 16F-16M Enna tel: 0935 072551",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "610.00",
+        "regione": "sicilia",
+        "provincia": "enna",
+        "slug": "enna",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/enna/enna",
+        "page_coordinates": [
+          14.298712,
+          37.552968
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Enna**\n---\n**ID:** 610\n\n### Address\nVia Libero Grassi n° 16F-16M Enna tel: 0935 072551, Enna (enna)\n\n### Contacts\n**Phone:** 0935 072551\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/enna/enna](https://www.mcdonalds.it/ristorante/sicilia/enna/enna)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-00:00 |\n| **Tuesday** | 07:00-00:00 |\n| **Wednesday** | 07:00-00:00 |\n| **Thursday** | 07:00-00:00 |\n| **Friday** | 07:00-00:00 |\n| **Saturday** | 07:00-00:00 |\n| **Sunday** | 07:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.065796,
+          37.470662
+        ]
+      },
+      "properties": {
+        "id": 614,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Catania Aeroporto",
+        "addr:city": "Catania",
+        "addr:street": "Aeroporto di Catania Fontanarossa",
+        "branch": "Catania Aeroporto",
+        "contact:phone": "095 2262014",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/catania/catania-aeroporto",
+        "opening_hours": {
+          "Monday": "08:30-21:00",
+          "Tuesday": "08:30-21:00",
+          "Wednesday": "08:30-21:00",
+          "Thursday": "08:30-21:00",
+          "Friday": "08:30-21:00",
+          "Saturday": "08:30-21:00",
+          "Sunday": "08:30-21:00"
+        },
+        "full_address": "Aeroporto di Catania Fontanarossa Catania tel: 095 2262014",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "614.00",
+        "regione": "sicilia",
+        "provincia": "catania",
+        "slug": "catania-aeroporto",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/catania/catania-aeroporto",
+        "page_coordinates": [
+          15.065796,
+          37.470662
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Catania Aeroporto**\n---\n**ID:** 614\n\n### Address\nAeroporto di Catania Fontanarossa Catania tel: 095 2262014, Catania (catania)\n\n### Contacts\n**Phone:** 095 2262014\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/catania/catania-aeroporto](https://www.mcdonalds.it/ristorante/sicilia/catania/catania-aeroporto)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:30-21:00 |\n| **Tuesday** | 08:30-21:00 |\n| **Wednesday** | 08:30-21:00 |\n| **Thursday** | 08:30-21:00 |\n| **Friday** | 08:30-21:00 |\n| **Saturday** | 08:30-21:00 |\n| **Sunday** | 08:30-21:00 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.171096,
+          37.704412
+        ]
+      },
+      "properties": {
+        "id": 649,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Giarre",
+        "addr:city": "Giarre",
+        "addr:street": "Strada Provinciale 4i",
+        "branch": "Giarre",
+        "contact:phone": "0952262102",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/catania/giarre",
+        "opening_hours": {
+          "Monday": "10:00-00:00",
+          "Tuesday": "10:00-00:00",
+          "Wednesday": "10:00-00:00",
+          "Thursday": "10:00-00:00",
+          "Friday": "10:00-00:00",
+          "Saturday": "10:00-00:00",
+          "Sunday": "10:00-00:00"
+        },
+        "full_address": "Strada Provinciale 4i Catania tel: 0952262102",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "649.00",
+        "regione": "sicilia",
+        "provincia": "catania",
+        "slug": "giarre",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/catania/giarre",
+        "page_coordinates": [
+          15.171096,
+          37.704412
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Giarre**\n---\n**ID:** 649\n\n### Address\nStrada Provinciale 4i Catania tel: 0952262102, Giarre (catania)\n\n### Contacts\n**Phone:** 0952262102\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/catania/giarre](https://www.mcdonalds.it/ristorante/sicilia/catania/giarre)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:00-00:00 |\n| **Tuesday** | 10:00-00:00 |\n| **Wednesday** | 10:00-00:00 |\n| **Thursday** | 10:00-00:00 |\n| **Friday** | 10:00-00:00 |\n| **Saturday** | 10:00-00:00 |\n| **Sunday** | 10:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.260515,
+          37.089413
+        ]
+      },
+      "properties": {
+        "id": 667,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Siracusa Via Professore Lino Romano",
+        "addr:city": "Siracusa",
+        "addr:street": "Via Professore Lino Romano",
+        "branch": "Siracusa Via Professore Lino Romano",
+        "contact:phone": "0931473462",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/siracusa/siracusa-via-professore-lino-romano",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-01:00",
+          "Saturday": "07:00-03:00",
+          "Sunday": "07:30-01:00"
+        },
+        "full_address": "Via Professore Lino Romano Siracusa tel: 0931473462",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "667.00",
+        "regione": "sicilia",
+        "provincia": "siracusa",
+        "slug": "siracusa-via-professore-lino-romano",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/siracusa/siracusa-via-professore-lino-romano",
+        "page_coordinates": [
+          15.260515,
+          37.089413
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Siracusa Via Professore Lino Romano**\n---\n**ID:** 667\n\n### Address\nVia Professore Lino Romano Siracusa tel: 0931473462, Siracusa (siracusa)\n\n### Contacts\n**Phone:** 0931473462\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/siracusa/siracusa-via-professore-lino-romano](https://www.mcdonalds.it/ristorante/sicilia/siracusa/siracusa-via-professore-lino-romano)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-00:00 |\n| **Tuesday** | 07:00-00:00 |\n| **Wednesday** | 07:00-00:00 |\n| **Thursday** | 07:00-00:00 |\n| **Friday** | 07:00-01:00 |\n| **Saturday** | 07:00-03:00 |\n| **Sunday** | 07:30-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.515762,
+          36.960936
+        ]
+      },
+      "properties": {
+        "id": 684,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Vittoria",
+        "addr:city": "Vittoria",
+        "addr:street": "S.S.115",
+        "branch": "Vittoria",
+        "contact:phone": "0932692950",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/ragusa/vittoria",
+        "opening_hours": {
+          "Monday": "07:00-02:00",
+          "Tuesday": "07:00-02:00",
+          "Wednesday": "07:00-02:00",
+          "Thursday": "07:00-02:00",
+          "Friday": "07:00-02:00",
+          "Saturday": "07:00-02:00",
+          "Sunday": "07:00-02:00"
+        },
+        "full_address": "S.S.115 Ragusa tel: 0932692950",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "684.00",
+        "regione": "sicilia",
+        "provincia": "ragusa",
+        "slug": "vittoria",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/ragusa/vittoria",
+        "page_coordinates": [
+          14.515762,
+          36.960936
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Vittoria**\n---\n**ID:** 684\n\n### Address\nS.S.115 Ragusa tel: 0932692950, Vittoria (ragusa)\n\n### Contacts\n**Phone:** 0932692950\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/ragusa/vittoria](https://www.mcdonalds.it/ristorante/sicilia/ragusa/vittoria)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-02:00 |\n| **Tuesday** | 07:00-02:00 |\n| **Wednesday** | 07:00-02:00 |\n| **Thursday** | 07:00-02:00 |\n| **Friday** | 07:00-02:00 |\n| **Saturday** | 07:00-02:00 |\n| **Sunday** | 07:00-02:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.522097,
+          37.217616
+        ]
+      },
+      "properties": {
+        "id": 697,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Caltagirone Europa",
+        "addr:city": "Caltagirone",
+        "addr:street": "Viale Europa",
+        "branch": "Caltagirone Europa",
+        "contact:phone": "0933472911",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/catania/caltagirone-europa",
+        "opening_hours": {
+          "Monday": "10:00-00:00",
+          "Tuesday": "10:00-00:00",
+          "Wednesday": "10:00-00:00",
+          "Thursday": "10:00-00:00",
+          "Friday": "10:00-01:00",
+          "Saturday": "10:00-01:00",
+          "Sunday": "10:00-00:00"
+        },
+        "full_address": "Viale Europa Catania tel: 0933472911",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "697.00",
+        "regione": "sicilia",
+        "provincia": "catania",
+        "slug": "caltagirone-europa",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/catania/caltagirone-europa",
+        "page_coordinates": [
+          14.522097,
+          37.217616
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Play Land",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Caltagirone Europa**\n---\n**ID:** 697\n\n### Address\nViale Europa Catania tel: 0933472911, Caltagirone (catania)\n\n### Contacts\n**Phone:** 0933472911\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/catania/caltagirone-europa](https://www.mcdonalds.it/ristorante/sicilia/catania/caltagirone-europa)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:00-00:00 |\n| **Tuesday** | 10:00-00:00 |\n| **Wednesday** | 10:00-00:00 |\n| **Thursday** | 10:00-00:00 |\n| **Friday** | 10:00-01:00 |\n| **Saturday** | 10:00-01:00 |\n| **Sunday** | 10:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Play Land • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.551032,
+          38.171956
+        ]
+      },
+      "properties": {
+        "id": 742,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Messina Maregrosso",
+        "addr:city": "Messina",
+        "addr:street": "Via Maregrosso 26",
+        "branch": "Messina Maregrosso",
+        "contact:phone": "090 9014828",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/messina/messina-maregrosso",
+        "opening_hours": {
+          "Monday": "10:00-00:00",
+          "Tuesday": "10:00-00:00",
+          "Wednesday": "10:00-00:00",
+          "Thursday": "10:00-00:00",
+          "Friday": "10:00-01:00",
+          "Saturday": "10:00-01:00",
+          "Sunday": "10:00-01:00"
+        },
+        "full_address": "Via Maregrosso 26 Messina tel: 090 9014828",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "742.00",
+        "regione": "sicilia",
+        "provincia": "messina",
+        "slug": "messina-maregrosso",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/messina/messina-maregrosso",
+        "page_coordinates": [
+          15.551032,
+          38.171956
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Messina Maregrosso**\n---\n**ID:** 742\n\n### Address\nVia Maregrosso 26 Messina tel: 090 9014828, Messina (messina)\n\n### Contacts\n**Phone:** 090 9014828\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/messina/messina-maregrosso](https://www.mcdonalds.it/ristorante/sicilia/messina/messina-maregrosso)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:00-00:00 |\n| **Tuesday** | 10:00-00:00 |\n| **Wednesday** | 10:00-00:00 |\n| **Thursday** | 10:00-00:00 |\n| **Friday** | 10:00-01:00 |\n| **Saturday** | 10:00-01:00 |\n| **Sunday** | 10:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.294029,
+          38.189934
+        ]
+      },
+      "properties": {
+        "id": 752,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Palermo Nicoletti",
+        "addr:city": "Palermo",
+        "addr:street": "Via Rosario Nicoletti",
+        "branch": "Palermo Nicoletti",
+        "contact:phone": "091 583888",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-nicoletti",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "10:30-00:00",
+          "Thursday": "10:30-00:00",
+          "Friday": "10:30-00:00",
+          "Saturday": "10:30-00:00",
+          "Sunday": "10:30-00:00"
+        },
+        "full_address": "Via Rosario Nicoletti Palermo tel: 091 583888",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "752.00",
+        "regione": "sicilia",
+        "provincia": "palermo",
+        "slug": "palermo-nicoletti",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-nicoletti",
+        "page_coordinates": [
+          13.294029,
+          38.189934
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Palermo Nicoletti**\n---\n**ID:** 752\n\n### Address\nVia Rosario Nicoletti Palermo tel: 091 583888, Palermo (palermo)\n\n### Contacts\n**Phone:** 091 583888\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-nicoletti](https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-nicoletti)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-00:00 |\n| **Tuesday** | 10:30-00:00 |\n| **Wednesday** | 10:30-00:00 |\n| **Thursday** | 10:30-00:00 |\n| **Friday** | 10:30-00:00 |\n| **Saturday** | 10:30-00:00 |\n| **Sunday** | 10:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.262914,
+          37.067937
+        ]
+      },
+      "properties": {
+        "id": 769,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Siracusa Mall",
+        "addr:city": "Siracusa",
+        "addr:street": "Via Necropoli del Fusco.",
+        "branch": "Siracusa Mall",
+        "contact:phone": "0931 1385264",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/siracusa/siracusa-mall",
+        "opening_hours": {
+          "Monday": "08:00-21:30",
+          "Tuesday": "08:00-21:30",
+          "Wednesday": "08:00-21:30",
+          "Thursday": "08:00-21:30",
+          "Friday": "08:00-21:30",
+          "Saturday": "08:00-21:30",
+          "Sunday": "08:00-21:30"
+        },
+        "full_address": "Via Necropoli del Fusco. Siracusa tel: 0931 1385264",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "769.00",
+        "regione": "sicilia",
+        "provincia": "siracusa",
+        "slug": "siracusa-mall",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/siracusa/siracusa-mall",
+        "page_coordinates": [
+          15.262914,
+          37.067937
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Siracusa Mall**\n---\n**ID:** 769\n\n### Address\nVia Necropoli del Fusco. Siracusa tel: 0931 1385264, Siracusa (siracusa)\n\n### Contacts\n**Phone:** 0931 1385264\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/siracusa/siracusa-mall](https://www.mcdonalds.it/ristorante/sicilia/siracusa/siracusa-mall)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 08:00-21:30 |\n| **Tuesday** | 08:00-21:30 |\n| **Wednesday** | 08:00-21:30 |\n| **Thursday** | 08:00-21:30 |\n| **Friday** | 08:00-21:30 |\n| **Saturday** | 08:00-21:30 |\n| **Sunday** | 08:00-21:30 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.356843,
+          38.124811
+        ]
+      },
+      "properties": {
+        "id": 955,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Palermo Amari",
+        "addr:city": "Palermo",
+        "addr:street": "Via Emerico Amari 160",
+        "branch": "Palermo Amari",
+        "contact:phone": "091 2766658",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-amari",
+        "opening_hours": {
+          "Monday": "09:00-01:00",
+          "Tuesday": "09:00-01:00",
+          "Wednesday": "09:00-01:00",
+          "Thursday": "09:00-01:00",
+          "Friday": "09:00-03:00",
+          "Saturday": "09:00-03:00",
+          "Sunday": "09:00-01:00"
+        },
+        "full_address": "Via Emerico Amari 160 Palermo tel: 091 2766658",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "955.00",
+        "regione": "sicilia",
+        "provincia": "palermo",
+        "slug": "palermo-amari",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-amari",
+        "page_coordinates": [
+          13.356843,
+          38.124811
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Palermo Amari**\n---\n**ID:** 955\n\n### Address\nVia Emerico Amari 160 Palermo tel: 091 2766658, Palermo (palermo)\n\n### Contacts\n**Phone:** 091 2766658\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-amari](https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-amari)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 09:00-01:00 |\n| **Tuesday** | 09:00-01:00 |\n| **Wednesday** | 09:00-01:00 |\n| **Thursday** | 09:00-01:00 |\n| **Friday** | 09:00-03:00 |\n| **Saturday** | 09:00-03:00 |\n| **Sunday** | 09:00-01:00 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.117091,
+          36.901262
+        ]
+      },
+      "properties": {
+        "id": 965,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Avola Giardino",
+        "addr:city": "Avola",
+        "addr:street": "SS 115",
+        "branch": "Avola Giardino",
+        "contact:phone": "093 11384562",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/siracusa/avola-giardino",
+        "opening_hours": {
+          "Monday": "07:30-00:00",
+          "Tuesday": "07:30-00:00",
+          "Wednesday": "07:30-00:00",
+          "Thursday": "07:30-00:00",
+          "Friday": "07:30-01:00",
+          "Saturday": "07:30-01:00",
+          "Sunday": "07:30-00:00"
+        },
+        "full_address": "SS 115 Siracusa tel: 093 11384562",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "965.00",
+        "regione": "sicilia",
+        "provincia": "siracusa",
+        "slug": "avola-giardino",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/siracusa/avola-giardino",
+        "page_coordinates": [
+          15.117091,
+          36.901262
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Avola Giardino**\n---\n**ID:** 965\n\n### Address\nSS 115 Siracusa tel: 093 11384562, Avola (siracusa)\n\n### Contacts\n**Phone:** 093 11384562\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/siracusa/avola-giardino](https://www.mcdonalds.it/ristorante/sicilia/siracusa/avola-giardino)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:30-00:00 |\n| **Tuesday** | 07:30-00:00 |\n| **Wednesday** | 07:30-00:00 |\n| **Thursday** | 07:30-00:00 |\n| **Friday** | 07:30-01:00 |\n| **Saturday** | 07:30-01:00 |\n| **Sunday** | 07:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32922,
+          38.10201
+        ]
+      },
+      "properties": {
+        "id": 984,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Palermo Calatafimi",
+        "addr:city": "Palermo",
+        "addr:street": "Viale Regione Siciliana sud est",
+        "branch": "Palermo Calatafimi",
+        "contact:phone": "0912742821",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-calatafimi",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "10:30-00:00",
+          "Thursday": "10:30-00:00",
+          "Friday": "10:30-00:00",
+          "Saturday": "10:30-00:00",
+          "Sunday": "10:30-00:00"
+        },
+        "full_address": "Viale Regione Siciliana sud est Palermo tel: 0912742821",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "984.00",
+        "regione": "sicilia",
+        "provincia": "palermo",
+        "slug": "palermo-calatafimi",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-calatafimi",
+        "page_coordinates": [
+          13.32922,
+          38.10201
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Palermo Calatafimi**\n---\n**ID:** 984\n\n### Address\nViale Regione Siciliana sud est Palermo tel: 0912742821, Palermo (palermo)\n\n### Contacts\n**Phone:** 0912742821\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-calatafimi](https://www.mcdonalds.it/ristorante/sicilia/palermo/palermo-calatafimi)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-00:00 |\n| **Tuesday** | 10:30-00:00 |\n| **Wednesday** | 10:30-00:00 |\n| **Thursday** | 10:30-00:00 |\n| **Friday** | 10:30-00:00 |\n| **Saturday** | 10:30-00:00 |\n| **Sunday** | 10:30-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.021294,
+          37.511536
+        ]
+      },
+      "properties": {
+        "id": 985,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Misterbianco SS121",
+        "addr:city": "Misterbianco",
+        "addr:street": "Via Comunità Economica Europea 37",
+        "branch": "Misterbianco SS121",
+        "contact:phone": "0950908188",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/catania/misterbianco-ss121",
+        "opening_hours": {
+          "Monday": "07:00-00:00",
+          "Tuesday": "07:00-00:00",
+          "Wednesday": "07:00-00:00",
+          "Thursday": "07:00-00:00",
+          "Friday": "07:00-00:00",
+          "Saturday": "07:00-01:00",
+          "Sunday": "07:00-00:00"
+        },
+        "full_address": "Via Comunità Economica Europea 37 Catania tel: 0950908188",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "985.00",
+        "regione": "sicilia",
+        "provincia": "catania",
+        "slug": "misterbianco-ss121",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/catania/misterbianco-ss121",
+        "page_coordinates": [
+          15.021294,
+          37.511536
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Misterbianco SS121**\n---\n**ID:** 985\n\n### Address\nVia Comunità Economica Europea 37 Catania tel: 0950908188, Misterbianco (catania)\n\n### Contacts\n**Phone:** 0950908188\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/catania/misterbianco-ss121](https://www.mcdonalds.it/ristorante/sicilia/catania/misterbianco-ss121)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-00:00 |\n| **Tuesday** | 07:00-00:00 |\n| **Wednesday** | 07:00-00:00 |\n| **Thursday** | 07:00-00:00 |\n| **Friday** | 07:00-00:00 |\n| **Saturday** | 07:00-01:00 |\n| **Sunday** | 07:00-00:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.833479,
+          36.725247
+        ]
+      },
+      "properties": {
+        "id": 1007,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Pozzallo Australia",
+        "addr:city": "Pozzallo",
+        "addr:street": "viale Australia 54",
+        "branch": "Pozzallo Australia",
+        "contact:phone": "09321612268",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/ragusa/pozzallo-australia",
+        "opening_hours": {
+          "Monday": "07:00-02:00",
+          "Tuesday": "07:00-02:00",
+          "Wednesday": "07:00-02:00",
+          "Thursday": "07:00-02:00",
+          "Friday": "07:00-02:00",
+          "Saturday": "07:00-02:00",
+          "Sunday": "07:00-02:00"
+        },
+        "full_address": "viale Australia 54 Ragusa tel: 09321612268",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1007.00",
+        "regione": "sicilia",
+        "provincia": "ragusa",
+        "slug": "pozzallo-australia",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/ragusa/pozzallo-australia",
+        "page_coordinates": [
+          14.833479,
+          36.725247
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Pozzallo Australia**\n---\n**ID:** 1007\n\n### Address\nviale Australia 54 Ragusa tel: 09321612268, Pozzallo (ragusa)\n\n### Contacts\n**Phone:** 09321612268\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/ragusa/pozzallo-australia](https://www.mcdonalds.it/ristorante/sicilia/ragusa/pozzallo-australia)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-02:00 |\n| **Tuesday** | 07:00-02:00 |\n| **Wednesday** | 07:00-02:00 |\n| **Thursday** | 07:00-02:00 |\n| **Friday** | 07:00-02:00 |\n| **Saturday** | 07:00-02:00 |\n| **Sunday** | 07:00-02:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.606568,
+          37.660238
+        ]
+      },
+      "properties": {
+        "id": 1038,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Mazara del Vallo Salemi",
+        "addr:city": "Mazara Del Vallo",
+        "addr:street": "Via Salemi. snc",
+        "branch": "Mazara del Vallo Salemi",
+        "contact:phone": "09231560314",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/trapani/mazara-del-vallo-salemi",
+        "opening_hours": {
+          "Monday": "07:00-02:00",
+          "Tuesday": "07:00-02:00",
+          "Wednesday": "07:00-02:00",
+          "Thursday": "07:00-02:00",
+          "Friday": "07:00-02:00",
+          "Saturday": "07:00-02:00",
+          "Sunday": "07:00-02:00"
+        },
+        "full_address": "Via Salemi. snc Trapani tel: 09231560314",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1038.00",
+        "regione": "sicilia",
+        "provincia": "trapani",
+        "slug": "mazara-del-vallo-salemi",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/trapani/mazara-del-vallo-salemi",
+        "page_coordinates": [
+          12.606568,
+          37.660238
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Mazara del Vallo Salemi**\n---\n**ID:** 1038\n\n### Address\nVia Salemi. snc Trapani tel: 09231560314, Mazara Del Vallo (trapani)\n\n### Contacts\n**Phone:** 09231560314\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/trapani/mazara-del-vallo-salemi](https://www.mcdonalds.it/ristorante/sicilia/trapani/mazara-del-vallo-salemi)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-02:00 |\n| **Tuesday** | 07:00-02:00 |\n| **Wednesday** | 07:00-02:00 |\n| **Thursday** | 07:00-02:00 |\n| **Friday** | 07:00-02:00 |\n| **Saturday** | 07:00-02:00 |\n| **Sunday** | 07:00-02:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.190759,
+          38.151242
+        ]
+      },
+      "properties": {
+        "id": 1052,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Barcellona Pozzo Di Gotto",
+        "addr:city": "Barcellona Pozzo Di Gotto",
+        "addr:street": "via Filicudi snc",
+        "branch": "Barcellona Pozzo Di Gotto",
+        "contact:phone": "0902131286",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/messina/barcellona-pozzo-di-gotto",
+        "opening_hours": {
+          "Monday": "10:00-00:00",
+          "Tuesday": "10:00-00:00",
+          "Wednesday": "10:00-00:00",
+          "Thursday": "10:00-00:00",
+          "Friday": "10:00-01:00",
+          "Saturday": "10:00-01:00",
+          "Sunday": "10:00-01:00"
+        },
+        "full_address": "via Filicudi snc Messina tel: 0902131286",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1052.00",
+        "regione": "sicilia",
+        "provincia": "messina",
+        "slug": "barcellona-pozzo-di-gotto",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/messina/barcellona-pozzo-di-gotto",
+        "page_coordinates": [
+          15.190759,
+          38.151242
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Barcellona Pozzo Di Gotto**\n---\n**ID:** 1052\n\n### Address\nvia Filicudi snc Messina tel: 0902131286, Barcellona Pozzo Di Gotto (messina)\n\n### Contacts\n**Phone:** 0902131286\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/messina/barcellona-pozzo-di-gotto](https://www.mcdonalds.it/ristorante/sicilia/messina/barcellona-pozzo-di-gotto)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:00-00:00 |\n| **Tuesday** | 10:00-00:00 |\n| **Wednesday** | 10:00-00:00 |\n| **Thursday** | 10:00-00:00 |\n| **Friday** | 10:00-01:00 |\n| **Saturday** | 10:00-01:00 |\n| **Sunday** | 10:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.710207,
+          36.918787
+        ]
+      },
+      "properties": {
+        "id": 1056,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Ragusa La Pira",
+        "addr:city": "Ragusa",
+        "addr:street": "via Giorgio La Pira snc",
+        "branch": "Ragusa La Pira",
+        "contact:phone": "0932 1611111",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/ragusa/ragusa-la-pira",
+        "opening_hours": {
+          "Monday": "07:00-02:00",
+          "Tuesday": "07:00-02:00",
+          "Wednesday": "07:00-02:00",
+          "Thursday": "07:00-02:00",
+          "Friday": "07:00-02:00",
+          "Saturday": "07:00-02:00",
+          "Sunday": "07:00-02:00"
+        },
+        "full_address": "via Giorgio La Pira snc Ragusa tel: 0932 1611111",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1056.00",
+        "regione": "sicilia",
+        "provincia": "ragusa",
+        "slug": "ragusa-la-pira",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/ragusa/ragusa-la-pira",
+        "page_coordinates": [
+          14.710207,
+          36.918787
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Ragusa La Pira**\n---\n**ID:** 1056\n\n### Address\nvia Giorgio La Pira snc Ragusa tel: 0932 1611111, Ragusa (ragusa)\n\n### Contacts\n**Phone:** 0932 1611111\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/ragusa/ragusa-la-pira](https://www.mcdonalds.it/ristorante/sicilia/ragusa/ragusa-la-pira)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-02:00 |\n| **Tuesday** | 07:00-02:00 |\n| **Wednesday** | 07:00-02:00 |\n| **Thursday** | 07:00-02:00 |\n| **Friday** | 07:00-02:00 |\n| **Saturday** | 07:00-02:00 |\n| **Sunday** | 07:00-02:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.60279,
+          38.258109
+        ]
+      },
+      "properties": {
+        "id": 1057,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Messina DAlcontres",
+        "addr:city": "Messina",
+        "addr:street": "Viale Ferdinando Stagno dAlcontres",
+        "branch": "Messina DAlcontres",
+        "contact:phone": "090 2134977",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/messina/messina-dalcontres",
+        "opening_hours": {
+          "Monday": "10:00-00:00",
+          "Tuesday": "10:00-00:00",
+          "Wednesday": "10:00-00:00",
+          "Thursday": "10:00-00:00",
+          "Friday": "10:00-01:00",
+          "Saturday": "10:00-01:00",
+          "Sunday": "10:00-01:00"
+        },
+        "full_address": "Viale Ferdinando Stagno dAlcontres Messina tel: 090 2134977",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1057.00",
+        "regione": "sicilia",
+        "provincia": "messina",
+        "slug": "messina-dalcontres",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/messina/messina-dalcontres",
+        "page_coordinates": [
+          15.60279,
+          38.258109
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Messina DAlcontres**\n---\n**ID:** 1057\n\n### Address\nViale Ferdinando Stagno dAlcontres Messina tel: 090 2134977, Messina (messina)\n\n### Contacts\n**Phone:** 090 2134977\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/messina/messina-dalcontres](https://www.mcdonalds.it/ristorante/sicilia/messina/messina-dalcontres)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:00-00:00 |\n| **Tuesday** | 10:00-00:00 |\n| **Wednesday** | 10:00-00:00 |\n| **Thursday** | 10:00-00:00 |\n| **Friday** | 10:00-01:00 |\n| **Saturday** | 10:00-01:00 |\n| **Sunday** | 10:00-01:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.54955,
+          36.781881
+        ]
+      },
+      "properties": {
+        "id": 1068,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Marina di Ragusa Porto",
+        "addr:city": "Marina Di Ragusa",
+        "addr:street": "Lungomare Mediterraneo. Via Livorno",
+        "branch": "Marina di Ragusa Porto",
+        "contact:phone": "0932 1613176",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/ragusa/marina-di-ragusa-porto",
+        "opening_hours": {
+          "Monday": "07:00-02:00",
+          "Tuesday": "07:00-02:00",
+          "Wednesday": "07:00-02:00",
+          "Thursday": "07:00-02:00",
+          "Friday": "07:00-02:00",
+          "Saturday": "07:00-02:00",
+          "Sunday": "07:00-02:00"
+        },
+        "full_address": "Lungomare Mediterraneo. Via Livorno Ragusa tel: 0932 1613176",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1068.00",
+        "regione": "sicilia",
+        "provincia": "ragusa",
+        "slug": "marina-di-ragusa-porto",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/ragusa/marina-di-ragusa-porto",
+        "page_coordinates": [
+          14.54955,
+          36.781881
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Marina di Ragusa Porto**\n---\n**ID:** 1068\n\n### Address\nLungomare Mediterraneo. Via Livorno Ragusa tel: 0932 1613176, Marina Di Ragusa (ragusa)\n\n### Contacts\n**Phone:** 0932 1613176\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/ragusa/marina-di-ragusa-porto](https://www.mcdonalds.it/ristorante/sicilia/ragusa/marina-di-ragusa-porto)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-02:00 |\n| **Tuesday** | 07:00-02:00 |\n| **Wednesday** | 07:00-02:00 |\n| **Thursday** | 07:00-02:00 |\n| **Friday** | 07:00-02:00 |\n| **Saturday** | 07:00-02:00 |\n| **Sunday** | 07:00-02:00 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.515382,
+          38.085182
+        ]
+      },
+      "properties": {
+        "id": 1074,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Bagheria Santa Marina",
+        "addr:city": "Bagheria",
+        "addr:street": "Via Santa Marina",
+        "branch": "Bagheria Santa Marina",
+        "contact:phone": "0912731056",
+        "contact:website": "https://www.mcdonalds.it/ristorante/sicilia/palermo/bagheria-santa-marina",
+        "opening_hours": {
+          "Monday": "07:00-02:00",
+          "Tuesday": "07:00-02:00",
+          "Wednesday": "07:00-02:00",
+          "Thursday": "07:00-02:00",
+          "Friday": "07:00-02:00",
+          "Saturday": "07:00-02:00",
+          "Sunday": "07:00-02:00"
+        },
+        "full_address": "Via Santa Marina Palermo tel: 0912731056",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1074.00",
+        "regione": "sicilia",
+        "provincia": "palermo",
+        "slug": "bagheria-santa-marina",
+        "detail_url": "https://www.mcdonalds.it/ristorante/sicilia/palermo/bagheria-santa-marina",
+        "page_coordinates": [
+          13.515382,
+          38.085182
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Bagheria Santa Marina**\n---\n**ID:** 1074\n\n### Address\nVia Santa Marina Palermo tel: 0912731056, Bagheria (palermo)\n\n### Contacts\n**Phone:** 0912731056\n**Website:** [https://www.mcdonalds.it/ristorante/sicilia/palermo/bagheria-santa-marina](https://www.mcdonalds.it/ristorante/sicilia/palermo/bagheria-santa-marina)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-02:00 |\n| **Tuesday** | 07:00-02:00 |\n| **Wednesday** | 07:00-02:00 |\n| **Thursday** | 07:00-02:00 |\n| **Friday** | 07:00-02:00 |\n| **Saturday** | 07:00-02:00 |\n| **Sunday** | 07:00-02:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    }
+  ]
+}

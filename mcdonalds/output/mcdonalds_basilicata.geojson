@@ -1,0 +1,180 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.799081,
+          40.627042
+        ]
+      },
+      "properties": {
+        "id": 55,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Potenza",
+        "addr:city": "Potenza",
+        "addr:street": "Viale del Basento",
+        "branch": "Potenza",
+        "contact:phone": "0971 601051",
+        "contact:website": "https://www.mcdonalds.it/ristorante/basilicata/potenza/potenza",
+        "opening_hours": {
+          "Monday": "10:30-00:00",
+          "Tuesday": "10:30-00:00",
+          "Wednesday": "10:30-00:00",
+          "Thursday": "10:30-00:00",
+          "Friday": "10:30-00:00",
+          "Saturday": "10:30-00:00",
+          "Sunday": "10:30-00:00"
+        },
+        "full_address": "Viale del Basento Potenza tel: 0971 601051",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "55.00",
+        "regione": "basilicata",
+        "provincia": "potenza",
+        "slug": "potenza",
+        "detail_url": "https://www.mcdonalds.it/ristorante/basilicata/potenza/potenza",
+        "page_coordinates": [
+          15.799081,
+          40.627042
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Potenza**\n---\n**ID:** 55\n\n### Address\nViale del Basento Potenza tel: 0971 601051, Potenza (potenza)\n\n### Contacts\n**Phone:** 0971 601051\n**Website:** [https://www.mcdonalds.it/ristorante/basilicata/potenza/potenza](https://www.mcdonalds.it/ristorante/basilicata/potenza/potenza)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 10:30-00:00 |\n| **Tuesday** | 10:30-00:00 |\n| **Wednesday** | 10:30-00:00 |\n| **Thursday** | 10:30-00:00 |\n| **Friday** | 10:30-00:00 |\n| **Saturday** | 10:30-00:00 |\n| **Sunday** | 10:30-00:00 |\n\n### Services\nMcDrive® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.658452,
+          40.177917
+        ]
+      },
+      "properties": {
+        "id": 960,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Policoro Drive",
+        "addr:city": "Policoro",
+        "addr:street": "Via Nazionale snc",
+        "branch": "Policoro Drive",
+        "contact:phone": "0835 1651653",
+        "contact:website": "https://www.mcdonalds.it/ristorante/basilicata/matera/policoro-drive",
+        "opening_hours": {
+          "Monday": "07:00-01:00",
+          "Tuesday": "07:00-01:00",
+          "Wednesday": "07:00-01:00",
+          "Thursday": "07:00-01:00",
+          "Friday": "07:00-03:00",
+          "Saturday": "07:00-03:00",
+          "Sunday": "07:00-03:00"
+        },
+        "full_address": "Via Nazionale snc Matera tel: 0835 1651653",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "960.00",
+        "regione": "basilicata",
+        "provincia": "matera",
+        "slug": "policoro-drive",
+        "detail_url": "https://www.mcdonalds.it/ristorante/basilicata/matera/policoro-drive",
+        "page_coordinates": [
+          16.658452,
+          40.177917
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McDrive®",
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Policoro Drive**\n---\n**ID:** 960\n\n### Address\nVia Nazionale snc Matera tel: 0835 1651653, Policoro (matera)\n\n### Contacts\n**Phone:** 0835 1651653\n**Website:** [https://www.mcdonalds.it/ristorante/basilicata/matera/policoro-drive](https://www.mcdonalds.it/ristorante/basilicata/matera/policoro-drive)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:00-01:00 |\n| **Tuesday** | 07:00-01:00 |\n| **Wednesday** | 07:00-01:00 |\n| **Thursday** | 07:00-01:00 |\n| **Friday** | 07:00-03:00 |\n| **Saturday** | 07:00-03:00 |\n| **Sunday** | 07:00-03:00 |\n\n### Services\nMcDrive® • McCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.803002,
+          40.638292
+        ]
+      },
+      "properties": {
+        "id": 1015,
+        "source": "mcdonalds.it",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "cuisine": "burger",
+        "name": "Potenza via Pretoria",
+        "addr:city": "Potenza",
+        "addr:street": "via Pretoria 134",
+        "branch": "Potenza via Pretoria",
+        "contact:phone": "09711562752",
+        "contact:website": "https://www.mcdonalds.it/ristorante/basilicata/potenza/potenza-via-pretoria",
+        "opening_hours": {
+          "Monday": "07:30-00:00",
+          "Tuesday": "07:30-00:00",
+          "Wednesday": "07:30-00:00",
+          "Thursday": "07:30-00:00",
+          "Friday": "07:30-03:00",
+          "Saturday": "07:30-03:00",
+          "Sunday": "07:30-01:00"
+        },
+        "full_address": "via Pretoria 134 Potenza tel: 09711562752",
+        "image": "https://www.mcdonalds.it/ristoranti/immagine-generica",
+        "store_id": "1015.00",
+        "regione": "basilicata",
+        "provincia": "potenza",
+        "slug": "potenza-via-pretoria",
+        "detail_url": "https://www.mcdonalds.it/ristorante/basilicata/potenza/potenza-via-pretoria",
+        "page_coordinates": [
+          15.803002,
+          40.638292
+        ],
+        "brand:wikidata": "Q38076",
+        "brand:logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/McDonald%27s_Golden_Arches.svg",
+        "services": [
+          "McCafé®",
+          "Take Away",
+          "Servizio al tavolo",
+          "Ordina in App",
+          "Feste di Compleanno",
+          "Wi-fi"
+        ],
+        "_umap_options": {
+          "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png",
+          "iconClass": "Drop"
+        },
+        "description": "<img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/120px-McDonald%27s_Golden_Arches.svg.png\" width=\"80\" height=\"80\">\n## McDonald's\n**Potenza via Pretoria**\n---\n**ID:** 1015\n\n### Address\nvia Pretoria 134 Potenza tel: 09711562752, Potenza (potenza)\n\n### Contacts\n**Phone:** 09711562752\n**Website:** [https://www.mcdonalds.it/ristorante/basilicata/potenza/potenza-via-pretoria](https://www.mcdonalds.it/ristorante/basilicata/potenza/potenza-via-pretoria)\n\n### Opening Hours\n| Day | Hours |\n|---|---|\n| **Monday** | 07:30-00:00 |\n| **Tuesday** | 07:30-00:00 |\n| **Wednesday** | 07:30-00:00 |\n| **Thursday** | 07:30-00:00 |\n| **Friday** | 07:30-03:00 |\n| **Saturday** | 07:30-03:00 |\n| **Sunday** | 07:30-01:00 |\n\n### Services\nMcCafé® • Take Away • Servizio al tavolo • Ordina in App • Feste di Compleanno • Wi-fi"
+      }
+    }
+  ]
+}
