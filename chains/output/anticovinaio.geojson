@@ -1,0 +1,405 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.8697873, 41.1196745]
+      },
+      "properties": {
+        "id": "allanticovinaio-bari-sparano-da-bari",
+        "source": "All'Antico Vinaio",
+        "amenity": "fast_food",
+        "brand": "All'Antico Vinaio",
+        "cuisine": "sandwich",
+        "name": "All'Antico Vinaio - Bari",
+        "branch": "Bari",
+        "full_address": "Via Sparano da Bari 137, Bari",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.6682747, 45.6931577]
+      },
+      "properties": {
+        "id": "allanticovinaio-bergamo",
+        "source": "All'Antico Vinaio",
+        "amenity": "fast_food",
+        "brand": "All'Antico Vinaio",
+        "cuisine": "sandwich",
+        "name": "All'Antico Vinaio - Bergamo",
+        "branch": "Bergamo",
+        "full_address": "Tiraboschi 73, Bergamo",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.3470207, 44.4934435]
+      },
+      "properties": {
+        "id": "allanticovinaio-bologna",
+        "source": "All'Antico Vinaio",
+        "amenity": "fast_food",
+        "brand": "All'Antico Vinaio",
+        "cuisine": "sandwich",
+        "name": "All'Antico Vinaio - Bologna",
+        "branch": "Bologna",
+        "full_address": "Via Santo Stefano 6, Bologna",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.2587745, 43.7778685]
+      },
+      "properties": {
+        "id": "allanticovinaio-firenze-san-marco",
+        "source": "All'Antico Vinaio",
+        "amenity": "fast_food",
+        "brand": "All'Antico Vinaio",
+        "cuisine": "sandwich",
+        "name": "All'Antico Vinaio - Firenze",
+        "branch": "Firenze",
+        "full_address": "Piazza San Marco 1, Firenze",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.2487558, 43.7765194]
+      },
+      "properties": {
+        "id": "allanticovinaio-firenze-stazione",
+        "source": "All'Antico Vinaio",
+        "amenity": "fast_food",
+        "brand": "All'Antico Vinaio",
+        "cuisine": "sandwich",
+        "name": "All'Antico Vinaio - Firenze",
+        "branch": "Firenze",
+        "full_address": "Piazza della Stazione 1, Firenze",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.2573959, 43.7684071]
+      },
+      "properties": {
+        "id": "allanticovinaio-firenze",
+        "source": "All'Antico Vinaio",
+        "amenity": "fast_food",
+        "brand": "All'Antico Vinaio",
+        "cuisine": "sandwich",
+        "name": "All'Antico Vinaio - Firenze",
+        "branch": "Firenze",
+        "full_address": "Via dei Neri 65, Firenze",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.1690429, 43.9596899]
+      },
+      "properties": {
+        "id": "allanticovinaio-forte-dei-marmi",
+        "source": "All'Antico Vinaio",
+        "amenity": "fast_food",
+        "brand": "All'Antico Vinaio",
+        "cuisine": "sandwich",
+        "name": "All'Antico Vinaio - Forte dei Marmi",
+        "branch": "Forte dei Marmi",
+        "full_address": "Piazza Garibaldi 2, Forte dei Marmi",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.1421315, 43.8459809]
+      },
+      "properties": {
+        "id": "allanticovinaio-i-gigli",
+        "source": "All'Antico Vinaio",
+        "amenity": "fast_food",
+        "brand": "All'Antico Vinaio",
+        "cuisine": "sandwich",
+        "name": "All'Antico Vinaio - Campi Bisenzio",
+        "branch": "Campi Bisenzio",
+        "full_address": "Via San Quirico 165, Campi Bisenzio",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.1853313, 45.4770872]
+      },
+      "properties": {
+        "id": "allanticovinaio-milano-moscova",
+        "source": "All'Antico Vinaio",
+        "amenity": "fast_food",
+        "brand": "All'Antico Vinaio",
+        "cuisine": "sandwich",
+        "name": "All'Antico Vinaio - Milano",
+        "branch": "Milano",
+        "full_address": "Via Statuto 16, Milano",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.1872433, 45.4642874]
+      },
+      "properties": {
+        "id": "allanticovinaio-milano-orefici",
+        "source": "All'Antico Vinaio",
+        "amenity": "fast_food",
+        "brand": "All'Antico Vinaio",
+        "cuisine": "sandwich",
+        "name": "All'Antico Vinaio - Milano",
+        "branch": "Milano",
+        "full_address": "Via Orefici 5, Milano",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.2057912, 45.4857164]
+      },
+      "properties": {
+        "id": "allanticovinaio-milano-stazione-centrale",
+        "source": "All'Antico Vinaio",
+        "amenity": "fast_food",
+        "brand": "All'Antico Vinaio",
+        "cuisine": "sandwich",
+        "name": "All'Antico Vinaio - Milano",
+        "branch": "Milano",
+        "full_address": "Piazza Luigi di Savoia 1, Milano",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.195835, 45.4510411]
+      },
+      "properties": {
+        "id": "allanticovinaio-milano-viale-bligny",
+        "source": "All'Antico Vinaio",
+        "amenity": "fast_food",
+        "brand": "All'Antico Vinaio",
+        "cuisine": "sandwich",
+        "name": "All'Antico Vinaio - Milano",
+        "branch": "Milano",
+        "full_address": "Viale Bligny 43, Milano",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.1863972, 45.4612832]
+      },
+      "properties": {
+        "id": "allanticovinaio-milano",
+        "source": "All'Antico Vinaio",
+        "amenity": "fast_food",
+        "brand": "All'Antico Vinaio",
+        "cuisine": "sandwich",
+        "name": "All'Antico Vinaio - Milano",
+        "branch": "Milano",
+        "full_address": "Via Lupetta 12, Milano",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.4435038, 40.7566853]
+      },
+      "properties": {
+        "id": "allanticovinaio-napoli",
+        "source": "All'Antico Vinaio",
+        "amenity": "fast_food",
+        "brand": "All'Antico Vinaio",
+        "cuisine": "sandwich",
+        "name": "All'Antico Vinaio - Napoli",
+        "branch": "Napoli",
+        "full_address": "Corso Umberto I 28, Napoli",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.5000783, 41.9019899]
+      },
+      "properties": {
+        "id": "allanticovinaio-roma-termini",
+        "source": "All'Antico Vinaio",
+        "amenity": "fast_food",
+        "brand": "All'Antico Vinaio",
+        "cuisine": "sandwich",
+        "name": "All'Antico Vinaio - Roma",
+        "branch": "Roma",
+        "full_address": "Piazza dei Cinquecento, Roma",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.4771639, 41.9085331]
+      },
+      "properties": {
+        "id": "allanticovinaio-roma-via-del-corso",
+        "source": "All'Antico Vinaio",
+        "amenity": "fast_food",
+        "brand": "All'Antico Vinaio",
+        "cuisine": "sandwich",
+        "name": "All'Antico Vinaio - Roma",
+        "branch": "Roma",
+        "full_address": "Via del Corso 510, Roma",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.4764579, 41.8997619]
+      },
+      "properties": {
+        "id": "allanticovinaio-roma",
+        "source": "All'Antico Vinaio",
+        "amenity": "fast_food",
+        "brand": "All'Antico Vinaio",
+        "cuisine": "sandwich",
+        "name": "All'Antico Vinaio - Roma",
+        "branch": "Roma",
+        "full_address": "Via della Rosetta 6, Roma",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.6941044, 45.067135]
+      },
+      "properties": {
+        "id": "allanticovinaio-torino",
+        "source": "All'Antico Vinaio",
+        "amenity": "fast_food",
+        "brand": "All'Antico Vinaio",
+        "cuisine": "sandwich",
+        "name": "All'Antico Vinaio - Torino",
+        "branch": "Torino",
+        "full_address": "Via Sant Ottavio 18, Torino",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.9958761, 45.4411092]
+      },
+      "properties": {
+        "id": "allanticovinaio-verona",
+        "source": "All'Antico Vinaio",
+        "amenity": "fast_food",
+        "brand": "All'Antico Vinaio",
+        "cuisine": "sandwich",
+        "name": "All'Antico Vinaio - Verona",
+        "branch": "Verona",
+        "full_address": "Via Giuseppe Mazzini 27, Verona",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.3565194, 38.1215241]
+      },
+      "properties": {
+        "id": "allanticovinaio-palermo-magliocco",
+        "source": "All'Antico Vinaio",
+        "amenity": "fast_food",
+        "brand": "All'Antico Vinaio",
+        "cuisine": "sandwich",
+        "name": "All'Antico Vinaio - Palermo",
+        "branch": "Palermo",
+        "full_address": "Via Generale Vincenzo Magliocco 19, Palermo",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    }
+  ]
+}
