@@ -1,0 +1,509 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4022037,
+          43.7180827
+        ]
+      },
+      "properties": {
+        "id": 1874,
+        "source": "Brunch Republic",
+        "amenity": "restaurant",
+        "brand": "Brunch Republic",
+        "cuisine": "brunch",
+        "name": "Brunch Republic - Pisa",
+        "branch": "Pisa",
+        "contact:phone": "+390505205337",
+        "full_address": "Via Borgo Stretto 46, 56127, Pisa PI",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6744783,
+          45.6974601
+        ]
+      },
+      "properties": {
+        "id": 1834,
+        "source": "Brunch Republic",
+        "amenity": "restaurant",
+        "brand": "Brunch Republic",
+        "cuisine": "brunch",
+        "name": "Brunch Republic - Bergamo",
+        "branch": "Bergamo",
+        "contact:phone": "+39035667804",
+        "full_address": "Via Torquato Tasso, 95, 24121 Bergamo BG",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8700447,
+          41.1196389
+        ]
+      },
+      "properties": {
+        "id": 1823,
+        "source": "Brunch Republic",
+        "amenity": "restaurant",
+        "brand": "Brunch Republic",
+        "cuisine": "brunch",
+        "name": "Brunch Republic - Bari",
+        "branch": "Bari",
+        "contact:phone": "+393929328150",
+        "full_address": "Via Sparano da Bari, 160, 70121 Bari BA",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1177443,
+          46.0666632
+        ]
+      },
+      "properties": {
+        "id": 1768,
+        "source": "Brunch Republic",
+        "amenity": "restaurant",
+        "brand": "Brunch Republic",
+        "cuisine": "brunch",
+        "name": "Brunch Republic - Trento",
+        "branch": "Trento",
+        "contact:phone": "+393314711777",
+        "full_address": "Via Giuseppe Verdi, 19, 38122 Trento TN",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3411171,
+          44.7985174
+        ]
+      },
+      "properties": {
+        "id": 1200,
+        "source": "Brunch Republic",
+        "amenity": "restaurant",
+        "brand": "Brunch Republic",
+        "cuisine": "brunch",
+        "name": "Brunch Republic - Parma",
+        "branch": "Parma",
+        "contact:phone": "+393513142423",
+        "full_address": "Via Emilia Est, 7B, 43123 Parma PR",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.618806,
+          44.8363089
+        ]
+      },
+      "properties": {
+        "id": 1197,
+        "source": "Brunch Republic",
+        "amenity": "restaurant",
+        "brand": "Brunch Republic",
+        "cuisine": "brunch",
+        "name": "Brunch Republic - Ferrara",
+        "branch": "Ferrara",
+        "contact:phone": "+393456331068",
+        "full_address": "Piazza del municipio 18-20, Ferrara FE",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6859854,
+          45.0693353
+        ]
+      },
+      "properties": {
+        "id": 1195,
+        "source": "Brunch Republic",
+        "amenity": "restaurant",
+        "brand": "Brunch Republic",
+        "cuisine": "brunch",
+        "name": "Brunch Republic - Torino",
+        "branch": "Torino",
+        "contact:phone": "+393428481773",
+        "full_address": "Via Cesare Battisti, 9A, 10123 Torino TO",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6753504,
+          40.3055621
+        ]
+      },
+      "properties": {
+        "id": 1194,
+        "source": "Brunch Republic",
+        "amenity": "restaurant",
+        "brand": "Brunch Republic",
+        "cuisine": "brunch",
+        "name": "Brunch Republic - Salento",
+        "branch": "Salento",
+        "contact:phone": "+393773096257",
+        "full_address": "Via Isole Eolie, 2, 74024 San Pietro In Bevagna TA",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0436603,
+          45.7751682
+        ]
+      },
+      "properties": {
+        "id": 1193,
+        "source": "Brunch Republic",
+        "amenity": "restaurant",
+        "brand": "Brunch Republic",
+        "cuisine": "brunch",
+        "name": "Brunch Republic - Montebelluna",
+        "branch": "Montebelluna",
+        "contact:phone": "+3904231953288",
+        "full_address": "Corso Giuseppe Mazzini, 165, 31044 Montebelluna (TV)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9883505,
+          45.4327325
+        ]
+      },
+      "properties": {
+        "id": 1192,
+        "source": "Brunch Republic",
+        "amenity": "restaurant",
+        "brand": "Brunch Republic",
+        "cuisine": "brunch",
+        "name": "Brunch Republic - Verona",
+        "branch": "Verona",
+        "contact:phone": "+390456312317",
+        "full_address": "Corso Porta Nuova, 86, 37122 Verona VR",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7759646,
+          45.6512371
+        ]
+      },
+      "properties": {
+        "id": 1191,
+        "source": "Brunch Republic",
+        "amenity": "restaurant",
+        "brand": "Brunch Republic",
+        "cuisine": "brunch",
+        "name": "Brunch Republic - Trieste",
+        "branch": "Trieste",
+        "contact:phone": "+39040638622",
+        "full_address": "Via delle Torri, 2, 34122 Trieste TS",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6583854,
+          45.9583753
+        ]
+      },
+      "properties": {
+        "id": 1187,
+        "source": "Brunch Republic",
+        "amenity": "restaurant",
+        "brand": "Brunch Republic",
+        "cuisine": "brunch",
+        "name": "Brunch Republic - Pordenone",
+        "branch": "Pordenone",
+        "contact:phone": "+390434040304",
+        "full_address": "Via Mazzini, 1, 33170 Pordenone PN",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2327643,
+          46.0627569
+        ]
+      },
+      "properties": {
+        "id": 1186,
+        "source": "Brunch Republic",
+        "amenity": "restaurant",
+        "brand": "Brunch Republic",
+        "cuisine": "brunch",
+        "name": "Brunch Republic - Udine",
+        "branch": "Udine",
+        "contact:phone": "+3904321437930",
+        "full_address": "Piazza Giacomo Matteotti, 11/A, 33100 Udine UD",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.93058,
+          44.64418
+        ]
+      },
+      "properties": {
+        "id": 1185,
+        "source": "Brunch Republic",
+        "amenity": "restaurant",
+        "brand": "Brunch Republic",
+        "cuisine": "brunch",
+        "name": "Brunch Republic - Modena",
+        "branch": "Modena",
+        "contact:phone": "+390594726423",
+        "full_address": "Largo di Porta Bologna, 29, 41121 Modena MO",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.661449,
+          44.0022226
+        ]
+      },
+      "properties": {
+        "id": 1184,
+        "source": "Brunch Republic",
+        "amenity": "restaurant",
+        "brand": "Brunch Republic",
+        "cuisine": "brunch",
+        "name": "Brunch Republic - Riccione",
+        "branch": "Riccione",
+        "contact:phone": "+390541418201",
+        "full_address": "Viale Milano, 60/A, 47838 Riccione RN",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5362338,
+          45.5529249
+        ]
+      },
+      "properties": {
+        "id": 1183,
+        "source": "Brunch Republic",
+        "amenity": "restaurant",
+        "brand": "Brunch Republic",
+        "cuisine": "brunch",
+        "name": "Brunch Republic - Vicenza",
+        "branch": "Vicenza",
+        "contact:phone": "+3904441230634",
+        "full_address": "Viale Giuseppe Mazzini, 267, 36100 Vicenza VI",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8776168,
+          45.4073197
+        ]
+      },
+      "properties": {
+        "id": 1182,
+        "source": "Brunch Republic",
+        "amenity": "restaurant",
+        "brand": "Brunch Republic",
+        "cuisine": "brunch",
+        "name": "Brunch Republic - Padova",
+        "branch": "Padova",
+        "contact:phone": "+390495015689",
+        "full_address": "P.za della Garzeria, 6, 35135 Padova PD",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.26531,
+          43.78069
+        ]
+      },
+      "properties": {
+        "id": 1181,
+        "source": "Brunch Republic",
+        "amenity": "restaurant",
+        "brand": "Brunch Republic",
+        "cuisine": "brunch",
+        "name": "Brunch Republic - Firenze Matteotti",
+        "branch": "Firenze Matteotti",
+        "contact:phone": "+390550130645",
+        "full_address": "Viale Giacomo Matteotti, 30, 50132 Firenze FI",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2483949,
+          45.6658668
+        ]
+      },
+      "properties": {
+        "id": 1180,
+        "source": "Brunch Republic",
+        "amenity": "restaurant",
+        "brand": "Brunch Republic",
+        "cuisine": "brunch",
+        "name": "Brunch Republic - Treviso",
+        "branch": "Treviso",
+        "contact:phone": "+390422548866",
+        "full_address": "Piazza S. Leonardo, 25, 31100 Treviso TV",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2445091,
+          45.4968645
+        ]
+      },
+      "properties": {
+        "id": 447,
+        "source": "Brunch Republic",
+        "amenity": "restaurant",
+        "brand": "Brunch Republic",
+        "cuisine": "brunch",
+        "name": "Brunch Republic - Mestre",
+        "branch": "Mestre",
+        "contact:phone": "+39041615298",
+        "full_address": "Viale Giuseppe Garibaldi, 7D, 30173 Venezia VE",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2664353,
+          43.7712795
+        ]
+      },
+      "properties": {
+        "id": "firenze-pietrapiana",
+        "source": "Brunch Republic",
+        "amenity": "restaurant",
+        "brand": "Brunch Republic",
+        "cuisine": "brunch",
+        "name": "Brunch Republic - Firenze Pietrapiana",
+        "branch": "Firenze Pietrapiana",
+        "contact:phone": "+390554939161",
+        "full_address": "Via dei macci 120R, 50122 Firenze",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    }
+  ]
+}
