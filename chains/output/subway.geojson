@@ -1,0 +1,225 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.5786219, 46.0659894]
+      },
+      "properties": {
+        "id": "31276-0",
+        "source": "Subway",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "cuisine": "sandwich",
+        "name": "Subway - Aviano",
+        "branch": "Aviano",
+        "contact:phone": "+390434305634",
+        "full_address": "Casella Postale 6, 33081 Aviano None",
+        "brand:wikidata": "Q244457",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.257234069311494, 43.776865186661276]
+      },
+      "properties": {
+        "id": "52705-0",
+        "source": "Subway",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "cuisine": "sandwich",
+        "name": "Subway - Florence",
+        "branch": "Florence",
+        "contact:phone": "+390559060278",
+        "full_address": "Via Cavour 65/R, 50129 Florence FI",
+        "brand:wikidata": "Q244457",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.252134, 40.991519]
+      },
+      "properties": {
+        "id": "20331-0",
+        "source": "Subway",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "cuisine": "sandwich",
+        "name": "Subway - Gricignano Di Aversa",
+        "branch": "Gricignano Di Aversa",
+        "contact:phone": "+390818114178",
+        "full_address": "210-990 Base Military American, 81030 Gricignano Di Aversa CE",
+        "brand:wikidata": "Q244457",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.275774, 40.8899241]
+      },
+      "properties": {
+        "id": "20937-0",
+        "source": "Subway",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "cuisine": "sandwich",
+        "name": "Subway - Naples",
+        "branch": "Naples",
+        "contact:phone": "+390815684287",
+        "full_address": "Bldg 448, 80144 Naples NA",
+        "brand:wikidata": "Q244457",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.397927919023232, 43.72202905615222]
+      },
+      "properties": {
+        "id": "56727-0",
+        "source": "Subway",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "cuisine": "sandwich",
+        "name": "Subway - Pisa",
+        "branch": "Pisa",
+        "contact:phone": "+390508312134",
+        "full_address": "Piazza Dell'Arcivescovado 3, 56126 Pisa PI",
+        "brand:wikidata": "Q244457",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.673753932986074, 45.07510573296588]
+      },
+      "properties": {
+        "id": "59632-0",
+        "source": "Subway",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "cuisine": "sandwich",
+        "name": "Subway - Turin",
+        "branch": "Turin",
+        "contact:phone": "+390115533852",
+        "full_address": "Via Garibaldi 55, 10122 Turin TO",
+        "brand:wikidata": "Q244457",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.920385177699357, 37.41018549909008]
+      },
+      "properties": {
+        "id": "37384-0",
+        "source": "Subway",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "cuisine": "sandwich",
+        "name": "Subway - Lentini",
+        "branch": "Lentini",
+        "contact:phone": "+39095562571",
+        "full_address": "Naval Air Station Sigonella Ii, 96016 Lentini SR",
+        "brand:wikidata": "Q244457",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.919864146633943, 37.41053801339434]
+      },
+      "properties": {
+        "id": "20292-0",
+        "source": "Subway",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "cuisine": "sandwich",
+        "name": "Subway - Lentini",
+        "branch": "Lentini",
+        "contact:phone": "+39095864013",
+        "full_address": "Nex Sigonella, 95121 Lentini SR",
+        "brand:wikidata": "Q244457",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.577881, 45.548694]
+      },
+      "properties": {
+        "id": "27747-0",
+        "source": "Subway",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "cuisine": "sandwich",
+        "name": "Subway - Vicenza",
+        "branch": "Vicenza",
+        "contact:phone": "+390444510367",
+        "full_address": "Caserne Ederle, 36100 Vicenza None",
+        "brand:wikidata": "Q244457",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.5651733, 45.556829]
+      },
+      "properties": {
+        "id": "55404-0",
+        "source": "Subway",
+        "amenity": "fast_food",
+        "brand": "Subway",
+        "cuisine": "sandwich",
+        "name": "Subway - Vicenza",
+        "branch": "Vicenza",
+        "contact:phone": "+390444662043",
+        "full_address": "Dal Molin Airfield, 36100 Vicenza VI",
+        "brand:wikidata": "Q244457",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    }
+  ]
+}
