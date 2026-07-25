@@ -1,0 +1,1448 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.831135, 44.732092]
+      },
+      "properties": {
+        "id": 96,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Serravalle Retail Park",
+        "addr:city": "Serravalle Scrivia",
+        "addr:street": "Via Novi, 35",
+        "addr:postcode": "15069",
+        "branch": "Serravalle Retail Park",
+        "contact:phone": "+39 01431890087",
+        "contact:email": "servizioclienti@dispensaemilia.it",
+        "full_address": "Via Novi, 35, 15069 Serravalle Scrivia (AL)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.610977, 45.683188]
+      },
+      "properties": {
+        "id": 7,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Le cucine di Curno",
+        "addr:city": "Curno",
+        "addr:street": "Via Enrico Fermi 1",
+        "addr:postcode": "24035",
+        "branch": "Le cucine di Curno",
+        "contact:phone": "+39 0350075041",
+        "full_address": "Via Enrico Fermi 1, 24035 Curno (BG)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.697357, 45.663092]
+      },
+      "properties": {
+        "id": 10,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Oriocenter",
+        "addr:city": "Azzano San Paolo",
+        "addr:street": "via Toscana 1",
+        "addr:postcode": "24050",
+        "branch": "Oriocenter",
+        "contact:phone": "+39 0350065142",
+        "full_address": "via Toscana 1, 24050 Azzano San Paolo (BG)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.327709, 44.516381]
+      },
+      "properties": {
+        "id": 90,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Bologna Centrolame",
+        "addr:city": "Bologna",
+        "addr:street": "Via Marco Polo, 3",
+        "addr:postcode": "40131",
+        "branch": "Bologna Centrolame",
+        "contact:phone": "+39 0510198163",
+        "contact:email": "servizioclienti@dispensaemilia.it",
+        "full_address": "Via Marco Polo, 3, 40131 Bologna (BO)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.342115, 44.494122]
+      },
+      "properties": {
+        "id": 22,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Bologna Orefici",
+        "addr:city": "Bologna",
+        "addr:street": "via Orefici, 4",
+        "addr:postcode": "40124",
+        "branch": "Bologna Orefici",
+        "contact:phone": "+39 0510195472",
+        "full_address": "via Orefici, 4, 40124 Bologna (BO)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.361554, 44.516999]
+      },
+      "properties": {
+        "id": 20,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Bologna Stalingrado",
+        "addr:city": "Bologna",
+        "addr:street": "Via Stalingrado 61",
+        "addr:postcode": "40128",
+        "branch": "Bologna Stalingrado",
+        "contact:phone": "+39 0510195426",
+        "full_address": "Via Stalingrado 61, 40128 Bologna (BO)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.2715, 44.512]
+      },
+      "properties": {
+        "id": 92,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Borgo Panigale",
+        "addr:city": "Bologna",
+        "addr:street": "Viale Alcide de Gasperi, 27",
+        "addr:postcode": "40132",
+        "branch": "Borgo Panigale",
+        "contact:phone": "+39 0510198192",
+        "contact:email": "servizioclienti@dispensaemilia.it",
+        "full_address": "Viale Alcide de Gasperi, 27, 40132 Bologna (BO)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.399992, 44.513768]
+      },
+      "properties": {
+        "id": 16,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Meraville Parco Commerciale",
+        "addr:city": "Bologna",
+        "addr:street": "via Tito Carnacini",
+        "addr:postcode": "40127",
+        "branch": "Meraville Parco Commerciale",
+        "contact:phone": "+39 0516334417",
+        "full_address": "via Tito Carnacini, 40127 Bologna (BO)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.357242, 44.48977]
+      },
+      "properties": {
+        "id": 79,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Porta Maggiore",
+        "addr:city": "Bologna",
+        "addr:street": "Piazza di Porta Maggiore, 6",
+        "addr:postcode": "40125",
+        "branch": "Porta Maggiore",
+        "contact:phone": "+39 0510198125",
+        "full_address": "Piazza di Porta Maggiore, 6, 40125 Bologna (BO)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.246888, 44.489434]
+      },
+      "properties": {
+        "id": 15,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Shopville Gran Reno",
+        "addr:city": "Casalecchio di Reno",
+        "addr:street": "via Monroe 2",
+        "addr:postcode": "40033",
+        "branch": "Shopville Gran Reno",
+        "contact:phone": "+39 0510195830",
+        "full_address": "via Monroe 2, 40033 Casalecchio di Reno (BO)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.343561, 44.505263]
+      },
+      "properties": {
+        "id": 2,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Stazione Centrale",
+        "addr:city": "Bologna",
+        "addr:street": "Via P. Pietramellara 20",
+        "addr:postcode": "40100",
+        "branch": "Stazione Centrale",
+        "contact:phone": "+39 0510195288",
+        "full_address": "Via P. Pietramellara 20, 40100 Bologna (BO)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.161313, 45.53296]
+      },
+      "properties": {
+        "id": 30,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Elnos",
+        "addr:city": "Roncadelle",
+        "addr:street": "Via Luigi Einaudi, 5",
+        "addr:postcode": "25030",
+        "branch": "Elnos",
+        "contact:phone": "+39 0302330263",
+        "full_address": "Via Luigi Einaudi, 5, 25030 Roncadelle (BS)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.511887, 45.431089]
+      },
+      "properties": {
+        "id": 6,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Il Leone",
+        "addr:city": "Lonato del Garda",
+        "addr:street": "via Mantova 36",
+        "addr:postcode": "25017",
+        "branch": "Il Leone",
+        "contact:phone": "+39 0302330188",
+        "full_address": "via Mantova 36, 25017 Lonato del Garda (BS)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.328124, 41.004583]
+      },
+      "properties": {
+        "id": 50,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Campania",
+        "addr:city": "Marcianise",
+        "addr:street": "LocalitÃ  Aurno, 87",
+        "addr:postcode": "81025",
+        "branch": "Campania",
+        "contact:phone": "+39 08231670205",
+        "contact:email": "servizioclienti@dispensaemilia.it",
+        "full_address": "LocalitÃ  Aurno, 87, 81025 Marcianise (Caserta)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.082858, 44.244746]
+      },
+      "properties": {
+        "id": 75,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Puntadiferro",
+        "addr:city": "ForlÃ¬",
+        "addr:street": "Via Pellegrino Artusi",
+        "addr:postcode": "47122",
+        "branch": "Puntadiferro",
+        "contact:phone": "+39 0543020057",
+        "contact:email": "servizioclienti@dispensaemilia.it",
+        "full_address": "Via Pellegrino Artusi, 47122 ForlÃ¬ (FC)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.143434, 43.846654]
+      },
+      "properties": {
+        "id": 13,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - I Gigli",
+        "addr:city": "Campi Bisenzio",
+        "addr:street": "Via San Quirico 165",
+        "addr:postcode": "50013",
+        "branch": "I Gigli",
+        "contact:phone": "+39 0550540548",
+        "full_address": "Via San Quirico 165, 50013 Campi Bisenzio (FI)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.201956, 45.605755]
+      },
+      "properties": {
+        "id": 39,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Desio",
+        "addr:city": "Desio",
+        "addr:street": "Via Milano e Don Antonio Villoresi",
+        "addr:postcode": "20832",
+        "branch": "Desio",
+        "contact:phone": "+39 03621860270",
+        "contact:email": "servizioclienti@dispensaemilia.it",
+        "full_address": "Via Milano e Don Antonio Villoresi, 20832 Desio (MB)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.129123, 45.60911]
+      },
+      "properties": {
+        "id": 74,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Limbiate",
+        "addr:city": "Limbiate",
+        "addr:street": "Via Giuseppe Garibaldi",
+        "addr:postcode": "20812",
+        "branch": "Limbiate",
+        "contact:phone": "+39 0225568370",
+        "contact:email": "servizioclienti@dispensaemilia.it",
+        "full_address": "Via Giuseppe Garibaldi, 20812 Limbiate (MB)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.213291, 45.675565]
+      },
+      "properties": {
+        "id": 34,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Verano Brianza",
+        "addr:city": "Verano Brianza",
+        "addr:street": "Via Comasina 115",
+        "addr:postcode": "20843",
+        "branch": "Verano Brianza",
+        "contact:phone": "+39 03621860256",
+        "full_address": "Via Comasina 115, 20843 Verano Brianza (MB)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.327583, 45.548099]
+      },
+      "properties": {
+        "id": 51,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Carosello",
+        "addr:city": "Carugate",
+        "addr:street": "SP208, km 2",
+        "addr:postcode": "20061",
+        "branch": "Carosello",
+        "contact:phone": "+39 0225568185",
+        "contact:email": "servizioclienti@dispensaemilia.it",
+        "full_address": "SP208, km 2, 20061 Carugate (MI)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.154409, 45.477817]
+      },
+      "properties": {
+        "id": 29,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - CityLife Shopping District",
+        "addr:city": "Milano",
+        "addr:street": "piazza Tre Torri",
+        "addr:postcode": "20145",
+        "branch": "CityLife Shopping District",
+        "contact:phone": "+39 0225064038",
+        "full_address": "piazza Tre Torri, 20145 Milano (MI)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.175108, 45.392312]
+      },
+      "properties": {
+        "id": 53,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Fiordaliso",
+        "addr:city": "Rozzano",
+        "addr:street": "Via Eugenio Curiel, 25",
+        "addr:postcode": "20089",
+        "branch": "Fiordaliso",
+        "contact:phone": "+39 0225568237",
+        "contact:email": "servizioclienti@dispensaemilia.it",
+        "full_address": "Via Eugenio Curiel, 25, 20089 Rozzano (MI)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.065058, 45.577627]
+      },
+      "properties": {
+        "id": 24,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Garbagnate",
+        "addr:city": "Garbagnate Milanese",
+        "addr:street": "Via Peloritana 94",
+        "addr:postcode": "20024",
+        "branch": "Garbagnate",
+        "contact:phone": "+39 0225063072",
+        "full_address": "Via Peloritana 94, 20024 Garbagnate Milanese (MI)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.058119, 45.563193]
+      },
+      "properties": {
+        "id": 14,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Il Centro Shopping Center",
+        "addr:city": "Arese",
+        "addr:street": "Via Luraghi 11",
+        "addr:postcode": "20020",
+        "branch": "Il Centro Shopping Center",
+        "contact:phone": "+39 0225061337",
+        "full_address": "Via Luraghi 11, 20020 Arese (MI)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.922513, 45.609318]
+      },
+      "properties": {
+        "id": 25,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Legnano",
+        "addr:city": "Legnano",
+        "addr:street": "via saronnese 39",
+        "addr:postcode": "20025",
+        "branch": "Legnano",
+        "contact:phone": "+39 03311820785",
+        "full_address": "via saronnese 39, 20025 Legnano (MI)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.215297, 45.521984]
+      },
+      "properties": {
+        "id": 38,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Milano Bicocca",
+        "addr:city": "Milano",
+        "addr:street": "Viale Sarca",
+        "addr:postcode": "20126",
+        "branch": "Milano Bicocca",
+        "contact:phone": "+39 0225565067",
+        "contact:email": "servizioclienti@dispensaemilia.it",
+        "full_address": "Viale Sarca, 20126 Milano (MI)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.186038, 45.480537]
+      },
+      "properties": {
+        "id": 21,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Milano Garibaldi",
+        "addr:city": "Milano",
+        "addr:street": "piazza Venticinque Aprile",
+        "addr:postcode": "20154",
+        "branch": "Milano Garibaldi",
+        "contact:phone": "+39 0225063032",
+        "full_address": "piazza Venticinque Aprile, 20154 Milano (MI)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.146844, 45.400999]
+      },
+      "properties": {
+        "id": 89,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - MilanoFiori",
+        "addr:city": "Assago",
+        "addr:street": "Viale Milanofiori",
+        "addr:postcode": "20057",
+        "branch": "MilanoFiori",
+        "contact:phone": "+39 0225569813",
+        "contact:email": "servizioclienti@dispensaemilia.it",
+        "full_address": "Viale Milanofiori, 20057 Assago (MI)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.358982, 45.429419]
+      },
+      "properties": {
+        "id": 43,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Pantigliate",
+        "addr:city": "Pantigliate",
+        "addr:street": "Via Vecchia Paullese 723",
+        "addr:postcode": "20090",
+        "branch": "Pantigliate",
+        "contact:phone": "+39 0225566443",
+        "contact:email": "servizioclienti@dispensaemilia.it",
+        "full_address": "Via Vecchia Paullese 723, 20090 Pantigliate (MI)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.212255, 45.448051]
+      },
+      "properties": {
+        "id": 95,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - PiazzaLodi",
+        "addr:city": "Milano",
+        "addr:street": "Viale Umbria, 16",
+        "addr:postcode": "20137",
+        "branch": "PiazzaLodi",
+        "contact:email": "servizioclienti@dispensaemilia.it",
+        "full_address": "Viale Umbria, 16, 20137 Milano (MI)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.270546, 45.491096]
+      },
+      "properties": {
+        "id": 27,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Segrate",
+        "addr:city": "Segrate",
+        "addr:street": "Via Cassanese angolo Via Martiri di Cefalonia",
+        "addr:postcode": "20054",
+        "branch": "Segrate",
+        "contact:phone": "+39 0225064003",
+        "contact:email": "servizioclienti@dispensaemilia.it",
+        "full_address": "Via Cassanese angolo Via Martiri di Cefalonia, 20054 Segrate (MI)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.208369, 45.486152]
+      },
+      "properties": {
+        "id": 8,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Stazione Centrale",
+        "addr:city": "Milano",
+        "addr:street": "Piazza Luigi di Savoia 1",
+        "addr:postcode": "20124",
+        "branch": "Stazione Centrale",
+        "contact:phone": "+39 0225062346",
+        "full_address": "Piazza Luigi di Savoia 1, 20124 Milano (MI)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.861547, 44.775849]
+      },
+      "properties": {
+        "id": 23,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Carpi",
+        "addr:city": "Carpi",
+        "addr:street": "Via delle Magliaie 45",
+        "addr:postcode": "41012",
+        "branch": "Carpi",
+        "contact:phone": "+39 0595180228",
+        "full_address": "Via delle Magliaie 45, 41012 Carpi (MO)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.854741, 44.647824]
+      },
+      "properties": {
+        "id": 17,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Grandemilia",
+        "addr:city": "Modena",
+        "addr:street": "via Emilia Ovest 1480",
+        "addr:postcode": "41123",
+        "branch": "Grandemilia",
+        "contact:phone": "+39 059848858",
+        "full_address": "via Emilia Ovest 1480, 41123 Modena (MO)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.957415, 44.643857]
+      },
+      "properties": {
+        "id": 18,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - I Portali",
+        "addr:city": "Modena",
+        "addr:street": "via dello Sport 50",
+        "addr:postcode": "41122",
+        "branch": "I Portali",
+        "contact:phone": "+39 059361032",
+        "full_address": "via dello Sport 50, 41122 Modena (MO)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.784997, 44.544595]
+      },
+      "properties": {
+        "id": 32,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Sassuolo",
+        "addr:city": "Sassuolo",
+        "addr:street": "via Radici in piano 407",
+        "addr:postcode": "41049",
+        "branch": "Sassuolo",
+        "contact:phone": "+39 0536030064",
+        "full_address": "via Radici in piano 407, 41049 Sassuolo (MO)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.804584, 44.593454]
+      },
+      "properties": {
+        "id": 31,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Via Cabassi",
+        "addr:city": "Modena",
+        "addr:street": "via Cabassi, 14",
+        "addr:postcode": "41123",
+        "branch": "Via Cabassi",
+        "contact:phone": "+39 0595180249",
+        "full_address": "via Cabassi, 14, 41123 Modena (MO)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.955216, 44.634587]
+      },
+      "properties": {
+        "id": 12,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Via Emilia Est",
+        "addr:city": "Modena",
+        "addr:street": "Via Emilia Est 981",
+        "addr:postcode": "41122",
+        "branch": "Via Emilia Est",
+        "contact:phone": "+39 0595180108",
+        "full_address": "Via Emilia Est 981, 41122 Modena (MO)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.85504, 45.377591]
+      },
+      "properties": {
+        "id": 49,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Ipercity",
+        "addr:city": "Albignasego",
+        "addr:street": "Via Giovanni Verga, 1",
+        "addr:postcode": "35020",
+        "branch": "Ipercity",
+        "contact:phone": "+39 0497160590",
+        "contact:email": "servizioclienti@dispensaemilia.it",
+        "full_address": "Via Giovanni Verga, 1, 35020 Albignasego (PD)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.824391, 45.417392]
+      },
+      "properties": {
+        "id": 46,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Le Brentelle",
+        "addr:city": "Rubano",
+        "addr:street": "Via della Provvidenza 1",
+        "addr:postcode": "35030",
+        "branch": "Le Brentelle",
+        "contact:phone": "+39 0497160583",
+        "contact:email": "servizioclienti@dispensaemilia.it",
+        "full_address": "Via della Provvidenza 1, 35030 Rubano (PD)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.289414, 44.809588]
+      },
+      "properties": {
+        "id": 35,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Parma",
+        "addr:city": "Parma",
+        "addr:street": "Via Giuseppe Zanardelli 2",
+        "addr:postcode": "43126",
+        "branch": "Parma",
+        "contact:phone": "+39 05211830567",
+        "full_address": "Via Giuseppe Zanardelli 2, 43126 Parma (PR)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.178608, 44.396167]
+      },
+      "properties": {
+        "id": 78,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Ravenna ESP",
+        "addr:city": "Ravenna",
+        "addr:street": "Via Marco Bussato, 74",
+        "addr:postcode": "48124",
+        "branch": "Ravenna ESP",
+        "contact:phone": "+39 05441850127",
+        "contact:email": "servizioclienti@dispensaemilia.it",
+        "full_address": "Via Marco Bussato, 74, 48124 Ravenna (RA)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.650794, 44.714385]
+      },
+      "properties": {
+        "id": 19,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - I Petali",
+        "addr:city": "Reggio Emilia",
+        "addr:street": "Piazzale Atleti Azzurri d'Italia 5",
+        "addr:postcode": "42122",
+        "branch": "I Petali",
+        "contact:phone": "+39 0522513326",
+        "full_address": "Piazzale Atleti Azzurri d'Italia 5, 42122 Reggio Emilia (RE)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.438166, 41.902036]
+      },
+      "properties": {
+        "id": 68,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Aura",
+        "addr:city": "Roma",
+        "addr:street": "Viale di Valle Aurelia, 30",
+        "addr:postcode": "00167",
+        "branch": "Aura",
+        "contact:phone": "+39 0632093257",
+        "contact:email": "servizioclienti@dispensaemilia.it",
+        "full_address": "Viale di Valle Aurelia, 30, 00167 Roma (RM)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.48622, 41.807829]
+      },
+      "properties": {
+        "id": 45,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Maximo Shopping Center",
+        "addr:city": "Roma",
+        "addr:street": "Via Laurentina",
+        "addr:postcode": "00143",
+        "branch": "Maximo Shopping Center",
+        "contact:phone": "+39 0632092869",
+        "contact:email": "servizioclienti@dispensaemilia.it",
+        "full_address": "Via Laurentina, 00143 Roma (RM)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.301025, 41.808221]
+      },
+      "properties": {
+        "id": 44,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Parco Commerciale Da Vinci",
+        "addr:city": "Fiumicino",
+        "addr:street": "via  Meucci 11",
+        "addr:postcode": "00054",
+        "branch": "Parco Commerciale Da Vinci",
+        "contact:phone": "+39 0632092811",
+        "contact:email": "servizioclienti@dispensaemilia.it",
+        "full_address": "via  Meucci 11, 00054 Fiumicino (RM)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.538678, 41.970114]
+      },
+      "properties": {
+        "id": 41,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Porta di Roma",
+        "addr:city": "Roma",
+        "addr:street": "Via Alberto Lionello 201",
+        "addr:postcode": "00139",
+        "branch": "Porta di Roma",
+        "contact:phone": "+39 0632092774",
+        "contact:email": "servizioclienti@dispensaemilia.it",
+        "full_address": "Via Alberto Lionello 201, 00139 Roma (RM)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.668022, 41.923567]
+      },
+      "properties": {
+        "id": 94,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - RomaEst",
+        "addr:city": "Roma",
+        "addr:street": "V. Collatina",
+        "addr:postcode": "00132",
+        "branch": "RomaEst",
+        "contact:phone": "+39 0632460053",
+        "contact:email": "servizioclienti@dispensaemilia.it",
+        "full_address": "V. Collatina, 00132 Roma (RM)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.92438, 41.76736]
+      },
+      "properties": {
+        "id": 88,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Valmontone Outlet",
+        "addr:city": "Valmontone",
+        "addr:street": "Via della Pace",
+        "addr:postcode": "00038",
+        "branch": "Valmontone Outlet",
+        "contact:phone": "+39 0632096051",
+        "contact:email": "servizioclienti@dispensaemilia.it",
+        "full_address": "Via della Pace, 00038 Valmontone (RM)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.587872, 44.036341]
+      },
+      "properties": {
+        "id": 33,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Le Befane",
+        "addr:city": "Rimini",
+        "addr:street": "Via Caduti di Nassiriya, 18",
+        "addr:postcode": "47924",
+        "branch": "Le Befane",
+        "contact:phone": "+39 05411860243",
+        "full_address": "Via Caduti di Nassiriya, 18, 47924 Rimini (RN)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.793085, 45.038811]
+      },
+      "properties": {
+        "id": 67,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - La Fattoria",
+        "addr:city": "Borsea",
+        "addr:street": "SS 16",
+        "addr:postcode": "45100",
+        "branch": "La Fattoria",
+        "contact:phone": "+39 04251800103",
+        "contact:email": "servizioclienti@dispensaemilia.it",
+        "full_address": "SS 16, 45100 Borsea (RO)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.832978, 44.118916]
+      },
+      "properties": {
+        "id": 91,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Le Terrazze",
+        "addr:city": "La Spezia",
+        "addr:street": "Via Fontevivo 17",
+        "addr:postcode": "19125",
+        "branch": "Le Terrazze",
+        "contact:email": "servizioclienti@dispensaemilia.it",
+        "full_address": "Via Fontevivo 17, 19125 La Spezia (SP)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.611853, 45.056474]
+      },
+      "properties": {
+        "id": 40,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Chiosco Le Gru",
+        "addr:city": "Grugliasco",
+        "addr:street": "Via Crea 10",
+        "addr:postcode": "10095",
+        "branch": "Chiosco Le Gru",
+        "contact:phone": "+39 01119118404",
+        "full_address": "Via Crea 10, 10095 Grugliasco (TO)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.666494, 45.035048]
+      },
+      "properties": {
+        "id": 48,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Lingotto",
+        "addr:city": "Torino",
+        "addr:street": "Via Ermanno Fenoglietti, 15",
+        "addr:postcode": "10126",
+        "branch": "Lingotto",
+        "contact:phone": "+39 0110621140",
+        "contact:email": "servizioclienti@dispensaemilia.it",
+        "full_address": "Via Ermanno Fenoglietti, 15, 10126 Torino (TO)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.611853, 45.056474]
+      },
+      "properties": {
+        "id": 37,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Shopville Le Gru",
+        "addr:city": "Grugliasco",
+        "addr:street": "via Crea, 10",
+        "addr:postcode": "10095",
+        "branch": "Shopville Le Gru",
+        "contact:phone": "+39 0110621000",
+        "contact:email": "servizioclienti@dispensaemilia.it",
+        "full_address": "via Crea, 10, 10095 Grugliasco (TO)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.714869, 45.118511]
+      },
+      "properties": {
+        "id": 52,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - To Dream Urban District",
+        "addr:city": "Torino",
+        "addr:street": "Corso Romania, 460",
+        "addr:postcode": "10156",
+        "branch": "To Dream Urban District",
+        "contact:phone": "+39 0110621060",
+        "contact:email": "servizioclienti@dispensaemilia.it",
+        "full_address": "Corso Romania, 460, 10156 Torino (TO)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.227292, 45.51132]
+      },
+      "properties": {
+        "id": 93,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Porte di Mestre",
+        "addr:city": "Venezia",
+        "addr:street": "Via Don Federico Tosatto",
+        "addr:postcode": "30174",
+        "branch": "Porte di Mestre",
+        "contact:email": "servizioclienti@dispensaemilia.it",
+        "full_address": "Via Don Federico Tosatto, 30174 Venezia (VE)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.305243, 45.545643]
+      },
+      "properties": {
+        "id": 42,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Valecenter",
+        "addr:city": "Marcon",
+        "addr:street": "Via Mattei 1/C",
+        "addr:postcode": "30020",
+        "branch": "Valecenter",
+        "contact:phone": "+39 0412670219",
+        "contact:email": "servizioclienti@dispensaemilia.it",
+        "full_address": "Via Mattei 1/C, 30020 Marcon (VE)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.976718, 45.404717]
+      },
+      "properties": {
+        "id": 11,
+        "source": "dispensaemilia.it",
+        "amenity": "fast_food",
+        "brand": "Dispensa Emilia",
+        "cuisine": "regional",
+        "name": "Dispensa Emilia - Adigeo",
+        "addr:city": "Verona",
+        "addr:street": "Viale delle Nazioni 1",
+        "addr:postcode": "37135",
+        "branch": "Adigeo",
+        "contact:phone": "+39 0452050467",
+        "full_address": "Viale delle Nazioni 1, 37135 Verona (VR)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    }
+  ]
+}
