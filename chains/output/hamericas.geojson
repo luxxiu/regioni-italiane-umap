@@ -1,0 +1,976 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.320179,
+          45.739158
+        ]
+      },
+      "properties": {
+        "id": "hamericas-1",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Aosta",
+        "branch": "Aosta",
+        "contact:phone": "+3901651854036",
+        "full_address": "Via Xavier de Maistre, 12, 11100 Aosta AO",
+        "opening_hours": "Lun-Dom 12-15,19-23",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.150962,
+          45.408326
+        ]
+      },
+      "properties": {
+        "id": "hamericas-31",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Assago",
+        "branch": "Assago",
+        "contact:phone": "+390289202649",
+        "full_address": "Piazza degli Incontri 7, 20057 Assago MI",
+        "opening_hours": "Dom-Gio 11.30-15 / 18.30-22;Ven-Sab 11.30-15 / 18.30-23",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.221935,
+          43.985361
+        ]
+      },
+      "properties": {
+        "id": "hamericas-2",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Barberino designer outlet",
+        "branch": "Barberino designer outlet",
+        "contact:phone": "+390550453813",
+        "full_address": "Via Meucci, 50031 Barberino di mugello FI",
+        "opening_hours": "Lun-Dom 10-20",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.341283,
+          44.511014
+        ]
+      },
+      "properties": {
+        "id": "hamericas-3",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Bologna Fioravanti",
+        "branch": "Bologna Fioravanti",
+        "contact:phone": "+390510285027",
+        "full_address": "Via Aristotile Fioravanti, 37, 40129 Bologna BO",
+        "opening_hours": "Lun-Dom 12-15:30,19-23",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.347101,
+          44.493369
+        ]
+      },
+      "properties": {
+        "id": "hamericas-4",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Bologna santo stefano",
+        "branch": "Bologna santo stefano",
+        "contact:phone": "+390510083271",
+        "full_address": "Via Santo Stefano, 8, 40125 Bologna BO",
+        "opening_hours": "Lun-Dom 12-15:30,19-23:30",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.357265,
+          44.567898
+        ]
+      },
+      "properties": {
+        "id": "hamericas-5",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Castel Maggiore (BO)",
+        "branch": "Castel Maggiore (BO)",
+        "contact:phone": "+390510322171",
+        "full_address": "Via Pio La Torre, 9, c/o Centro Commerciale Le Piazze, 40013 Castel Maggiore BO",
+        "opening_hours": "Lun-Gio 12-15,18:30-23 , Ven-Dom 12-15,18:30-24",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.944167,
+          45.600033
+        ]
+      },
+      "properties": {
+        "id": "hamericas-6",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Cerro Maggiore (MI)",
+        "branch": "Cerro Maggiore (MI)",
+        "contact:phone": "+3903311170002",
+        "full_address": "Via Filippo Turati, 111, 20023 Milano MI",
+        "opening_hours": "Lun-Dom 12-15,19-24",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.527094,
+          45.4638
+        ]
+      },
+      "properties": {
+        "id": "hamericas-36",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Desenzano",
+        "branch": "Desenzano",
+        "contact:phone": "+390305788505",
+        "full_address": "Via Guglielmo Marconi, 1, c/o Centro Commerciale Le Vele, 25015 Desenzano del Garda BS",
+        "opening_hours": "Lun-Dom 12:00-15:30, 18:30-23:30",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.679355,
+          41.806925
+        ]
+      },
+      "properties": {
+        "id": "hamericas-34",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Frascati",
+        "branch": "Frascati",
+        "contact:phone": "+390697608507",
+        "full_address": "Via Duca D'Aosta, 1, 00044 Frascati RM",
+        "opening_hours": "Lun-Ven 12:00-15.30 / 19:00-23:00;Sab-Dom 12:00-16:00 / 19:00-24:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.490723,
+          45.724296
+        ]
+      },
+      "properties": {
+        "id": "hamericas-33",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Gattico",
+        "branch": "Gattico",
+        "contact:phone": "+3903221958280",
+        "full_address": "via Piola 58, 28013 Gattico-Veruno NO",
+        "opening_hours": "Ogni giorno 12:00 - 15:30 / 18:30 - 23:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.931059,
+          44.407531
+        ]
+      },
+      "properties": {
+        "id": "hamericas-7",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Genova",
+        "branch": "Genova",
+        "contact:phone": "+390100921430",
+        "full_address": "Via S. Lorenzo, 77, 16123 Genova GE",
+        "opening_hours": "Lun-Gio 12-15:30,19-23 , Ven-Dom 12-15:30,19-23:30",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.854049,
+          45.086619
+        ]
+      },
+      "properties": {
+        "id": "hamericas-37",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Mantova Village",
+        "branch": "Mantova Village",
+        "contact:phone": "+3903761181411",
+        "full_address": "Via Marco Biagi, 46031 Bagnolo San Vito MN",
+        "opening_hours": "Lun-Gio 09:00-21:00;Ven-Dom 09:00-22:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.181022,
+          45.459504
+        ]
+      },
+      "properties": {
+        "id": "hamericas-8",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Milano Ticinese",
+        "branch": "Milano Ticinese",
+        "contact:phone": "+390289420241",
+        "full_address": "Corso di Porta Ticinese, 6, 20123 Milano MI",
+        "opening_hours": "Lun-Gio 12-15:30,19-23 , Ven-Sab 12-16,19-24 , Dom 12-16,19-23",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.213042,
+          45.522107
+        ]
+      },
+      "properties": {
+        "id": "hamericas-41",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Milano Bicocca Village",
+        "branch": "Milano Bicocca Village",
+        "contact:phone": "+390286891288",
+        "full_address": "Via Chiese 4, c/o C.C. Bicocca Village, 20126 Milano MI",
+        "opening_hours": "Lun - Gio 12 - 15 / 19 - 23;Ven - Dom 12 - 00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.18256,
+          45.467534
+        ]
+      },
+      "properties": {
+        "id": "hamericas-9",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Milano Camperio",
+        "branch": "Milano Camperio",
+        "contact:phone": "+390289011213",
+        "full_address": "Via Manfredo Camperio, 17, 20123 Milano MI",
+        "opening_hours": "Lun-Mar 12-15,19-23 , Mer-Dom 12-15:30,19-23",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.188833,
+          45.487065
+        ]
+      },
+      "properties": {
+        "id": "hamericas-10",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Milano Borsieri",
+        "branch": "Milano Borsieri",
+        "contact:phone": "+390239820535",
+        "full_address": "Via Pietro Borsieri, 14, 20124 Milano MI",
+        "opening_hours": "Lun 12-15,19-23 , Mar-Gio-Dom 12-15:30,19-23 , Ven-Sab 12-15:30,19-24",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.101796,
+          45.514348
+        ]
+      },
+      "properties": {
+        "id": "hamericas-28",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Milano Merlata Bloom",
+        "branch": "Milano Merlata Bloom",
+        "contact:phone": "+393514820561",
+        "full_address": "Via Wilhelm Daimler 61, c/o Centro Commerciale Merlata Bloom Milano, 20151 Milano MI",
+        "opening_hours": "Lun-Dom 12:00 - 23:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.175866,
+          45.465429
+        ]
+      },
+      "properties": {
+        "id": "hamericas-11",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Milano Terraggio",
+        "branch": "Milano Terraggio",
+        "contact:phone": "+3902801470",
+        "full_address": "Via Terraggio, 13, 20123 Milano MI",
+        "opening_hours": "Lun-Gio-Dom 12-15:30,19-23 , Ven-Sab 12-15:30,19-24",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.160984,
+          45.454799
+        ]
+      },
+      "properties": {
+        "id": "hamericas-12",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Milano Solari",
+        "branch": "Milano Solari",
+        "contact:phone": "+3902475867",
+        "full_address": "Via Andrea Solari, 34, 20144 Milano MI",
+        "opening_hours": "Lun-Gio-Dom 12-15:30,19-23 , Ven-Sab 12-15:30,19-24",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.183055,
+          45.451995
+        ]
+      },
+      "properties": {
+        "id": "hamericas-13",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Milano Col Di Lana",
+        "branch": "Milano Col Di Lana",
+        "contact:phone": "+390249541354",
+        "full_address": "Viale Col di Lana, 6, 20136 Milano MI",
+        "opening_hours": "Lun-Gio-Dom 12-15:30,19-23 , Ven-Sab 12-15:30,19-24",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.207204,
+          45.467473
+        ]
+      },
+      "properties": {
+        "id": "hamericas-14",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Milano Premuda",
+        "branch": "Milano Premuda",
+        "contact:phone": "+390276004437",
+        "full_address": "Viale Premuda, 28, 20129 Milano MI",
+        "opening_hours": "Lun-Dom 12-15,19-24",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.151256,
+          45.46577
+        ]
+      },
+      "properties": {
+        "id": "hamericas-15",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Milano Sacco",
+        "branch": "Milano Sacco",
+        "contact:phone": "+390283638738",
+        "full_address": "Via Luigi Sacco, 4, 20146 Milano MI",
+        "opening_hours": "Lun-Gio 12-15,19-23 , Ven 12-15,19-24 , Sab 12-15:30,19-24 , Dom 12-15:30,19-23",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.924897,
+          44.64787
+        ]
+      },
+      "properties": {
+        "id": "hamericas-16",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Modena Matteotti",
+        "branch": "Modena Matteotti",
+        "contact:phone": "+390597102493",
+        "full_address": "Piazza Giacomo Matteotti, 10, 41121 Modena MO",
+        "opening_hours": "Lun-Dom 12-15,19-23:30",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.535445,
+          45.671972
+        ]
+      },
+      "properties": {
+        "id": "hamericas-17",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Noventa di Piave designer outlet",
+        "branch": "Noventa di Piave designer outlet",
+        "contact:phone": "+393294594259",
+        "full_address": "Via Marco Polo, 1, 30020 Noventa di Piave VE",
+        "opening_hours": "Lun-Dom 10-20",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.875398,
+          45.405466
+        ]
+      },
+      "properties": {
+        "id": "hamericas-18",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Padova Arco",
+        "branch": "Padova Arco",
+        "contact:phone": "+390498750051",
+        "full_address": "Via dell'Arco, 22, 35122 Padova PD",
+        "opening_hours": "Lun-Dom 12-15:30,19-24",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.882814,
+          45.41226
+        ]
+      },
+      "properties": {
+        "id": "hamericas-19",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Padova Gozzi",
+        "branch": "Padova Gozzi",
+        "contact:phone": "+390492149926",
+        "full_address": "Via Gaspare Gozzi, 2, 35131 Padova PD",
+        "opening_hours": "Lun-Dom 12-15:30,19-24",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.336879,
+          45.885877
+        ]
+      },
+      "properties": {
+        "id": "hamericas-20",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Palmanova Village (UD)",
+        "branch": "Palmanova Village (UD)",
+        "contact:phone": "+393294612658",
+        "full_address": "SP 126 km 1.6 Aiello del Friuli, 33041 Udine UD",
+        "opening_hours": "Lun-Dom 10-20",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.056471,
+          43.873274
+        ]
+      },
+      "properties": {
+        "id": "hamericas-22",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Prato",
+        "branch": "Prato",
+        "contact:phone": "+390574662776",
+        "full_address": "Via Traversa Pistoiese, 2 - Tobbiana, 59100 Prato PO",
+        "opening_hours": "Lun 18:30 - 23:00;Mar - Gio e Dom 11:30 - 15:00 e 18:30 - 23:00;Ven - Sab 11:30 - 15:00 e 18:30 - 23:30",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.45498,
+          41.909018
+        ]
+      },
+      "properties": {
+        "id": "hamericas-24",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Roma Candia",
+        "branch": "Roma Candia",
+        "contact:phone": "+390686881088",
+        "full_address": "Via Candia, 1, 00192 Roma RM",
+        "opening_hours": "Lun-Gio 12-15:30,19-23 , Ven-Dom 12-16,19-24",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.607529,
+          41.883395
+        ]
+      },
+      "properties": {
+        "id": "hamericas-29",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Roma GranRoma",
+        "branch": "Roma GranRoma",
+        "contact:phone": "+390655135867",
+        "full_address": "Via Aristide Merloni,141, c/o Centro Commerciale GranRoma, 155 Roma RO",
+        "opening_hours": "Lun-Dom 10:00-22:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.485568,
+          41.808699
+        ]
+      },
+      "properties": {
+        "id": "hamericas-32",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Roma Maximo",
+        "branch": "Roma Maximo",
+        "contact:phone": "+390683848163",
+        "full_address": "Via Laurentina, 865, 00143 Roma RM",
+        "opening_hours": "dom - gio: 12:00 – 22:00;ven - sab: 12:00 – 22:30",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.737706,
+          45.128178
+        ]
+      },
+      "properties": {
+        "id": "hamericas-30",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Torino Outlet",
+        "branch": "Torino Outlet",
+        "full_address": "Via Torino, 160, c/o Torino Outlet Village, 10036 Settimo Torinese TO",
+        "opening_hours": "Lun-Dom 10:00-20:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.679496,
+          45.057139
+        ]
+      },
+      "properties": {
+        "id": "hamericas-25",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Torino Belfiore",
+        "branch": "Torino Belfiore",
+        "contact:phone": "+3901119486576",
+        "full_address": "Via Belfiore, 24, 10125 Torino TO",
+        "opening_hours": "Lun-Gio-Dom 11:30-15,18:30-23:30 , Ven-Sab 11:30-15,18:30-24",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.782874,
+          45.652272
+        ]
+      },
+      "properties": {
+        "id": "hamericas-26",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Trieste",
+        "branch": "Trieste",
+        "contact:phone": "+390409858380",
+        "full_address": "Viale XX Settembre, 39/A, 34126 Trieste TS",
+        "opening_hours": "Lun-Dom 12-15:30,19-24",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.803562,
+          45.835741
+        ]
+      },
+      "properties": {
+        "id": "hamericas-38",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Varese",
+        "branch": "Varese",
+        "contact:phone": "+3903321411465",
+        "full_address": "Via Daniele Manin, 30, 21100 Varese VA",
+        "opening_hours": "Dom-Gio 12:00-15:30, 19:00-23:00;Ven-Sab 12:00-15:30, 19:00-00:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.164622,
+          40.171748
+        ]
+      },
+      "properties": {
+        "id": "hamericas-39",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Galatina",
+        "branch": "Galatina",
+        "contact:phone": "+390836215389",
+        "full_address": "Via Gallipoli 10, 73013 Galatina LE",
+        "opening_hours": "Lun-Dom 19:30 - 00:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.814561,
+          40.63477
+        ]
+      },
+      "properties": {
+        "id": "hamericas-40",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Potenza",
+        "branch": "Potenza",
+        "full_address": "Viale del Basento 120, 85100 Potenza PZ",
+        "opening_hours": "COMING SOON",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.11667,
+          45.576983
+        ]
+      },
+      "properties": {
+        "id": "hamericas-42",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Franciacorta Designer Village",
+        "branch": "Franciacorta Designer Village",
+        "full_address": "Piazza Cascina Moie 1, 25050 Rodengo Saiano BS",
+        "opening_hours": "COMING SOON",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.939421,
+          44.394445
+        ]
+      },
+      "properties": {
+        "id": "hamericas-43",
+        "source": "Hamerica's",
+        "amenity": "fast_food",
+        "brand": "Hamerica's",
+        "cuisine": "burger",
+        "name": "Hamerica's - Genova Waterfront",
+        "branch": "Genova Waterfront",
+        "full_address": "P.le John Fitzgerald Kennedy 1, c/o Centro Commerciale Waterfront, 16129 Genova GE",
+        "opening_hours": "COMING SOON",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    }
+  ]
+}

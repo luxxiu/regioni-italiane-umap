@@ -1,0 +1,862 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0527283,
+          45.5631646
+        ]
+      },
+      "properties": {
+        "id": "capatoast-0",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Arese",
+        "branch": "Arese",
+        "contact:phone": "+390293876034",
+        "full_address": "CC Il Centro",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.666582,
+          45.6932879
+        ]
+      },
+      "properties": {
+        "id": "capatoast-1",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Bergamo",
+        "branch": "Bergamo",
+        "contact:phone": "+39035235286",
+        "full_address": "Via Tiraboschi, 63",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3480317,
+          46.4998333
+        ]
+      },
+      "properties": {
+        "id": "capatoast-2",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Bolzano",
+        "branch": "Bolzano",
+        "contact:phone": "+390471095888",
+        "full_address": "Via del Museo 29C",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4748661,
+          45.62267
+        ]
+      },
+      "properties": {
+        "id": "capatoast-3",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Busnago",
+        "branch": "Busnago",
+        "contact:phone": "+390399154328",
+        "full_address": "CC Globo",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1600945,
+          39.2446221
+        ]
+      },
+      "properties": {
+        "id": "capatoast-4",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Cagliari",
+        "branch": "Cagliari",
+        "full_address": "CC Le Vele Millennium Via delle Serre, Quartucciu",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3309337,
+          41.0755858
+        ]
+      },
+      "properties": {
+        "id": "capatoast-5",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Caserta",
+        "branch": "Caserta",
+        "contact:phone": "+390823894669",
+        "full_address": "Piazza Vanvitelli, 22",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0852852,
+          37.5089929
+        ]
+      },
+      "properties": {
+        "id": "capatoast-6",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Catania",
+        "branch": "Catania",
+        "contact:phone": "+390952906816",
+        "full_address": "Via Spedalieri 16, Catania",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6105604,
+          45.6826957
+        ]
+      },
+      "properties": {
+        "id": "capatoast-7",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Curno",
+        "branch": "Curno",
+        "contact:phone": "+3903519901728",
+        "full_address": "CC Curno",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2273156,
+          43.792627
+        ]
+      },
+      "properties": {
+        "id": "capatoast-8",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Firenze",
+        "branch": "Firenze",
+        "contact:phone": "+390552697628",
+        "full_address": "CC San Donato",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8826897,
+          44.412633
+        ]
+      },
+      "properties": {
+        "id": "capatoast-9",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Genova",
+        "branch": "Genova",
+        "contact:phone": "+390102362792",
+        "full_address": "CC Fiumara",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8322249,
+          44.1194111
+        ]
+      },
+      "properties": {
+        "id": "capatoast-10",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - La Spezia",
+        "branch": "La Spezia",
+        "contact:phone": "+390187975938",
+        "full_address": "CC Le Terrazze",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.131032,
+          45.6077962
+        ]
+      },
+      "properties": {
+        "id": "capatoast-11",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Limbiate",
+        "branch": "Limbiate",
+        "contact:phone": "+390238317877",
+        "full_address": "CC Carrefour",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3505026,
+          38.9001629
+        ]
+      },
+      "properties": {
+        "id": "capatoast-12",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Maida",
+        "branch": "Maida",
+        "contact:phone": "+390968356414",
+        "full_address": "CC Due Mari",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1594084,
+          46.6702424
+        ]
+      },
+      "properties": {
+        "id": "capatoast-13",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Merano",
+        "branch": "Merano",
+        "full_address": "Piazza del Teatro, 14",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1521975,
+          45.4036462
+        ]
+      },
+      "properties": {
+        "id": "capatoast-14",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Milano - Assago",
+        "branch": "Milano - Assago",
+        "full_address": "CC Milanofiori",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1058321,
+          45.5137123
+        ]
+      },
+      "properties": {
+        "id": "capatoast-15",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Milano",
+        "branch": "Milano",
+        "full_address": "CC Merlata Bloom",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2506486,
+          40.8401546
+        ]
+      },
+      "properties": {
+        "id": "capatoast-16",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Napoli - Napoli Municipio",
+        "branch": "Napoli - Napoli Municipio",
+        "contact:phone": "+3908118957533",
+        "full_address": "Piazza Municipio, 23",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2294557,
+          40.8455479
+        ]
+      },
+      "properties": {
+        "id": "capatoast-17",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Napoli - Napoli Vomero",
+        "branch": "Napoli - Napoli Vomero",
+        "contact:phone": "+390812306713",
+        "full_address": "Via Bernini, 64",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5982648,
+          45.4465235
+        ]
+      },
+      "properties": {
+        "id": "capatoast-18",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Novara",
+        "branch": "Novara",
+        "contact:phone": "+390321494206",
+        "full_address": "CC San Martino 2",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.69507,
+          45.6636059
+        ]
+      },
+      "properties": {
+        "id": "capatoast-19",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Orio Al Serio",
+        "branch": "Orio Al Serio",
+        "contact:phone": "+390350440690",
+        "full_address": "CC Oriocenter",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1793446,
+          45.5741383
+        ]
+      },
+      "properties": {
+        "id": "capatoast-20",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Paderno Dugnano",
+        "branch": "Paderno Dugnano",
+        "full_address": "CC Brianza Strada Statale 35 Dei Giovi Paderno Dugnano (MI)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8710833,
+          45.4070497
+        ]
+      },
+      "properties": {
+        "id": "capatoast-21",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Padova",
+        "branch": "Padova",
+        "contact:phone": "+390498750912",
+        "full_address": "Via Manin, 51",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3566501,
+          38.1200233
+        ]
+      },
+      "properties": {
+        "id": "capatoast-22",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Palermo",
+        "branch": "Palermo",
+        "contact:phone": "+390916124312",
+        "full_address": "Via Maqueda 421/423",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.387101,
+          43.1107423
+        ]
+      },
+      "properties": {
+        "id": "capatoast-23",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Perugia",
+        "branch": "Perugia",
+        "contact:phone": "+390755095446",
+        "full_address": "Via Mazzini, 27",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5028979,
+          40.74081
+        ]
+      },
+      "properties": {
+        "id": "capatoast-24",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Pompei",
+        "branch": "Pompei",
+        "contact:phone": "+390818502508",
+        "full_address": "CC La Cartiera",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6508548,
+          44.7149099
+        ]
+      },
+      "properties": {
+        "id": "capatoast-25",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Reggio Emilia",
+        "branch": "Reggio Emilia",
+        "contact:phone": "+390522513169",
+        "full_address": "CC I Petali",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6070586,
+          41.8842273
+        ]
+      },
+      "properties": {
+        "id": "capatoast-26",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Roma",
+        "branch": "Roma",
+        "contact:phone": "+39062281390",
+        "full_address": "CC GranRoma",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4857929,
+          41.808877
+        ]
+      },
+      "properties": {
+        "id": "capatoast-27",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Roma",
+        "branch": "Roma",
+        "contact:phone": "+390687646898",
+        "full_address": "CC Maximo",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5400212,
+          41.9723596
+        ]
+      },
+      "properties": {
+        "id": "capatoast-28",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Roma",
+        "branch": "Roma",
+        "contact:phone": "+390687070634",
+        "full_address": "CC Porta di Roma",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4860421,
+          44.3090614
+        ]
+      },
+      "properties": {
+        "id": "capatoast-29",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Savona",
+        "branch": "Savona",
+        "contact:phone": "+390199482060",
+        "full_address": "Largo Ammiraglio Roni 6/8R (Ponte Mobile Darsena)",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4671777,
+          44.3168242
+        ]
+      },
+      "properties": {
+        "id": "capatoast-30",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Savona",
+        "branch": "Savona",
+        "full_address": "CC Il Gabbiano Corso Agostino Ricci, 203",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7342107,
+          45.1405327
+        ]
+      },
+      "properties": {
+        "id": "capatoast-31",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Settimo Torinese",
+        "branch": "Settimo Torinese",
+        "contact:phone": "+390112458100",
+        "full_address": "CC Settimo Cielo Retail Park",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6795802,
+          45.0634958
+        ]
+      },
+      "properties": {
+        "id": "capatoast-32",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Torino - Torino Via Rattazzi",
+        "branch": "Torino - Torino Via Rattazzi",
+        "contact:phone": "+390115612219",
+        "full_address": "Via Rattazzi, 1",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6668231,
+          45.0346508
+        ]
+      },
+      "properties": {
+        "id": "capatoast-33",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Torino",
+        "branch": "Torino",
+        "contact:phone": "+393426317850",
+        "full_address": "CC Lingotto",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1211681,
+          46.0640819
+        ]
+      },
+      "properties": {
+        "id": "capatoast-34",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Trento",
+        "branch": "Trento",
+        "contact:phone": "+390461415482",
+        "full_address": "Via Santa Croce, 42",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2068543,
+          46.0728045
+        ]
+      },
+      "properties": {
+        "id": "capatoast-35",
+        "source": "capatoast.it",
+        "amenity": "fast_food",
+        "brand": "Capatoast",
+        "cuisine": "toast",
+        "name": "Capatoast - Udine",
+        "branch": "Udine",
+        "full_address": "CC Città Fiera",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    }
+  ]
+}

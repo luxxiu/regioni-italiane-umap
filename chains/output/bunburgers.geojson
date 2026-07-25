@@ -1,0 +1,653 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0568284,
+          45.5626378
+        ]
+      },
+      "properties": {
+        "id": "bunburgers-29",
+        "source": "bunburgers.com",
+        "amenity": "fast_food",
+        "brand": "Bun Burgers",
+        "cuisine": "burger",
+        "name": "Bun Burgers - Arese",
+        "branch": "Arese",
+        "full_address": "Centro Commerciale Il Centro - Via Giuseppe Eugenio Luraghi, 11, 20020 Arese",
+        "opening_hours": "Lunedì: 09:30 - 18:30; Martedì: 09:30 - 18:30; Mercoledì: 09:30 - 18:30; Giovedì: 09:30 - 18:30; Venerdì: 09:30 - 18:30; Sabato: 09:30 - 18:30; Domenica: 09:30 - 18:30",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1475363,
+          45.4021946
+        ]
+      },
+      "properties": {
+        "id": "bunburgers-48",
+        "source": "bunburgers.com",
+        "amenity": "fast_food",
+        "brand": "Bun Burgers",
+        "cuisine": "burger",
+        "name": "Bun Burgers - Assago",
+        "branch": "Assago",
+        "full_address": "Centro Commerciale Milanofiori - V.le Milanofiori, 20057 Assago",
+        "opening_hours": "Lunedì: 11:30 - 21:30; Martedì: 11:30 - 21:30; Mercoledì: 11:30 - 21:30; Giovedì: 11:30 - 21:30; Venerdì: 11:30 - 21:30; Sabato: 11:30 - 21:30; Domenica: 11:30 - 21:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.078419,
+          45.5476944
+        ]
+      },
+      "properties": {
+        "id": "bunburgers-46",
+        "source": "bunburgers.com",
+        "amenity": "fast_food",
+        "brand": "Bun Burgers",
+        "cuisine": "burger",
+        "name": "Bun Burgers - Biella",
+        "branch": "Biella",
+        "full_address": "Centro Commerciale Gli Orsi - Viale Domenico Modugno, 3b, 13900 Biella",
+        "opening_hours": "Lunedì: 11:00 - 21:00; Martedì: 11:00 - 21:00; Mercoledì: 11:00 - 21:00; Giovedì: 11:00 - 21:00; Venerdì: 11:00 - 22:00; Sabato: 11:00 - 22:00; Domenica: 11:00 - 21:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5059999,
+          47.0057206
+        ]
+      },
+      "properties": {
+        "id": "bunburgers-56",
+        "source": "bunburgers.com",
+        "amenity": "fast_food",
+        "brand": "Bun Burgers",
+        "cuisine": "burger",
+        "name": "Bun Burgers - Brennero",
+        "branch": "Brennero",
+        "full_address": "Via S. Valentino, 9/A, 39041 Brennero BZ, 39041 Brennero",
+        "opening_hours": "Lunedì: 11:00 - 19:30; Martedì: 11:00 - 19:30; Mercoledì: 11:00 - 19:30; Giovedì: 11:00 - 19:30; Venerdì: 11:00 - 19:30; Sabato: 11:00 - 19:30; Domenica: 11:00 - 19:30",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3299095,
+          45.5454696
+        ]
+      },
+      "properties": {
+        "id": "bunburgers-54",
+        "source": "bunburgers.com",
+        "amenity": "fast_food",
+        "brand": "Bun Burgers",
+        "cuisine": "burger",
+        "name": "Bun Burgers - Carugate",
+        "branch": "Carugate",
+        "full_address": "Centro Commerciale Carosello - SP208, km 2, 20061 Carugate",
+        "opening_hours": "Lunedì: 12:00 - 23:00; Martedì: 12:00 - 23:00; Mercoledì: 12:00 - 23:00; Giovedì: 12:00 - 23:00; Venerdì: 12:00 - 23:00; Sabato: 12:00 - 23:00; Domenica: 12:00 - 23:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.24845,
+          44.4889623
+        ]
+      },
+      "properties": {
+        "id": "bunburgers-38",
+        "source": "bunburgers.com",
+        "amenity": "fast_food",
+        "brand": "Bun Burgers",
+        "cuisine": "burger",
+        "name": "Bun Burgers - Casalecchio di Reno",
+        "branch": "Casalecchio di Reno",
+        "full_address": "Centro Commerciale Shopville Gran Reno - Via Marilyn Monroe, 2, 40033 Casalecchio di Reno",
+        "opening_hours": "Lunedì: 11:30 - 23:00; Martedì: 11:30 - 23:00; Mercoledì: 11:30 - 23:00; Giovedì: 11:30 - 23:00; Venerdì: 11:30 - 23:00; Sabato: 11:30 - 23:00; Domenica: 11:30 - 23:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9981092,
+          45.1487747
+        ]
+      },
+      "properties": {
+        "id": "bunburgers-57",
+        "source": "bunburgers.com",
+        "amenity": "fast_food",
+        "brand": "Bun Burgers",
+        "cuisine": "burger",
+        "name": "Bun Burgers - Cremona",
+        "branch": "Cremona",
+        "full_address": "Via Castelleone 108, 26100 Cremona",
+        "opening_hours": "Lunedì: 11:00 - 22:30; Martedì: 11:00 - 22:30; Mercoledì: 11:00 - 22:30; Giovedì: 11:00 - 22:30; Venerdì: 11:00 - 22:30; Sabato: 11:00 - 22:30; Domenica: 11:00 - 22:30",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.954445,
+          44.4092124
+        ]
+      },
+      "properties": {
+        "id": "bunburgers-37",
+        "source": "bunburgers.com",
+        "amenity": "fast_food",
+        "brand": "Bun Burgers",
+        "cuisine": "burger",
+        "name": "Bun Burgers - Genova",
+        "branch": "Genova",
+        "full_address": "Centro Commerciale Genova Mercato - Corso Sardegna, 165, Genova",
+        "opening_hours": "Lunedì: 11:30 - 21:30; Martedì: 11:30 - 21:30; Mercoledì: 11:30 - 21:30; Giovedì: 11:30 - 21:30; Venerdì: 11:30 - 22:00; Sabato: 11:30 - 22:00; Domenica: 11:30 - 22:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5140753,
+          45.431089
+        ]
+      },
+      "properties": {
+        "id": "bunburgers-53",
+        "source": "bunburgers.com",
+        "amenity": "fast_food",
+        "brand": "Bun Burgers",
+        "cuisine": "burger",
+        "name": "Bun Burgers - Lonato del Garda",
+        "branch": "Lonato del Garda",
+        "full_address": "Centro Commerciale Il Leone Shopping Center - Via Mantova, 36, 25017 Lonato del Garda",
+        "opening_hours": "Lunedì: 11:00 - 22:00; Martedì: 11:00 - 22:00; Mercoledì: 11:00 - 22:00; Giovedì: 11:00 - 22:00; Venerdì: 11:00 - 22:00; Sabato: 11:00 - 22:00; Domenica: 11:00 - 22:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2159078,
+          45.5220831
+        ]
+      },
+      "properties": {
+        "id": "bunburgers-28",
+        "source": "bunburgers.com",
+        "amenity": "fast_food",
+        "brand": "Bun Burgers",
+        "cuisine": "burger",
+        "name": "Bun Burgers - Milano Bicocca",
+        "branch": "Milano Bicocca",
+        "full_address": "Centro Commerciale Bicocca Village - Viale Sarca, 20126 Milano",
+        "opening_hours": "Lunedì: 09:30 - 18:30; Martedì: 09:30 - 18:30; Mercoledì: 09:30 - 18:30; Giovedì: 09:30 - 18:30; Venerdì: 09:30 - 18:30; Sabato: 09:30 - 18:30; Domenica: 09:30 - 18:30",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1926743,
+          45.450941
+        ]
+      },
+      "properties": {
+        "id": "bunburgers-30",
+        "source": "bunburgers.com",
+        "amenity": "fast_food",
+        "brand": "Bun Burgers",
+        "cuisine": "burger",
+        "name": "Bun Burgers - Milano Bligny",
+        "branch": "Milano Bligny",
+        "full_address": "Viale Bligny, 19/a, 20136 Milano",
+        "opening_hours": "Lunedì: 11:30 - 15:30, 18:30 - 23:00; Martedì: 11:30 - 15:30, 18:30 - 23:00; Mercoledì: 11:30 - 15:30, 18:30 - 23:00; Giovedì: 11:30 - 15:30, 18:30 - 23:00; Venerdì: 11:30 - 15:30, 18:30 - 00:00; Sabato: 11:30 - 15:30, 18:30 - 00:00; Domenica: 11:30 - 15:30, 18:30 - 23:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1869537,
+          45.4690817
+        ]
+      },
+      "properties": {
+        "id": "bunburgers-32",
+        "source": "bunburgers.com",
+        "amenity": "fast_food",
+        "brand": "Bun Burgers",
+        "cuisine": "burger",
+        "name": "Bun Burgers - Milano Brera",
+        "branch": "Milano Brera",
+        "full_address": "Via Dell’Orso, 20, 20121 Milano",
+        "opening_hours": "Lunedì: 11:00 - 00:00; Martedì: 11:00 - 00:00; Mercoledì: 11:00 - 00:00; Giovedì: 11:00 - 00:00; Venerdì: 11:00 - 00:00; Sabato: 11:00 - 00:00; Domenica: 11:00 - 00:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.105832099999999,
+          45.51371229999999
+        ]
+      },
+      "properties": {
+        "id": "bunburgers-51",
+        "source": "bunburgers.com",
+        "amenity": "fast_food",
+        "brand": "Bun Burgers",
+        "cuisine": "burger",
+        "name": "Bun Burgers - Milano Cascina Merlata",
+        "branch": "Milano Cascina Merlata",
+        "full_address": "Centro Commerciale Merlata Bloom - Via Triboniano, 256, 20151 Milano",
+        "opening_hours": "Lunedì: 11:30 - 22:30; Martedì: 11:30 - 22:30; Mercoledì: 11:30 - 22:30; Giovedì: 11:30 - 22:30; Venerdì: 11:30 - 22:30; Sabato: 11:30 - 22:30; Domenica: 11:30 - 22:30",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2077095,
+          45.4762129
+        ]
+      },
+      "properties": {
+        "id": "bunburgers-34",
+        "source": "bunburgers.com",
+        "amenity": "fast_food",
+        "brand": "Bun Burgers",
+        "cuisine": "burger",
+        "name": "Bun Burgers - Milano Porta Venezia",
+        "branch": "Milano Porta Venezia",
+        "full_address": "Via Lazzaro Spallanzani, 16, 20129 Milano",
+        "opening_hours": "Lunedì: 12:00 - 23:00; Martedì: 12:00 - 23:00; Mercoledì: 12:00 - 23:00; Giovedì: 12:00 - 23:00; Venerdì: 12:00 - 23:00; Sabato: 12:00 - 23:00; Domenica: 12:00 - 23:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.167648699999999,
+          45.4814763
+        ]
+      },
+      "properties": {
+        "id": "bunburgers-42",
+        "source": "bunburgers.com",
+        "amenity": "fast_food",
+        "brand": "Bun Burgers",
+        "cuisine": "burger",
+        "name": "Bun Burgers - Milano Procaccini",
+        "branch": "Milano Procaccini",
+        "full_address": "Via Giulio Cesare Procaccini, 61, 20154 Milano",
+        "opening_hours": "Lunedì: 11:30 - 23:00; Martedì: 11:30 - 23:00; Mercoledì: 11:30 - 23:00; Giovedì: 11:30 - 23:00; Venerdì: 11:30 - 23:00; Sabato: 11:30 - 23:00; Domenica: 11:30 - 23:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.24063,
+          45.4336164
+        ]
+      },
+      "properties": {
+        "id": "bunburgers-36",
+        "source": "bunburgers.com",
+        "amenity": "fast_food",
+        "brand": "Bun Burgers",
+        "cuisine": "burger",
+        "name": "Bun Burgers - Milano Santa Giulia",
+        "branch": "Milano Santa Giulia",
+        "full_address": "Via Luigi Russolo, 20138 Milano",
+        "opening_hours": "Lunedì: 12:00 - 15:00, 19:00 - 22:00; Martedì: 12:00 - 15:00, 19:00 - 22:00; Mercoledì: 12:00 - 15:00, 19:00 - 22:00; Giovedì: 12:00 - 15:00, 19:00 - 22:00; Venerdì: 12:00 - 15:00, 19:00 - 22:00; Sabato: 12:00 - 15:00, 19:00 - 22:00; Domenica: 12:00 - 15:00, 19:00 - 22:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1839477,
+          45.4601568
+        ]
+      },
+      "properties": {
+        "id": "bunburgers-43",
+        "source": "bunburgers.com",
+        "amenity": "fast_food",
+        "brand": "Bun Burgers",
+        "cuisine": "burger",
+        "name": "Bun Burgers - Milano Santa Maria Valle",
+        "branch": "Milano Santa Maria Valle",
+        "full_address": "Via Santa Maria Valle, 2, 20123 Milano",
+        "opening_hours": "Lunedì: 12:00 - 23:00; Martedì: 12:00 - 23:00; Mercoledì: 12:00 - 23:00; Giovedì: 12:00 - 23:00; Venerdì: 12:00 - 23:00; Sabato: 12:00 - 23:00; Domenica: 12:00 - 23:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.695,
+          45.6636111
+        ]
+      },
+      "properties": {
+        "id": "bunburgers-49",
+        "source": "bunburgers.com",
+        "amenity": "fast_food",
+        "brand": "Bun Burgers",
+        "cuisine": "burger",
+        "name": "Bun Burgers - Orio al Serio",
+        "branch": "Orio al Serio",
+        "full_address": "Centro Commerciale Oriocenter - Via Portico, 71, 24050 Orio al Serio",
+        "opening_hours": "Lunedì: 11:00 - 21:30; Martedì: 11:00 - 21:30; Mercoledì: 11:00 - 21:30; Giovedì: 11:00 - 21:30; Venerdì: 11:00 - 21:30; Sabato: 11:00 - 21:30; Domenica: 11:00 - 21:30",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1518711,
+          45.5605964
+        ]
+      },
+      "properties": {
+        "id": "bunburgers-50",
+        "source": "bunburgers.com",
+        "amenity": "fast_food",
+        "brand": "Bun Burgers",
+        "cuisine": "burger",
+        "name": "Bun Burgers - Paderno Dugnano",
+        "branch": "Paderno Dugnano",
+        "full_address": "Centro Commerciale Bianza - Strada Statale 35 Dei Giovi, 20037 Paderno Dugnano",
+        "opening_hours": "Lunedì: 12:00 - 21:00; Martedì: 12:00 - 21:00; Mercoledì: 12:00 - 21:00; Giovedì: 12:00 - 21:00; Venerdì: 12:00 - 21:30; Sabato: 12:00 - 22:00; Domenica: 12:00 - 21:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1648579,
+          45.5340601
+        ]
+      },
+      "properties": {
+        "id": "bunburgers-44",
+        "source": "bunburgers.com",
+        "amenity": "fast_food",
+        "brand": "Bun Burgers",
+        "cuisine": "burger",
+        "name": "Bun Burgers - Roncadelle",
+        "branch": "Roncadelle",
+        "full_address": "Centro Commerciale Èlnos - Via Luigi Einaudi, 5, 25030 Roncadelle",
+        "opening_hours": "Lunedì: 11:00 - 21:00; Martedì: 11:00 - 21:00; Mercoledì: 11:00 - 21:00; Giovedì: 11:00 - 21:00; Venerdì: 11:00 - 21:00; Sabato: 11:00 - 21:00; Domenica: 11:00 - 21:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4284828,
+          44.1578548
+        ]
+      },
+      "properties": {
+        "id": "bunburgers-41",
+        "source": "bunburgers.com",
+        "amenity": "fast_food",
+        "brand": "Bun Burgers",
+        "cuisine": "burger",
+        "name": "Bun Burgers - Savignano sul Rubicone",
+        "branch": "Savignano sul Rubicone",
+        "full_address": "Centro Commerciale Romagna Shopping Valley - Piazza Cristoforo Colombo, 3, 47039 Savignano sul Rubicone",
+        "opening_hours": "Lunedì: 12:00 - 21:00; Martedì: 12:00 - 21:00; Mercoledì: 12:00 - 21:00; Giovedì: 12:00 - 21:00; Venerdì: 12:00 - 21:00; Sabato: 12:00 - 21:00; Domenica: 12:00 - 20:30",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8644006,
+          45.4393456
+        ]
+      },
+      "properties": {
+        "id": "bunburgers-52",
+        "source": "bunburgers.com",
+        "amenity": "fast_food",
+        "brand": "Bun Burgers",
+        "cuisine": "burger",
+        "name": "Bun Burgers - Sona",
+        "branch": "Sona",
+        "full_address": "Centro Commerciale La GrandeMela Shoppingland - Via Trentino, 1, 37060 Sona",
+        "opening_hours": "Lunedì: 12:00 - 22:00; Martedì: 12:00 - 22:00; Mercoledì: 12:00 - 22:00; Giovedì: 12:00 - 22:00; Venerdì: 12:00 - 22:30; Sabato: 12:00 - 22:30; Domenica: 12:00 - 22:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6801636,
+          45.0656086
+        ]
+      },
+      "properties": {
+        "id": "bunburgers-31",
+        "source": "bunburgers.com",
+        "amenity": "fast_food",
+        "brand": "Bun Burgers",
+        "cuisine": "burger",
+        "name": "Bun Burgers - Torino Amendola",
+        "branch": "Torino Amendola",
+        "full_address": "Via Giovanni Amendola, 9, 10121 Torino",
+        "opening_hours": "Lunedì: 12:00 - 23:00; Martedì: 12:00 - 23:00; Mercoledì: 12:00 - 23:00; Giovedì: 12:00 - 23:00; Venerdì: 12:00 - 23:00; Sabato: 12:00 - 23:00; Domenica: 12:00 - 23:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.664275900000001,
+          45.02882580000001
+        ]
+      },
+      "properties": {
+        "id": "bunburgers-35",
+        "source": "bunburgers.com",
+        "amenity": "fast_food",
+        "brand": "Bun Burgers",
+        "cuisine": "burger",
+        "name": "Bun Burgers - Torino Lingotto",
+        "branch": "Torino Lingotto",
+        "full_address": "Centro Commerciale Lingotto - Via Nizza, 262, 10126 Torino",
+        "opening_hours": "Lunedì: 11:30 - 22:30; Martedì: 11:30 - 22:30; Mercoledì: 11:30 - 22:30; Giovedì: 11:30 - 22:30; Venerdì: 11:30 - 22:30; Sabato: 11:30 - 22:30; Domenica: 11:30 - 22:30",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6614763,
+          45.0717563
+        ]
+      },
+      "properties": {
+        "id": "bunburgers-45",
+        "source": "bunburgers.com",
+        "amenity": "fast_food",
+        "brand": "Bun Burgers",
+        "cuisine": "burger",
+        "name": "Bun Burgers - Torino Principi D'Acaja",
+        "branch": "Torino Principi D'Acaja",
+        "full_address": "Via Principi D&#039;Acaja, 59, 10138 Torino",
+        "opening_hours": "Lunedì: 11:00 - 22:00; Martedì: 11:00 - 22:00; Mercoledì: 11:00 - 22:00; Giovedì: 11:00 - 22:00; Venerdì: 11:00 - 23:00; Sabato: 11:00 - 23:00; Domenica: 11:00 - 22:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.827303299999999,
+          45.8196391
+        ]
+      },
+      "properties": {
+        "id": "bunburgers-47",
+        "source": "bunburgers.com",
+        "amenity": "fast_food",
+        "brand": "Bun Burgers",
+        "cuisine": "burger",
+        "name": "Bun Burgers - Varese",
+        "branch": "Varese",
+        "full_address": "Via Griffi, 6, 21100 Varese",
+        "opening_hours": "Lunedì: 12:00 - 23:00; Martedì: 12:00 - 23:00; Mercoledì: 12:00 - 23:00; Giovedì: 12:00 - 23:00; Venerdì: 12:00 - 23:00; Sabato: 12:00 - 23:00; Domenica: 12:00 - 23:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3620415,
+          45.6017422
+        ]
+      },
+      "properties": {
+        "id": "bunburgers-55",
+        "source": "bunburgers.com",
+        "amenity": "fast_food",
+        "brand": "Bun Burgers",
+        "cuisine": "burger",
+        "name": "Bun Burgers - Vimercate",
+        "branch": "Vimercate",
+        "full_address": "Centro Commerciale Torri Bianche - Via Torri Bianche, 6, 20871 Vimercate",
+        "opening_hours": "Lunedì: 12:00 - 23:00; Martedì: 12:00 - 22:00; Mercoledì: 12:00 - 22:00; Giovedì: 12:00 - 22:00; Venerdì: 12:00 - 23:00; Sabato: 12:00 - 23:00; Domenica: 12:00 - 22:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    }
+  ]
+}

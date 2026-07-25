@@ -1,0 +1,603 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.213146,
+          45.481934
+        ]
+      },
+      "properties": {
+        "id": "spontini-0",
+        "source": "spontinimilano.com",
+        "amenity": "fast_food",
+        "brand": "Spontini",
+        "cuisine": "pizza",
+        "name": "Spontini - MILANO BUENOS AIRES",
+        "branch": "MILANO BUENOS AIRES",
+        "contact:phone": "+39022047444",
+        "contact:email": "baires@spontinimilano.com",
+        "full_address": "Via Gaspare Spontini, 4, 20131 Milano",
+        "opening_hours": "Lunedì: 11.30 - 15.00 / 18.30 - 23.00; Martedì: 11.30 - 15.00 / 18.30 - 23.00; Mercoledì: 11.30 - 15.00 / 18.30 - 23.00; Giovedì: 11.30 - 15.00 / 18.30 - 23.00; Venerdì: 11.30 - 15.00 / 18.30 - 23.30; Sabato: 11.30 / 23.30; Domenica: 11.30 / 23.00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.170551,
+          45.458004
+        ]
+      },
+      "properties": {
+        "id": "spontini-1",
+        "source": "spontinimilano.com",
+        "amenity": "fast_food",
+        "brand": "Spontini",
+        "cuisine": "pizza",
+        "name": "Spontini - MILANO PAPINIANO",
+        "branch": "MILANO PAPINIANO",
+        "contact:phone": "+390283660098",
+        "contact:email": "info@spontinimilano.com",
+        "full_address": "Viale Papiniano, 43 - 20123 Milano",
+        "opening_hours": "Lunedì: 12.00 - 15.00 / 18.30 - 22.30; Martedì: 12.00 - 15.00 / 18.30 - 22.30; Mercoledì: 12.00 - 15.00 / 18.30 - 22.30; Giovedì: 12.00 - 15.00 / 18.30 - 22.30; Venerdì: 12.00 - 15.00 / 18.30 - 23.00; Sabato: 12.00 - 15.00 / 18.30 - 23.00; Domenica: 12.00 - 15.00 / 18.30 - 22.30",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.154447,
+          45.467567
+        ]
+      },
+      "properties": {
+        "id": "spontini-2",
+        "source": "spontinimilano.com",
+        "amenity": "fast_food",
+        "brand": "Spontini",
+        "cuisine": "pizza",
+        "name": "Spontini - MILANO MARGHERA",
+        "branch": "MILANO MARGHERA",
+        "contact:phone": "+390243514223",
+        "contact:email": "info@spontinimilano.com",
+        "full_address": "Via Marghera, 3 - 20149 Milano",
+        "opening_hours": "LUNÂ: 12.00 - 15.00 / 18.30 - 23.00; Martedì: 12.00 - 15.00 / 18.30 - 23.00; Mercoledì: 12.00 - 15.00 / 18.30 - 23.00; Giovedì: 12.00 - 15.00 / 18.30 - 23.00; Venerdì: 12.00 - 15.00 / 18.30 - 23.30; Sabato: 12.00 - 15.00 / 18.30 - 23.30; DOMÂ: 12.00 - 15.00 / 18.30 - 23.00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.166879,
+          45.487305
+        ]
+      },
+      "properties": {
+        "id": "spontini-3",
+        "source": "spontinimilano.com",
+        "amenity": "fast_food",
+        "brand": "Spontini",
+        "cuisine": "pizza",
+        "name": "Spontini - MILANO CENISIO",
+        "branch": "MILANO CENISIO",
+        "contact:phone": "+390234593686",
+        "contact:email": "info@spontinimilano.com",
+        "full_address": "Via Cenisio, 37 ang. P.zza Diocleziano - 20154 Milano",
+        "opening_hours": "Lunedì: 12.00 - 15.00 / 19.00 - 22.00; Martedì: 12.00 - 15.00 / 19.00 - 22.00; Mercoledì: 12.00 - 15.00 / 19.00 - 22.00; Giovedì: 12.00 - 15.00 / 19.00 - 22.00; Venerdì: 12.00 - 15.00 / 18.30 - 23.00; Sabato: 12.00 - 15.00 / 18.30 - 23.00; Domenica: 12.00 - 15.00 / 19.00 - 22.00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.206999,
+          45.461597
+        ]
+      },
+      "properties": {
+        "id": "spontini-4",
+        "source": "spontinimilano.com",
+        "amenity": "fast_food",
+        "brand": "Spontini",
+        "cuisine": "pizza",
+        "name": "Spontini - MILANO CINQUE GIORNATE",
+        "branch": "MILANO CINQUE GIORNATE",
+        "contact:phone": "+39025463520",
+        "contact:email": "info@spontinimilano.com",
+        "full_address": "Piazza 5 Giornate, 6 - 20129 Milano",
+        "opening_hours": "LUNÂ: 12.00 - 15.00 / 18.30 - 23.00; Martedì: 12.00 - 15.00 / 18.30 - 23.00; Mercoledì: 12.00 - 15.00 / 18.30 - 23.00; Giovedì: 12.00 - 15.00 / 18.30 - 23.00; Venerdì: 12.00 - 15.00 / 18.30 - 23.30; Sabato: 12.00 - 15.00 / 18.30 - 23.30; Domenica: 12.00 - 15.00 / 18.30 - 23.00; Â",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.202988,
+          45.484734
+        ]
+      },
+      "properties": {
+        "id": "spontini-5",
+        "source": "spontinimilano.com",
+        "amenity": "fast_food",
+        "brand": "Spontini",
+        "cuisine": "pizza",
+        "name": "Spontini - STAZIONE CENTRALE",
+        "branch": "STAZIONE CENTRALE",
+        "contact:phone": "+390283623029",
+        "contact:email": "info@spontinimilano.com",
+        "full_address": "Stazione Centrale Interno F16 - Piazza Duca D'Aosta - 20124 Milano",
+        "opening_hours": "Lunedì: 07.00 - 23.00; Martedì: 07.00 - 23.00; Mercoledì: 07.00 - 23.00; Giovedì: 07.00 - 23.00; Venerdì: 07.00 - 23.00; Sabato: 07.00 - 23.00; Domenica: 07.00 - 22.00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.191142,
+          45.466007
+        ]
+      },
+      "properties": {
+        "id": "spontini-6",
+        "source": "spontinimilano.com",
+        "amenity": "fast_food",
+        "brand": "Spontini",
+        "cuisine": "pizza",
+        "name": "Spontini - MILANO DUOMO",
+        "branch": "MILANO DUOMO",
+        "contact:phone": "+390289092621",
+        "contact:email": "santaradegonda@pizzeriaspontini.com",
+        "full_address": "Via Santa Radegonda, 11 - 20121 Milano",
+        "opening_hours": "Lunedì: 11.00 / 23.00; Martedì: 11.00 / 23.00; Mercoledì: 11.00 / 23.00; Giovedì: 11.00 / 23.00; Venerdì: 11.00 / 23.00; Sabato: 11.00 / 23.00; Domenica: 11.00 / 23.00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.188652,
+          45.463249
+        ]
+      },
+      "properties": {
+        "id": "spontini-7",
+        "source": "spontinimilano.com",
+        "amenity": "fast_food",
+        "brand": "Spontini",
+        "cuisine": "pizza",
+        "name": "Spontini - MILANO MAZZINI",
+        "branch": "MILANO MAZZINI",
+        "contact:phone": "+390225061118",
+        "contact:email": "info@spontinimilano.com",
+        "full_address": "Via Dogana, 3 - 20123 Milano",
+        "opening_hours": "Lunedì: 10.30 - 23.00; Martedì: 10.30 - 23.00; Mercoledì: 10.30 - 23.00; Giovedì: 10.30 - 23.00; Venerdì: 10.30 - 23.00; SABÂ: 10.30- 23.00; Domenica: 10.30 - 23.00; Â",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.215743,
+          45.522076
+        ]
+      },
+      "properties": {
+        "id": "spontini-8",
+        "source": "spontinimilano.com",
+        "amenity": "fast_food",
+        "brand": "Spontini",
+        "cuisine": "pizza",
+        "name": "Spontini - Milano BICOCCA",
+        "branch": "Milano BICOCCA",
+        "contact:phone": "+390266116346",
+        "contact:email": "info@spontinimilano.com",
+        "full_address": "Bicocca Village, Via Friedrich Von Hayek - 20126 Milano",
+        "opening_hours": "LUNÂ: 12.00 - 15.00 / 18.00 - 22.00; Martedì: 12.00 - 15.00 / 18.00 - 22.00; Mercoledì: 12.00 - 15.00 / 18.00 - 22.00; Giovedì: 12.00 - 15.00 / 18.00 - 22.00; Venerdì: 12.00 - 15.00 / 18.00 - 22.30; Sabato: 12.00 - 15.00 / 18.00 - 22.30; Domenica: 12.00 - 15.00 / 18.00 - 22.00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.212199,
+          45.448067
+        ]
+      },
+      "properties": {
+        "id": "spontini-9",
+        "source": "spontinimilano.com",
+        "amenity": "fast_food",
+        "brand": "Spontini",
+        "cuisine": "pizza",
+        "name": "Spontini - MILANO CENTRO PIAZZA LODI",
+        "branch": "MILANO CENTRO PIAZZA LODI",
+        "contact:phone": "+390289734708",
+        "contact:email": "info@spontinimilano.com",
+        "full_address": "Viale Umbria, 16 - 20137 Milano",
+        "opening_hours": "Lunedì: 12.00 - 21.00; Martedì: 12.00 - 21.00; Mercoledì: 12.00 - 21.00; Giovedì: 12.00 - 21.00; Venerdì: 12.00 - 21.00; Sabato: 12.00 - 21.00; Domenica: 12.00 - 20.00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.159391,
+          45.483059
+        ]
+      },
+      "properties": {
+        "id": "spontini-10",
+        "source": "spontinimilano.com",
+        "amenity": "fast_food",
+        "brand": "Spontini",
+        "cuisine": "pizza",
+        "name": "Spontini - MILANO ARONA",
+        "branch": "MILANO ARONA",
+        "contact:phone": "+390250041287",
+        "contact:email": "info@spontinimilano.com",
+        "full_address": "Via Arona 15 - 20149, Milano",
+        "opening_hours": "Lunedì: 12.00 - 15.00 / 18.00 - 21.30; Martedì: 12.00 - 15.00 / 18.00 - 21.30; Mercoledì: 12.00 - 15.00 / 18.00 - 21.30; Giovedì: 12.00 - 15.00 / 18.00 - 21.30; Venerdì: 12.00 - 15.00 / 18.00 - 22.00; Sabato: 12.00 - 15.00 / 18.00 - 22.00; Domenica: 12.00 - 15.00 / 18.00 - 21.30",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.229193,
+          45.473827
+        ]
+      },
+      "properties": {
+        "id": "spontini-11",
+        "source": "spontinimilano.com",
+        "amenity": "fast_food",
+        "brand": "Spontini",
+        "cuisine": "pizza",
+        "name": "Spontini - MILANO GORINI",
+        "branch": "MILANO GORINI",
+        "contact:phone": "+390287360538",
+        "contact:email": "info@spontinimilano.com",
+        "full_address": "Piazzale Gorini, 11",
+        "opening_hours": "LUNÂ: 12.00 - 15.00 / 18.00 - 22.00; Martedì: 12.00 - 15.00 / 18.00 - 22.00; Mercoledì: 12.00 - 15.00 / 18.00 - 22.00; Giovedì: 12.00 - 15.00 / 18.00 - 22.00; Venerdì: 12.00 - 15.00 / 18.00 - 22.00; Sabato: 12.00 - 15.00 / 18.00 - 22.00; Domenica: 12.00 - 15.00 / 18.00 - 22.00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.166261,
+          45.453728
+        ]
+      },
+      "properties": {
+        "id": "spontini-12",
+        "source": "spontinimilano.com",
+        "amenity": "fast_food",
+        "brand": "Spontini",
+        "cuisine": "pizza",
+        "name": "Spontini - MILANO TORTONA",
+        "branch": "MILANO TORTONA",
+        "contact:phone": "+390281265990",
+        "contact:email": "tortona@spontinimilano.com",
+        "full_address": "Via Tortona, 26 - 20144 Milano",
+        "opening_hours": "LUNÂ: 12.00 - 15.00 / 18.30 - 23.00; Martedì: 12.00 - 15.00 / 18.30 - 23.00; Mercoledì: 12.00 - 15.00 / 18.30 - 23.00; Giovedì: 12.00 - 15.00 / 18.30 - 23.00; Venerdì: 12.00 - 15.00 / 18.30 - 23.30; Sabato: 12.00 - 15.00 / 18.30 - 23.30; DOMÂ: 12.00 - 15.00 / 18.30 - 23.00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.18936,
+          45.484661
+        ]
+      },
+      "properties": {
+        "id": "spontini-13",
+        "source": "spontinimilano.com",
+        "amenity": "fast_food",
+        "brand": "Spontini",
+        "cuisine": "pizza",
+        "name": "Spontini - MILANO GAE AULENTI",
+        "branch": "MILANO GAE AULENTI",
+        "contact:phone": "+390209954254",
+        "contact:email": "gaeaulenti@spontinimilano.com",
+        "full_address": "PIAZZA GAE AULENTI, 1",
+        "opening_hours": "Lunedì: 11.00 - 20.00; Martedì: 11.00 - 20.00; Mercoledì: 11.00 - 20.00; Giovedì: 11.00 - 20.00; Venerdì: 11.00 - 20.00; Sabato: 11.00 - 20.00; Domenica: 11.00 - 20.00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.103338,
+          45.514751
+        ]
+      },
+      "properties": {
+        "id": "spontini-14",
+        "source": "spontinimilano.com",
+        "amenity": "fast_food",
+        "brand": "Spontini",
+        "cuisine": "pizza",
+        "name": "Spontini - MILANO CASCINA MERLATA",
+        "branch": "MILANO CASCINA MERLATA",
+        "contact:phone": "+390249366894",
+        "contact:email": "merlata@spontinimilano.com",
+        "full_address": "Via Gottlieb Wilhelm Daimler, 61",
+        "opening_hours": "Lunedì: 12.00 - 22.30; Martedì: 12.00 - 22.30; Mercoledì: 12.00 - 22.30; Giovedì: 12.00 - 22.30; Venerdì: 12.00 - 22.30; Sabato: 12.00 - 22.30; Domenica: 12.00 - 22.30",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.195629,
+          45.466473
+        ]
+      },
+      "properties": {
+        "id": "spontini-15",
+        "source": "spontinimilano.com",
+        "amenity": "fast_food",
+        "brand": "Spontini",
+        "cuisine": "pizza",
+        "name": "Spontini - MILANO SAN BABILA",
+        "branch": "MILANO SAN BABILA",
+        "contact:phone": "+390263793252",
+        "contact:email": "info@spontinimilano.com",
+        "full_address": "Corso Giacomo Matteotti 12 - 20121 Milano",
+        "opening_hours": "Lunedì: 11.00 - 22.00; Martedì: 11.00 - 22.00; Mercoledì: 11.00 - 22.00; Giovedì: 11.00 - 22.00; Venerdì: 11.00 - 22.00; SABÂ: 11.00 - 22.00; Domenica: 11.00 - 22.00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.118584,
+          45.5802
+        ]
+      },
+      "properties": {
+        "id": "spontini-16",
+        "source": "spontinimilano.com",
+        "amenity": "fast_food",
+        "brand": "Spontini",
+        "cuisine": "pizza",
+        "name": "Spontini - Franciacorta Village",
+        "branch": "Franciacorta Village",
+        "contact:phone": "+390300948303",
+        "contact:email": "-",
+        "full_address": "Piazza Cascina Moie, 1/2, 25050 Rodengo Saiano BS",
+        "opening_hours": "Lunedì: 12.00 / 21.00; Martedì: 12.00 / 21.00; Mercoledì: 12.00 / 21.00; Giovedì: 12.00 / 21.00; Venerdì: 12.00 / 22.00; Sabato: 12.00 / 22.00; Domenica: 12.00 / 22.00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.273574,
+          45.583115
+        ]
+      },
+      "properties": {
+        "id": "spontini-17",
+        "source": "spontinimilano.com",
+        "amenity": "fast_food",
+        "brand": "Spontini",
+        "cuisine": "pizza",
+        "name": "Spontini - MONZA CENTRO",
+        "branch": "MONZA CENTRO",
+        "contact:phone": "+390392302942",
+        "contact:email": "info@spontinimilano.com",
+        "full_address": "Via Italia, 28 - 20900 Monza",
+        "opening_hours": "Lunedì: 12.00 - 15.00 / 18.00 - 22.00; Martedì: 12.00 - 15.00 / 18.00 - 22.00; Mercoledì: 12.00 - 15.00 / 18.00 - 22.00; Giovedì: 12.00 - 15.00 / 18.00 - 22.00; Venerdì: 12.00 - 15.00 / 18.00 - 22.00; Sabato: 12.00 - 15.00 / 18.00 - 22.000; Domenica: 12.00 - 15.00 / 18.00 - 22.00; Â",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.215672,
+          45.360878
+        ]
+      },
+      "properties": {
+        "id": "spontini-18",
+        "source": "spontinimilano.com",
+        "amenity": "fast_food",
+        "brand": "Spontini",
+        "cuisine": "pizza",
+        "name": "Spontini - SCALO MILANO OUTLET",
+        "branch": "SCALO MILANO OUTLET",
+        "contact:phone": "+390290730040",
+        "contact:email": "info@spontinimilano.com",
+        "full_address": "Via Milano 5, 20085 - Locate di Triulzi (MI)",
+        "opening_hours": "Lunedì: 12.00 - 23.00; Martedì: 12.00 - 23.00; Mercoledì: 12.00 - 23.00; Giovedì: 12.00 - 23.00; Venerdì: 12.00 - 23.00; Sabato: 11.30 - 23.00; Domenica: 11.30 - 23.00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.218138,
+          45.53088
+        ]
+      },
+      "properties": {
+        "id": "spontini-19",
+        "source": "spontinimilano.com",
+        "amenity": "fast_food",
+        "brand": "Spontini",
+        "cuisine": "pizza",
+        "name": "Spontini - CENTRO COMMERCIALE SARCA",
+        "branch": "CENTRO COMMERCIALE SARCA",
+        "contact:phone": "+390222479249",
+        "contact:email": "info@spontinimilano.com",
+        "full_address": "Via Milanese - 20099 Sesto San Giovanni MI",
+        "opening_hours": "Lunedì: 12.00 - 15.00 / 18.00 - 22.00; Martedì: 12.00 - 15.00 / 18.00 - 22.00; Mercoledì: 12.00 - 15.00 / 18.00 - 22.00; Giovedì: 12.00 - 15.00 / 18.00 - 22.00; Venerdì: 12.00 - 15.00 / 18.00 - 22.30; SABÂ: 12.00 - 22.30; Domenica: 12.00 - 22.30",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.152247,
+          45.403667
+        ]
+      },
+      "properties": {
+        "id": "spontini-20",
+        "source": "spontinimilano.com",
+        "amenity": "fast_food",
+        "brand": "Spontini",
+        "cuisine": "pizza",
+        "name": "Spontini - CENTRO COMMERCIALE MILANOFIORI ASSAGO",
+        "branch": "CENTRO COMMERCIALE MILANOFIORI ASSAGO",
+        "contact:phone": "+390238241830",
+        "contact:email": "info@spontinimilano.com",
+        "full_address": "Viale Milano Fiori - 20090 Assago (MI)",
+        "opening_hours": "Lunedì: 11.30 - 15.00 / 18.00 - 21.00; Martedì: 11.30 - 15.00 / 18.00 - 22.00; Mercoledì: 11.30 - 15.00 / 18.00 - 22.00; Giovedì: 11.30 - 15.00 / 18.00 - 22.00; Venerdì: 11.30 - 22.00; Sabato: 11.30 - 22.00; Domenica: 11.30 - 21.30",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.087075,
+          45.435547
+        ]
+      },
+      "properties": {
+        "id": "spontini-21",
+        "source": "spontinimilano.com",
+        "amenity": "fast_food",
+        "brand": "Spontini",
+        "cuisine": "pizza",
+        "name": "Spontini - CENTRO COMMERCIALE PORTE DI MILANO CESANO BOSCONE",
+        "branch": "CENTRO COMMERCIALE PORTE DI MILANO CESANO BOSCONE",
+        "contact:phone": "+39024501137",
+        "contact:email": "info@spontinimilano.com",
+        "full_address": "Via Don Luigi Sturzo 1 - 20090 Cesano Boscone (MI)",
+        "opening_hours": "Lunedì: 12.00 - 15.00 / 18.30 - 22.00; Martedì: 12.00 - 15.00 / 18.30 - 22.00; Mercoledì: 12.00 - 15.00 / 18.30 - 22.00; Giovedì: 12.00 - 15.00 / 18.30 - 22.00; Venerdì: 12.00 - 15.00 / 18.30 - 22.00; Sabato: 12.00 - 22.00; Domenica: 12.00 - 22.00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.129511,
+          45.60804
+        ]
+      },
+      "properties": {
+        "id": "spontini-22",
+        "source": "spontinimilano.com",
+        "amenity": "fast_food",
+        "brand": "Spontini",
+        "cuisine": "pizza",
+        "name": "Spontini - CENTRO CARREFOUR LIMBIATE",
+        "branch": "CENTRO CARREFOUR LIMBIATE",
+        "contact:phone": "+390289730899",
+        "contact:email": "info@spontinimilano.com",
+        "full_address": "Via Isonzo, 5 - 20812 Limbiate (MB)",
+        "opening_hours": "Lunedì: 12.00 - 15.00 / 18.00 - 21.30; Martedì: 12.00 - 15.00 / 18.00 - 21.30; Mercoledì: 12.00 - 15.00 / 18.00 - 21.30; Giovedì: 12.00 - 15.00 / 18.00 - 21.30; Venerdì: 12.00 - 15.00 / 18.00 - 21.30; Sabato: 12.00 - 15.00 / 18.00 - 21.30; Domenica: 12.00 - 15.00 / 18.00 - 21.00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    }
+  ]
+}

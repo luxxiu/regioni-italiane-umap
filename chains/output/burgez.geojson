@@ -1,0 +1,258 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.167874,
+          45.4552696
+        ]
+      },
+      "properties": {
+        "id": "burgez-0",
+        "source": "burgez.com",
+        "amenity": "fast_food",
+        "brand": "Burgez",
+        "cuisine": "burger",
+        "name": "Burgez - Milano",
+        "branch": "Milano",
+        "full_address": "Via Savona 15, Milano",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2128207,
+          45.4742147
+        ]
+      },
+      "properties": {
+        "id": "burgez-1",
+        "source": "burgez.com",
+        "amenity": "fast_food",
+        "brand": "Burgez",
+        "cuisine": "burger",
+        "name": "Burgez - Milano",
+        "branch": "Milano",
+        "full_address": "Via Eustachi 8, Milano",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1504282,
+          45.4673173
+        ]
+      },
+      "properties": {
+        "id": "burgez-2",
+        "source": "burgez.com",
+        "amenity": "fast_food",
+        "brand": "Burgez",
+        "cuisine": "burger",
+        "name": "Burgez - Milano",
+        "branch": "Milano",
+        "full_address": "Via Marghera 18, Milano",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1847707,
+          45.4864197
+        ]
+      },
+      "properties": {
+        "id": "burgez-3",
+        "source": "burgez.com",
+        "amenity": "fast_food",
+        "brand": "Burgez",
+        "cuisine": "burger",
+        "name": "Burgez - Milano",
+        "branch": "Milano",
+        "full_address": "Via Carmagnola 8, Milano",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.184917,
+          45.451545
+        ]
+      },
+      "properties": {
+        "id": "burgez-4",
+        "source": "burgez.com",
+        "amenity": "fast_food",
+        "brand": "Burgez",
+        "cuisine": "burger",
+        "name": "Burgez - Milano",
+        "branch": "Milano",
+        "full_address": "Viale Bigny 2, Milano",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2042702,
+          45.457656
+        ]
+      },
+      "properties": {
+        "id": "burgez-5",
+        "source": "burgez.com",
+        "amenity": "fast_food",
+        "brand": "Burgez",
+        "cuisine": "burger",
+        "name": "Burgez - Milano",
+        "branch": "Milano",
+        "full_address": "Via Bergamo 1, Milano",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6826541,
+          45.0659964
+        ]
+      },
+      "properties": {
+        "id": "burgez-6",
+        "source": "burgez.com",
+        "amenity": "fast_food",
+        "brand": "Burgez",
+        "cuisine": "burger",
+        "name": "Burgez - Torino",
+        "branch": "Torino",
+        "full_address": "Via Giolitti 16, Torino",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9855485,
+          45.4347933
+        ]
+      },
+      "properties": {
+        "id": "burgez-7",
+        "source": "burgez.com",
+        "amenity": "fast_food",
+        "brand": "Burgez",
+        "cuisine": "burger",
+        "name": "Burgez - Verona",
+        "branch": "Verona",
+        "full_address": "Via Della Valverde 27, Verona",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3359214,
+          44.4956186
+        ]
+      },
+      "properties": {
+        "id": "burgez-8",
+        "source": "burgez.com",
+        "amenity": "fast_food",
+        "brand": "Burgez",
+        "cuisine": "burger",
+        "name": "Burgez - Bologna",
+        "branch": "Bologna",
+        "full_address": "Via Ugo Bassi 10H, Bologna",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3334055,
+          44.5293749
+        ]
+      },
+      "properties": {
+        "id": "burgez-9",
+        "source": "burgez.com",
+        "amenity": "fast_food",
+        "brand": "Burgez",
+        "cuisine": "burger",
+        "name": "Burgez - Bologna",
+        "branch": "Bologna",
+        "full_address": "Via C. Colombo 7/20, Bologna",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4128297,
+          44.468567
+        ]
+      },
+      "properties": {
+        "id": "burgez-10",
+        "source": "burgez.com",
+        "amenity": "fast_food",
+        "brand": "Burgez",
+        "cuisine": "burger",
+        "name": "Burgez - Bologna",
+        "branch": "Bologna",
+        "full_address": "Via Emilia 253, Bologna",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    }
+  ]
+}

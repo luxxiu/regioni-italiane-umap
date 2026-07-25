@@ -1,0 +1,1449 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.697892899999943,
+          44.885213
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-204",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Alessandria",
+        "branch": "Alessandria",
+        "contact:phone": "+390131216320",
+        "full_address": "Polo Turistico Bellavita - Viale della Valletta 170, Alessandria - Localita Spinetta Marengo",
+        "opening_hours": "Lunedì: 12:00 - 14:45 19:00 - 23:00; Martedì: 12:00 - 14:45 19:00 - 23:00; Mercoledì: 12:00 - 14:45 19:00 - 23:00; Giovedì: 12:00 - 14:45 19:00 - 23:00; Venerdì: 12:00 - 14:45 19:00 - 23:00; Sabato: 12:00 - 14:45 19:00 - 23:00; Domenica: 12:00 - 14:45 19:00 - 23:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.346884799999998,
+          45.7398069
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-152",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Aosta",
+        "branch": "Aosta",
+        "contact:phone": "+390165267141",
+        "full_address": "Corso Ivrea 146, Aosta",
+        "opening_hours": "Lunedì: 12:00 - 15:00 19:00 - 23:00; Martedì: 12:00 - 15:00 19:00 - 23:00; Mercoledì: 12:00 - 15:00 19:00 - 23:00; Giovedì: 12:00 - 15:00 19:00 - 23:00; Venerdì: 12:00 - 15:00 19:00 - 23:00; Sabato: 12:00 - 15:00 19:00 - 23:00; Domenica: 12:00 - 15:00 19:00 - 23:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.147991,
+          45.4006474
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-246",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Assago Milanofiori",
+        "branch": "Assago Milanofiori",
+        "contact:phone": "+390233297819",
+        "full_address": "viale milanofiori 1 - Assago",
+        "opening_hours": "Lunedì: 12:00 - 15:00 18:00 - 22:00; Martedì: 12:00 - 15:00 18:00 - 22:00; Mercoledì: 12:00 - 15:00 18:00 - 22:00; Giovedì: 12:00 - 15:00 18:00 - 23:00; Venerdì: 12:00 - 15:00 18:00 - 23:00; Sabato: 12:00 - 16:00 18:00 - 23:00; Domenica: 12:00 - 16:00 18:00 - 23:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.922561599999995,
+          40.9595639
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-175",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Bari Casamassima",
+        "branch": "Bari Casamassima",
+        "contact:phone": "+390804578335",
+        "full_address": "Via Noicattaro 2, Casamassima - Bari",
+        "opening_hours": "Lunedì: 12:00 - 15:00 19:00 - 22:00; Martedì: 12:00 - 15:00 19:00 - 22:00; Mercoledì: 12:00 - 15:00 19:00 - 22:00; Giovedì: 12:00 - 15:00 19:00 - 22:00; Venerdì: 12:00 - 15:00 19:00 - 22:00; Sabato: 12:00 - 15:00 19:00 - 22:00; Domenica: 12:00 - 15:00 19:00 - 22:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.853013499999975,
+          41.0977676
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-166",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Bari Poggiofranco",
+        "branch": "Bari Poggiofranco",
+        "contact:phone": "+390805045333",
+        "full_address": "Via Caccuri 53, Bari",
+        "opening_hours": "Lunedì: 12:00 - 15:00 19:00 - 23:00; Martedì: 12:00 - 15:00 19:00 - 23:00; Mercoledì: 12:00 - 15:00 19:00 - 23:00; Giovedì: 12:00 - 15:00 19:00 - 23:00; Venerdì: 12:00 - 15:00 19:00 - 23:00; Sabato: 12:00 - 15:00 19:00 - 23:00; Domenica: 12:00 - 15:00 19:00 - 23:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.454148300000043,
+          45.5457525
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-145",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Bellinzago Lombardo",
+        "branch": "Bellinzago Lombardo",
+        "contact:phone": "+390295780364",
+        "full_address": "Strada Statale 11 Padana Superiore 154, Bellinzago Lombardo",
+        "opening_hours": "Lunedì: 11:30 - 15:00 19:00 - 22:00; Martedì: 11:30 - 15:00 19:00 - 22:00; Mercoledì: 11:30 - 15:00 19:00 - 22:00; Giovedì: 11:30 - 15:00 19:00 - 22:00; Venerdì: 11:30 - 15:00 19:00 - 22:00; Sabato: 11:30 - 15:00 18:30 - 22:30; Domenica: 11:30 - 15:00 18:30 - 22:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3447106,
+          44.4933014
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-257",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Bologna Mercato di Mezzo",
+        "branch": "Bologna Mercato di Mezzo",
+        "contact:phone": "+390510012699",
+        "full_address": "Via Clavature, 12 - Bologna",
+        "opening_hours": "Lunedì: 11:30 - 15:30; Martedì: 11:30 - 15:30; Mercoledì: 11:30 - 15:30; Giovedì: 11:30 - 15:30; Venerdì: 11:30 - 15:30 18:30 - 22:00; Sabato: 11:30 - 15:30 18:30 - 22:00; Domenica: 11:30 - 15:30 18:30 - 22:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3438902,
+          44.5052595
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-263",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Bologna Stazione Centrale",
+        "branch": "Bologna Stazione Centrale",
+        "contact:phone": "+390510397518",
+        "full_address": "Piazza Medaglie d\\'oro, 1 - Bologna",
+        "opening_hours": "Lunedì: 06:00 - 22:00; Martedì: 06:00 - 22:00; Mercoledì: 06:00 - 22:00; Giovedì: 06:00 - 22:00; Venerdì: 06:00 - 22:00; Sabato: 06:00 - 22:00; Domenica: 06:00 - 22:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3290998,
+          45.5463897
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-258",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Carugate",
+        "branch": "Carugate",
+        "contact:phone": "+390292502576",
+        "full_address": "Strada provinciale 208, km. 2, Carugate",
+        "opening_hours": "Lunedì: 12:00 - 15:00 19:00 - 23:00; Martedì: 12:00 - 15:00 19:00 - 23:00; Mercoledì: 12:00 - 15:00 19:00 - 23:00; Giovedì: 12:00 - 15:00 19:00 - 23:00; Venerdì: 12:00 - 15:00 19:00 - 23:00; Sabato: 12:00 - 15:00 19:00 - 23:00; Domenica: 12:00 - 15:00 19:00 - 23:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.269826400000056,
+          44.4828024
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-107",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Casalecchio di Reno",
+        "branch": "Casalecchio di Reno",
+        "contact:phone": "+39051593617",
+        "full_address": "C.C. Meridiana - Via Aldo Moro 64, 40033 Casalecchio di Reno",
+        "opening_hours": "Lunedì: 12:00 - 15:00 19:00 - 00:00; Martedì: 12:00 - 15:00 19:00 - 00:00; Mercoledì: 12:00 - 15:00 19:00 - 00:00; Giovedì: 12:00 - 15:00 19:00 - 00:00; Venerdì: 12:00 - 15:00 19:00 - 00:00; Sabato: 12:00 - 15:00 19:00 - 00:00; Domenica: 12:00 - 15:00 19:00 - 00:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0993265,
+          45.5125644
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-282",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Cascina Merlata",
+        "branch": "Cascina Merlata",
+        "contact:phone": "+390272193865",
+        "full_address": "Via Gottlieb Wilhelm Daimler, 61, 20151",
+        "opening_hours": "Lunedì: 12:00 - 15:00 19:00 - 23:00; Martedì: 12:00 - 15:00 19:00 - 23:00; Mercoledì: 12:00 - 15:00 19:00 - 23:00; Giovedì: 12:00 - 15:00 19:00 - 23:00; Venerdì: 12:00 - 15:00 19:00 - 23:00; Sabato: 12:00 - 15:00 19:00 - 23:00; Domenica: 12:00 - 15:00 19:00 - 23:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0822947,
+          45.8096483
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-286",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Como",
+        "branch": "Como",
+        "contact:phone": "+390312496055",
+        "full_address": "Via Lambertenghi, 3, 22100",
+        "opening_hours": "Lunedì: ; Martedì: ; Mercoledì: ; Giovedì: ; Venerdì: ; Sabato: ; Domenica: ",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.662565399999949,
+          45.6728233
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-235",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Curno",
+        "branch": "Curno",
+        "contact:phone": "+39035217163",
+        "full_address": "Via E. Fermi, 1 - Curno",
+        "opening_hours": "Lunedì: 12:00 - 15:00 19:00 - 22:00; Martedì: 12:00 - 15:00 19:00 - 22:00; Mercoledì: 12:00 - 15:00 19:00 - 22:00; Giovedì: 12:00 - 15:00 19:00 - 22:00; Venerdì: 12:00 - 15:00 19:00 - 22:00; Sabato: 12:00 - 15:00 19:00 - 22:00; Domenica: 12:00 - 15:00 19:00 - 22:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2491491,
+          41.79591449999999
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-273",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Fiumicino Aeroporto",
+        "branch": "Fiumicino Aeroporto",
+        "full_address": "Via Leonardo da Vinci, 320 - Fiumicino Aeroporto",
+        "opening_hours": "Lunedì: 10:30 - 21:30; Martedì: 10:30 - 21:30; Mercoledì: 10:30 - 21:30; Giovedì: 10:30 - 21:30; Venerdì: 10:30 - 21:30; Sabato: 10:30 - 21:30; Domenica: 10:30 - 21:30",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.70449880000001,
+          45.8390136
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-207",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Gavirate",
+        "branch": "Gavirate",
+        "contact:phone": "+390332732691",
+        "full_address": "Viale Ticino, 82 - C.C. Campo dei Fiori - Gavirate",
+        "opening_hours": "Lunedì: 12:00 - 15:00 18:30 - 22:00; Martedì: 12:00 - 15:00 18:30 - 22:00; Mercoledì: 12:00 - 15:00 18:30 - 22:00; Giovedì: 12:00 - 15:00 18:30 - 22:00; Venerdì: 12:00 - 15:00 18:30 - 22:00; Sabato: 12:00 - 15:00 18:30 - 22:30; Domenica: 12:00 - 15:00 18:30 - 22:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.92155619999994,
+          44.40847369999999
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-172",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Genova Porto Antico",
+        "branch": "Genova Porto Antico",
+        "contact:phone": "+390102466376",
+        "full_address": "Calata Molo Vecchio 16, Genova",
+        "opening_hours": "Lunedì: 10:30 - 23:00; Martedì: 10:30 - 23:00; Mercoledì: 10:30 - 23:00; Giovedì: 10:30 - 23:00; Venerdì: 10:30 - 23:00; Sabato: 10:30 - 23:00; Domenica: 10:30 - 23:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.839237700000012,
+          44.41522399999999
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-194",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Genova Sestri Marina",
+        "branch": "Genova Sestri Marina",
+        "contact:phone": "+390100920147",
+        "full_address": "Via Pionieri ed Aviatori d\\'Italia 223, Genova Aeroporto",
+        "opening_hours": "Lunedì: 12:00 - 14:30 19:00 - 23:30; Martedì: 12:00 - 14:30 19:00 - 23:30; Mercoledì: 12:00 - 14:30 19:00 - 23:30; Giovedì: 12:00 - 14:30 19:00 - 23:30; Venerdì: 12:00 - 14:30 19:00 - 23:30; Sabato: 12:00 - 14:30 19:00 - 23:30; Domenica: 19:00 - 23:30",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1110074,
+          40.9709803
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-283",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Giugliano Grande Sud",
+        "branch": "Giugliano Grande Sud",
+        "contact:phone": "+390812772505",
+        "full_address": "Via Santa Maria a Cubito, 80014 Giugliano in Campania",
+        "opening_hours": "Lunedì: ; Martedì: ; Mercoledì: ; Giovedì: ; Venerdì: ; Sabato: ; Domenica: ",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3892919,
+          45.8544731
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-284",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Lecco",
+        "branch": "Lecco",
+        "contact:phone": "+390341243937",
+        "full_address": "Lungolario Isonzo, 13, 23900 Lecco",
+        "opening_hours": "Lunedì: ; Martedì: ; Mercoledì: ; Giovedì: ; Venerdì: ; Sabato: ; Domenica: ",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.321510799999942,
+          41.0068756
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-232",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Marcianise La Reggia Outlet",
+        "branch": "Marcianise La Reggia Outlet",
+        "contact:phone": "+390823683538",
+        "full_address": "Designer Outlet La Reggia - Marcianise",
+        "opening_hours": "Lunedì: 11:00 - 20:00; Martedì: 11:00 - 20:00; Mercoledì: 11:00 - 20:00; Giovedì: 11:00 - 20:00; Venerdì: 11:00 - 20:00; Sabato: 11:00 - 20:00; Domenica: 11:00 - 20:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2323096,
+          37.1092157
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-285",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Melilli",
+        "branch": "Melilli",
+        "contact:phone": "+390931962038",
+        "full_address": "Contrada Spalla, 96010",
+        "opening_hours": "Lunedì: 10:00 - 21:00; Martedì: 09:30 - 21:00; Mercoledì: 09:30 - 21:00; Giovedì: 09:30 - 21:00; Venerdì: 09:30 - 21:00; Sabato: 09:30 - 21:00; Domenica: 10:00 - 21:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.231264900000042,
+          45.5106367
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-119",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Mestre",
+        "branch": "Mestre",
+        "contact:phone": "+390412001288",
+        "full_address": "Via Federico Tosatto 22, Venezia",
+        "opening_hours": "Lunedì: 12:00 - 15:00 19:00 - 23:30; Martedì: 12:00 - 15:00 19:00 - 23:30; Mercoledì: 12:00 - 15:00 19:00 - 23:30; Giovedì: 12:00 - 15:00 19:00 - 23:30; Venerdì: 12:00 - 15:00 19:00 - 23:30; Sabato: 12:00 - 15:00 19:00 - 23:30; Domenica: 12:00 - 15:00 19:00 - 23:30",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.214996799999994,
+          45.5212549
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-108",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Milano Bicocca Village",
+        "branch": "Milano Bicocca Village",
+        "contact:phone": "+390264109382",
+        "full_address": "Bicocca Village - Via Chiese 60, 20126 Milano",
+        "opening_hours": "Lunedì: 12:00 - 15:00 19:00 - 23:00; Martedì: 12:00 - 15:00 19:00 - 23:00; Mercoledì: 12:00 - 15:00 19:00 - 23:00; Giovedì: 12:00 - 15:00 19:00 - 23:00; Venerdì: 12:00 - 15:00 19:00 - 23:00; Sabato: 12:00 - 15:00 19:00 - 23:30; Domenica: 12:00 - 15:00 19:00 - 23:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1907933,
+          45.4655959
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-287",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Milano Duomo",
+        "branch": "Milano Duomo",
+        "full_address": "Via Ugo Foscolo, 1 - 20121",
+        "opening_hours": "Lunedì: 11:00 - 22:30; Martedì: 11:00 - 22:30; Mercoledì: 11:00 - 22:30; Giovedì: 11:00 - 22:30; Venerdì: 11:00 - 22:30; Sabato: 11:00 - 22:30; Domenica: 11:00 - 22:30",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2762862,
+          45.4533303
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-288",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Milano Linate",
+        "branch": "Milano Linate",
+        "full_address": "Aeroporto di Milano Linate, Viale Enrico Forlanini, 20054 Milano",
+        "opening_hours": "Lunedì: ; Martedì: ; Mercoledì: ; Giovedì: ; Venerdì: ; Sabato: ; Domenica: ",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.72336180000002,
+          45.6468235
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-182",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Milano Malpensa",
+        "branch": "Milano Malpensa",
+        "full_address": "Terminal 1,  Varese - Malpensa",
+        "opening_hours": "Lunedì: 11:00 - 22:00; Martedì: 11:00 - 22:00; Mercoledì: 11:00 - 22:00; Giovedì: 11:00 - 22:00; Venerdì: 11:00 - 22:00; Sabato: 11:00 - 22:00; Domenica: 11:00 - 22:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.18142499999999,
+          45.4573366
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-120",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Milano Molino delle Armi",
+        "branch": "Milano Molino delle Armi",
+        "contact:phone": "+390289401333",
+        "full_address": "via Molino delle Armi 47, Milano",
+        "opening_hours": "Lunedì: 12:00 - 15:00 19:00 - 23:00; Martedì: 12:00 - 15:00 19:00 - 23:00; Mercoledì: 12:00 - 15:00 19:00 - 23:00; Giovedì: 12:00 - 15:00 19:00 - 23:00; Venerdì: 12:00 - 15:00 19:00 - 23:00; Sabato: 12:00 - 15:00 19:00 - 23:00; Domenica: 12:00 - 15:00 19:00 - 23:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.170964,
+          45.451474
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-236",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Milano Navigli",
+        "branch": "Milano Navigli",
+        "contact:phone": "+390236597898",
+        "full_address": "Via Casale, 7 - Navigli - Milano",
+        "opening_hours": "Lunedì: 12:00 - 15:00 19:00 - 23:00; Martedì: 12:00 - 15:00 19:00 - 23:00; Mercoledì: 12:00 - 15:00 19:00 - 23:00; Giovedì: 12:00 - 15:00 19:00 - 23:00; Venerdì: 12:00 - 15:00 19:00 - 23:00; Sabato: 12:00 - 15:00 19:00 - 23:00; Domenica: 12:00 - 15:00 19:00 - 23:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.282080299999999,
+          45.4227539
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-254",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Milano San Donato",
+        "branch": "Milano San Donato",
+        "contact:phone": "+390254078524",
+        "full_address": "Strada Statale Paullese, 415 - San Donato Milanese",
+        "opening_hours": "Lunedì: 12:00 - 15:00 19:00 - 23:00; Martedì: 12:00 - 15:00 19:00 - 23:00; Mercoledì: 12:00 - 15:00 19:00 - 23:00; Giovedì: 12:00 - 15:00 19:00 - 23:00; Venerdì: 12:00 - 15:00 19:00 - 23:00; Sabato: 12:00 - 15:00 19:00 - 23:00; Domenica: 12:00 - 15:00 19:00 - 23:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.217664599999999,
+          45.3612747
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-256",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Milano Scalo Citystyle",
+        "branch": "Milano Scalo Citystyle",
+        "contact:phone": "+39029079015",
+        "full_address": "Via Milano, 5 - Milano Scalo Citystyle",
+        "opening_hours": "Lunedì: 12:00 - 23:00; Martedì: 12:00 - 23:00; Mercoledì: 12:00 - 23:00; Giovedì: 12:00 - 23:00; Venerdì: 12:00 - 23:00; Sabato: 12:00 - 23:00; Domenica: 12:00 - 23:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.202647999999954,
+          45.4844263
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-177",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Milano Stazione Centrale",
+        "branch": "Milano Stazione Centrale",
+        "contact:phone": "+390222228764",
+        "full_address": "Stazione Centrale Milano",
+        "opening_hours": "Lunedì: 11:00 - 23:00; Martedì: 11:00 - 23:00; Mercoledì: 11:00 - 23:00; Giovedì: 11:00 - 23:00; Venerdì: 11:00 - 23:00; Sabato: 11:00 - 23:00; Domenica: 11:00 - 23:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.709209200000032,
+          44.9762849
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-101",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Moncalieri",
+        "branch": "Moncalieri",
+        "contact:phone": "+390116811081",
+        "full_address": "Centro Commerciale 45\\'° Nord via Postiglione 1, Torino Moncalieri",
+        "opening_hours": "Lunedì: 12:00 - 14:30 19:00 - 23:00; Martedì: 12:00 - 14:30 19:00 - 23:00; Mercoledì: 12:00 - 14:30 19:00 - 23:00; Giovedì: 12:00 - 14:30 19:00 - 23:00; Venerdì: 12:00 - 14:30 19:00 - 23:30; Sabato: 12:00 - 14:30 19:00 - 23:30; Domenica: 12:00 - 14:30 19:00 - 23:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3278182,
+          38.1992526
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-289",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Mondello",
+        "branch": "Mondello",
+        "contact:phone": "+393514199571",
+        "full_address": "V.le Regina Elena, 37, 90149 Palermo",
+        "opening_hours": "Lunedì: 12:00 - 24:00; Martedì: 12:00 - 24:00; Mercoledì: 12:00 - 24:00; Giovedì: 12:00 - 24:00; Venerdì: 12:00 - 24:00; Sabato: 12:00 - 24:00; Domenica: 12:00 - 24:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.489025999999967,
+          40.9538696
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-151",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Nola",
+        "branch": "Nola",
+        "contact:phone": "+390815108406",
+        "full_address": "Via Boscofangone, Nola",
+        "opening_hours": "Lunedì: 12:00 - 15:00 19:00 - 23:00; Martedì: 12:00 - 15:00 19:00 - 23:00; Mercoledì: 12:00 - 15:00 19:00 - 23:00; Giovedì: 12:00 - 15:00 19:00 - 23:00; Venerdì: 12:00 - 15:00 19:00 - 23:00; Sabato: 12:00 - 15:00 19:00 - 23:00; Domenica: 12:00 - 15:00 19:00 - 23:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7076795,
+          45.6646199
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-279",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Orio al Serio - Aeroporto",
+        "branch": "Orio al Serio - Aeroporto",
+        "contact:phone": "+390354596296",
+        "full_address": "Via Aeroporto, 13 - Orio al Serio - aeroporto",
+        "opening_hours": "Lunedì: 11:30 - 21:30; Martedì: 11:30 - 21:30; Mercoledì: 11:30 - 21:30; Giovedì: 11:30 - 21:30; Venerdì: 11:30 - 21:30; Sabato: 11:30 - 21:30; Domenica: 11:30 - 21:30",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.873614599999996,
+          45.4085695
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-126",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Padova",
+        "branch": "Padova",
+        "full_address": "Via Santa Lucia 72, Padova",
+        "opening_hours": "",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.399175600000035,
+          38.0950738
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-159",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Palermo Forum",
+        "branch": "Palermo Forum",
+        "contact:phone": "+390912763010",
+        "full_address": "Centro Commerciale Palermo Forum - Via Pecoraino, Palermo",
+        "opening_hours": "Lunedì: 12:00 - 16:00 19:00 - 00:00; Martedì: 12:00 - 16:00 19:00 - 00:00; Mercoledì: 12:00 - 16:00 19:00 - 00:00; Giovedì: 12:00 - 16:00 19:00 - 00:00; Venerdì: 12:00 - 16:00 19:00 - 00:00; Sabato: 12:00 - 16:00 19:00 - 00:00; Domenica: 12:00 - 16:00 19:00 - 00:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3130678,
+          45.8877057
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-290",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Palmanova",
+        "branch": "Palmanova",
+        "contact:phone": "+390432238516",
+        "full_address": "Via E. Mattei",
+        "opening_hours": "Lunedì: ; Martedì: ; Mercoledì: ; Giovedì: ; Venerdì: ; Sabato: ; Domenica: ",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.063406299999997,
+          43.8738765
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-158",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Prato",
+        "branch": "Prato",
+        "contact:phone": "+390574056138",
+        "full_address": "Omnia Center Prato - Via delle Pleiadi 16, Prato",
+        "opening_hours": "Lunedì: 12:00 - 15:00 19:00 - 23:00; Martedì: 12:00 - 15:00 19:00 - 23:00; Mercoledì: 12:00 - 15:00 19:00 - 23:00; Giovedì: 12:00 - 15:00 19:00 - 23:00; Venerdì: 12:00 - 15:00 19:00 - 23:00; Sabato: 12:00 - 15:00 19:00 - 23:00; Domenica: 12:00 - 15:00 19:00 - 23:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.58471170000007,
+          44.0644488
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-154",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Rimini",
+        "branch": "Rimini",
+        "contact:phone": "+390541393195",
+        "full_address": "Viale Vespucci 50 - ang.Via Weber, Rimini",
+        "opening_hours": "Lunedì: 12:00 - 24:00; Martedì: 12:00 - 24:00; Mercoledì: 12:00 - 24:00; Giovedì: 12:00 - 24:00; Venerdì: 12:00 - 24:00; Sabato: 12:00 - 24:00; Domenica: 12:00 - 24:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5834291,
+          44.0651752
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-265",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Rimini La Bottega",
+        "branch": "Rimini La Bottega",
+        "contact:phone": "+390541313880",
+        "full_address": "Via Amerigo Vespucci, 91 - Rimini - La Bottega",
+        "opening_hours": "Lunedì: 09:30 - 22:30; Martedì: 09:30 - 22:30; Mercoledì: 09:30 - 22:30; Giovedì: 09:30 - 22:30; Venerdì: 09:30 - 22:30; Sabato: 09:30 - 22:30; Domenica: 09:30 - 22:30",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.661604600000032,
+          41.9142713
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-222",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Roma Est c/o Centro Commerciale",
+        "branch": "Roma Est c/o Centro Commerciale",
+        "contact:phone": "+390622511153",
+        "full_address": "Via Collatina, 858 00132 Roma Est",
+        "opening_hours": "Lunedì: 12:00 - 15:00 19:00 - 22:00; Martedì: 12:00 - 15:00 19:00 - 22:00; Mercoledì: 12:00 - 15:00 19:00 - 22:00; Giovedì: 12:00 - 15:00 19:00 - 22:00; Venerdì: 12:00 - 15:00 19:00 - 22:00; Sabato: 12:00 - 15:00 19:00 - 22:00; Domenica: 12:00 - 15:00 19:00 - 22:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4800855,
+          41.9011769
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-281",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Roma Galleria Sordi",
+        "branch": "Roma Galleria Sordi",
+        "contact:phone": "+390686615265",
+        "full_address": "Piazza Colonna, 1 - 00187",
+        "opening_hours": "Lunedì: 10:00 - 22:00; Martedì: 10:00 - 22:00; Mercoledì: 10:00 - 22:00; Giovedì: 10:00 - 22:00; Venerdì: 10:00 - 22:00; Sabato: 10:00 - 22:00; Domenica: 10:00 - 22:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5025662,
+          41.9015219
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-264",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Roma Termini La Bottega",
+        "branch": "Roma Termini La Bottega",
+        "contact:phone": "+390669301313",
+        "full_address": "Piazza dei Cinquecento, 1 - Roma Termini - La Bottega",
+        "opening_hours": "Lunedì: 06:00 - 21:00; Martedì: 06:00 - 21:00; Mercoledì: 06:00 - 21:00; Giovedì: 06:00 - 21:00; Venerdì: 06:00 - 21:00; Sabato: 06:00 - 21:00; Domenica: 06:00 - 21:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7548212,
+          40.6765141
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-291",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Salerno",
+        "branch": "Salerno",
+        "contact:phone": "+390897013144",
+        "full_address": "P.za della Libertà, 65, 84121 Salerno",
+        "opening_hours": "Lunedì: 19:30 - 00:00; Martedì: 19:30 - 00:00; Mercoledì: 19:30 - 00:00; Giovedì: 19:30 - 00:00; Venerdì: 19:30 - 00:00; Sabato: 12:30 - 15:00 19:30 - 00:00; Domenica: 12:30 - 15:00 19:30 - 00:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.32348300000001,
+          44.855383
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-217",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - San Secondo di Pinerolo",
+        "branch": "San Secondo di Pinerolo",
+        "contact:phone": "+390121041720",
+        "full_address": "Via Val Pellice, 68 - I Glicini Village - San Secondo di Pinerolo",
+        "opening_hours": "Lunedì: 19:30 - 23:00; Martedì: 19:30 - 23:00; Mercoledì: 19:30 - 23:00; Giovedì: 19:30 - 23:00; Venerdì: 19:30 - 23:00; Sabato: 12:30 - 14:30 19:30 - 23:00; Domenica: 12:30 - 14:30 19:30 - 23:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.731375999999955,
+          45.1394059
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-230",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Settimo Torinese",
+        "branch": "Settimo Torinese",
+        "contact:phone": "+39011201991",
+        "full_address": "Settimo Cielo Retail Park - Via NiccolÃ² Paganini - Settimo Torinese",
+        "opening_hours": "Lunedì: 12:00 - 15:00 19:00 - 23:00; Martedì: 12:00 - 15:00 19:00 - 23:00; Mercoledì: 12:00 - 15:00 19:00 - 23:00; Giovedì: 12:00 - 15:00 19:00 - 23:00; Venerdì: 12:00 - 15:00 19:00 - 23:00; Sabato: 12:00 - 15:30 19:00 - 23:30; Domenica: 12:00 - 16:00 19:00 - 23:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6299758,
+          45.6480082
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-261",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Stezzano",
+        "branch": "Stezzano",
+        "contact:phone": "+390357175816",
+        "full_address": "Via Guzzanica, 62/64 - Stezzano - C.C. Le due Torri",
+        "opening_hours": "Lunedì: 10:00 - 15:00 18:00 - 23:00; Martedì: 10:00 - 15:00 18:00 - 23:00; Mercoledì: 10:00 - 15:00 18:00 - 23:00; Giovedì: 10:00 - 15:00 18:00 - 23:00; Venerdì: 10:00 - 15:00 18:00 - 23:00; Sabato: 10:00 - 15:00 18:00 - 23:00; Domenica: 10:00 - 15:00 18:00 - 23:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.645615899999939,
+          45.11186989999999
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-218",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Torino Area 12",
+        "branch": "Torino Area 12",
+        "contact:phone": "+390112488083",
+        "full_address": "Via Druento, 153 - Torino - Area 12",
+        "opening_hours": "Lunedì: 12:00 - 15:00 19:00 - 22:00; Martedì: 12:00 - 15:00 19:00 - 22:00; Mercoledì: 12:00 - 15:00 19:00 - 22:00; Giovedì: 12:00 - 15:00 19:00 - 22:00; Venerdì: 12:00 - 15:00 19:00 - 22:00; Sabato: 12:00 - 15:00 19:00 - 22:00; Domenica: 12:00 - 15:00 19:00 - 22:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.667271700000015,
+          45.03171709999999
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-168",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Torino Lingotto",
+        "branch": "Torino Lingotto",
+        "contact:phone": "+390110437967",
+        "full_address": "Via Nizza 262, Torino - Lingotto",
+        "opening_hours": "Lunedì: 12:00 - 15:30 19:00 - 23:00; Martedì: 12:00 - 15:30 19:00 - 23:00; Mercoledì: 12:00 - 15:30 19:00 - 23:00; Giovedì: 12:00 - 15:30 19:00 - 23:00; Venerdì: 12:00 - 15:30 19:00 - 23:00; Sabato: 12:00 - 15:30 19:00 - 23:30; Domenica: 12:00 - 16:00 19:00 - 23:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.667699999999968,
+          45.08703
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-188",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Torino Parco Dora",
+        "branch": "Torino Parco Dora",
+        "contact:phone": "+39011485959",
+        "full_address": "Via Treviso 42/F, 10144 Torino",
+        "opening_hours": "Lunedì: 12:00 - 15:00 19:00 - 23:00; Martedì: 12:00 - 15:00 19:00 - 23:00; Mercoledì: 12:00 - 15:00 19:00 - 23:00; Giovedì: 12:00 - 15:00 19:00 - 23:00; Venerdì: 12:00 - 15:00 19:00 - 23:00; Sabato: 12:00 - 15:00 19:00 - 23:30; Domenica: 12:00 - 15:00 19:00 - 23:30",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.679154800000001,
+          45.0621745
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-262",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Torino Porta Nuova",
+        "branch": "Torino Porta Nuova",
+        "contact:phone": "+3901119781792",
+        "full_address": "Via Nizza, 2 -  Stazione FS Torino Porta Nuova",
+        "opening_hours": "Lunedì: 11:00 - 22:00; Martedì: 11:00 - 22:00; Mercoledì: 11:00 - 22:00; Giovedì: 11:00 - 22:00; Venerdì: 11:00 - 22:00; Sabato: 11:00 - 22:00; Domenica: 11:00 - 22:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.720560000000001,
+          45.12186
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-280",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Torino to Dream - Urban District",
+        "branch": "Torino to Dream - Urban District",
+        "full_address": "corso Romania, 546",
+        "opening_hours": "",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.761227500000018,
+          45.6464951
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-161",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Trieste",
+        "branch": "Trieste",
+        "contact:phone": "+39040302868",
+        "full_address": "Riva Tommaso Gulli 8, Trieste",
+        "opening_hours": "Lunedì: 12:00 - 15:30 19:00 - 23:00; Martedì: 12:00 - 15:30 19:00 - 23:00; Mercoledì: 12:00 - 15:30 19:00 - 23:00; Giovedì: 12:00 - 15:30 19:00 - 23:00; Venerdì: 12:00 - 15:30 19:00 - 23:00; Sabato: 12:00 - 23:00; Domenica: 12:00 - 23:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3343657,
+          45.4410815
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-295",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Venezia Il Forno",
+        "branch": "Venezia Il Forno",
+        "contact:phone": "+390414177997",
+        "full_address": "Strada Nova, 3942 - 30121 - Venezia",
+        "opening_hours": "Lunedì: 08:00 - 21:00; Martedì: 08:00 - 21:00; Mercoledì: 08:00 - 21:00; Giovedì: 08:00 - 21:00; Venerdì: 08:00 - 22:00; Sabato: 08:00 - 22:00; Domenica: 08:00 - 22:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.339018099999976,
+          45.4350246
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-170",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Venezia San Marco",
+        "branch": "Venezia San Marco",
+        "contact:phone": "+390412438949",
+        "full_address": "Calle larga San Marco 404, Venezia",
+        "opening_hours": "Lunedì: 11:30 - 23:30; Martedì: 11:30 - 23:30; Mercoledì: 11:30 - 23:30; Giovedì: 11:30 - 23:30; Venerdì: 11:30 - 23:30; Sabato: 11:30 - 23:30; Domenica: 11:30 - 23:30",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.321183799999972,
+          45.4413376
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-209",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Venezia Stazione Santa Lucia",
+        "branch": "Venezia Stazione Santa Lucia",
+        "contact:phone": "+39041740797",
+        "full_address": "Fondamenta S.Lucia - Stazione FS - Venezia",
+        "opening_hours": "Lunedì: 11:00 - 22:00; Martedì: 11:00 - 22:00; Mercoledì: 11:00 - 22:00; Giovedì: 11:00 - 22:00; Venerdì: 11:00 - 22:00; Sabato: 11:00 - 22:00; Domenica: 11:00 - 22:00",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.427659,
+          45.8646003
+        ]
+      },
+      "properties": {
+        "id": "rossopomodoro-293",
+        "source": "Rossopomodoro",
+        "amenity": "restaurant",
+        "brand": "Rossopomodoro",
+        "cuisine": "pizza",
+        "name": "Rossopomodoro - Villesse",
+        "branch": "Villesse",
+        "contact:phone": "+39048191051",
+        "full_address": "Località Maranuz, 2, 34070 Villesse",
+        "opening_hours": "Lunedì: 12:00 - 15:00 18:30 - 21:30; Martedì: 12:00 - 15:00 18:30 - 21:30; Mercoledì: 12:00 - 15:00 18:30 - 21:30; Giovedì: 12:00 - 15:00 18:30 - 21:30; Venerdì: 12:00 - 15:00 18:30 - 21:30; Sabato: 12:00 - 21:30; Domenica: 12:00 - 21:30",
+        "_umap_options": {
+          "iconClass": "Circle"
+        }
+      }
+    }
+  ]
+}
